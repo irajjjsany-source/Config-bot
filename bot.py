@@ -121,8 +121,7 @@ def build_stream(q, host):
         s["httpupgradeSettings"] = {"path": path, "host": hh}
     elif net in ("xhttp", "splithttp"):
         s["network"] = "xhttp"
-
-s["xhttpSettings"] = {"path": path, "host": hh, "mode": q.get("mode", "auto")}
+        s["xhttpSettings"] = {"path": path, "host": hh, "mode": q.get("mode", "auto")}
     elif net == "tcp":
         if q.get("headerType") == "http":
             s["tcpSettings"] = {"header": {"type": "http", "request": {
@@ -221,9 +220,7 @@ def test_config(cfg):
     with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False) as f:
         json.dump(conf, f)
         path = f.name
-    proc = subprocess.
-
-Popen([XRAY, "run", "-c", path],
+    proc = subprocess.Popen([XRAY, "run", "-c", path],
                             stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     try:
         t0 = time.time()
@@ -350,8 +347,7 @@ def mode_post():
         r = tg("sendMessage", chat_id=TARGET_CHANNEL, text=build_text(named, ping),
                parse_mode="HTML", disable_web_page_preview="true")
         if r.get("ok"):
-
-posted[item["id"]] = {"cfg": named, "msg": r["result"]["message_id"], "ts": now}
+            posted[item["id"]] = {"cfg": named, "msg": r["result"]["message_id"], "ts": now}
             print("posted, ping", ping)
         else:
             print("send failed:", r.get("description"))
@@ -398,10 +394,8 @@ def mode_clean():
     save_state(st)
 
 
-if name == "__main__":
+if __name__ == "__main__":
     if not BOT_TOKEN:
         sys.exit("BOT_TOKEN is missing (add it in repo Settings > Secrets)")
-    if SOURCE_CHANNELS == ["CHANGE_ME"]:
-        sys.exit("Edit SOURCE_CHANNELS in bot.py first")
     mode = sys.argv[1] if len(sys.argv) > 1 else "post"
     (mode_clean if mode == "clean" else mode_post)()
