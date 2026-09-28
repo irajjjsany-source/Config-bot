@@ -115,12 +115,6 @@
  },
  "queue": [
   {
-   "id": "fa24fa559b34f77b",
-   "cfg": "vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@91.107.191.188:8443?encryption=none&security=tls&sni=host.taghvimtime.ir&alpn=h2&fp=chrome&type=xhttp&mode=auto&host=host.taghvimtime.ir&path=%2FMeh%3Fdi%3D443#🔵@chillguy_vpn",
-   "ping": 326,
-   "ts": 1790625056.7565598
-  },
-  {
    "id": "d8a6d32aea5b6aea",
    "cfg": "vless://b4a433b0-6661-c68d-ad79-1b0b439df694@victoryprovpn-production-e95a.up.railway.app:443?encryption=none&security=tls&sni=victoryprovpn-production-e95a.up.railway.app&alpn=http%2F1.1&fp=ios&type=ws&host=victoryprovpn-production-e95a.up.railway.app&path=%2Fws%2Fb4a433b0-6661-c68d-ad79-1b0b439df694#🔵@chillguy_vpn",
    "ping": 417,
@@ -383,6 +377,11 @@
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 328,
    "ts": 1790625056.7565598
+  },
+  "fa24fa559b34f77b": {
+   "cfg": "vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@91.107.191.188:8443?encryption=none&security=tls&sni=host.taghvimtime.ir&alpn=h2&fp=chrome&type=xhttp&mode=auto&host=host.taghvimtime.ir&path=%2FMeh%3Fdi%3D443#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 329,
+   "ts": 1790625734.6011717
   }
  }
 }
