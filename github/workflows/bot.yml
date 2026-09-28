@@ -1,0 +1,198 @@
+import requests
+import re
+import time
+import socket
+import urllib.parse
+
+# اطلاعات ربات و کانال شما
+BOT_TOKEN = "8782486315:AAF-MU44tFWHTuHgX8oKlKB-xlmqFc7B6dY"
+CHANNEL_ID = "@K2GUARD"
+
+# فقط و فقط کانال مرجع شما
+SOURCE_URL = "https://t.me/s/chillguy_vpn"
+
+CONFIG_PATTERN = r'(vless|vmess|trojan|ss|hy2|hysteria2)://[^\s<"\']+'
+
+def parse_host_port(config):
+    """استخراج آدرس سرور و پورت از لینک کانفیگ"""
+    try:
+        proto, rest = config.split("://", 1)
+        clean_rest = rest.split("#")[0]
+        
+        if "@" in clean_rest:
+            host_port = clean_rest.split("@")[1].split("?")[0]
+        else:
+            host_port = clean_rest.split("?")[0]
+            
+        if ":" in host_port:
+            host, port = host_port.split(":")
+            port = int(re.sub(r'\D', '', port))
+            return host, port
+    except Exception:
+        pass
+    return None, None
+
+def check_tcp_ping(config, timeout=3):
+    """تست زنده بودن پورت و محاسبه پینگ سرور"""
+    host, port = parse_host_port(config)
+    if not host or not port:
+        return False, 0
+    
+    try:
+        start_time = time.time()
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(timeout)
+        result = sock.connect_ex((host, port))
+        end_time = time.time()
+        sock.close()
+        
+        if result == 0:
+            ping_ms = int((end_time - start_time) * 1000)
+            return True, ping_ms
+    except Exception:
+        pass
+    return False, 0
+
+def clean_and_rebrand_config(config):
+    """پاک‌سازی اسم و برندسازی با K2GUARD"""
+    try:
+        base_config = config.split("#")[0] if "#" in config else config
+        new_name = urllib.parse.quote("K2GUARD | کانفیگ اختصاصی")
+        return f"{base_config}#{new_name}"
+    except Exception:
+        return config
+
+def send_to_channel(config_link, ping_ms):
+    # قالب درخواستی شما با لینک‌دار کردن متن خرید اشتراک
+    text = f"""`{config_link}`
+☝🏻ضربه بزن تا کپی بشه ☝🏻
+🛜 کانفیگ ویتوری | V2Ray Configs 
+
+🟢 تست شده، مناسب همه اپراتور‌ها 
+بهترین اپ مورد استفاده V2BOX 
+
+🔵 Online
+🛜 Ping: {ping_ms}ms
+#V2RAY
+#رایگان
+
+[♒ تهیه اشتراک اختصاصی تک لوکیشن و مولتی لوکیشن + تست رایگان](https://t.me/K2guardbot?start=buy)"""
+
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
+    payload = {
+        "chat_id": CHANNEL_ID,
+        "text": text,
+        "parse_mode": "Markdown",
+        "disable_web_page_preview": True
+    }
+    try:
+        res = requests.post(url, json=payload, timeout=10).json()
+        return res.get("ok")
+    except Exception as e:
+        print(f"❌ خطا در ارسال به کانال: {e}")
+        return False
+
+def fetch_latest_configs(limit=10):
+    found_configs = []
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    
+    try:
+        print(f"🔍 در حال دریافت ۱۰ پست آخر از: {SOURCE_URL}")
+        response = requests.get(SOURCE_URL, headers=headers, timeout=12)
+        if response.status_code == 200:
+            matches = re.finditer(CONFIG_PATTERN, response.text, re.IGNORECASE)
+            all_found = [m.group(0) for m in matches]
+            latest_ten = all_found[-limit:] if len(all_found) >= limit else all_found
+            for raw_cfg in latest_ten:
+                formatted_cfg = clean_and_rebrand_config(raw_cfg)
+                found_configs.append(formatted_cfg)
+    except Exception as e:
+        print(f"⚠️ خطا در خواندن سورس: {e}")
+        
+    return list(set(found_configs))
+
+print("🚀 ربات اختصاصی K2GUARD (با قالب شخصی‌سازی‌شده) روشن شد...")
+
+published_configs = set()
+
+while True:
+    try:
+        configs = fetch_latest_configs(limit=10)
+        print(f"📊 {len(configs)} کانفیگ از پست‌های اخیر استخراج شد.")
+        
+        for config in configs:
+            if config not in published_configs:
+                print("⚡ در حال تست پینگ و بررسی سلامت سرور...")
+                is_alive, ping_ms = check_tcp_ping(config)
+                
+                if is_alive:
+                    print(f"✅ کانفیگ سالم است! (Ping: {ping_ms}ms) -> در حال ارسال به کانال...")
+                    if send_to_channel(config, ping_ms):
+
+published_configs.add(config)
+                        print("⏳ ارسال شد. ۵ دقیقه صبر تا کانفیگ بعدی...")
+                        time.sleep(300)
+                else:
+                    print("❌ سرور پاسخ نداد (تست پینگ ناموفق). نادیده گرفته شد.")
+                    published_configs.add(config)
+                    
+        print("😴 بررسی کانال مرجع تمام شد. ۱۰ دقیقه استراحت تا اسکن بعدی...")
+        time.sleep(600)
+    except Exception as e:
+        print(f"❌ خطای غیرمنتظره: {e}")
+        time.sleep(60)
+
+name: config-bot
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+    - cron: "10 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "post یا clean"
+        default: "post"
+
+concurrency:
+  group: config-bot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install xray
+        run: |
+          curl -sL -o x.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          unzip -q x.zip xray
+          chmod +x xray
+          ./xray version | head -1
+
+      - name: Run bot
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          MODE: "${{ github.event.inputs.mode  (github.event.schedule == '10 */6 * * *' && 'clean'  'post') }}"
+        run: python bot.py "$MODE"
+
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "config-bot"
+          git config user.email "config-bot@users.noreply.github.com"
+          git add state.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "update state"
+            git pull --rebase -q || true
+            git push
+          fi
