@@ -133,9 +133,18 @@
   "4262a1071db28b2d": 1790631331.9711313,
   "b601c21b1dda0353": 1790632175.5932944,
   "a7ff4232daa68348": 1790632175.5932944,
-  "006423f53b96a9b0": 1790632951.595096
+  "006423f53b96a9b0": 1790632951.595096,
+  "f5d73628cdfe1ae0": 1790634159.1899562,
+  "a0ee7cc4ea27fe0b": 1790634159.1899562,
+  "0ccbfe4aaae6b364": 1790634159.1899562
  },
  "queue": [
+  {
+   "id": "0ccbfe4aaae6b364",
+   "cfg": "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?security=reality&type=tcp&sni=web.eitaa.com&fp=firefox&flow=xtls-rprx-vision&sid=90ec9bba2019&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no#🔵@chillguy_vpn",
+   "ping": 415,
+   "ts": 1790634159.1899562
+  },
   {
    "id": "4262a1071db28b2d",
    "cfg": "vless://37295fde-89c0-4d4a-83f7-7c0b10877c82@23.88.109.180:8443?security=reality&encryption=none&pbk=di4q1C0xyIKc-UbvkgUExDIwbsJuWipp_V-K-TxpWQ0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7a31c9e4#🔵@chillguy_vpn",
@@ -183,6 +192,12 @@
    "cfg": "vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@185.232.205.66:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sp66.mech-pro.online&sid=16e0f049#🔵@chillguy_vpn",
    "ping": 739,
    "ts": 1790623434.250359
+  },
+  {
+   "id": "f5d73628cdfe1ae0",
+   "cfg": "vless://162ff214-21c8-4963-a80a-6200cbad787e@s8596.paslanmaz.ir:6645?security=reality&encryption=mlkem768x25519plus.native.0rtt.10qBV2GE2iTjpQdazyCqabcwmqEwXRzeYhC5BLjxE3Q&pbk=PLNPsyduvF-5DBmPL0h8YrYbUczxQu7MsLCvTP_4S1o&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=5549d5c40430aa81#🔵@chillguy_vpn",
+   "ping": 773,
+   "ts": 1790634159.1899562
   },
   {
    "id": "241477d5fc7151d5",
@@ -474,6 +489,11 @@
    "cfg": "vless://cbbc93ef-6d35-463a-a856-64265c42e66d@93.190.9.60:3090?type=grpc&mode=multi&serviceName=vless#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 337,
    "ts": 1790632951.595096
+  },
+  "a0ee7cc4ea27fe0b": {
+   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.39.230:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&sni=nvidia.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 338,
+   "ts": 1790634159.1899562
   }
  }
 }
