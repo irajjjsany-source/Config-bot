@@ -140,7 +140,8 @@
   "6eb262cbff29e54d": 1790636523.2398932,
   "3274588609798eb8": 1790636523.2398932,
   "4817f6b7f2715d99": 1790636523.2398932,
-  "05e235d08a7f64cc": 1790637756.590814
+  "05e235d08a7f64cc": 1790637756.590814,
+  "b483d1aa317f3fb4": 1790638542.5294433
  },
  "queue": [
   {
@@ -512,6 +513,11 @@
    "cfg": "vless://3ada8d7b-806e-47e0-9cac-aa35061104ce@64.188.98.179:443?mode=gun&security=reality&encryption=none&pbk=I88bya0Wf4iHIQb19bHZII3UlJ-oWBRbcnzvF0WFKyg&fp=chrome&spx=%2F974725c6b785df8&type=grpc&serviceName=grpc&sni=support-shield.nvidia.no&sid=bf6f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 342,
    "ts": 1790637756.590814
+  },
+  "b483d1aa317f3fb4": {
+   "cfg": "vless://22a375e0-f7c6-4d8f-a154-81189914bbf4@89.105.197.202:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=findmypackets.com&fp=safari&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 343,
+   "ts": 1790638542.5294433
   }
  }
 }
