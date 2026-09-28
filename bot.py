@@ -20,7 +20,7 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
 # ============ تنظیمات (این بخش رو ویرایش کن) ============
-SOURCE_CHANNELS = ["CHANGE_ME"]  # یوزرنیم کانال(های) مرجع، بدون @
+SOURCE_CHANNELS = ["chillguy_vpn"]  # یوزرنیم کانال(های) مرجع، بدون @
 TARGET_CHANNEL = "@k2guard"
 REMARK = "@k2guard  جوین شو 👈🏻"  # اسمی که داخل اپ کنار کانفیگ نمایش داده می‌شه
 BUY_LINK = "https://t.me/K2guardbot?start=buy"
