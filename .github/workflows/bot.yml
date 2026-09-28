@@ -38,8 +38,13 @@ jobs:
       - name: Run bot
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          MODE: "${{ github.event.inputs.mode  (github.event.schedule == '10 */6 * * *' && 'clean'  'post') }}"
-        run: python bot.py "$MODE"
+          INPUT_MODE: ${{ github.event.inputs.mode }}
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          MODE="post"
+          if [ -n "$INPUT_MODE" ]; then MODE="$INPUT_MODE"; fi
+          if [ "$SCHEDULE" = "10 */6 * * *" ]; then MODE="clean"; fi
+          python bot.py "$MODE"
 
       - name: Save state
         if: always()
