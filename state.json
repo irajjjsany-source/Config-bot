@@ -141,15 +141,12 @@
   "3274588609798eb8": 1790636523.2398932,
   "4817f6b7f2715d99": 1790636523.2398932,
   "05e235d08a7f64cc": 1790637756.590814,
-  "b483d1aa317f3fb4": 1790638542.5294433
+  "b483d1aa317f3fb4": 1790638542.5294433,
+  "1a500de747e3b6e1": 1790639376.1362493,
+  "4d75cdb5cca4754f": 1790639376.1362493,
+  "29746edceaf3781c": 1790639376.1362493
  },
  "queue": [
-  {
-   "id": "b9155ce4547a8034",
-   "cfg": "vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 525,
-   "ts": 1790631331.9711313
-  },
   {
    "id": "d5d763840d07b186",
    "cfg": "vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
@@ -197,6 +194,12 @@
    "cfg": "vless://7974c820-9744-44a0-9fee-67292b70e125@79.174.95.96:443?mode=gun&security=reality&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=tVc65Jg20nTeP9qsSd9WIqRjLqU-PWKFYtBYHQbwtyw&fp=firefox&type=grpc&serviceName=grpc&sni=max.ru&sid=a1b2c3d4#🔵@chillguy_vpn",
    "ping": 781,
    "ts": 1790625056.7565598
+  },
+  {
+   "id": "4d75cdb5cca4754f",
+   "cfg": "vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&fp=firefox&type=grpc&serviceName=rex-eb0bf76b710ce763&sni=deepl.com&sid=92c32de179e5d908#🔵@chillguy_vpn",
+   "ping": 850,
+   "ts": 1790639376.1362493
   },
   {
    "id": "0b50e9d453c87fe6",
@@ -518,6 +521,11 @@
    "cfg": "vless://22a375e0-f7c6-4d8f-a154-81189914bbf4@89.105.197.202:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=findmypackets.com&fp=safari&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 343,
    "ts": 1790638542.5294433
+  },
+  "b9155ce4547a8034": {
+   "cfg": "vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 344,
+   "ts": 1790639376.1362493
   }
  }
 }
