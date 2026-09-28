@@ -60,12 +60,6 @@
  },
  "queue": [
   {
-   "id": "212eb2f7b83a01a0",
-   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--V2ray_confiig&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#🔵@chillguy_vpn",
-   "ping": 504,
-   "ts": 1790603675.952185
-  },
-  {
    "id": "21f0af58da7db662",
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.165.180:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🔵@chillguy_vpn",
    "ping": 686,
@@ -210,6 +204,11 @@
    "cfg": "vmess://eyJhZGQiOiAiMTU4LjE2MC4yMTEuMjAwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogImUyNzMzZGJjLTFiYzYtNDgzNS1iOTBhLTQ0NzgwNmY5ZWZjZCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjbiI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjExNTU2IiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
    "msg": 312,
    "ts": 1790608197.2331061
+  },
+  "212eb2f7b83a01a0": {
+   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--V2ray_confiig&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 313,
+   "ts": 1790609252.5805204
   }
  }
 }
