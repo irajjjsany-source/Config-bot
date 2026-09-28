@@ -140,12 +140,6 @@
  },
  "queue": [
   {
-   "id": "0ccbfe4aaae6b364",
-   "cfg": "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?security=reality&type=tcp&sni=web.eitaa.com&fp=firefox&flow=xtls-rprx-vision&sid=90ec9bba2019&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no#🔵@chillguy_vpn",
-   "ping": 415,
-   "ts": 1790634159.1899562
-  },
-  {
    "id": "4262a1071db28b2d",
    "cfg": "vless://37295fde-89c0-4d4a-83f7-7c0b10877c82@23.88.109.180:8443?security=reality&encryption=none&pbk=di4q1C0xyIKc-UbvkgUExDIwbsJuWipp_V-K-TxpWQ0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7a31c9e4#🔵@chillguy_vpn",
    "ping": 513,
@@ -494,6 +488,11 @@
    "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.39.230:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&sni=nvidia.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 338,
    "ts": 1790634159.1899562
+  },
+  "0ccbfe4aaae6b364": {
+   "cfg": "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?security=reality&type=tcp&sni=web.eitaa.com&fp=firefox&flow=xtls-rprx-vision&sid=90ec9bba2019&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 339,
+   "ts": 1790634894.1655486
   }
  }
 }
