@@ -115,12 +115,6 @@
  },
  "queue": [
   {
-   "id": "d8a6d32aea5b6aea",
-   "cfg": "vless://b4a433b0-6661-c68d-ad79-1b0b439df694@victoryprovpn-production-e95a.up.railway.app:443?encryption=none&security=tls&sni=victoryprovpn-production-e95a.up.railway.app&alpn=http%2F1.1&fp=ios&type=ws&host=victoryprovpn-production-e95a.up.railway.app&path=%2Fws%2Fb4a433b0-6661-c68d-ad79-1b0b439df694#🔵@chillguy_vpn",
-   "ping": 417,
-   "ts": 1790625056.7565598
-  },
-  {
    "id": "36834a08906ec99b",
    "cfg": "vmess://eyJhZGQiOiAiMTg2LjE5MC4yMTEuNjciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicGFob2JhYy5vcmciLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicGNzIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJwYWhvYmFjLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
    "ping": 423,
@@ -382,6 +376,11 @@
    "cfg": "vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@91.107.191.188:8443?encryption=none&security=tls&sni=host.taghvimtime.ir&alpn=h2&fp=chrome&type=xhttp&mode=auto&host=host.taghvimtime.ir&path=%2FMeh%3Fdi%3D443#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 329,
    "ts": 1790625734.6011717
+  },
+  "d8a6d32aea5b6aea": {
+   "cfg": "vless://b4a433b0-6661-c68d-ad79-1b0b439df694@victoryprovpn-production-e95a.up.railway.app:443?encryption=none&security=tls&sni=victoryprovpn-production-e95a.up.railway.app&alpn=http%2F1.1&fp=ios&type=ws&host=victoryprovpn-production-e95a.up.railway.app&path=%2Fws%2Fb4a433b0-6661-c68d-ad79-1b0b439df694#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 330,
+   "ts": 1790626972.5170822
   }
  }
 }
