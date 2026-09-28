@@ -111,26 +111,24 @@
   "163f4114722a8ec0": 1790625056.7565598,
   "b2d928b1fd34343f": 1790625056.7565598,
   "fa24fa559b34f77b": 1790625056.7565598,
-  "d8a6d32aea5b6aea": 1790625056.7565598
+  "d8a6d32aea5b6aea": 1790625056.7565598,
+  "dcf8e8f064eb036b": 1790627830.0592828,
+  "cac1a0894eb0d257": 1790627830.0592828,
+  "9a4be4c1f0d47a9a": 1790627830.0592828,
+  "bc1759452835a91b": 1790627830.0592828
  },
  "queue": [
-  {
-   "id": "36834a08906ec99b",
-   "cfg": "vmess://eyJhZGQiOiAiMTg2LjE5MC4yMTEuNjciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicGFob2JhYy5vcmciLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicGNzIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJwYWhvYmFjLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
-   "ping": 423,
-   "ts": 1790622373.4928207
-  },
-  {
-   "id": "513c9c68b69ea12b",
-   "cfg": "vless://7b93e3f1-c5bf-43cd-8fcd-e0e745c92d10@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🔵@chillguy_vpn",
-   "ping": 462,
-   "ts": 1790622373.4928207
-  },
   {
    "id": "2e0c0e1be5a02151",
    "cfg": "vless://ee7a6b7c-dd0d-47af-b1d1-d2c3142f6ed1@91.107.171.67:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oNagnJ8mEObjU09P5weUE88M08DaLIHfUsdEFG3aug0&security=reality&sid=f6&sni=storage.googleapis.com&spx=%2Fuzmii1B0DRopppX&type=tcp#🔵@chillguy_vpn",
    "ping": 465,
    "ts": 1790623434.250359
+  },
+  {
+   "id": "dcf8e8f064eb036b",
+   "cfg": "vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@195.189.98.120:443?encryption=none&security=reality&sni=reg.jarbook.net&fp=firefox&pbk=SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc&sid=085f6d90&type=grpc&authority=&serviceName=BookCatalog&mode=gun#🔵@chillguy_vpn",
+   "ping": 552,
+   "ts": 1790627830.0592828
   },
   {
    "id": "ab55349707ab7478",
@@ -241,6 +239,12 @@
    "ts": 1790622373.4928207
   },
   {
+   "id": "9a4be4c1f0d47a9a",
+   "cfg": "vless://d6962b1a-4701-4456-ba61-deb28c913a66@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 4728,
+   "ts": 1790627830.0592828
+  },
+  {
    "id": "204c89e51d1bbf0e",
    "cfg": "vless://1a64c956-522f-44ea-8e7e-f4a909a40ec5@167.233.182.218:80?path=%2F&security=&encryption=none&type=ws#🔵@chillguy_vpn",
    "ping": 4736,
@@ -263,6 +267,12 @@
    "cfg": "vless://ea188657-750a-4aba-ac58-d6d114047b4d@p2real22.greewebservices.ir:1320?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#🔵@chillguy_vpn",
    "ping": 5372,
    "ts": 1790620999.0120306
+  },
+  {
+   "id": "cac1a0894eb0d257",
+   "cfg": "vless://ea188657-750a-4aba-ac58-d6d114047b4d@p2real33.greewebservices.ir:1330?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🔵@chillguy_vpn",
+   "ping": 5522,
+   "ts": 1790627830.0592828
   },
   {
    "id": "c91b6728e7cb7780",
@@ -381,6 +391,11 @@
    "cfg": "vless://b4a433b0-6661-c68d-ad79-1b0b439df694@victoryprovpn-production-e95a.up.railway.app:443?encryption=none&security=tls&sni=victoryprovpn-production-e95a.up.railway.app&alpn=http%2F1.1&fp=ios&type=ws&host=victoryprovpn-production-e95a.up.railway.app&path=%2Fws%2Fb4a433b0-6661-c68d-ad79-1b0b439df694#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 330,
    "ts": 1790626972.5170822
+  },
+  "513c9c68b69ea12b": {
+   "cfg": "vless://7b93e3f1-c5bf-43cd-8fcd-e0e745c92d10@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 331,
+   "ts": 1790627830.0592828
   }
  }
 }
