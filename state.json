@@ -115,7 +115,10 @@
   "dcf8e8f064eb036b": 1790627830.0592828,
   "cac1a0894eb0d257": 1790627830.0592828,
   "9a4be4c1f0d47a9a": 1790627830.0592828,
-  "bc1759452835a91b": 1790627830.0592828
+  "bc1759452835a91b": 1790627830.0592828,
+  "9fe0020e056f85a7": 1790628726.3427155,
+  "41f4f10e76a3298f": 1790628726.3427155,
+  "1701ae70be5d4064": 1790628726.3427155
  },
  "queue": [
   {
@@ -207,6 +210,12 @@
    "cfg": "vless://05fb2c23-4e23-49e8-be9f-6f931b5716de@188.114.98.0:80?path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&security=&encryption=none&host=msjsi.azazilvpn.sbs.&type=ws#🔵@chillguy_vpn",
    "ping": 1832,
    "ts": 1790623434.250359
+  },
+  {
+   "id": "1701ae70be5d4064",
+   "cfg": "vless://1a64c956-522f-44ea-8e7e-f4a909a40ec5@167.233.182.218:80?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=none&type=ws#🔵@chillguy_vpn",
+   "ping": 2671,
+   "ts": 1790628726.3427155
   },
   {
    "id": "6cfae2561963c181",
@@ -396,6 +405,11 @@
    "cfg": "vless://7b93e3f1-c5bf-43cd-8fcd-e0e745c92d10@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 331,
    "ts": 1790627830.0592828
+  },
+  "41f4f10e76a3298f": {
+   "cfg": "vless://78571e63-1236-4c60-862a-70b7624dfa36@95.85.241.239:443?security=reality&encryption=none&pbk=nf9hAhB_OqveSsgdqqx7EW0FSoT4XNN_EzfD8lXVDVo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=originsw239.aktanow.shop&sid=a1b2c3d4e5f6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 332,
+   "ts": 1790628726.3427155
   }
  }
 }
