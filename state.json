@@ -71,20 +71,35 @@
   "b62d76d08b5e1096": 1790620055.4190187,
   "5f32799ab04e0d74": 1790620055.4190187,
   "9913180a7c967063": 1790620055.4190187,
-  "637ae134122e122d": 1790620055.4190187
+  "637ae134122e122d": 1790620055.4190187,
+  "ac8c8ba2eabd114b": 1790620999.0120306,
+  "80cf23cc4676e622": 1790620999.0120306,
+  "6b7aa65dce921fc5": 1790620999.0120306
  },
  "queue": [
   {
-   "id": "5f32799ab04e0d74",
-   "cfg": "vless://9e3132b8-b595-444a-833a-2de44789f9d7@94.130.178.194:443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#🔵@chillguy_vpn",
-   "ping": 489,
-   "ts": 1790620055.4190187
+   "id": "ac8c8ba2eabd114b",
+   "cfg": "vless://ea188657-750a-4aba-ac58-d6d114047b4d@p2real33.greewebservices.ir:1330?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🔵@chillguy_vpn",
+   "ping": 684,
+   "ts": 1790620999.0120306
   },
   {
    "id": "b62d76d08b5e1096",
    "cfg": "vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@fra.loozerp.wiki:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=fra.loozerp.wiki&type=tcp#🔵@chillguy_vpn",
    "ping": 3876,
    "ts": 1790620055.4190187
+  },
+  {
+   "id": "80cf23cc4676e622",
+   "cfg": "vless://ea188657-750a-4aba-ac58-d6d114047b4d@p2real22.greewebservices.ir:1320?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🔵@chillguy_vpn",
+   "ping": 5370,
+   "ts": 1790620999.0120306
+  },
+  {
+   "id": "6b7aa65dce921fc5",
+   "cfg": "vless://ea188657-750a-4aba-ac58-d6d114047b4d@p2real22.greewebservices.ir:1320?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#🔵@chillguy_vpn",
+   "ping": 5372,
+   "ts": 1790620999.0120306
   }
  ],
  "posted": {
@@ -157,6 +172,11 @@
    "cfg": "vless://9e3132b8-b595-444a-833a-2de44789f9d7@109.122.198.83:8443?encryption=none&security=tls&sni=shephe.dpdns.org&fp=chrome&type=ws&host=shephe.dpdns.org&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 322,
    "ts": 1790620055.4190187
+  },
+  "5f32799ab04e0d74": {
+   "cfg": "vless://9e3132b8-b595-444a-833a-2de44789f9d7@94.130.178.194:443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 323,
+   "ts": 1790620999.0120306
   }
  }
 }
