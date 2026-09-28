@@ -132,15 +132,10 @@
   "e9b1bbabab240f1d": 1790631331.9711313,
   "4262a1071db28b2d": 1790631331.9711313,
   "b601c21b1dda0353": 1790632175.5932944,
-  "a7ff4232daa68348": 1790632175.5932944
+  "a7ff4232daa68348": 1790632175.5932944,
+  "006423f53b96a9b0": 1790632951.595096
  },
  "queue": [
-  {
-   "id": "b601c21b1dda0353",
-   "cfg": "vless://cbbc93ef-6d35-463a-a856-64265c42e66d@93.190.9.60:3090?type=grpc&mode=multi&serviceName=vless#🔵@chillguy_vpn",
-   "ping": 422,
-   "ts": 1790632175.5932944
-  },
   {
    "id": "4262a1071db28b2d",
    "cfg": "vless://37295fde-89c0-4d4a-83f7-7c0b10877c82@23.88.109.180:8443?security=reality&encryption=none&pbk=di4q1C0xyIKc-UbvkgUExDIwbsJuWipp_V-K-TxpWQ0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7a31c9e4#🔵@chillguy_vpn",
@@ -474,6 +469,11 @@
    "cfg": "vmess://eyJhZGQiOiAiMzEuNzcuOC45NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDJkODYwMWItYzE0Yi00MmM2LWI4ZWEtMzM4ODliY2UxNTJhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTEwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
    "msg": 336,
    "ts": 1790632175.5932944
+  },
+  "b601c21b1dda0353": {
+   "cfg": "vless://cbbc93ef-6d35-463a-a856-64265c42e66d@93.190.9.60:3090?type=grpc&mode=multi&serviceName=vless#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 337,
+   "ts": 1790632951.595096
   }
  }
 }
