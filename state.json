@@ -80,16 +80,6 @@
    "msg": 310,
    "ts": 1790606555.254307
   },
-  "378679ecd5c01f60": {
-   "cfg": "vless://162767fb-7f6a-4e09-af6d-0ace18cbb571@tun.zelnora.ir:64584?encryption=mlkem768x25519plus.native.0rtt._xl7rG7-7RPK8CLZH1PaA7dmU6rLYWhTa3YcGonEkVY&security=none&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 311,
-   "ts": 1790607438.1613033
-  },
-  "325decc5b5121bf4": {
-   "cfg": "vmess://eyJhZGQiOiAiMTU4LjE2MC4yMTEuMjAwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogImUyNzMzZGJjLTFiYzYtNDgzNS1iOTBhLTQ0NzgwNmY5ZWZjZCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjbiI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjExNTU2IiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
-   "msg": 312,
-   "ts": 1790608197.2331061
-  },
   "212eb2f7b83a01a0": {
    "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--V2ray_confiig&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 313,
