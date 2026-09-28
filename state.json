@@ -136,9 +136,18 @@
   "006423f53b96a9b0": 1790632951.595096,
   "f5d73628cdfe1ae0": 1790634159.1899562,
   "a0ee7cc4ea27fe0b": 1790634159.1899562,
-  "0ccbfe4aaae6b364": 1790634159.1899562
+  "0ccbfe4aaae6b364": 1790634159.1899562,
+  "6eb262cbff29e54d": 1790636523.2398932,
+  "3274588609798eb8": 1790636523.2398932,
+  "4817f6b7f2715d99": 1790636523.2398932
  },
  "queue": [
+  {
+   "id": "4817f6b7f2715d99",
+   "cfg": "vless://3ada8d7b-806e-47e0-9cac-aa35061104ce@64.188.98.179:443?mode=gun&security=reality&encryption=none&pbk=I88bya0Wf4iHIQb19bHZII3UlJ-oWBRbcnzvF0WFKyg&fp=chrome&spx=%2F974725c6b785df8&type=grpc&serviceName=grpc&sni=support-shield.nvidia.no&sid=bf6f#🔵@chillguy_vpn",
+   "ping": 426,
+   "ts": 1790636523.2398932
+  },
   {
    "id": "b9155ce4547a8034",
    "cfg": "vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
@@ -258,6 +267,12 @@
    "cfg": "vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#🔵@chillguy_vpn",
    "ping": 3304,
    "ts": 1790623434.250359
+  },
+  {
+   "id": "6eb262cbff29e54d",
+   "cfg": "vless://ca5ffe64-81e0-42f0-a136-03cc4f662a4f@94.249.225.106:443?security=reality&encryption=none&pbk=oFuK9Xldbcr064LYxzvc-wGEQpdTs5J3ybFuOXlW0SQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=thnet.krusofiya.fun&sid=8fffb104368e75d5#🔵@chillguy_vpn",
+   "ping": 3373,
+   "ts": 1790636523.2398932
   },
   {
    "id": "1b5fa38e4d83f2ac",
@@ -492,6 +507,11 @@
    "cfg": "vless://37295fde-89c0-4d4a-83f7-7c0b10877c82@23.88.109.180:8443?security=reality&encryption=none&pbk=di4q1C0xyIKc-UbvkgUExDIwbsJuWipp_V-K-TxpWQ0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7a31c9e4#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 340,
    "ts": 1790635748.3600302
+  },
+  "3274588609798eb8": {
+   "cfg": "vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@31.41.33.28:443?security=reality&encryption=none&pbk=LoNdOt7VfAYaPYIIZVqRb8ZkZf1PwKZOiJ93kn5SlTM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.oculon.online&sid=503f1935#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 341,
+   "ts": 1790636523.2398932
   }
  }
 }
