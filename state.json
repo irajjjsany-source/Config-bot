@@ -60,18 +60,6 @@
  },
  "queue": [
   {
-   "id": "6bd213e3845aa8b0",
-   "cfg": "vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#🔵@chillguy_vpn",
-   "ping": 352,
-   "ts": 1790603675.952185
-  },
-  {
-   "id": "ea856a35674312d7",
-   "cfg": "vless://4cbefb4d-328c-411d-bf76-780df1082df8@meow-fin.nethcloud.top:8443?encryption=none&security=reality&sni=wikihow.com&fp=chrome&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&type=xhttp&mode=auto&host=wikihow.com&path=%2F#🔵@chillguy_vpn",
-   "ping": 390,
-   "ts": 1790603675.952185
-  },
-  {
    "id": "378679ecd5c01f60",
    "cfg": "vless://162767fb-7f6a-4e09-af6d-0ace18cbb571@tun.zelnora.ir:64584?encryption=mlkem768x25519plus.native.0rtt._xl7rG7-7RPK8CLZH1PaA7dmU6rLYWhTa3YcGonEkVY&security=none&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 440,
@@ -219,6 +207,11 @@
    "cfg": "vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@fra.loozerp.wiki:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fra.loozerp.wiki&sid=ff776ff77be48b88#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 309,
    "ts": 1790605683.7210917
+  },
+  "ea856a35674312d7": {
+   "cfg": "vless://4cbefb4d-328c-411d-bf76-780df1082df8@meow-fin.nethcloud.top:8443?encryption=none&security=reality&sni=wikihow.com&fp=chrome&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&type=xhttp&mode=auto&host=wikihow.com&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 310,
+   "ts": 1790606555.254307
   }
  }
 }
