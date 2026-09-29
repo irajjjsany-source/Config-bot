@@ -276,7 +276,7 @@ def tg(method, **params):
 
 def build_text(cfg, ping):
     return (
-        "<code>%s</code>\n"
+        "<blockquote expandable><code>%s</code></blockquote>\n"
         "☝🏻ضربه بزن تا کپی بشه ☝🏻\n"
         "🛜 کانفیگ ویتوری | V2Ray Configs \n\n"
         "🟢 تست شده، مناسب همه اپراتور‌ها \n"
