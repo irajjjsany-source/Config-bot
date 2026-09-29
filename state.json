@@ -145,7 +145,9 @@
   "1a500de747e3b6e1": 1790639376.1362493,
   "4d75cdb5cca4754f": 1790639376.1362493,
   "29746edceaf3781c": 1790639376.1362493,
-  "e670ac9b75f64027": 1790644973.2330015
+  "e670ac9b75f64027": 1790644973.2330015,
+  "b9a3ef320fdeaf78": 1790653112.9969766,
+  "72ed58706009ccfa": 1790653112.9969766
  },
  "queue": [],
  "posted": {
@@ -358,6 +360,11 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.247.104:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 355,
    "ts": 1790650207.0997925
+  },
+  "72ed58706009ccfa": {
+   "cfg": "vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@54.251.239.81:26415?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=eC5S3o9uFN6i_YjDjiALCXbc_dzh3kEm2C5zduDGtS8&sid=b7dd999667b0406e&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 356,
+   "ts": 1790653112.9969766
   }
  }
 }
