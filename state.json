@@ -190,12 +190,6 @@
  },
  "queue": [
   {
-   "id": "24f3b11a731b713b",
-   "cfg": "vless://d39a375e-2f51-4d26-8cf4-5b437bbb3c99@89.125.37.143:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&sid=2d6d073dc88f22a8&sni=nordic.global-cdn.org#🔵@chillguy_vpn",
-   "ping": 354,
-   "ts": 1790661802.4190874
-  },
-  {
    "id": "3a902917c6a333ce",
    "cfg": "vless://ad5d6bbf-4717-46ae-bbda-6c0602862d58@singin.qamelia.ir:443?security=reality&encryption=none&pbk=FvRLHp4sb4eXUBRdPir8mb4JtIeqkjqAu4Cd9akGEXE&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=s1.opensuse.org&sid=d02ab098c0054665#🔵@chillguy_vpn",
    "ping": 374,
@@ -521,6 +515,11 @@
    "cfg": "vless://ddef628e-e3a8-43c4-85eb-bd767a5f3b13@104.16.72.101:8880?encryption=none&type=ws&host=autumn-forest-3479.121-488.workers.dev&path=%2Fpyip&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 372,
    "ts": 1790668340.51617
+  },
+  "24f3b11a731b713b": {
+   "cfg": "vless://d39a375e-2f51-4d26-8cf4-5b437bbb3c99@89.125.37.143:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&sid=2d6d073dc88f22a8&sni=nordic.global-cdn.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 373,
+   "ts": 1790669069.7357643
   }
  },
  "geo": {
@@ -548,13 +547,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790668342.334474
+  },
+  "89.125.37.143": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1790669076.5768025
   }
  },
  "stats": {
   "date": "2026-09-29",
   "fetched": 1,
   "healthy": 1,
-  "posted": 5,
+  "posted": 6,
   "removed": 0
  }
 }
