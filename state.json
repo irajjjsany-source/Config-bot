@@ -217,20 +217,32 @@
   "2e11b70e44d315a3": 1790673964.5247574,
   "ba89a62acf63e95e": 1790673964.5247574,
   "20bd216f83ce281b": 1790673964.5247574,
-  "c521000f26709d57": 1790673964.5247574
+  "c521000f26709d57": 1790673964.5247574,
+  "29bdd2421c964622": 1790674799.4314172,
+  "1c1dcead49d1e0c2": 1790674799.4314172,
+  "b9ca38328d2ba7fe": 1790674799.4314172,
+  "32b1c36c1d5aa950": 1790674799.4314172,
+  "d980fa1dda08a830": 1790674799.4314172,
+  "15cc6ea0a501c5ad": 1790674799.4314172
  },
  "queue": [
-  {
-   "id": "5b42d8d5cbc24501",
-   "cfg": "vless://98a7c6c3-9a2c-4ebd-a945-0e979abc9232@31.76.252.118:443?security=reality&encryption=none&pbk=rqxv2mDuaBynNjatS49r8sjoxv3u2EjAWHzKFwF-YTE&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=ir-012.rita-cloud.com&sid=6fa5d699cc6a6b66#🔵@chillguy_vpn",
-   "ping": 277,
-   "ts": 1790672016.040033
-  },
   {
    "id": "98401f35a5943ccf",
    "cfg": "vless://8878cbc9-0e35-408f-be5f-2f8e382042f1@13.143.141.136:443?security=reality&encryption=none&pbk=7C6dU9Qow8H-G65M-6bG5-_TQKlYK6IpPOV_f1-fz1M&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=hrl.booklibrary.sbs&sid=c1e0fca9b587c5c0#🔵@chillguy_vpn",
    "ping": 290,
    "ts": 1790672016.040033
+  },
+  {
+   "id": "15cc6ea0a501c5ad",
+   "cfg": "vless://e8b3f952-cd1b-4881-872e-b8d03399a6df@153.76.185.100:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#🔵@chillguy_vpn",
+   "ping": 301,
+   "ts": 1790674799.4314172
+  },
+  {
+   "id": "d980fa1dda08a830",
+   "cfg": "vless://576b2dd6-f31a-4cc9-acea-54882247d507@5.78.45.230:443?flow=xtls-rprx-vision&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&security=reality&sni=thestraightpath.ca&fp=chrome&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&sid=b684d13617792bb2&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 340,
+   "ts": 1790674799.4314172
   },
   {
    "id": "3c76682147fdf044",
@@ -417,6 +429,18 @@
    "cfg": "vless://2412bd96-925b-43f2-81d1-0ed4f0793699@31.207.7.74:443?security=reality&encryption=none&pbk=RDL0RVmgFM3fdqXRSHBF2A53YF9TPFu2aeJQhMTaY3s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pkg.go.dev&sid=457ae5b8bef4d1b3#🔵@chillguy_vpn",
    "ping": 2695,
    "ts": 1790673964.5247574
+  },
+  {
+   "id": "29bdd2421c964622",
+   "cfg": "vless://46b3a70b-b99f-4c6e-aa83-df6d842bb954@194.58.41.190:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=desc.vpnskyline.com&fp=safari&pbk=ST27DSNtruJFu-pMzV2xA4xH9xjotv9-5D16TsJHE3k&sid=66e1bfda535a&spx=%2F3HCiAsK0VQSABhA&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 2980,
+   "ts": 1790674799.4314172
+  },
+  {
+   "id": "b9ca38328d2ba7fe",
+   "cfg": "vless://576b2dd6-f31a-4cc9-acea-54882247d507@94.183.154.216:1003?flow=xtls-rprx-vision&encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.HqdaNzGwHVgtA5BvCNSeEnkczJ6HN3N7ubRjuZlwXkk&security=reality&sni=www.filimo.com&fp=chrome&pbk=r-Ewj6XI7GKX1TbyRuOCV4o7c00HATiljR-exskeIR0&sid=88f23ad5a4ea1d57&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 7744,
+   "ts": 1790674799.4314172
   }
  ],
  "posted": {
@@ -684,6 +708,11 @@
    "cfg": "vless://2b3a7680-27bc-4530-b123-c930ea504385@45.87.251.229:443?security=reality&encryption=none&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nl-8.khibinyrent.ru&sid=a1b2c3d4#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 378,
    "ts": 1790673964.5247574
+  },
+  "5b42d8d5cbc24501": {
+   "cfg": "vless://98a7c6c3-9a2c-4ebd-a945-0e979abc9232@31.76.252.118:443?security=reality&encryption=none&pbk=rqxv2mDuaBynNjatS49r8sjoxv3u2EjAWHzKFwF-YTE&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=ir-012.rita-cloud.com&sid=6fa5d699cc6a6b66#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 379,
+   "ts": 1790674799.4314172
   }
  },
  "geo": {
@@ -736,13 +765,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1790673969.35718
+  },
+  "31.76.252.118": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1790674809.0203655
   }
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 32,
-  "healthy": 24,
-  "posted": 11,
+  "fetched": 38,
+  "healthy": 28,
+  "posted": 12,
   "removed": 0
  }
 }
