@@ -148,12 +148,6 @@
  },
  "queue": [
   {
-   "id": "d5d763840d07b186",
-   "cfg": "vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 538,
-   "ts": 1790631331.9711313
-  },
-  {
    "id": "e97f492e7ac651eb",
    "cfg": "vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=looazjboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
    "ping": 562,
@@ -526,6 +520,11 @@
    "cfg": "vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 344,
    "ts": 1790639376.1362493
+  },
+  "d5d763840d07b186": {
+   "cfg": "vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 345,
+   "ts": 1790640173.235334
   }
  }
 }
