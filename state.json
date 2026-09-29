@@ -363,12 +363,6 @@
  },
  "queue": [
   {
-   "id": "a59cbeb0496c3c91",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
-   "ping": 550,
-   "ts": 1790715061.378863
-  },
-  {
    "id": "14b9b13a062e1d4c",
    "cfg": "vless://179a88d7-9ddb-4d48-ac6c-0f208cf030bc@p2real22.greewebservices.ir:1320?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🔵@chillguy_vpn",
    "ping": 642,
@@ -405,18 +399,6 @@
    "ts": 1790704305.880594
   },
   {
-   "id": "88199451fc263938",
-   "cfg": "vless://dabb5d60-4ac7-4982-bb01-11502e85b192@fr-emergency-service.relqino.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=fr-emergency-service.relqino.ir&fp=firefox&type=ws&allowInsecure=0&sni=fr-emergency-service.relqino.ir#🔵@chillguy_vpn",
-   "ping": 2071,
-   "ts": 1790697914.113111
-  },
-  {
-   "id": "37b857574659a4a4",
-   "cfg": "vless://dabb5d60-4ac7-4982-bb01-11502e85b192@de-emergency-service.relqino.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=de-emergency-service.relqino.ir&fp=chrome&type=ws&allowInsecure=0&sni=de-emergency-service.relqino.ir#🔵@chillguy_vpn",
-   "ping": 2216,
-   "ts": 1790697914.113111
-  },
-  {
    "id": "0975cdde766dacfb",
    "cfg": "vless://84a3061b-3573-4a3c-a631-f26c31209268@95.215.108.36:443?security=reality&encryption=none&pbk=bDAry75taTMaPJII9vRrJuXAjQglTJxCOVWraQ5BozY&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru-02.vacvps.com#🔵@chillguy_vpn",
    "ping": 2262,
@@ -433,12 +415,6 @@
    "cfg": "vless://f2eada1b-fdec-48c6-8638-18ade32993d4@5.223.41.93:80?path=%2F%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&type=ws#🔵@chillguy_vpn",
    "ping": 2464,
    "ts": 1790709928.6974337
-  },
-  {
-   "id": "e8ea09201e902751",
-   "cfg": "vless://dabb5d60-4ac7-4982-bb01-11502e85b192@uk-emergency-service.relqino.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=uk-emergency-service.relqino.ir&fp=firefox&type=ws&allowInsecure=0&sni=uk-emergency-service.relqino.ir#🔵@chillguy_vpn",
-   "ping": 3649,
-   "ts": 1790697914.113111
   },
   {
    "id": "f85ec14471e1d8a6",
@@ -785,6 +761,11 @@
    "cfg": "vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@89.125.114.9:443?security=reality&encryption=none&pbk=KEoz-uTjqCGwtNakCD-XewbDk_8Vwm_nFv0zg3c2Syg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ozone.nl&sid=67a4fe46bbf783cc#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 430,
    "ts": 1790719335.809347
+  },
+  "a59cbeb0496c3c91": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 431,
+   "ts": 1790720644.1711164
   }
  },
  "geo": {
@@ -1027,13 +1008,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1790719337.382144
+  },
+  "82.39.171.12": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1790720645.666392
   }
  },
  "stats": {
   "date": "2026-09-29",
   "fetched": 174,
   "healthy": 131,
-  "posted": 61,
+  "posted": 62,
   "removed": 45
  }
 }
