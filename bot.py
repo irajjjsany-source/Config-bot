@@ -320,14 +320,14 @@ def build_text(cfg, ping, flag, country):
         "%s"
         "🛜 Ping: %dms\n"
         "#V2RAY\n"
-        "#رایگان"
+        "#رایگان\n\n"
+        "♒ تهیه اشتراک اختصاصی تک لوکیشن و مولتی لوکیشن با ضمانت تا آخرین مگابایت"
     ) % (html.escape(cfg, quote=False), online_line, ping)
 
 
 def buy_button():
     return json.dumps({"inline_keyboard": [[
-        {"text": "🛒 تهیه اشتراک اختصاصی تک لوکیشن و مولتی لوکیشن + تست رایگان",
-         "url": BUY_LINK}]]})
+        {"text": "دریافت اکانت تست رایگان 🛡️ 🇨🇦🇮🇷🇱🇷🇵🇸🇹🇷🇺🇸 🛡️", "url": BUY_LINK}]]})
 
 
 # ---------------- وضعیت ----------------
