@@ -338,54 +338,6 @@
  },
  "queue": [
   {
-   "id": "07b48edb2be1bce1",
-   "cfg": "vless://e7f51062-8c45-4224-841e-5eda0e6855b9@syhshshd1.speedtest-shop.ir:4383?security=reality&encryption=mlkem768x25519plus.native.0rtt.KEZ-pYmuGFQGvx9UdviHN30ZkVoJuSWi42hRs4C8zR8&pbk=fyQC5GrcpEHMJ8gNJ_2prgUQrNDU6i-oIxJLigW4iw4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=59692ca970714615#🔵@chillguy_vpn",
-   "ping": 750,
-   "ts": 1790695674.6246264
-  },
-  {
-   "id": "042275110420b029",
-   "cfg": "vless://c09da06c-ad4a-4bd9-a483-9cb9216a9ea6@de2ht.sublinkplas.ir:15694?security=reality&encryption=none&pbk=BY0QfaqwH2Kv1WUU584R7NHcm4Z1Praq5YuYGrJ1BkM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ajax.googleapis.com&sid=8101b9ba16eb77c7#🔵@chillguy_vpn",
-   "ping": 750,
-   "ts": 1790704305.880594
-  },
-  {
-   "id": "8e09f26eb63a120c",
-   "cfg": "vless://3e35a939-d3e8-4781-8680-3021950b0ed9@65.109.253.202:80?path=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&security=&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 761,
-   "ts": 1790692840.917416
-  },
-  {
-   "id": "8af860e72314e63e",
-   "cfg": "vless://c09da06c-ad4a-4bd9-a483-9cb9216a9ea6@fn2.ht.sublinkplas.ir:15694?security=reality&encryption=none&pbk=BY0QfaqwH2Kv1WUU584R7NHcm4Z1Praq5YuYGrJ1BkM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=ajax.googleapis.com&sid=aa74a7a98e86f2ed#🔵@chillguy_vpn",
-   "ping": 763,
-   "ts": 1790704305.880594
-  },
-  {
-   "id": "a2c19365f93ef457",
-   "cfg": "vless://c09da06c-ad4a-4bd9-a483-9cb9216a9ea6@upes2.plasmoon.ir:443?security=reality&encryption=none&pbk=ASmPIMB25D2LpasCAfuMuNDN3Kv-Dj3bX8THE7YpknE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=0f8938e71c53a6cd#🔵@chillguy_vpn",
-   "ping": 809,
-   "ts": 1790705077.1000206
-  },
-  {
-   "id": "2a08833b09f9541f",
-   "cfg": "vless://c09da06c-ad4a-4bd9-a483-9cb9216a9ea6@de3ht.sublinkplas.ir:15694?security=reality&encryption=none&pbk=BY0QfaqwH2Kv1WUU584R7NHcm4Z1Praq5YuYGrJ1BkM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ajax.googleapis.com&sid=8101b9ba16eb77c7#🔵@chillguy_vpn",
-   "ping": 814,
-   "ts": 1790704305.880594
-  },
-  {
-   "id": "fb19f96741b0ad4f",
-   "cfg": "vless://c09da06c-ad4a-4bd9-a483-9cb9216a9ea6@upnl2.plasmoon.ir:443?security=reality&encryption=none&pbk=ASmPIMB25D2LpasCAfuMuNDN3Kv-Dj3bX8THE7YpknE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=0f8938e71c53a6cd#🔵@chillguy_vpn",
-   "ping": 834,
-   "ts": 1790704305.880594
-  },
-  {
-   "id": "8dd094d32b09a7ff",
-   "cfg": "vless://40f2aa9a-05cc-44aa-bd79-5e973046c062@206.1.99.63:49985?security=reality&encryption=none&pbk=sw1jKj94Ko31_R9VrRAPQZJxoUY9_HRkvEA_-O1q6iE&headerType=&fp=chrome&spx=%2Facf016f7fcf8f80&type=tcp&sni=play.google.com&sid=5f61974010c2#🔵@chillguy_vpn",
-   "ping": 843,
-   "ts": 1790708926.4052906
-  },
-  {
    "id": "6813bd190e3f38e8",
    "cfg": "vless://3ada8d7b-806e-47e0-9cac-aa35061104ce@64.188.98.179:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=I88bya0Wf4iHIQb19bHZII3UlJ-oWBRbcnzvF0WFKyg&fp=chrome&spx=%2F974725c6b785df8&type=grpc&serviceName=grpc&sni=support-shield.nvidia.no&sid=bf6f#🔵@chillguy_vpn",
    "ping": 850,
@@ -752,6 +704,11 @@
    "cfg": "vless://70513150-d637-4328-a0dc-1e7732f9f0a8@5.223.41.31:80?path=%2F&security=&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 420,
    "ts": 1790710664.2644672
+  },
+  "8dd094d32b09a7ff": {
+   "cfg": "vless://40f2aa9a-05cc-44aa-bd79-5e973046c062@206.1.99.63:49985?security=reality&encryption=none&pbk=sw1jKj94Ko31_R9VrRAPQZJxoUY9_HRkvEA_-O1q6iE&headerType=&fp=chrome&spx=%2Facf016f7fcf8f80&type=tcp&sni=play.google.com&sid=5f61974010c2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 421,
+   "ts": 1790711464.833577
   }
  },
  "geo": {
@@ -954,13 +911,18 @@
    "cc": "SG",
    "name": "Singapore",
    "ts": 1790710686.12589
+  },
+  "206.1.99.63": {
+   "cc": "TR",
+   "name": "Türkiye",
+   "ts": 1790711487.6595883
   }
  },
  "stats": {
   "date": "2026-09-29",
   "fetched": 149,
   "healthy": 114,
-  "posted": 51,
+  "posted": 52,
   "removed": 45
  }
 }
