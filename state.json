@@ -334,9 +334,21 @@
   "ca2d4626b0f28650": 1790709928.6974337,
   "3e3df138c03b1e33": 1790709928.6974337,
   "e3e3ac5897356c39": 1790709928.6974337,
-  "f85ec14471e1d8a6": 1790709928.6974337
+  "f85ec14471e1d8a6": 1790709928.6974337,
+  "aff7b9caa80b9a71": 1790712214.902296,
+  "eaf77038f85b14a4": 1790712214.902296,
+  "0738b0129939d563": 1790712214.902296,
+  "6e1b7f3e7e03af30": 1790712214.902296,
+  "5a803bfd6773cadc": 1790712214.902296,
+  "c4843dbe9644172a": 1790712214.902296
  },
  "queue": [
+  {
+   "id": "aff7b9caa80b9a71",
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
+   "ping": 775,
+   "ts": 1790712214.902296
+  },
   {
    "id": "6813bd190e3f38e8",
    "cfg": "vless://3ada8d7b-806e-47e0-9cac-aa35061104ce@64.188.98.179:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=I88bya0Wf4iHIQb19bHZII3UlJ-oWBRbcnzvF0WFKyg&fp=chrome&spx=%2F974725c6b785df8&type=grpc&serviceName=grpc&sni=support-shield.nvidia.no&sid=bf6f#🔵@chillguy_vpn",
@@ -450,6 +462,12 @@
    "cfg": "vless://9cbe24e6-340b-4ff6-8df5-287424de0edd@109.248.162.28:2083?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&pbk=7zJ_mc86Qh4q3fh1Qavf0RhicM_Lto3yaIlP7HPQ5UA&fp=chrome&spx=%2Ff59fc22f24dd00f&type=xhttp&sni=youtubekids.com&sid=08#🔵@chillguy_vpn",
    "ping": 6176,
    "ts": 1790709928.6974337
+  },
+  {
+   "id": "c4843dbe9644172a",
+   "cfg": "vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#🔵@chillguy_vpn",
+   "ping": 6411,
+   "ts": 1790712214.902296
   },
   {
    "id": "1046dc7303f9b21e",
@@ -709,6 +727,11 @@
    "cfg": "vless://40f2aa9a-05cc-44aa-bd79-5e973046c062@206.1.99.63:49985?security=reality&encryption=none&pbk=sw1jKj94Ko31_R9VrRAPQZJxoUY9_HRkvEA_-O1q6iE&headerType=&fp=chrome&spx=%2Facf016f7fcf8f80&type=tcp&sni=play.google.com&sid=5f61974010c2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 421,
    "ts": 1790711464.833577
+  },
+  "eaf77038f85b14a4": {
+   "cfg": "vless://228ecfd3-9bf0-42fd-a50e-581f84022513@89.125.65.110:443?security=reality&encryption=none&pbk=94vM83D04n5QHxwxT-DSY8Q5YqGjMFEHnDVS_M-L2wc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ozone.nl&sid=5d8ec7b1dbc0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 422,
+   "ts": 1790712214.902296
   }
  },
  "geo": {
@@ -920,9 +943,9 @@
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 149,
-  "healthy": 114,
-  "posted": 52,
+  "fetched": 155,
+  "healthy": 117,
+  "posted": 53,
   "removed": 45
  }
 }
