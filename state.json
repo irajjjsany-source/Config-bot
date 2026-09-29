@@ -148,18 +148,6 @@
  },
  "queue": [
   {
-   "id": "6f9c1867e0e89078",
-   "cfg": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🔵@chillguy_vpn",
-   "ping": 634,
-   "ts": 1790622373.4928207
-  },
-  {
-   "id": "ac8c8ba2eabd114b",
-   "cfg": "vless://ea188657-750a-4aba-ac58-d6d114047b4d@p2real33.greewebservices.ir:1330?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🔵@chillguy_vpn",
-   "ping": 684,
-   "ts": 1790620999.0120306
-  },
-  {
    "id": "9c8177dd34b49f1a",
    "cfg": "vless://ea188657-750a-4aba-ac58-d6d114047b4d@p2real33.greewebservices.ir:1330?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#🔵@chillguy_vpn",
    "ping": 722,
@@ -296,18 +284,6 @@
    "cfg": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rusbid.de&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 4762,
    "ts": 1790625056.7565598
-  },
-  {
-   "id": "80cf23cc4676e622",
-   "cfg": "vless://ea188657-750a-4aba-ac58-d6d114047b4d@p2real22.greewebservices.ir:1320?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🔵@chillguy_vpn",
-   "ping": 5370,
-   "ts": 1790620999.0120306
-  },
-  {
-   "id": "6b7aa65dce921fc5",
-   "cfg": "vless://ea188657-750a-4aba-ac58-d6d114047b4d@p2real22.greewebservices.ir:1320?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#🔵@chillguy_vpn",
-   "ping": 5372,
-   "ts": 1790620999.0120306
   },
   {
    "id": "cac1a0894eb0d257",
@@ -493,6 +469,11 @@
    "cfg": "vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=looazjboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 346,
    "ts": 1790641823.7872286
+  },
+  "6f9c1867e0e89078": {
+   "cfg": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 347,
+   "ts": 1790643296.53862
   }
  }
 }
