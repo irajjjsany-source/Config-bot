@@ -324,7 +324,8 @@
   "0e3a56056135128d": 1790706531.1965942,
   "44804f700f4e74bf": 1790706531.1965942,
   "197543b683311611": 1790706531.1965942,
-  "fc32b6207b0c510b": 1790706531.1965942
+  "fc32b6207b0c510b": 1790706531.1965942,
+  "4b11a52620e423e2": 1790708260.6790335
  },
  "queue": [
   {
@@ -448,12 +449,6 @@
    "ts": 1790697914.113111
   },
   {
-   "id": "3bd6e1e3c1bd99f4",
-   "cfg": "vless://22f1ad12-b224-409f-9d0d-0150caee7a90@185.134.200.243:49000?security=reality&encryption=none&pbk=LQypRJXu7PXJqo1ZKfaIgamOjl58R2CtSYUXjroQQw0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=static-r5q1ml4-games.cdn-mirror.net&sid=fdbcfbf9d14832fb#🔵@chillguy_vpn",
-   "ping": 2108,
-   "ts": 1790686594.615906
-  },
-  {
    "id": "37b857574659a4a4",
    "cfg": "vless://dabb5d60-4ac7-4982-bb01-11502e85b192@de-emergency-service.relqino.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=de-emergency-service.relqino.ir&fp=chrome&type=ws&allowInsecure=0&sni=de-emergency-service.relqino.ir#🔵@chillguy_vpn",
    "ping": 2216,
@@ -470,12 +465,6 @@
    "cfg": "vless://1a17b19d-4896-4531-af79-6e91d8ef8228@54.169.72.60:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#🔵@chillguy_vpn",
    "ping": 2588,
    "ts": 1790696528.0780017
-  },
-  {
-   "id": "494439ce6d4e9c78",
-   "cfg": "vless://3e35a939-d3e8-4781-8680-3021950b0ed9@65.109.253.202:80?encryption=none&security=none&type=ws&path=%2F#🔵@chillguy_vpn",
-   "ping": 2647,
-   "ts": 1790686594.615906
   },
   {
    "id": "5e489c4eacf984eb",
@@ -734,6 +723,11 @@
    "cfg": "vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 416,
    "ts": 1790707504.1538775
+  },
+  "4b11a52620e423e2": {
+   "cfg": "vless://92a8cd3e-be1b-45a6-ba7c-c5a30595f05d@2.28.192.133:33925?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 417,
+   "ts": 1790708260.6790335
   }
  },
  "geo": {
@@ -921,13 +915,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790707506.8653367
+  },
+  "2.28.192.133": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790708261.9351592
   }
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 139,
-  "healthy": 104,
-  "posted": 47,
+  "fetched": 140,
+  "healthy": 105,
+  "posted": 48,
   "removed": 45
  }
 }
