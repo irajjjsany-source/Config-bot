@@ -277,12 +277,6 @@
  },
  "queue": [
   {
-   "id": "1aeb99677db1e684",
-   "cfg": "vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#🔵@chillguy_vpn",
-   "ping": 454,
-   "ts": 1790678412.229247
-  },
-  {
    "id": "83168ccf737eef17",
    "cfg": "vless://228ecfd3-9bf0-42fd-a50e-581f84022513@185.244.48.183:8443?security=reality&encryption=none&pbk=XgdHElYEGdc0A5NTZP4uTya2Y4WTKnfFV4ormD7rLx4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.ozone.nl&sid=debb#🔵@chillguy_vpn",
    "ping": 469,
@@ -767,6 +761,11 @@
    "cfg": "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 396,
    "ts": 1790691015.1410196
+  },
+  "1aeb99677db1e684": {
+   "cfg": "vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 398,
+   "ts": 1790692002.9736779
   }
  },
  "geo": {
@@ -889,13 +888,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1790691019.171221
+  },
+  "137.74.16.237": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1790692004.4837086
   }
  },
  "stats": {
   "date": "2026-09-29",
   "fetched": 88,
   "healthy": 67,
-  "posted": 29,
+  "posted": 30,
   "removed": 21
  }
 }
