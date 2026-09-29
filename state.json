@@ -275,12 +275,6 @@
  },
  "queue": [
   {
-   "id": "5d9320083bfd49c3",
-   "cfg": "vless://3e35a939-d3e8-4781-8680-3021950b0ed9@65.109.253.202:80?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 408,
-   "ts": 1790689482.5879622
-  },
-  {
    "id": "4a8acb254aa98fd7",
    "cfg": "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#🔵@chillguy_vpn",
    "ping": 421,
@@ -761,6 +755,11 @@
    "cfg": "vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 394,
    "ts": 1790689482.5879622
+  },
+  "5d9320083bfd49c3": {
+   "cfg": "vless://3e35a939-d3e8-4781-8680-3021950b0ed9@65.109.253.202:80?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 395,
+   "ts": 1790690279.2500317
   }
  },
  "geo": {
@@ -873,13 +872,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1790688579.8222194
+  },
+  "65.109.253.202": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1790690281.368012
   }
  },
  "stats": {
   "date": "2026-09-29",
   "fetched": 86,
   "healthy": 66,
-  "posted": 27,
+  "posted": 28,
   "removed": 21
  }
 }
