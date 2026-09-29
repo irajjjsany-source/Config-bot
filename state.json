@@ -189,18 +189,6 @@
  },
  "queue": [
   {
-   "id": "1767b61ba63e39b3",
-   "cfg": "vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?path=%2F&security=none&encryption=none&host=icy-wildflower-2590.lihuifeng595.workers.dev&type=ws#🔵@chillguy_vpn",
-   "ping": 61,
-   "ts": 1790664477.671767
-  },
-  {
-   "id": "e65a1309d8cdfc87",
-   "cfg": "vless://2fb22d40-598f-4890-85a6-d69928b1fd55@104.16.107.139:8880?encryption=none&type=ws&host=odd-cloud-f2a1.73-12e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#🔵@chillguy_vpn",
-   "ping": 62,
-   "ts": 1790659446.6043875
-  },
-  {
    "id": "c6ae01e605e85ab2",
    "cfg": "vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@172.64.80.1:8880?encryption=none&type=ws&host=young-leaf-a723.162-4da.workers.dev&path=%2Fpyip&security=none#🔵@chillguy_vpn",
    "ping": 66,
@@ -556,6 +544,11 @@
    "cfg": "vless://6d73dc1e-1627-4b16-b471-53e63aa16c78@104.18.36.122:8880?encryption=none&type=ws&host=sweet-truth-ccdb.134-7e9.workers.dev&path=%2F&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 366,
    "ts": 1790665523.368744
+  },
+  "e65a1309d8cdfc87": {
+   "cfg": "vless://2fb22d40-598f-4890-85a6-d69928b1fd55@104.16.107.139:8880?encryption=none&type=ws&host=odd-cloud-f2a1.73-12e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 367,
+   "ts": 1790665615.5929232
   }
  }
 }
