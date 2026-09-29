@@ -149,18 +149,6 @@
  },
  "queue": [
   {
-   "id": "163f4114722a8ec0",
-   "cfg": "vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea&type=grpc&mode=gun&authority=&serviceName=grpc-common3#🔵@chillguy_vpn",
-   "ping": 1001,
-   "ts": 1790625056.7565598
-  },
-  {
-   "id": "1701ae70be5d4064",
-   "cfg": "vless://1a64c956-522f-44ea-8e7e-f4a909a40ec5@167.233.182.218:80?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 2671,
-   "ts": 1790628726.3427155
-  },
-  {
    "id": "6eb262cbff29e54d",
    "cfg": "vless://ca5ffe64-81e0-42f0-a136-03cc4f662a4f@94.249.225.106:443?security=reality&encryption=none&pbk=oFuK9Xldbcr064LYxzvc-wGEQpdTs5J3ybFuOXlW0SQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=thnet.krusofiya.fun&sid=8fffb104368e75d5#🔵@chillguy_vpn",
    "ping": 3373,
@@ -183,12 +171,6 @@
    "cfg": "vless://d6962b1a-4701-4456-ba61-deb28c913a66@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
    "ping": 4728,
    "ts": 1790627830.0592828
-  },
-  {
-   "id": "8c43c9b27479ba9d",
-   "cfg": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rusbid.de&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 4762,
-   "ts": 1790625056.7565598
   },
   {
    "id": "cac1a0894eb0d257",
@@ -393,6 +375,11 @@
    "cfg": "vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&fp=firefox&type=grpc&serviceName=rex-eb0bf76b710ce763&sni=deepl.com&sid=92c32de179e5d908#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 351,
    "ts": 1790646650.989028
+  },
+  "1701ae70be5d4064": {
+   "cfg": "vless://1a64c956-522f-44ea-8e7e-f4a909a40ec5@167.233.182.218:80?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 352,
+   "ts": 1790647349.7067564
   }
  }
 }
