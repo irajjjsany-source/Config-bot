@@ -147,14 +147,7 @@
   "29746edceaf3781c": 1790639376.1362493,
   "e670ac9b75f64027": 1790644973.2330015
  },
- "queue": [
-  {
-   "id": "41690835187997e7",
-   "cfg": "vless://ID%20TEL%20%3A%20V2XNET@199.232.78.101:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=imcreeprddde43e.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 7597,
-   "ts": 1790631331.9711313
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
