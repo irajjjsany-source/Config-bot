@@ -250,21 +250,11 @@
   "a45ab08416b9af46": 1790679784.6831074,
   "2976d802094abc16": 1790681037.9070413,
   "29cfbf10ddbb00e4": 1790681037.9070413,
-  "5e02070537d551a1": 1790681037.9070413
+  "5e02070537d551a1": 1790681037.9070413,
+  "8857fdb858a32a3f": 1790682738.7841587,
+  "bb22d3fbba1648fd": 1790682738.7841587
  },
  "queue": [
-  {
-   "id": "d980fa1dda08a830",
-   "cfg": "vless://576b2dd6-f31a-4cc9-acea-54882247d507@5.78.45.230:443?flow=xtls-rprx-vision&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&security=reality&sni=thestraightpath.ca&fp=chrome&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&sid=b684d13617792bb2&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 340,
-   "ts": 1790674799.4314172
-  },
-  {
-   "id": "3c76682147fdf044",
-   "cfg": "vless://8878cbc9-0e35-408f-be5f-2f8e382042f1@13.143.141.136:443?security=reality&encryption=none&pbk=7C6dU9Qow8H-G65M-6bG5-_TQKlYK6IpPOV_f1-fz1M&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=hrl.booklibrary.sbs&sid=c1e0fca9b587c5c0#🔵@chillguy_vpn",
-   "ping": 348,
-   "ts": 1790673964.5247574
-  },
   {
    "id": "e615a2019bfed087",
    "cfg": "vless://2b3a7680-27bc-4530-b123-c930ea504385@45.87.251.229:443?security=reality&encryption=none&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nl-8.khibinyrent.ru&sid=a1b2c3d4#🔵@chillguy_vpn",
@@ -852,6 +842,11 @@
    "cfg": "vless://XpnTeam-49@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 387,
    "ts": 1790681790.6718495
+  },
+  "3c76682147fdf044": {
+   "cfg": "vless://8878cbc9-0e35-408f-be5f-2f8e382042f1@13.143.141.136:443?security=reality&encryption=none&pbk=7C6dU9Qow8H-G65M-6bG5-_TQKlYK6IpPOV_f1-fz1M&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=hrl.booklibrary.sbs&sid=c1e0fca9b587c5c0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 388,
+   "ts": 1790682738.7841587
   }
  },
  "geo": {
@@ -953,9 +948,9 @@
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 65,
+  "fetched": 67,
   "healthy": 52,
-  "posted": 20,
+  "posted": 21,
   "removed": 0
  }
 }
