@@ -307,18 +307,6 @@
  },
  "queue": [
   {
-   "id": "e3ef1db39d819c86",
-   "cfg": "vless://7c59a119-d02e-4944-8344-b7b138446cc4@portal_s.aitseller.ir:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.OuI4wgW7Aaz9w1LOR8URh_AzR3IvnR1y7DmkBayGJCs&pbk=7EKv-3zTkqhIQLFJ7GfjiKfSC2aYoKd_RG2JGx9gznc&headerType=none&fp=qq&type=tcp&sni=oecd.ai&sid=e6b05cc8816673e3#🔵@chillguy_vpn",
-   "ping": 592,
-   "ts": 1790688574.1725974
-  },
-  {
-   "id": "638430956184cf03",
-   "cfg": "vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.124.217.252:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#🔵@chillguy_vpn",
-   "ping": 636,
-   "ts": 1790689482.5879622
-  },
-  {
    "id": "a00ac8011da357cb",
    "cfg": "vless://7c59a119-d02e-4944-8344-b7b138446cc4@ghj.pexfima.ir:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.OuI4wgW7Aaz9w1LOR8URh_AzR3IvnR1y7DmkBayGJCs&pbk=7EKv-3zTkqhIQLFJ7GfjiKfSC2aYoKd_RG2JGx9gznc&headerType=none&fp=chrome&type=tcp&sni=oecd.ai&sid=e6b05cc8816673e3#🔵@chillguy_vpn",
    "ping": 667,
@@ -748,6 +736,11 @@
    "cfg": "vless://9eb6abc0-8423-4ff6-efb3-7603ddfb9636@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 411,
    "ts": 1790702667.2336705
+  },
+  "638430956184cf03": {
+   "cfg": "vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.124.217.252:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 412,
+   "ts": 1790703439.477266
   }
  },
  "geo": {
@@ -910,13 +903,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790702677.6081033
+  },
+  "13.124.217.252": {
+   "cc": "KR",
+   "name": "South Korea",
+   "ts": 1790703452.0328908
   }
  },
  "stats": {
   "date": "2026-09-29",
   "fetched": 118,
   "healthy": 87,
-  "posted": 42,
+  "posted": 43,
   "removed": 21
  }
 }
