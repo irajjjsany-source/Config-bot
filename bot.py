@@ -31,6 +31,7 @@ WORKERS = 8              # تست‌های همزمان
 MAX_POSTED = 400         # تعداد پست‌هایی که برای حذف پیگیری می‌شن
 SEEN_TTL = 3 * 86400     # کانفیگ دیده‌شده تا ۳ روز دوباره تست نمی‌شه
 QUEUE_TTL = 6 * 3600     # کانفیگ سالمِ منتشرنشده تا ۶ ساعت تو صف می‌مونه
+GEO_TTL = 7 * 86400      # کشور هر سرور تا ۷ روز دوباره لوکیشن‌یابی نمی‌شه
 STATE_FILE = "state.json"
 # ========================================================
 
@@ -82,6 +83,40 @@ def rename(cfg, name):
         raw = json.dumps(o, ensure_ascii=False).encode()
         return "vmess://" + base64.b64encode(raw).decode()
     return cfg.split("#", 1)[0] + "#" + urllib.parse.quote(name)
+
+
+def outbound_host(out):
+    s = out.get("settings", {})
+    if "vnext" in s:
+        return s["vnext"][0]["address"]
+    if "servers" in s:
+        return s["servers"][0]["address"]
+    return ""
+
+
+def country_flag(cc):
+    if not cc or len(cc) != 2 or not cc.isalpha():
+        return ""
+    return "".join(chr(0x1F1E6 + ord(c.upper()) - 65) for c in cc)
+
+
+def lookup_geo(host, geo_cache):
+    """کشور آی‌پی/دامنه رو برمی‌گردونه؛ نتیجه توی state کش می‌شه تا لوکیشن‌یابی زیاد تکرار نشه"""
+    now = time.time()
+    c = geo_cache.get(host)
+    if c and now - c.get("ts", 0) < GEO_TTL:
+        return c.get("cc", ""), c.get("name", "")
+    cc, name = "", ""
+    try:
+        data = json.loads(http_get(
+            "http://ip-api.com/json/%s?fields=status,countryCode,country"
+            % urllib.parse.quote(host)))
+        if data.get("status") == "success":
+            cc, name = data.get("countryCode", ""), data.get("country", "")
+    except Exception as e:
+        print("geo lookup failed:", host, type(e).__name__)
+    geo_cache[host] = {"cc": cc, "name": name, "ts": now}
+    return cc, name
 
 
 # ---------------- دریافت کانفیگ‌ها ----------------
@@ -274,19 +309,25 @@ def tg(method, **params):
         return {"ok": False, "description": type(e).__name__}
 
 
-def build_text(cfg, ping):
+def build_text(cfg, ping, flag, country):
+    online_line = "🔵 Online   %s %s\n" % (flag, country) if flag else "🔵 Online\n"
     return (
         "<blockquote expandable><code>%s</code></blockquote>\n"
         "☝🏻ضربه بزن تا کپی بشه ☝🏻\n"
         "🛜 کانفیگ ویتوری | V2Ray Configs \n\n"
         "🟢 تست شده، مناسب همه اپراتور‌ها \n"
         "بهترین اپ مورد استفاده V2BOX \n\n"
-        "🔵 Online\n"
+        "%s"
         "🛜 Ping: %dms\n"
         "#V2RAY\n"
-        "#رایگان\n\n"
-        '♒ <a href="%s">تهیه اشتراک اختصاصی تک لوکیشن و مولتی لوکیشن + تست رایگان</a>'
-    ) % (html.escape(cfg, quote=False), ping, BUY_LINK)
+        "#رایگان"
+    ) % (html.escape(cfg, quote=False), online_line, ping)
+
+
+def buy_button():
+    return json.dumps({"inline_keyboard": [[
+        {"text": "🛒 تهیه اشتراک اختصاصی تک لوکیشن و مولتی لوکیشن + تست رایگان",
+         "url": BUY_LINK}]]})
 
 
 # ---------------- وضعیت ----------------
@@ -307,11 +348,38 @@ def save_state(st):
         json.dump(st, f, ensure_ascii=False, indent=1)
 
 
+def today_str():
+    return time.strftime("%Y-%m-%d", time.gmtime())
+
+
+def roll_stats(st):
+    """اگه روز عوض شده باشه، آمار دیروز رو پست می‌کنه و شمارنده‌ها رو صفر می‌کنه"""
+    stats = st.setdefault(
+        "stats", {"date": today_str(), "fetched": 0, "healthy": 0, "posted": 0, "removed": 0})
+    today = today_str()
+    if stats["date"] != today:
+        if stats["fetched"] or stats["posted"] or stats["removed"]:
+            text = (
+                "📊 آمار روز %s کانال\n\n"
+                "🔎 کانفیگ بررسی‌شده: %d\n"
+                "🟢 سالم شناسایی‌شده: %d\n"
+                "📮 پست‌شده: %d\n"
+                "🗑 حذف‌شده (خراب شده بودن): %d"
+            ) % (stats["date"], stats["fetched"], stats["healthy"],
+                 stats["posted"], stats["removed"])
+            tg("sendMessage", chat_id=TARGET_CHANNEL, text=text)
+        stats = {"date": today, "fetched": 0, "healthy": 0, "posted": 0, "removed": 0}
+        st["stats"] = stats
+    return stats
+
+
 # ---------------- حالت‌ها ----------------
 def mode_post():
     st = load_state()
     now = time.time()
     seen, queue, posted = st["seen"], st["queue"], st["posted"]
+    geo = st.setdefault("geo", {})
+    stats = roll_stats(st)
 
     for k in [k for k, v in seen.items() if now - v > SEEN_TTL]:
         del seen[k]
@@ -324,6 +392,7 @@ def mode_post():
         if i not in seen and i not in posted and i not in new:
             new[i] = c
     print("fetched %d configs, %d new" % (len(cfgs), len(new)))
+    stats["fetched"] += len(new)
 
     if new:
         items = list(new.items())
@@ -331,6 +400,7 @@ def mode_post():
             seen[i] = now
             if ping:
                 queue.append({"id": i, "cfg": c, "ping": ping, "ts": now})
+                stats["healthy"] += 1
         print("healthy in queue:", len(queue))
 
     queue.sort(key=lambda x: x["ping"])
@@ -343,11 +413,19 @@ def mode_post():
         if not ping:
             print("queued config died, dropped")
             continue
+        try:
+            host = outbound_host(build_outbound(item["cfg"]))
+            cc, country = lookup_geo(host, geo) if host else ("", "")
+        except Exception:
+            cc, country = "", ""
         named = rename(item["cfg"], REMARK)
-        r = tg("sendMessage", chat_id=TARGET_CHANNEL, text=build_text(named, ping),
-               parse_mode="HTML", disable_web_page_preview="true")
+        r = tg("sendMessage", chat_id=TARGET_CHANNEL,
+               text=build_text(named, ping, country_flag(cc), country),
+               parse_mode="HTML", disable_web_page_preview="true",
+               reply_markup=buy_button())
         if r.get("ok"):
             posted[item["id"]] = {"cfg": named, "msg": r["result"]["message_id"], "ts": now}
+            stats["posted"] += 1
             print("posted, ping", ping)
         else:
             print("send failed:", r.get("description"))
@@ -364,10 +442,12 @@ def mode_post():
 
 def mode_clean():
     st = load_state()
+    stats = roll_stats(st)
     posted = st["posted"]
     items = list(posted.items())
     if not items:
         print("nothing to check")
+        save_state(st)
         return
     res = test_many([v["cfg"] for _, v in items])
     bad = [i for (i, _), p in zip(items, res) if not p]
@@ -375,6 +455,7 @@ def mode_clean():
     # اگه تقریباً همه خراب بودن، احتمالاً مشکل از خود تست بوده؛ چیزی پاک نکن
     if len(items) >= 5 and len(bad) > 0.8 * len(items):
         print("too many failures, test environment suspected; skipping deletion")
+        save_state(st)
         return
     if bad:
         time.sleep(120)  # تست دوم برای اطمینان
@@ -389,6 +470,7 @@ def mode_clean():
                    text="⛔️ این کانفیگ منقضی شد")
         if r.get("ok"):
             del posted[i]
+            stats["removed"] += 1
         time.sleep(0.5)
     print("removed", len(bad))
     save_state(st)
