@@ -305,12 +305,6 @@
  },
  "queue": [
   {
-   "id": "cb3f5c4cc3f9f96d",
-   "cfg": "vless://228ecfd3-9bf0-42fd-a50e-581f84022513@89.125.65.110:443?flow=xtls-rprx-vision&sid=5d8ec7b1dbc0&pbk=94vM83D04n5QHxwxT-DSY8Q5YqGjMFEHnDVS_M-L2wc&sni=ozone.nl&type=tcp&encryption=none&security=reality&headerType=none#🔵@chillguy_vpn",
-   "ping": 304,
-   "ts": 1790700924.2897856
-  },
-  {
    "id": "de29c84d79ad8c7d",
    "cfg": "vless://9eb6abc0-8423-4ff6-efb3-7603ddfb9636@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#🔵@chillguy_vpn",
    "ping": 576,
@@ -766,6 +760,11 @@
    "cfg": "vless://554152b4-7819-4e3b-9971-74d6fd8b3975@146.19.130.192:57890?security=&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 409,
    "ts": 1790700924.2897856
+  },
+  "cb3f5c4cc3f9f96d": {
+   "cfg": "vless://228ecfd3-9bf0-42fd-a50e-581f84022513@89.125.65.110:443?flow=xtls-rprx-vision&sid=5d8ec7b1dbc0&pbk=94vM83D04n5QHxwxT-DSY8Q5YqGjMFEHnDVS_M-L2wc&sni=ozone.nl&type=tcp&encryption=none&security=reality&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 410,
+   "ts": 1790701430.5911663
   }
  },
  "geo": {
@@ -918,13 +917,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1790697924.3454897
+  },
+  "89.125.65.110": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1790701431.9839838
   }
  },
  "stats": {
   "date": "2026-09-29",
   "fetched": 116,
   "healthy": 87,
-  "posted": 40,
+  "posted": 41,
   "removed": 21
  }
 }
