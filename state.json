@@ -357,12 +357,6 @@
  },
  "queue": [
   {
-   "id": "7551e0d345dae7a4",
-   "cfg": "vless://6e58f644-bc22-4dae-824a-4c3a760dc7a1@144.31.122.33:2053?security=reality&encryption=none&pbk=YfO61P-1nE3eQlo_QOYbSlrYpQto89TFVD2B3T_V30Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tripadvisor.com&sid=f5a2972048210937#🔵@chillguy_vpn",
-   "ping": 357,
-   "ts": 1790715061.378863
-  },
-  {
    "id": "4fc661207dbd457d",
    "cfg": "vless://79f0aac8-656a-435b-b092-c973a3f85e02@BatManAli.Savfasf.ir:41432?security=none&encryption=none&host=play-apps-features.googleus&headerType=none&type=tcp#🔵@chillguy_vpn",
    "ping": 416,
@@ -802,6 +796,11 @@
    "cfg": "vless://550a69ec-fec1-4eca-b939-4ee076875fa8@113.30.154.65:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=sellflow.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 425,
    "ts": 1790715061.378863
+  },
+  "7551e0d345dae7a4": {
+   "cfg": "vless://6e58f644-bc22-4dae-824a-4c3a760dc7a1@144.31.122.33:2053?security=reality&encryption=none&pbk=YfO61P-1nE3eQlo_QOYbSlrYpQto89TFVD2B3T_V30Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tripadvisor.com&sid=f5a2972048210937#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 426,
+   "ts": 1790715758.4010942
   }
  },
  "geo": {
@@ -1019,13 +1018,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1790715068.3126807
+  },
+  "144.31.122.33": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1790715759.7537067
   }
  },
  "stats": {
   "date": "2026-09-29",
   "fetched": 168,
   "healthy": 128,
-  "posted": 56,
+  "posted": 57,
   "removed": 45
  }
 }
