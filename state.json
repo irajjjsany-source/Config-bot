@@ -340,7 +340,13 @@
   "0738b0129939d563": 1790712214.902296,
   "6e1b7f3e7e03af30": 1790712214.902296,
   "5a803bfd6773cadc": 1790712214.902296,
-  "c4843dbe9644172a": 1790712214.902296
+  "c4843dbe9644172a": 1790712214.902296,
+  "d67ad02825d580a8": 1790713547.1310308,
+  "4e4a1f66b12dcfeb": 1790713547.1310308,
+  "a9c97a9bc8efcf3a": 1790713547.1310308,
+  "fc1934b0d9c181d2": 1790713547.1310308,
+  "dfa46013ffad2c8d": 1790713547.1310308,
+  "e4405192ed13cd80": 1790713547.1310308
  },
  "queue": [
   {
@@ -384,12 +390,6 @@
    "cfg": "vless://84a3061b-3573-4a3c-a631-f26c31209268@95.215.108.36:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ru-02.vacvps.com&fp=firefox&pbk=bDAry75taTMaPJII9vRrJuXAjQglTJxCOVWraQ5BozY&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 1442,
    "ts": 1790699264.334515
-  },
-  {
-   "id": "d96cdb76f90c36f3",
-   "cfg": "vless://6ba68c69-e108-502d-7b1c-e806fbc3cccd@fr.hosting-96.ir:4433?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.A1jcdie8cN-NNIxTTGYdg73QZRTfu2kYvqwEsQGeqT8&host=amd.com&type=ws#🔵@chillguy_vpn",
-   "ping": 1507,
-   "ts": 1790691015.1410196
   },
   {
    "id": "4ff0330bfc16343e",
@@ -458,6 +458,12 @@
    "ts": 1790696528.0780017
   },
   {
+   "id": "fc1934b0d9c181d2",
+   "cfg": "vless://228ecfd3-9bf0-42fd-a50e-581f84022513@89.125.65.110:443?security=reality&encryption=none&pbk=94vM83D04n5QHxwxT-DSY8Q5YqGjMFEHnDVS_M-L2wc&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ozone.nl&sid=5d8ec7b1dbc0#🔵@chillguy_vpn",
+   "ping": 5538,
+   "ts": 1790713547.1310308
+  },
+  {
    "id": "e3e3ac5897356c39",
    "cfg": "vless://9cbe24e6-340b-4ff6-8df5-287424de0edd@109.248.162.28:2083?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&pbk=7zJ_mc86Qh4q3fh1Qavf0RhicM_Lto3yaIlP7HPQ5UA&fp=chrome&spx=%2Ff59fc22f24dd00f&type=xhttp&sni=youtubekids.com&sid=08#🔵@chillguy_vpn",
    "ping": 6176,
@@ -468,6 +474,18 @@
    "cfg": "vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#🔵@chillguy_vpn",
    "ping": 6411,
    "ts": 1790712214.902296
+  },
+  {
+   "id": "a9c97a9bc8efcf3a",
+   "cfg": "vless://%58pnTeam-50@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 7336,
+   "ts": 1790713547.1310308
+  },
+  {
+   "id": "4e4a1f66b12dcfeb",
+   "cfg": "vless://%58pnTeam-51@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 7341,
+   "ts": 1790713547.1310308
   },
   {
    "id": "1046dc7303f9b21e",
@@ -732,6 +750,11 @@
    "cfg": "vless://228ecfd3-9bf0-42fd-a50e-581f84022513@89.125.65.110:443?security=reality&encryption=none&pbk=94vM83D04n5QHxwxT-DSY8Q5YqGjMFEHnDVS_M-L2wc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ozone.nl&sid=5d8ec7b1dbc0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 422,
    "ts": 1790712214.902296
+  },
+  "d67ad02825d580a8": {
+   "cfg": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 423,
+   "ts": 1790713547.1310308
   }
  },
  "geo": {
@@ -943,9 +966,9 @@
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 155,
-  "healthy": 117,
-  "posted": 53,
+  "fetched": 161,
+  "healthy": 121,
+  "posted": 54,
   "removed": 45
  }
 }
