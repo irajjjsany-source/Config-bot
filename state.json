@@ -179,7 +179,10 @@
   "48632ef7f6545b0e": 1790663397.6970499,
   "e4ee9b20ad8e6dff": 1790663397.6970499,
   "fd48ffcccac66ddd": 1790663397.6970499,
-  "8d587a5ae9110619": 1790663397.6970499
+  "8d587a5ae9110619": 1790663397.6970499,
+  "b7a8ea8995402e3a": 1790664477.671767,
+  "1767b61ba63e39b3": 1790664477.671767,
+  "eb8b7dcecf2723f9": 1790664477.671767
  },
  "queue": [
   {
@@ -193,6 +196,12 @@
    "cfg": "vless://6d73dc1e-1627-4b16-b471-53e63aa16c78@104.18.36.122:8880?encryption=none&type=ws&host=sweet-truth-ccdb.134-7e9.workers.dev&path=%2F&security=none#🔵@chillguy_vpn",
    "ping": 56,
    "ts": 1790659446.6043875
+  },
+  {
+   "id": "1767b61ba63e39b3",
+   "cfg": "vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?path=%2F&security=none&encryption=none&host=icy-wildflower-2590.lihuifeng595.workers.dev&type=ws#🔵@chillguy_vpn",
+   "ping": 61,
+   "ts": 1790664477.671767
   },
   {
    "id": "e65a1309d8cdfc87",
@@ -241,6 +250,12 @@
    "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.249.109:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=nvidia.com&type=tcp#🔵@chillguy_vpn",
    "ping": 280,
    "ts": 1790661802.4190874
+  },
+  {
+   "id": "b7a8ea8995402e3a",
+   "cfg": "vless://c4e6cb77-ab66-42ef-be33-6b791fe604a0@93.123.84.223:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uOp9IW69PEn-toNzDs9IlCs8sdsMYm4XXjiPerrj41k&sni=www.apple.com#🔵@chillguy_vpn",
+   "ping": 294,
+   "ts": 1790664477.671767
   },
   {
    "id": "3ceed8eb652e7eb7",
@@ -522,6 +537,11 @@
    "cfg": "vless://8c9be850-32a0-4cc1-809b-4a5161413a90@172.67.179.98:8880?&security=false&fp=chrome&type=ws&headerType=none&host=sparkling-frog-59e1.256-d4e.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 364,
    "ts": 1790663397.6970499
+  },
+  "eb8b7dcecf2723f9": {
+   "cfg": "vless://d33cc776-9c57-4ea3-8c5a-6d85043029d7@104.26.13.23:8880?type=ws&host=shiny-flower-c72d.105-161.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 365,
+   "ts": 1790664477.671767
   }
  }
 }
