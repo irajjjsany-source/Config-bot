@@ -271,15 +271,11 @@
   "ac8a68c201a3e7a1": 1790689482.5879622,
   "5d9320083bfd49c3": 1790689482.5879622,
   "638430956184cf03": 1790689482.5879622,
-  "c37a449ae034ba2a": 1790689482.5879622
+  "c37a449ae034ba2a": 1790689482.5879622,
+  "5eef027cad7a4bf9": 1790691015.1410196,
+  "d96cdb76f90c36f3": 1790691015.1410196
  },
  "queue": [
-  {
-   "id": "4a8acb254aa98fd7",
-   "cfg": "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#🔵@chillguy_vpn",
-   "ping": 421,
-   "ts": 1790670415.6544733
-  },
   {
    "id": "1aeb99677db1e684",
    "cfg": "vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#🔵@chillguy_vpn",
@@ -441,6 +437,12 @@
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
    "ping": 1450,
    "ts": 1790677575.7409556
+  },
+  {
+   "id": "d96cdb76f90c36f3",
+   "cfg": "vless://6ba68c69-e108-502d-7b1c-e806fbc3cccd@fr.hosting-96.ir:4433?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.A1jcdie8cN-NNIxTTGYdg73QZRTfu2kYvqwEsQGeqT8&host=amd.com&type=ws#🔵@chillguy_vpn",
+   "ping": 1507,
+   "ts": 1790691015.1410196
   },
   {
    "id": "20bd216f83ce281b",
@@ -760,6 +762,11 @@
    "cfg": "vless://3e35a939-d3e8-4781-8680-3021950b0ed9@65.109.253.202:80?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 395,
    "ts": 1790690279.2500317
+  },
+  "4a8acb254aa98fd7": {
+   "cfg": "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 396,
+   "ts": 1790691015.1410196
   }
  },
  "geo": {
@@ -877,13 +884,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1790690281.368012
+  },
+  "65.109.28.164": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1790691019.171221
   }
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 86,
-  "healthy": 66,
-  "posted": 28,
+  "fetched": 88,
+  "healthy": 67,
+  "posted": 29,
   "removed": 21
  }
 }
