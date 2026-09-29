@@ -165,15 +165,10 @@
   "a38781e9021806e3": 1790659446.6043875,
   "99e9ae7f86bf71d9": 1790659446.6043875,
   "9fdb8eba0972e161": 1790659446.6043875,
-  "e92395b20a11df4a": 1790659446.6043875
+  "e92395b20a11df4a": 1790659446.6043875,
+  "28846c39d7bf43fe": 1790660231.5097253
  },
  "queue": [
-  {
-   "id": "312a3e710786b949",
-   "cfg": "vless://bf380279-cbd5-4e55-96d1-f5a652aaf6b3@104.16.107.139:8880?encryption=none&type=ws&host=mute-dust-f0c4.456-8ae.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#🔵@chillguy_vpn",
-   "ping": 48,
-   "ts": 1790659446.6043875
-  },
   {
    "id": "2c39748e255e570b",
    "cfg": "vless://4af06e6a-63ae-43c1-83c0-f8f613aef263@104.18.13.229:8880?encryption=none&type=ws&host=withered-sea-c187.445-608.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none#🔵@chillguy_vpn",
@@ -221,6 +216,12 @@
    "cfg": "vless://b4a16091-a25d-4d33-aee3-f5ae04f34b14@172.67.151.243:2086?encryption=none&type=ws&host=blue-brook-cc73.karren391.workers.dev&path=%2FeyJqdW5rIjoiRjJEdlF3U251aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTEzLjE1OCIsIjEwMy45Ny44OC4xMzMiLCIxOTQuMTgwLjE4OC4yNDEiLCIxMTYuMjAyLjEzMi4yMDUiXX0&security=none#🔵@chillguy_vpn",
    "ping": 85,
    "ts": 1790659446.6043875
+  },
+  {
+   "id": "28846c39d7bf43fe",
+   "cfg": "vless://1742863c-ce4b-4bb7-b807-80da29cbec86@172.67.209.127:8880?encryption=none&type=ws&host=icy-fog-9a41.70-a39.workers.dev&path=%2F&security=none#🔵@chillguy_vpn",
+   "ping": 124,
+   "ts": 1790660231.5097253
   },
   {
    "id": "7e3ce9efe961be01",
@@ -488,6 +489,11 @@
    "cfg": "vless://8d36dcef-c008-47f1-b8a0-4f63193697f8@104.16.100.215:8880?encryption=none&type=ws&host=tiny-union-8d4d.32-c76.workers.dev&path=%2Fpyip%3Dte%393%C7%AA&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 360,
    "ts": 1790659446.6043875
+  },
+  "312a3e710786b949": {
+   "cfg": "vless://bf380279-cbd5-4e55-96d1-f5a652aaf6b3@104.16.107.139:8880?encryption=none&type=ws&host=mute-dust-f0c4.456-8ae.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 361,
+   "ts": 1790660231.5097253
   }
  }
 }
