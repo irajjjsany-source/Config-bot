@@ -288,15 +288,15 @@
   "32fbb0e9c645020e": 1790696528.0780017,
   "dc9c3cbe32f52de8": 1790696528.0780017,
   "eb90e64bd89f4f65": 1790697325.8587756,
-  "a1f2eb683c9e6f07": 1790697325.8587756
+  "a1f2eb683c9e6f07": 1790697325.8587756,
+  "37b857574659a4a4": 1790697914.113111,
+  "34b94d925cded545": 1790697914.113111,
+  "e8ea09201e902751": 1790697914.113111,
+  "88199451fc263938": 1790697914.113111,
+  "e10c2dae35aa61d7": 1790697914.113111,
+  "3eb87a005ecdf90d": 1790697914.113111
  },
  "queue": [
-  {
-   "id": "8a6f88dfb13c2562",
-   "cfg": "vless://%58pnTeam-48@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 504,
-   "ts": 1790679784.6831074
-  },
   {
    "id": "a45ab08416b9af46",
    "cfg": "vless://%58pnTeam-49@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
@@ -418,10 +418,22 @@
    "ts": 1790691015.1410196
   },
   {
+   "id": "88199451fc263938",
+   "cfg": "vless://dabb5d60-4ac7-4982-bb01-11502e85b192@fr-emergency-service.relqino.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=fr-emergency-service.relqino.ir&fp=firefox&type=ws&allowInsecure=0&sni=fr-emergency-service.relqino.ir#🔵@chillguy_vpn",
+   "ping": 2071,
+   "ts": 1790697914.113111
+  },
+  {
    "id": "3bd6e1e3c1bd99f4",
    "cfg": "vless://22f1ad12-b224-409f-9d0d-0150caee7a90@185.134.200.243:49000?security=reality&encryption=none&pbk=LQypRJXu7PXJqo1ZKfaIgamOjl58R2CtSYUXjroQQw0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=static-r5q1ml4-games.cdn-mirror.net&sid=fdbcfbf9d14832fb#🔵@chillguy_vpn",
    "ping": 2108,
    "ts": 1790686594.615906
+  },
+  {
+   "id": "37b857574659a4a4",
+   "cfg": "vless://dabb5d60-4ac7-4982-bb01-11502e85b192@de-emergency-service.relqino.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=de-emergency-service.relqino.ir&fp=chrome&type=ws&allowInsecure=0&sni=de-emergency-service.relqino.ir#🔵@chillguy_vpn",
+   "ping": 2216,
+   "ts": 1790697914.113111
   },
   {
    "id": "c0844bbf06646483",
@@ -446,6 +458,12 @@
    "cfg": "vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?path=%2F&security=&encryption=none&type=ws#🔵@chillguy_vpn",
    "ping": 3071,
    "ts": 1790696528.0780017
+  },
+  {
+   "id": "e8ea09201e902751",
+   "cfg": "vless://dabb5d60-4ac7-4982-bb01-11502e85b192@uk-emergency-service.relqino.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=uk-emergency-service.relqino.ir&fp=firefox&type=ws&allowInsecure=0&sni=uk-emergency-service.relqino.ir#🔵@chillguy_vpn",
+   "ping": 3649,
+   "ts": 1790697914.113111
   },
   {
    "id": "29cfbf10ddbb00e4",
@@ -769,6 +787,11 @@
    "cfg": "vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?encryption=none&type=ws&path=/&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 405,
    "ts": 1790697325.8587756
+  },
+  "8a6f88dfb13c2562": {
+   "cfg": "vless://%58pnTeam-48@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 406,
+   "ts": 1790697914.113111
   }
  },
  "geo": {
@@ -916,13 +939,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1790696537.0415921
+  },
+  "199.232.78.170": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790697924.3454897
   }
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 103,
-  "healthy": 80,
-  "posted": 36,
+  "fetched": 109,
+  "healthy": 83,
+  "posted": 37,
   "removed": 21
  }
 }
