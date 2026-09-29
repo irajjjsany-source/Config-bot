@@ -170,12 +170,6 @@
  },
  "queue": [
   {
-   "id": "2c39748e255e570b",
-   "cfg": "vless://4af06e6a-63ae-43c1-83c0-f8f613aef263@104.18.13.229:8880?encryption=none&type=ws&host=withered-sea-c187.445-608.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none#🔵@chillguy_vpn",
-   "ping": 51,
-   "ts": 1790659446.6043875
-  },
-  {
    "id": "a38781e9021806e3",
    "cfg": "vless://8c9be850-32a0-4cc1-809b-4a5161413a90@172.67.179.98:8880?&security=false&fp=chrome&type=ws&headerType=none&host=sparkling-frog-59e1.256-d4e.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🔵@chillguy_vpn",
    "ping": 52,
@@ -494,6 +488,11 @@
    "cfg": "vless://bf380279-cbd5-4e55-96d1-f5a652aaf6b3@104.16.107.139:8880?encryption=none&type=ws&host=mute-dust-f0c4.456-8ae.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 361,
    "ts": 1790660231.5097253
+  },
+  "2c39748e255e570b": {
+   "cfg": "vless://4af06e6a-63ae-43c1-83c0-f8f613aef263@104.18.13.229:8880?encryption=none&type=ws&host=withered-sea-c187.445-608.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 362,
+   "ts": 1790661087.6571527
   }
  }
 }
