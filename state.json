@@ -363,12 +363,6 @@
  },
  "queue": [
   {
-   "id": "4fc661207dbd457d",
-   "cfg": "vless://79f0aac8-656a-435b-b092-c973a3f85e02@BatManAli.Savfasf.ir:41432?security=none&encryption=none&host=play-apps-features.googleus&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 416,
-   "ts": 1790715061.378863
-  },
-  {
    "id": "c61f304387b0af42",
    "cfg": "vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@89.125.114.9:443?security=reality&encryption=none&pbk=KEoz-uTjqCGwtNakCD-XewbDk_8Vwm_nFv0zg3c2Syg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ozone.nl&sid=67a4fe46bbf783cc#🔵@chillguy_vpn",
    "ping": 537,
@@ -459,18 +453,6 @@
    "ts": 1790709928.6974337
   },
   {
-   "id": "dd7929d1b586b8a6",
-   "cfg": "vless://1a17b19d-4896-4531-af79-6e91d8ef8228@54.169.72.60:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#🔵@chillguy_vpn",
-   "ping": 2588,
-   "ts": 1790696528.0780017
-  },
-  {
-   "id": "5e489c4eacf984eb",
-   "cfg": "vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?path=%2F&security=&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 3071,
-   "ts": 1790696528.0780017
-  },
-  {
    "id": "e8ea09201e902751",
    "cfg": "vless://dabb5d60-4ac7-4982-bb01-11502e85b192@uk-emergency-service.relqino.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=uk-emergency-service.relqino.ir&fp=firefox&type=ws&allowInsecure=0&sni=uk-emergency-service.relqino.ir#🔵@chillguy_vpn",
    "ping": 3649,
@@ -481,12 +463,6 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.152:9894?mode=gun&security=reality&encryption=none&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🔵@chillguy_vpn",
    "ping": 3728,
    "ts": 1790709928.6974337
-  },
-  {
-   "id": "dca89aa4f69f5fed",
-   "cfg": "vless://3e35a939-d3e8-4781-8680-3021950b0ed9@65.109.253.202:80?path=%2F&security=&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 4797,
-   "ts": 1790696528.0780017
   },
   {
    "id": "fc1934b0d9c181d2",
@@ -817,6 +793,11 @@
    "cfg": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=tcp&security=reality&fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 428,
    "ts": 1790717780.4511936
+  },
+  "4fc661207dbd457d": {
+   "cfg": "vless://79f0aac8-656a-435b-b092-c973a3f85e02@BatManAli.Savfasf.ir:41432?security=none&encryption=none&host=play-apps-features.googleus&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 429,
+   "ts": 1790718620.2890735
   }
  },
  "geo": {
@@ -1049,13 +1030,18 @@
    "cc": "CH",
    "name": "Switzerland",
    "ts": 1790717790.0442765
+  },
+  "batmanali.savfasf.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790718621.9503539
   }
  },
  "stats": {
   "date": "2026-09-29",
   "fetched": 174,
   "healthy": 131,
-  "posted": 59,
+  "posted": 60,
   "removed": 45
  }
 }
