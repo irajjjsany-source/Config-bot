@@ -244,15 +244,12 @@
   "83168ccf737eef17": 1790678412.229247,
   "40e4b90482c2465d": 1790678412.229247,
   "25705523f1b9252d": 1790679181.6931105,
-  "e017f4806546b8b9": 1790679181.6931105
+  "e017f4806546b8b9": 1790679181.6931105,
+  "046efa3ba4349e06": 1790679784.6831074,
+  "8a6f88dfb13c2562": 1790679784.6831074,
+  "a45ab08416b9af46": 1790679784.6831074
  },
  "queue": [
-  {
-   "id": "d6f74c2a597fe0dc",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
-   "ping": 213,
-   "ts": 1790678412.229247
-  },
   {
    "id": "6b9b43420d861e8e",
    "cfg": "vless://nasnet@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#🔵@chillguy_vpn",
@@ -372,6 +369,24 @@
    "cfg": "vless://6f3374b7-4163-4943-8db1-b0374469b159@tunell-serv1.vip-starping1.ir:2082?path=%2F&security=&encryption=none&host=bs4laz9w4ad0.dopgangster.com&type=ws#🔵@chillguy_vpn",
    "ping": 483,
    "ts": 1790670415.6544733
+  },
+  {
+   "id": "046efa3ba4349e06",
+   "cfg": "vless://%58pnTeam-48@199.232.78.159:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 503,
+   "ts": 1790679784.6831074
+  },
+  {
+   "id": "8a6f88dfb13c2562",
+   "cfg": "vless://%58pnTeam-48@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 504,
+   "ts": 1790679784.6831074
+  },
+  {
+   "id": "a45ab08416b9af46",
+   "cfg": "vless://%58pnTeam-49@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 504,
+   "ts": 1790679784.6831074
   },
   {
    "id": "66570e6c2e03cfc5",
@@ -813,6 +828,11 @@
    "cfg": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2Ffp%3Dchrome&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 384,
    "ts": 1790679181.6931105
+  },
+  "d6f74c2a597fe0dc": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 385,
+   "ts": 1790679784.6831074
   }
  },
  "geo": {
@@ -895,13 +915,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790679192.6016464
+  },
+  "169.40.42.95": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790679786.5563993
   }
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 59,
-  "healthy": 46,
-  "posted": 17,
+  "fetched": 62,
+  "healthy": 49,
+  "posted": 18,
   "removed": 0
  }
 }
