@@ -253,7 +253,14 @@
   "5e02070537d551a1": 1790681037.9070413,
   "8857fdb858a32a3f": 1790682738.7841587,
   "bb22d3fbba1648fd": 1790682738.7841587,
-  "ca08d1bd4d14ae1c": 1790685072.113565
+  "ca08d1bd4d14ae1c": 1790685072.113565,
+  "3bd6e1e3c1bd99f4": 1790686594.615906,
+  "528d53f07d058d4b": 1790686594.615906,
+  "559e51453b88560f": 1790686594.615906,
+  "494439ce6d4e9c78": 1790686594.615906,
+  "dc815f2f1e9b31f5": 1790686594.615906,
+  "de29c84d79ad8c7d": 1790686594.615906,
+  "7e4f1ae9fed59e6d": 1790686594.615906
  },
  "queue": [
   {
@@ -347,6 +354,12 @@
    "ts": 1790677575.7409556
   },
   {
+   "id": "de29c84d79ad8c7d",
+   "cfg": "vless://9eb6abc0-8423-4ff6-efb3-7603ddfb9636@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#🔵@chillguy_vpn",
+   "ping": 576,
+   "ts": 1790686594.615906
+  },
+  {
    "id": "5e02070537d551a1",
    "cfg": "vless://bb1cb507-6b2a-41ef-8e24-06a422eb7e5a@264572b2539ab597.RaVEnlO.iR:8080?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=play.google.com#🔵@chillguy_vpn",
    "ping": 648,
@@ -425,10 +438,22 @@
    "ts": 1790673964.5247574
   },
   {
+   "id": "3bd6e1e3c1bd99f4",
+   "cfg": "vless://22f1ad12-b224-409f-9d0d-0150caee7a90@185.134.200.243:49000?security=reality&encryption=none&pbk=LQypRJXu7PXJqo1ZKfaIgamOjl58R2CtSYUXjroQQw0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=static-r5q1ml4-games.cdn-mirror.net&sid=fdbcfbf9d14832fb#🔵@chillguy_vpn",
+   "ping": 2108,
+   "ts": 1790686594.615906
+  },
+  {
    "id": "c0844bbf06646483",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
    "ping": 2350,
    "ts": 1790678412.229247
+  },
+  {
+   "id": "494439ce6d4e9c78",
+   "cfg": "vless://3e35a939-d3e8-4781-8680-3021950b0ed9@65.109.253.202:80?encryption=none&security=none&type=ws&path=%2F#🔵@chillguy_vpn",
+   "ping": 2647,
+   "ts": 1790686594.615906
   },
   {
    "id": "c521000f26709d57",
@@ -693,6 +718,11 @@
    "cfg": "vless://576b2dd6-f31a-4cc9-acea-54882247d507@5.78.45.230:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=thestraightpath.ca&sid=b684d13617792bb2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 390,
    "ts": 1790685072.113565
+  },
+  "528d53f07d058d4b": {
+   "cfg": "vless://a368752a-32fc-42f3-980a-6b049218b23f@107.148.158.100:443?security=reality&encryption=none&pbk=iOXJkurGWCpwU-Z1B3RPJnjXGSQ_v1-H5XtHa6mEeFc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=usa-2.letsconnectpoint.com&sid=b1c1b5e2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 391,
+   "ts": 1790686594.615906
   }
  },
  "geo": {
@@ -795,13 +825,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1790685074.5157266
+  },
+  "107.148.158.100": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790686603.71063
   }
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 68,
-  "healthy": 53,
-  "posted": 23,
+  "fetched": 75,
+  "healthy": 57,
+  "posted": 24,
   "removed": 21
  }
 }
