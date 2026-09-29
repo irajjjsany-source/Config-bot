@@ -149,24 +149,6 @@
  },
  "queue": [
   {
-   "id": "241477d5fc7151d5",
-   "cfg": "vless://7974c820-9744-44a0-9fee-67292b70e125@79.174.95.96:443?mode=gun&security=reality&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=tVc65Jg20nTeP9qsSd9WIqRjLqU-PWKFYtBYHQbwtyw&fp=firefox&type=grpc&serviceName=grpc&sni=max.ru&sid=a1b2c3d4#🔵@chillguy_vpn",
-   "ping": 781,
-   "ts": 1790625056.7565598
-  },
-  {
-   "id": "4d75cdb5cca4754f",
-   "cfg": "vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&fp=firefox&type=grpc&serviceName=rex-eb0bf76b710ce763&sni=deepl.com&sid=92c32de179e5d908#🔵@chillguy_vpn",
-   "ping": 850,
-   "ts": 1790639376.1362493
-  },
-  {
-   "id": "fcc454ec2935fc5d",
-   "cfg": "vless://ed25b074-e3ce-41f9-97de-a1c59b34e541@svsuskwbwjwkwheujejer.belamona.ir:21874?security=reality&encryption=mlkem768x25519plus.native.0rtt.dfxDMusGDRD0mu_pr8_zsINClGiqAKqSyoJaGfj-nEI&pbk=8yjnlabt9Q1RK7bLtd0PJq5zE54oZcObXKzSkX4zhwc&headerType=none&fp=chrome&type=tcp&sni=zoomila.com&sid=2faf6a44b4f47d84#🔵@chillguy_vpn",
-   "ping": 918,
-   "ts": 1790624219.2837641
-  },
-  {
    "id": "163f4114722a8ec0",
    "cfg": "vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea&type=grpc&mode=gun&authority=&serviceName=grpc-common3#🔵@chillguy_vpn",
    "ping": 1001,
@@ -406,6 +388,11 @@
    "cfg": "vless://162ff214-21c8-4963-a80a-6200cbad787e@s8596.paslanmaz.ir:6645?security=reality&encryption=mlkem768x25519plus.native.0rtt.10qBV2GE2iTjpQdazyCqabcwmqEwXRzeYhC5BLjxE3Q&pbk=PLNPsyduvF-5DBmPL0h8YrYbUczxQu7MsLCvTP_4S1o&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=5549d5c40430aa81#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 350,
    "ts": 1790645722.156697
+  },
+  "4d75cdb5cca4754f": {
+   "cfg": "vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&fp=firefox&type=grpc&serviceName=rex-eb0bf76b710ce763&sni=deepl.com&sid=92c32de179e5d908#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 351,
+   "ts": 1790646650.989028
   }
  }
 }
