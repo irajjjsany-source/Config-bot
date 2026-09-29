@@ -189,30 +189,6 @@
  },
  "queue": [
   {
-   "id": "cca7aefcf0b96c4e",
-   "cfg": "vless://b4a16091-a25d-4d33-aee3-f5ae04f34b14@172.67.151.243:2086?encryption=none&type=ws&host=blue-brook-cc73.karren391.workers.dev&path=%2FeyJqdW5rIjoiRjJEdlF3U251aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTEzLjE1OCIsIjEwMy45Ny44OC4xMzMiLCIxOTQuMTgwLjE4OC4yNDEiLCIxMTYuMjAyLjEzMi4yMDUiXX0&security=none#🔵@chillguy_vpn",
-   "ping": 85,
-   "ts": 1790659446.6043875
-  },
-  {
-   "id": "28846c39d7bf43fe",
-   "cfg": "vless://1742863c-ce4b-4bb7-b807-80da29cbec86@172.67.209.127:8880?encryption=none&type=ws&host=icy-fog-9a41.70-a39.workers.dev&path=%2F&security=none#🔵@chillguy_vpn",
-   "ping": 124,
-   "ts": 1790660231.5097253
-  },
-  {
-   "id": "7e3ce9efe961be01",
-   "cfg": "vless://d8235de7-84c7-4454-b333-4d854c393929@www.visa.com.sg:8880?encryption=none&type=ws&host=fragrant-butterfly-3e76.387.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#🔵@chillguy_vpn",
-   "ping": 129,
-   "ts": 1790659446.6043875
-  },
-  {
-   "id": "0258f208c1b2b261",
-   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.249.109:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=nvidia.com&type=tcp#🔵@chillguy_vpn",
-   "ping": 280,
-   "ts": 1790661802.4190874
-  },
-  {
    "id": "b7a8ea8995402e3a",
    "cfg": "vless://c4e6cb77-ab66-42ef-be33-6b791fe604a0@93.123.84.223:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uOp9IW69PEn-toNzDs9IlCs8sdsMYm4XXjiPerrj41k&sni=www.apple.com#🔵@chillguy_vpn",
    "ping": 294,
@@ -541,6 +517,11 @@
    "cfg": "vless://37fce9ce-9fec-4f30-89a0-fbb1f6f33b3c@104.16.107.139:8880?encryption=none&type=ws&host=white-night-afee.419-acc.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 369,
    "ts": 1790666774.449434
+  },
+  "0258f208c1b2b261": {
+   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.249.109:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=nvidia.com&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 370,
+   "ts": 1790667067.6981952
   }
  },
  "geo": {
@@ -553,13 +534,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790666778.0450935
+  },
+  "31.76.249.109": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1790667075.9734015
   }
  },
  "stats": {
   "date": "2026-09-29",
   "fetched": 0,
   "healthy": 0,
-  "posted": 2,
+  "posted": 3,
   "removed": 0
  }
 }
