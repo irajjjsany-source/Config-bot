@@ -353,9 +353,18 @@
   "dccb0d4ae2a7867e": 1790715061.378863,
   "4fc661207dbd457d": 1790715061.378863,
   "5ee5ebdb6500e8b8": 1790715061.378863,
-  "a59cbeb0496c3c91": 1790715061.378863
+  "a59cbeb0496c3c91": 1790715061.378863,
+  "9d10fd33a0a4c6d1": 1790717032.6952157,
+  "1814084f5a254f65": 1790717032.6952157,
+  "fd88f8aa7b1ffbde": 1790717032.6952157
  },
  "queue": [
+  {
+   "id": "fd88f8aa7b1ffbde",
+   "cfg": "vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=tcp&security=reality&fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#🔵@chillguy_vpn",
+   "ping": 338,
+   "ts": 1790717032.6952157
+  },
   {
    "id": "4fc661207dbd457d",
    "cfg": "vless://79f0aac8-656a-435b-b092-c973a3f85e02@BatManAli.Savfasf.ir:41432?security=none&encryption=none&host=play-apps-features.googleus&headerType=none&type=tcp#🔵@chillguy_vpn",
@@ -801,6 +810,11 @@
    "cfg": "vless://6e58f644-bc22-4dae-824a-4c3a760dc7a1@144.31.122.33:2053?security=reality&encryption=none&pbk=YfO61P-1nE3eQlo_QOYbSlrYpQto89TFVD2B3T_V30Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tripadvisor.com&sid=f5a2972048210937#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 426,
    "ts": 1790715758.4010942
+  },
+  "1814084f5a254f65": {
+   "cfg": "vless://365de9e9-ba29-0004-af2d-766f9638e3be@192.142.12.175:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&sni=diffoscope.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 427,
+   "ts": 1790717032.6952157
   }
  },
  "geo": {
@@ -1023,13 +1037,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1790715759.7537067
+  },
+  "192.142.12.175": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790717034.1303997
   }
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 168,
-  "healthy": 128,
-  "posted": 57,
+  "fetched": 171,
+  "healthy": 130,
+  "posted": 58,
   "removed": 45
  }
 }
