@@ -247,15 +247,12 @@
   "e017f4806546b8b9": 1790679181.6931105,
   "046efa3ba4349e06": 1790679784.6831074,
   "8a6f88dfb13c2562": 1790679784.6831074,
-  "a45ab08416b9af46": 1790679784.6831074
+  "a45ab08416b9af46": 1790679784.6831074,
+  "2976d802094abc16": 1790681037.9070413,
+  "29cfbf10ddbb00e4": 1790681037.9070413,
+  "5e02070537d551a1": 1790681037.9070413
  },
  "queue": [
-  {
-   "id": "6b9b43420d861e8e",
-   "cfg": "vless://nasnet@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#🔵@chillguy_vpn",
-   "ping": 328,
-   "ts": 1790677575.7409556
-  },
   {
    "id": "5b420f247d3ed970",
    "cfg": "vless://XpnTeam-49@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
@@ -419,6 +416,12 @@
    "ts": 1790677575.7409556
   },
   {
+   "id": "5e02070537d551a1",
+   "cfg": "vless://bb1cb507-6b2a-41ef-8e24-06a422eb7e5a@264572b2539ab597.RaVEnlO.iR:8080?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=play.google.com#🔵@chillguy_vpn",
+   "ping": 648,
+   "ts": 1790681037.9070413
+  },
+  {
    "id": "59e4b513e1c40e3c",
    "cfg": "vless://ad5d6bbf-4717-46ae-bbda-6c0602862d58@de.galzemo.ir:443?security=reality&encryption=none&pbk=yxtqY-F1AR8tXbRexTP9uWMSalQRwovi3FwomX89l3A&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=23333743ebd3b6bb#🔵@chillguy_vpn",
    "ping": 656,
@@ -473,6 +476,12 @@
    "ts": 1790673964.5247574
   },
   {
+   "id": "2976d802094abc16",
+   "cfg": "vless://c750defe-972e-4203-afe5-d212992e34f0@153.76.122.88:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.antagonist.nl&fp=qq&pbk=Bf4bszSa_JTyLOugSidr-0_SNtm6LmssG_aLBJ3yWyw&sid=1a664ac4f4ea&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 1132,
+   "ts": 1790681037.9070413
+  },
+  {
    "id": "276ded6b7bf89c5f",
    "cfg": "vless://98a7c6c3-9a2c-4ebd-a945-0e979abc9232@147.45.61.31:443?security=reality&encryption=none&pbk=JjG9JXI2B0DmSmlY55YAY6O-mldN84I4-CiqII9_8jI&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=iris-04.rita-cloud.com&sid=26c501a781437581#🔵@chillguy_vpn",
    "ping": 1298,
@@ -507,6 +516,12 @@
    "cfg": "vless://46b3a70b-b99f-4c6e-aa83-df6d842bb954@194.58.41.190:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=desc.vpnskyline.com&fp=safari&pbk=ST27DSNtruJFu-pMzV2xA4xH9xjotv9-5D16TsJHE3k&sid=66e1bfda535a&spx=%2F3HCiAsK0VQSABhA&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 2980,
    "ts": 1790674799.4314172
+  },
+  {
+   "id": "29cfbf10ddbb00e4",
+   "cfg": "vless://98a7c6c3-9a2c-4ebd-a945-0e979abc9232@31.76.252.118:443?security=reality&encryption=none&pbk=rqxv2mDuaBynNjatS49r8sjoxv3u2EjAWHzKFwF-YTE&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=ir-012.rita-cloud.com&sid=6fa5d699cc6a6b66#🔵@chillguy_vpn",
+   "ping": 3895,
+   "ts": 1790681037.9070413
   },
   {
    "id": "2c2926b2ca265bbc",
@@ -833,6 +848,11 @@
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 385,
    "ts": 1790679784.6831074
+  },
+  "6b9b43420d861e8e": {
+   "cfg": "vless://nasnet@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 386,
+   "ts": 1790681037.9070413
   }
  },
  "geo": {
@@ -920,13 +940,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1790679786.5563993
+  },
+  "nasnet-162191099-direct.mbghalibaf.com": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1790681043.9439793
   }
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 62,
-  "healthy": 49,
-  "posted": 18,
+  "fetched": 65,
+  "healthy": 52,
+  "posted": 19,
   "removed": 0
  }
 }
