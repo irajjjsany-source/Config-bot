@@ -148,12 +148,6 @@
  },
  "queue": [
   {
-   "id": "e97f492e7ac651eb",
-   "cfg": "vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=looazjboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 562,
-   "ts": 1790631331.9711313
-  },
-  {
    "id": "6f9c1867e0e89078",
    "cfg": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🔵@chillguy_vpn",
    "ping": 634,
@@ -272,12 +266,6 @@
    "cfg": "vless://e2a4dbed-1353-44ac-b4ff-51dcfdc58dcf@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
    "ping": 3763,
    "ts": 1790631331.9711313
-  },
-  {
-   "id": "b62d76d08b5e1096",
-   "cfg": "vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@fra.loozerp.wiki:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=fra.loozerp.wiki&type=tcp#🔵@chillguy_vpn",
-   "ping": 3876,
-   "ts": 1790620055.4190187
   },
   {
    "id": "935d2911fe890d51",
@@ -500,6 +488,11 @@
    "cfg": "vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 345,
    "ts": 1790640173.235334
+  },
+  "e97f492e7ac651eb": {
+   "cfg": "vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=looazjboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 346,
+   "ts": 1790641823.7872286
   }
  }
 }
