@@ -156,12 +156,6 @@
  },
  "queue": [
   {
-   "id": "5fdad4ca6562743a",
-   "cfg": "vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?encryption=none&type=ws&host=icy-wildflower-2590.lihuifeng595.workers.dev&path=%2F&security=none#🔵@chillguy_vpn",
-   "ping": 39,
-   "ts": 1790656656.6747713
-  },
-  {
    "id": "02f2ffead8b22b7b",
    "cfg": "vless://db174379-5712-458a-bb3a-c688a9c9ff61@199.232.78.159:80?path=%2FParSashOnaM%3Fed%3D2048&security=none&encryption=none&host=Zardaloo.global.ssl.fastly.net&type=ws#🔵@chillguy_vpn",
    "ping": 398,
@@ -400,6 +394,11 @@
    "cfg": "vless://adcce8be-9de7-41bd-abcd-52939cec108b@104.17.191.15:8880?encryption=none&type=ws&host=fancy-haze-ab00.236-68b.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 357,
    "ts": 1790656656.6747713
+  },
+  "5fdad4ca6562743a": {
+   "cfg": "vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?encryption=none&type=ws&host=icy-wildflower-2590.lihuifeng595.workers.dev&path=%2F&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 358,
+   "ts": 1790657504.8673968
   }
  }
 }
