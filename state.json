@@ -401,16 +401,6 @@
    "msg": 320,
    "ts": 1790615007.2060373
   },
-  "8f2c2ce7c3f50cc8": {
-   "cfg": "vless://%58pnTeam-43@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 321,
-   "ts": 1790616242.3055546
-  },
-  "48aa654fac31be5a": {
-   "cfg": "vless://9e3132b8-b595-444a-833a-2de44789f9d7@109.122.198.83:8443?encryption=none&security=tls&sni=shephe.dpdns.org&fp=chrome&type=ws&host=shephe.dpdns.org&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 322,
-   "ts": 1790620055.4190187
-  },
   "5f32799ab04e0d74": {
    "cfg": "vless://9e3132b8-b595-444a-833a-2de44789f9d7@94.130.178.194:443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 323,
@@ -420,11 +410,6 @@
    "cfg": "vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@de123.mech-pro.online:443?security=reality&encryption=none&pbk=CkA-mj6UVyllbl5b8xaSLFfrB7lCot86GZx2tcMbKn4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de123.mech-pro.online&sid=c42e96a6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 324,
    "ts": 1790621789.7066965
-  },
-  "1cbeeae7edfcf663": {
-   "cfg": "vless://67134a64-4668-478a-b563-3344fa6761e6@195.133.77.80:443?security=reality&encryption=none&pbk=mNo_-VPMVzwvvLUti_AxuuhnElTuRNYhihw9IjO6xiU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.ebay.com&sid=6ba85179e30d4fc2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 325,
-   "ts": 1790622373.4928207
   },
   "9710c47f02f712f7": {
    "cfg": "vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -445,11 +430,6 @@
    "cfg": "vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@91.107.191.188:8443?encryption=none&security=tls&sni=host.taghvimtime.ir&alpn=h2&fp=chrome&type=xhttp&mode=auto&host=host.taghvimtime.ir&path=%2FMeh%3Fdi%3D443#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 329,
    "ts": 1790625734.6011717
-  },
-  "d8a6d32aea5b6aea": {
-   "cfg": "vless://b4a433b0-6661-c68d-ad79-1b0b439df694@victoryprovpn-production-e95a.up.railway.app:443?encryption=none&security=tls&sni=victoryprovpn-production-e95a.up.railway.app&alpn=http%2F1.1&fp=ios&type=ws&host=victoryprovpn-production-e95a.up.railway.app&path=%2Fws%2Fb4a433b0-6661-c68d-ad79-1b0b439df694#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 330,
-   "ts": 1790626972.5170822
   },
   "513c9c68b69ea12b": {
    "cfg": "vless://7b93e3f1-c5bf-43cd-8fcd-e0e745c92d10@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -480,11 +460,6 @@
    "cfg": "vmess://eyJhZGQiOiAiMzEuNzcuOC45NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDJkODYwMWItYzE0Yi00MmM2LWI4ZWEtMzM4ODliY2UxNTJhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTEwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
    "msg": 336,
    "ts": 1790632175.5932944
-  },
-  "b601c21b1dda0353": {
-   "cfg": "vless://cbbc93ef-6d35-463a-a856-64265c42e66d@93.190.9.60:3090?type=grpc&mode=multi&serviceName=vless#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 337,
-   "ts": 1790632951.595096
   },
   "a0ee7cc4ea27fe0b": {
    "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.39.230:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&sni=nvidia.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
