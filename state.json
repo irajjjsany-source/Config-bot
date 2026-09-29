@@ -346,9 +346,17 @@
   "a9c97a9bc8efcf3a": 1790713547.1310308,
   "fc1934b0d9c181d2": 1790713547.1310308,
   "dfa46013ffad2c8d": 1790713547.1310308,
-  "e4405192ed13cd80": 1790713547.1310308
+  "e4405192ed13cd80": 1790713547.1310308,
+  "d30ef2c5dd6440ee": 1790714327.866819,
+  "14b9b13a062e1d4c": 1790714327.866819
  },
  "queue": [
+  {
+   "id": "14b9b13a062e1d4c",
+   "cfg": "vless://179a88d7-9ddb-4d48-ac6c-0f208cf030bc@p2real22.greewebservices.ir:1320?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🔵@chillguy_vpn",
+   "ping": 642,
+   "ts": 1790714327.866819
+  },
   {
    "id": "aff7b9caa80b9a71",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
@@ -755,6 +763,11 @@
    "cfg": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 423,
    "ts": 1790713547.1310308
+  },
+  "d30ef2c5dd6440ee": {
+   "cfg": "vless://179a88d7-9ddb-4d48-ac6c-0f208cf030bc@areal2.greewebservices.ir:3435?type=tcp&headerType=none&security=reality&fp=edge&sni=amp-api-edge.apps.apple.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 424,
+   "ts": 1790714327.866819
   }
  },
  "geo": {
@@ -962,13 +975,18 @@
    "cc": "TR",
    "name": "Türkiye",
    "ts": 1790711487.6595883
+  },
+  "areal2.greewebservices.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790714329.5172563
   }
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 161,
-  "healthy": 121,
-  "posted": 54,
+  "fetched": 163,
+  "healthy": 123,
+  "posted": 55,
   "removed": 45
  }
 }
