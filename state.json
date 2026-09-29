@@ -279,9 +279,28 @@
   "8e09f26eb63a120c": 1790692840.917416,
   "57537d8d075fc9d7": 1790693655.0049484,
   "07b48edb2be1bce1": 1790695674.6246264,
-  "f6a97bc62f7778cf": 1790695674.6246264
+  "f6a97bc62f7778cf": 1790695674.6246264,
+  "5b1333767b074854": 1790696528.0780017,
+  "1216d638fa580868": 1790696528.0780017,
+  "dd7929d1b586b8a6": 1790696528.0780017,
+  "5e489c4eacf984eb": 1790696528.0780017,
+  "dca89aa4f69f5fed": 1790696528.0780017,
+  "32fbb0e9c645020e": 1790696528.0780017,
+  "dc9c3cbe32f52de8": 1790696528.0780017
  },
  "queue": [
+  {
+   "id": "5b1333767b074854",
+   "cfg": "vless://2a701f21-2347-4eb2-813e-4867ad819272@146.19.130.192:57890?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn",
+   "ping": 249,
+   "ts": 1790696528.0780017
+  },
+  {
+   "id": "dc9c3cbe32f52de8",
+   "cfg": "vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?encryption=none&type=ws&path=/&packetEncoding=xudp#🔵@chillguy_vpn",
+   "ping": 446,
+   "ts": 1790696528.0780017
+  },
   {
    "id": "8a6f88dfb13c2562",
    "cfg": "vless://%58pnTeam-48@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
@@ -409,16 +428,22 @@
    "ts": 1790678412.229247
   },
   {
+   "id": "dd7929d1b586b8a6",
+   "cfg": "vless://1a17b19d-4896-4531-af79-6e91d8ef8228@54.169.72.60:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#🔵@chillguy_vpn",
+   "ping": 2588,
+   "ts": 1790696528.0780017
+  },
+  {
    "id": "494439ce6d4e9c78",
    "cfg": "vless://3e35a939-d3e8-4781-8680-3021950b0ed9@65.109.253.202:80?encryption=none&security=none&type=ws&path=%2F#🔵@chillguy_vpn",
    "ping": 2647,
    "ts": 1790686594.615906
   },
   {
-   "id": "29bdd2421c964622",
-   "cfg": "vless://46b3a70b-b99f-4c6e-aa83-df6d842bb954@194.58.41.190:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=desc.vpnskyline.com&fp=safari&pbk=ST27DSNtruJFu-pMzV2xA4xH9xjotv9-5D16TsJHE3k&sid=66e1bfda535a&spx=%2F3HCiAsK0VQSABhA&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 2980,
-   "ts": 1790674799.4314172
+   "id": "5e489c4eacf984eb",
+   "cfg": "vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?path=%2F&security=&encryption=none&type=ws#🔵@chillguy_vpn",
+   "ping": 3071,
+   "ts": 1790696528.0780017
   },
   {
    "id": "29cfbf10ddbb00e4",
@@ -431,6 +456,12 @@
    "cfg": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🔵@chillguy_vpn",
    "ping": 4224,
    "ts": 1790678412.229247
+  },
+  {
+   "id": "dca89aa4f69f5fed",
+   "cfg": "vless://3e35a939-d3e8-4781-8680-3021950b0ed9@65.109.253.202:80?path=%2F&security=&encryption=none&type=ws#🔵@chillguy_vpn",
+   "ping": 4797,
+   "ts": 1790696528.0780017
   },
   {
    "id": "c9da6558acf2de1d",
@@ -449,12 +480,6 @@
    "cfg": "vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#🔵@chillguy_vpn",
    "ping": 6574,
    "ts": 1790678412.229247
-  },
-  {
-   "id": "b9ca38328d2ba7fe",
-   "cfg": "vless://576b2dd6-f31a-4cc9-acea-54882247d507@94.183.154.216:1003?flow=xtls-rprx-vision&encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.HqdaNzGwHVgtA5BvCNSeEnkczJ6HN3N7ubRjuZlwXkk&security=reality&sni=www.filimo.com&fp=chrome&pbk=r-Ewj6XI7GKX1TbyRuOCV4o7c00HATiljR-exskeIR0&sid=88f23ad5a4ea1d57&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 7744,
-   "ts": 1790674799.4314172
   }
  ],
  "posted": {
@@ -732,6 +757,11 @@
    "cfg": "vless://%58pnTeam-48@199.232.78.159:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 403,
    "ts": 1790695674.6246264
+  },
+  "32fbb0e9c645020e": {
+   "cfg": "vless://2a701f21-2347-4eb2-813e-4867ad819272@146.19.130.192:57890?encryption=none&security=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 404,
+   "ts": 1790696528.0780017
   }
  },
  "geo": {
@@ -874,13 +904,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1790695679.494792
+  },
+  "146.19.130.192": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1790696537.0415921
   }
  },
  "stats": {
   "date": "2026-09-29",
-  "fetched": 94,
-  "healthy": 72,
-  "posted": 34,
+  "fetched": 101,
+  "healthy": 78,
+  "posted": 35,
   "removed": 21
  }
 }
