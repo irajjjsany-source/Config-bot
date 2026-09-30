@@ -396,12 +396,6 @@
  },
  "queue": [
   {
-   "id": "844e2832cbee1db0",
-   "cfg": "vless://64777aa1-39e7-4133-a682-8c2dc67c0a93@93.190.8.143:3090?type=grpc&mode=multi&serviceName=vless#🔵@chillguy_vpn",
-   "ping": 280,
-   "ts": 1790754105.1089473
-  },
-  {
    "id": "c110886cc5cc0c4e",
    "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.113.240:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nvidia.com&sid=db04ce8bdb8900f1#🔵@chillguy_vpn",
    "ping": 306,
@@ -685,6 +679,11 @@
    "cfg": "vless://9ef1d60d-9e38-49c5-9405-131e11be1f9c@172.67.131.114:2086?path=%2FeyJqdW5rIjoiVGtvRGR4TXdHSzdseGpZWCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ&security=none&encryption=none&host=muddy-shadow-8905.qara-atayi-1.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 464,
    "ts": 1790754873.7945917
+  },
+  "844e2832cbee1db0": {
+   "cfg": "vless://64777aa1-39e7-4133-a682-8c2dc67c0a93@93.190.8.143:3090?type=grpc&mode=multi&serviceName=vless#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 465,
+   "ts": 1790755493.8682895
   }
  },
  "geo": {
@@ -1027,13 +1026,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790754875.2424335
+  },
+  "93.190.8.143": {
+   "cc": "TR",
+   "name": "Turkey",
+   "ts": 1790755495.1002593
   }
  },
  "stats": {
   "date": "2026-09-30",
   "fetched": 24,
   "healthy": 20,
-  "posted": 22,
+  "posted": 23,
   "removed": 34
  }
 }
