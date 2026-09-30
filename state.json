@@ -389,12 +389,6 @@
  },
  "queue": [
   {
-   "id": "9cbfa5429e19109f",
-   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.113.240:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nvidia.com&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=random#🔵@chillguy_vpn",
-   "ping": 457,
-   "ts": 1790742360.3763385
-  },
-  {
    "id": "2388ee439904d40f",
    "cfg": "vless://8f326645-c4c4-4749-ada1-a7255d8f1c81@049r0lwt.selqora.ir:51595?security=reality&encryption=none&pbk=AJjXkgHlDAdrUkG8hK3_ECdPa-baeGYacNmLPyc_hEo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=ea36049247370f47#🔵@chillguy_vpn",
    "ping": 641,
@@ -651,6 +645,11 @@
    "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.113.240:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nvidia.com&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=chrome#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 457,
    "ts": 1790748188.5327647
+  },
+  "9cbfa5429e19109f": {
+   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.113.240:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nvidia.com&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=random#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 462,
+   "ts": 1790749815.0542667
   }
  },
  "geo": {
@@ -989,7 +988,7 @@
   "date": "2026-09-30",
   "fetched": 17,
   "healthy": 14,
-  "posted": 19,
+  "posted": 20,
   "removed": 34
  }
 }
