@@ -449,15 +449,10 @@
   "dd80858f6ff0237b": 1790779490.8469236,
   "b040234876579d2b": 1790779490.8469236,
   "b07e04f90288b59f": 1790782130.4156463,
-  "0607e593c1b21929": 1790782130.4156463
+  "0607e593c1b21929": 1790782130.4156463,
+  "2e206dd57ecaf9bc": 1790783882.2739422
  },
  "queue": [
-  {
-   "id": "f6636eb5aa66f857",
-   "cfg": "vless://bc76d157-a4cf-4706-91a7-98a0548b3685@171.25.158.148:443?security=reality&encryption=none&pbk=knjyzZZ389On4vmhE4VYSMJ5fe3k8QiJkPE4YXY-SDY&headerType=none&fp=safari&spx=%2F&type=tcp&sni=seser.krusofiya.fun&sid=5bdb6f716289adb2#🔵@chillguy_vpn",
-   "ping": 501,
-   "ts": 1790778529.7883668
-  },
   {
    "id": "8f1b2655efbe5c3a",
    "cfg": "vless://6bf6596c-e7de-4a2d-91fd-27ef84e8ece2@104.171.128.153:1443?security=reality&encryption=none&pbk=ocG6EJZEOhettlC_iezs_K6GttZjpP1zLs2cKrtxygY&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0aa749fc5434630a#🔵@chillguy_vpn",
@@ -820,6 +815,11 @@
    "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@id-nl-01.mintrocket.org:443?security=reality&encryption=none&pbk=XU7da9vkBex4TUPo1d-ctFY_N6zouBiCRnbnUK82i3Q&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=id-nl-01.mintrocket.org&sid=fee1f986a72444db#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 493,
    "ts": 1790783079.5053823
+  },
+  "2e206dd57ecaf9bc": {
+   "cfg": "vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@78.17.97.201:443?type=tcp&flow=xtls-rprx-vision&pbk=Jx7Z4PZ5DvGyEniIJhf6LwetaZ1_WDvPdpqtBDYOjyM&encryption=none&sid=42df&security=reality&fp=firefox&headerType=none&sni=www.nl.ozone.nl#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 494,
+   "ts": 1790783882.2739422
   }
  },
  "geo": {
@@ -1277,13 +1277,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790783089.27227
+  },
+  "78.17.97.201": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1790783884.5867093
   }
  },
  "stats": {
   "date": "2026-09-30",
-  "fetched": 81,
-  "healthy": 62,
-  "posted": 50,
+  "fetched": 82,
+  "healthy": 63,
+  "posted": 51,
   "removed": 50
  }
 }
