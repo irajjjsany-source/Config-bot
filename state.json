@@ -376,20 +376,63 @@
   "6a1745c7ab7b9827": 1790740350.7779143,
   "82e90ab229071f9e": 1790740350.7779143,
   "818d18af88e07607": 1790740350.7779143,
-  "105a3dbc5ff75e72": 1790740350.7779143
+  "105a3dbc5ff75e72": 1790740350.7779143,
+  "715879550339ca59": 1790742360.3763385,
+  "49dee9a2826780f9": 1790742360.3763385,
+  "5646d000931be691": 1790742360.3763385,
+  "9cbfa5429e19109f": 1790742360.3763385,
+  "8249192913b296da": 1790742360.3763385,
+  "f5b546528cd495d6": 1790742360.3763385,
+  "1df27583d21ea73c": 1790742360.3763385
  },
  "queue": [
   {
-   "id": "6a1745c7ab7b9827",
-   "cfg": "vless://f15a5586-23f6-453f-97f5-c301b949e699@172.64.151.134:8880?type=ws&host=mute-sunset-0849.40-aeb.workers.dev#🔵@chillguy_vpn",
-   "ping": 37,
-   "ts": 1790740350.7779143
+   "id": "f5b546528cd495d6",
+   "cfg": "vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?encryption=none&security=none&type=ws&host=cold-bush-a762.lidrezvpn.workers.dev&path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🔵@chillguy_vpn",
+   "ping": 85,
+   "ts": 1790742360.3763385
+  },
+  {
+   "id": "715879550339ca59",
+   "cfg": "vless://8995976a-1c81-4b44-a414-d3bc71058a21@104.21.0.115:8880?type=ws&host=muddy-queen-cdda.181-cf9.workers.dev#🔵@chillguy_vpn",
+   "ping": 87,
+   "ts": 1790742360.3763385
+  },
+  {
+   "id": "1df27583d21ea73c",
+   "cfg": "vless://94977b19-6720-48a6-92fd-00238757ea30@172.67.162.93:8880?type=ws&host=fragrant-credit-c4cf.148-e68.workers.dev#🔵@chillguy_vpn",
+   "ping": 97,
+   "ts": 1790742360.3763385
+  },
+  {
+   "id": "49dee9a2826780f9",
+   "cfg": "vless://70c16ec7-13f7-473b-b97d-06399f1481e3@172.64.80.1:8880?type=ws&host=mute-surf-0003.209.workers.dev#🔵@chillguy_vpn",
+   "ping": 98,
+   "ts": 1790742360.3763385
+  },
+  {
+   "id": "5646d000931be691",
+   "cfg": "vless://86dc5fb4-f279-45b7-a2c6-0d1e84b85c18@104.16.107.139:8880?encryption=none&fp=chrome&host=lingering-dawn-5d4a.163-3f1.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&sni=lingering-dawn-5d4a.163-3f1.workers.dev&type=ws#🔵@chillguy_vpn",
+   "ping": 106,
+   "ts": 1790742360.3763385
+  },
+  {
+   "id": "8249192913b296da",
+   "cfg": "vless://80f083d3-8348-4514-b075-62f303b7fd86@themeforest.net:8880?&packet-encoding=xudp&type=ws&headerType=none&host=young-term-5783.284.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🔵@chillguy_vpn",
+   "ping": 137,
+   "ts": 1790742360.3763385
   },
   {
    "id": "818d18af88e07607",
    "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.113.240:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nvidia.com&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=chrome#🔵@chillguy_vpn",
    "ping": 290,
    "ts": 1790740350.7779143
+  },
+  {
+   "id": "9cbfa5429e19109f",
+   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.113.240:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nvidia.com&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=random#🔵@chillguy_vpn",
+   "ping": 457,
+   "ts": 1790742360.3763385
   }
  ],
  "posted": {
@@ -702,6 +745,11 @@
    "cfg": "vless://4b00d726-e072-429b-997e-f07affea3b7f@162.159.81.57:80?encryption=none&security=none&type=ws&host=icy-darkness-8ff1.farzambia12mo.workers.dev&path=/eyJqdW5rIjoiUEVTdDRlR2hhc0JuYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 449,
    "ts": 1790740996.7647648
+  },
+  "6a1745c7ab7b9827": {
+   "cfg": "vless://f15a5586-23f6-453f-97f5-c301b949e699@172.64.151.134:8880?type=ws&host=mute-sunset-0849.40-aeb.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 450,
+   "ts": 1790742360.3763385
   }
  },
  "geo": {
@@ -1004,13 +1052,18 @@
    "cc": "",
    "name": "",
    "ts": 1790740997.6608965
+  },
+  "172.64.151.134": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790742362.4220386
   }
  },
  "stats": {
   "date": "2026-09-30",
-  "fetched": 8,
-  "healthy": 6,
-  "posted": 11,
+  "fetched": 15,
+  "healthy": 13,
+  "posted": 12,
   "removed": 14
  }
 }
