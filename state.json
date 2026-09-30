@@ -517,20 +517,22 @@
   "2f9c938bdc543b66": 1790801436.4712923,
   "8b65f1b38976d686": 1790801436.4712923,
   "e82e1e2be6eb5793": 1790801436.4712923,
-  "de09e87e091e0199": 1790801436.4712923
+  "de09e87e091e0199": 1790801436.4712923,
+  "1ec5415cd78f5779": 1790802151.2150836,
+  "d0bab80a07998b30": 1790802151.2150836
  },
  "queue": [
-  {
-   "id": "edd573b8f2872f55",
-   "cfg": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@172.67.92.203:443?path=%2F&security=tls&encryption=none&host=edgetunnel-4uw.pages.dev&type=ws&sni=edgetunnel-4uw.pages.dev#🔵@chillguy_vpn",
-   "ping": 45,
-   "ts": 1790801436.4712923
-  },
   {
    "id": "57f629317bae4905",
    "cfg": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2Ffp%3Dchrome%3Fed%23TELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=edgetunnel-4uw.pages.dev&type=ws&sni=edgetunnel-4uw.pages.dev#🔵@chillguy_vpn",
    "ping": 58,
    "ts": 1790801436.4712923
+  },
+  {
+   "id": "1ec5415cd78f5779",
+   "cfg": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2Ffp%3Dchrome%3Fed%23TELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#🔵@chillguy_vpn",
+   "ping": 96,
+   "ts": 1790802151.2150836
   },
   {
    "id": "7c2c0a1487cf8fc8",
@@ -1023,6 +1025,11 @@
    "cfg": "vless://a368752a-32fc-42f3-980a-6b049218b23f@50.114.179.2:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Fd6VTTHCVNkP_H9EZBlSXEsHp_J3aRKeBpoYZ5gRiQc&sid=a2b95f1d&sni=usa-3.letsconnectpoint.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 514,
    "ts": 1790801436.4712923
+  },
+  "edd573b8f2872f55": {
+   "cfg": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@172.67.92.203:443?path=%2F&security=tls&encryption=none&host=edgetunnel-4uw.pages.dev&type=ws&sni=edgetunnel-4uw.pages.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 515,
+   "ts": 1790802151.2150836
   }
  },
  "geo": {
@@ -1570,13 +1577,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1790801445.1441183
+  },
+  "172.67.92.203": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790802154.5324016
   }
  },
  "stats": {
   "date": "2026-09-30",
-  "fetched": 149,
-  "healthy": 113,
-  "posted": 71,
+  "fetched": 151,
+  "healthy": 114,
+  "posted": 72,
   "removed": 68
  }
 }
