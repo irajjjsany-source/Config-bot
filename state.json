@@ -374,12 +374,6 @@
  },
  "queue": [
   {
-   "id": "a9c97a9bc8efcf3a",
-   "cfg": "vless://%58pnTeam-50@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 7336,
-   "ts": 1790713547.1310308
-  },
-  {
    "id": "4e4a1f66b12dcfeb",
    "cfg": "vless://%58pnTeam-51@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
    "ping": 7341,
@@ -681,6 +675,11 @@
    "cfg": "vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 446,
    "ts": 1790733802.8982496
+  },
+  "a9c97a9bc8efcf3a": {
+   "cfg": "vless://%58pnTeam-50@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 447,
+   "ts": 1790735011.7531924
   }
  },
  "geo": {
@@ -979,7 +978,7 @@
   "date": "2026-09-30",
   "fetched": 2,
   "healthy": 2,
-  "posted": 8,
+  "posted": 9,
   "removed": 14
  }
 }
