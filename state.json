@@ -416,12 +416,6 @@
  },
  "queue": [
   {
-   "id": "7f959641467baafa",
-   "cfg": "vless://5f716928-b19e-4c8d-a70b-6bee4995d7f1@93.190.8.22:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#🔵@chillguy_vpn",
-   "ping": 463,
-   "ts": 1790761208.2071555
-  },
-  {
    "id": "deab0db3add1d9e0",
    "cfg": "vless://386d4342-768d-4ed0-9478-4dba23220aed@201.24.121.182:443?security=reality&encryption=none&pbk=Oq-xzuGJS90vXtDM5_WM73LESpRBoXB7drkaBdUPW1Y&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=n98o5teg7.dendiboss.org&sid=68721887#🔵@chillguy_vpn",
    "ping": 473,
@@ -788,6 +782,11 @@
    "cfg": "vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@slowkd.sadiepinki.com:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 472,
    "ts": 1790761208.2071555
+  },
+  "7f959641467baafa": {
+   "cfg": "vless://5f716928-b19e-4c8d-a70b-6bee4995d7f1@93.190.8.22:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 473,
+   "ts": 1790762044.2943022
   }
  },
  "geo": {
@@ -1150,13 +1149,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1790761213.0998135
+  },
+  "93.190.8.22": {
+   "cc": "TR",
+   "name": "Turkey",
+   "ts": 1790762045.5018578
   }
  },
  "stats": {
   "date": "2026-09-30",
   "fetched": 44,
   "healthy": 36,
-  "posted": 29,
+  "posted": 30,
   "removed": 34
  }
 }
