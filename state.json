@@ -491,9 +491,18 @@
   "c71286dde2ca99fd": 1790795477.4177787,
   "e20e58690c70c69f": 1790797048.9883728,
   "a81e8ca494543d3e": 1790797048.9883728,
-  "a52419d17a657349": 1790797048.9883728
+  "a52419d17a657349": 1790797048.9883728,
+  "48c3924a9207a580": 1790797833.4370422,
+  "f90b40c1d71c4730": 1790797833.4370422,
+  "31ee1d1ee04abc15": 1790797833.4370422
  },
  "queue": [
+  {
+   "id": "f90b40c1d71c4730",
+   "cfg": "vless://41a5ed92-cc8c-4277-b9fc-4d9f25eb6111@de10.m1.starzone.ir:29247?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=edge&type=tcp&sni=ajax.googleapis.com&sid=184a6838386d384e#🔵@chillguy_vpn",
+   "ping": 606,
+   "ts": 1790797833.4370422
+  },
   {
    "id": "e2206740966c275b",
    "cfg": "vless://8e6104da-f178-49ea-b559-1fd69562baae@se-54155bce.sishka.network:443?fp=firefox&encryption=none&fm=AhmadV2ray&type=tcp&spx=%2FAhmadV2ray&flow=xtls-rprx-vision&security=reality&sid=bcfba22d203308aa&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&sni=se-54155bce.sishka.network&headerType=none#🔵@chillguy_vpn",
@@ -894,6 +903,11 @@
    "cfg": "vless://0b47cd2c-cd11-4398-a323-ef4a08475e77@92b6d0ff54070b56.ironly4l.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=pLbqDSeEe7biTe6b-w6SOLl2SiRxIBjHMfqUzuRR3Ew&sid=37d86205006fe1fb&spx=%2F&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 509,
    "ts": 1790797048.9883728
+  },
+  "31ee1d1ee04abc15": {
+   "cfg": "vless://2412bd96-925b-43f2-81d1-0ed4f0793699@31.185.105.86:443?security=reality&encryption=none&fm=AhmadV2ray&pbk=G-Fy0uWH2NeeFRM1bgEq_rdx1bV3IB9xJefI8Of-Nxc&headerType=none&fp=firefox&spx=%2FAhmadV2ray&type=tcp&flow=xtls-rprx-vision&sni=dlcdn.apache.org&sid=ce73972832e06812#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 510,
+   "ts": 1790797833.4370422
   }
  },
  "geo": {
@@ -1416,13 +1430,18 @@
    "cc": "TR",
    "name": "Türkiye",
    "ts": 1790797053.7877107
+  },
+  "31.185.105.86": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1790797842.5767539
   }
  },
  "stats": {
   "date": "2026-09-30",
-  "fetched": 123,
-  "healthy": 93,
-  "posted": 66,
+  "fetched": 126,
+  "healthy": 95,
+  "posted": 67,
   "removed": 68
  }
 }
