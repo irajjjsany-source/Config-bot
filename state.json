@@ -387,12 +387,6 @@
  },
  "queue": [
   {
-   "id": "49dee9a2826780f9",
-   "cfg": "vless://70c16ec7-13f7-473b-b97d-06399f1481e3@172.64.80.1:8880?type=ws&host=mute-surf-0003.209.workers.dev#🔵@chillguy_vpn",
-   "ping": 98,
-   "ts": 1790742360.3763385
-  },
-  {
    "id": "5646d000931be691",
    "cfg": "vless://86dc5fb4-f279-45b7-a2c6-0d1e84b85c18@104.16.107.139:8880?encryption=none&fp=chrome&host=lingering-dawn-5d4a.163-3f1.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&sni=lingering-dawn-5d4a.163-3f1.workers.dev&type=ws#🔵@chillguy_vpn",
    "ping": 106,
@@ -747,6 +741,11 @@
    "cfg": "vless://94977b19-6720-48a6-92fd-00238757ea30@172.67.162.93:8880?type=ws&host=fragrant-credit-c4cf.148-e68.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 453,
    "ts": 1790744614.8566923
+  },
+  "49dee9a2826780f9": {
+   "cfg": "vless://70c16ec7-13f7-473b-b97d-06399f1481e3@172.64.80.1:8880?type=ws&host=mute-surf-0003.209.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 454,
+   "ts": 1790745918.448212
   }
  },
  "geo": {
@@ -1075,7 +1074,7 @@
   "date": "2026-09-30",
   "fetched": 15,
   "healthy": 13,
-  "posted": 15,
+  "posted": 16,
   "removed": 14
  }
 }
