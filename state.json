@@ -374,24 +374,6 @@
  },
  "queue": [
   {
-   "id": "3e3df138c03b1e33",
-   "cfg": "vless://f2eada1b-fdec-48c6-8638-18ade32993d4@5.223.41.93:80?path=%2F%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 2464,
-   "ts": 1790709928.6974337
-  },
-  {
-   "id": "b8c74976e5746611",
-   "cfg": "vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#🔵@chillguy_vpn",
-   "ping": 3488,
-   "ts": 1790725721.708681
-  },
-  {
-   "id": "f85ec14471e1d8a6",
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.152:9894?mode=gun&security=reality&encryption=none&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🔵@chillguy_vpn",
-   "ping": 3728,
-   "ts": 1790709928.6974337
-  },
-  {
    "id": "fc1934b0d9c181d2",
    "cfg": "vless://228ecfd3-9bf0-42fd-a50e-581f84022513@89.125.65.110:443?security=reality&encryption=none&pbk=94vM83D04n5QHxwxT-DSY8Q5YqGjMFEHnDVS_M-L2wc&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ozone.nl&sid=5d8ec7b1dbc0#🔵@chillguy_vpn",
    "ping": 5538,
@@ -402,12 +384,6 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.244.38:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🔵@chillguy_vpn",
    "ping": 5976,
    "ts": 1790715061.378863
-  },
-  {
-   "id": "e3e3ac5897356c39",
-   "cfg": "vless://9cbe24e6-340b-4ff6-8df5-287424de0edd@109.248.162.28:2083?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&pbk=7zJ_mc86Qh4q3fh1Qavf0RhicM_Lto3yaIlP7HPQ5UA&fp=chrome&spx=%2Ff59fc22f24dd00f&type=xhttp&sni=youtubekids.com&sid=08#🔵@chillguy_vpn",
-   "ping": 6176,
-   "ts": 1790709928.6974337
   },
   {
    "id": "c4843dbe9644172a",
@@ -708,6 +684,11 @@
    "cfg": "vless://f2eada1b-fdec-48c6-8638-18ade32993d4@5.223.41.93:80?encryption=none&security=none&type=ws&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 443,
    "ts": 1790731519.1665437
+  },
+  "b8c74976e5746611": {
+   "cfg": "vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 444,
+   "ts": 1790732201.3291354
   }
  },
  "geo": {
@@ -995,13 +976,18 @@
    "cc": "SG",
    "name": "Singapore",
    "ts": 1790731522.5224102
+  },
+  "5.253.28.240": {
+   "cc": "IN",
+   "name": "India",
+   "ts": 1790732203.0947857
   }
  },
  "stats": {
   "date": "2026-09-30",
   "fetched": 2,
   "healthy": 2,
-  "posted": 5,
+  "posted": 6,
   "removed": 14
  }
 }
