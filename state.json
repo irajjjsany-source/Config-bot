@@ -426,21 +426,11 @@
   "97c45b6ddf790965": 1790765608.593932,
   "3d1238f36272c93f": 1790766210.7050288,
   "35c42be9ecc82732": 1790767405.0856051,
-  "a8434a475d6595d5": 1790767405.0856051
+  "a8434a475d6595d5": 1790767405.0856051,
+  "1819a1d8ae10f937": 1790769154.1289933,
+  "a599b575cd0f134c": 1790769154.1289933
  },
  "queue": [
-  {
-   "id": "3d1238f36272c93f",
-   "cfg": "vmess://eyJhZGQiOiAiZ2hhZmFzcWFtLnFqY20uaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ2hhZmFzcWFtLnFqY20uaXIiLCAiaWQiOiAiMTk5ZjYwM2EtM2Y5Ni00ZWE3LWIzM2YtNWFhNzlmMzBjZjNjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3FqY20iLCAicGNzIjogIiIsICJwb3J0IjogIjIwMjUiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2hhZmFzcWFtLnFqY20uaXIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
-   "ping": 1189,
-   "ts": 1790766210.7050288
-  },
-  {
-   "id": "03a2675a69e9baa8",
-   "cfg": "vless://a25d0eb0-5b56-455d-a224-048044a36b70@sub.begoovip.ir:8085?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.klOfBitZVEZOXJHrM7Q0-NkDdCvwY5S5-tbxLtOlmxs&insecure=0&host=sub.begoovp.ir&fp=chrome&ech=AGH%2BDQBdAAAgACDcX1KLYuPXzDauSsb%2Bp0KXjY2x66le3%2FbHZ0wijc7lRQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA5zdWIuYmVnb292cC5pcgAA&type=ws&allowInsecure=0&sni=sub.begoovp.ir#🔵@chillguy_vpn",
-   "ping": 1237,
-   "ts": 1790758543.661117
-  },
   {
    "id": "ae7d9b3d9514f8b4",
    "cfg": "vless://dbe7df9a-c846-4305-9bbf-771c1b2f0520@179.198.207.36:443?security=reality&encryption=none&pbk=OsyavP0kjFE1iSMCLRMRfOK2qDIpB1iwxBqdmamsaC4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ai.sonnysleepbot.uk&sid=be9df5407e49841e#🔵@chillguy_vpn",
@@ -806,6 +796,11 @@
    "cfg": "vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 480,
    "ts": 1790768202.3868222
+  },
+  "03a2675a69e9baa8": {
+   "cfg": "vless://a25d0eb0-5b56-455d-a224-048044a36b70@sub.begoovip.ir:8085?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.klOfBitZVEZOXJHrM7Q0-NkDdCvwY5S5-tbxLtOlmxs&insecure=0&host=sub.begoovp.ir&fp=chrome&ech=AGH%2BDQBdAAAgACDcX1KLYuPXzDauSsb%2Bp0KXjY2x66le3%2FbHZ0wijc7lRQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA5zdWIuYmVnb292cC5pcgAA&type=ws&allowInsecure=0&sni=sub.begoovp.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 481,
+   "ts": 1790769154.1289933
   }
  },
  "geo": {
@@ -1203,13 +1198,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1790768205.1348016
+  },
+  "sub.begoovip.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790769166.9542084
   }
  },
  "stats": {
   "date": "2026-09-30",
-  "fetched": 58,
+  "fetched": 60,
   "healthy": 44,
-  "posted": 37,
+  "posted": 38,
   "removed": 34
  }
 }
