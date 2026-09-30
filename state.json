@@ -523,12 +523,6 @@
  },
  "queue": [
   {
-   "id": "1ec5415cd78f5779",
-   "cfg": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2Ffp%3Dchrome%3Fed%23TELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#🔵@chillguy_vpn",
-   "ping": 96,
-   "ts": 1790802151.2150836
-  },
-  {
    "id": "7c2c0a1487cf8fc8",
    "cfg": "vless://06f25be2-97d2-4144-9a1e-c6fe4949d41b@91.107.167.241:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🔵@chillguy_vpn",
    "ping": 209,
@@ -1029,6 +1023,11 @@
    "cfg": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2Ffp%3Dchrome%3Fed%23TELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=edgetunnel-4uw.pages.dev&type=ws&sni=edgetunnel-4uw.pages.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 516,
    "ts": 1790803519.1738334
+  },
+  "1ec5415cd78f5779": {
+   "cfg": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2Ffp%3Dchrome%3Fed%23TELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 517,
+   "ts": 1790804331.9706519
   }
  },
  "geo": {
@@ -1587,7 +1586,7 @@
   "date": "2026-09-30",
   "fetched": 151,
   "healthy": 114,
-  "posted": 73,
+  "posted": 74,
   "removed": 68
  }
 }
