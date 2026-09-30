@@ -387,12 +387,6 @@
  },
  "queue": [
   {
-   "id": "715879550339ca59",
-   "cfg": "vless://8995976a-1c81-4b44-a414-d3bc71058a21@104.21.0.115:8880?type=ws&host=muddy-queen-cdda.181-cf9.workers.dev#🔵@chillguy_vpn",
-   "ping": 87,
-   "ts": 1790742360.3763385
-  },
-  {
    "id": "1df27583d21ea73c",
    "cfg": "vless://94977b19-6720-48a6-92fd-00238757ea30@172.67.162.93:8880?type=ws&host=fragrant-credit-c4cf.148-e68.workers.dev#🔵@chillguy_vpn",
    "ping": 97,
@@ -749,6 +743,11 @@
    "cfg": "vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?encryption=none&security=none&type=ws&host=cold-bush-a762.lidrezvpn.workers.dev&path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 451,
    "ts": 1790743163.6625726
+  },
+  "715879550339ca59": {
+   "cfg": "vless://8995976a-1c81-4b44-a414-d3bc71058a21@104.21.0.115:8880?type=ws&host=muddy-queen-cdda.181-cf9.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 452,
+   "ts": 1790743975.8833296
   }
  },
  "geo": {
@@ -1061,13 +1060,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790743164.7645795
+  },
+  "104.21.0.115": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790743976.9717915
   }
  },
  "stats": {
   "date": "2026-09-30",
   "fetched": 15,
   "healthy": 13,
-  "posted": 13,
+  "posted": 14,
   "removed": 14
  }
 }
