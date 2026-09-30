@@ -546,12 +546,6 @@
  },
  "queue": [
   {
-   "id": "5d26222c0731fe2c",
-   "cfg": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🔵@chillguy_vpn",
-   "ping": 444,
-   "ts": 1790801436.4712923
-  },
-  {
    "id": "9bc7dc5453dd3519",
    "cfg": "vless://ff65fb9b-552f-426f-8321-4c85024377e6@de-hn.spacev67.com:443?security=reality&encryption=none&pbk=K1Tx2yzaAAYJ-jrj9VUx_BN81BeAySNbXTDKv258ThA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de-hn.spacev67.com&sid=fcbafe220392b8ef#🔵@chillguy_vpn",
    "ping": 489,
@@ -760,12 +754,6 @@
    "cfg": "vless://4496d9fb-37da-4c7f-98bb-eb1ccf110c4d@132.243.231.22:443?security=reality&encryption=none&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nordic.global-cdn.org&sid=2d6d073dc88f22a8#🔵@chillguy_vpn",
    "ping": 2536,
    "ts": 1790791416.187666
-  },
-  {
-   "id": "38594a9daef7194a",
-   "cfg": "vless://4496d9fb-37da-4c7f-98bb-eb1ccf110c4d@132.243.231.22:443?security=reality&encryption=none&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nordic.global-cdn.org&sid=2d6d073dc88f22a8#🔵@chillguy_vpn",
-   "ping": 4897,
-   "ts": 1790789834.89437
   },
   {
    "id": "a2b22ebfe86ad0da",
@@ -1181,6 +1169,11 @@
    "cfg": "vless://8ddcc140-6a23-dfb8-2b54-39e58adba0ce@mortxzaaz98-production.up.railway.app:443?path=%2Fws%2F8ddcc140-6a23-dfb8-2b54-39e58adba0ce&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mortxzaaz98-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=mortxzaaz98-production.up.railway.app#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 525,
    "ts": 1790811326.5327196
+  },
+  "5d26222c0731fe2c": {
+   "cfg": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 526,
+   "ts": 1790812174.469214
   }
  },
  "geo": {
@@ -1748,13 +1741,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1790811328.3452497
+  },
+  "31.77.13.19": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1790812176.0379944
   }
  },
  "stats": {
   "date": "2026-09-30",
   "fetched": 174,
   "healthy": 137,
-  "posted": 82,
+  "posted": 83,
   "removed": 68
  }
 }
