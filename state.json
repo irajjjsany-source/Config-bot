@@ -407,7 +407,8 @@
   "03a2675a69e9baa8": 1790758543.661117,
   "f9d8a2eab4167bf5": 1790758543.661117,
   "54d69562a5428a64": 1790758543.661117,
-  "161b9b5ed3ef1b37": 1790758543.661117
+  "161b9b5ed3ef1b37": 1790758543.661117,
+  "d0cc3a6c495c28cc": 1790760356.0334113
  },
  "queue": [
   {
@@ -755,6 +756,11 @@
    "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.113.240:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=nvidia.com&sid=db04ce8bdb8900f1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 470,
    "ts": 1790759044.9178963
+  },
+  "d0cc3a6c495c28cc": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.182:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 471,
+   "ts": 1790760356.0334113
   }
  },
  "geo": {
@@ -1107,13 +1113,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1790758546.0679505
+  },
+  "169.40.42.182": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790760357.4947934
   }
  },
  "stats": {
   "date": "2026-09-30",
-  "fetched": 39,
-  "healthy": 31,
-  "posted": 27,
+  "fetched": 40,
+  "healthy": 32,
+  "posted": 28,
   "removed": 34
  }
 }
