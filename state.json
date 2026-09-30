@@ -537,20 +537,10 @@
    "msg": 347,
    "ts": 1790643296.53862
   },
-  "e670ac9b75f64027": {
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.247.104:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 349,
-   "ts": 1790644973.2330015
-  },
   "4d75cdb5cca4754f": {
    "cfg": "vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&fp=firefox&type=grpc&serviceName=rex-eb0bf76b710ce763&sni=deepl.com&sid=92c32de179e5d908#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 351,
    "ts": 1790646650.989028
-  },
-  "d2d667a93e46c444": {
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.247.104:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 355,
-   "ts": 1790650207.0997925
   },
   "812ba0ca30ac5905": {
    "cfg": "vless://37fce9ce-9fec-4f30-89a0-fbb1f6f33b3c@104.16.107.139:8880?encryption=none&type=ws&host=white-night-afee.419-acc.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -587,11 +577,6 @@
    "msg": 385,
    "ts": 1790679784.6831074
   },
-  "5b420f247d3ed970": {
-   "cfg": "vless://XpnTeam-49@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 387,
-   "ts": 1790681790.6718495
-  },
   "528d53f07d058d4b": {
    "cfg": "vless://a368752a-32fc-42f3-980a-6b049218b23f@107.148.158.100:443?security=reality&encryption=none&pbk=iOXJkurGWCpwU-Z1B3RPJnjXGSQ_v1-H5XtHa6mEeFc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=usa-2.letsconnectpoint.com&sid=b1c1b5e2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 391,
@@ -617,30 +602,10 @@
    "msg": 400,
    "ts": 1790692840.917416
   },
-  "83168ccf737eef17": {
-   "cfg": "vless://228ecfd3-9bf0-42fd-a50e-581f84022513@185.244.48.183:8443?security=reality&encryption=none&pbk=XgdHElYEGdc0A5NTZP4uTya2Y4WTKnfFV4ormD7rLx4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.ozone.nl&sid=debb#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 402,
-   "ts": 1790694375.2035277
-  },
-  "046efa3ba4349e06": {
-   "cfg": "vless://%58pnTeam-48@199.232.78.159:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 403,
-   "ts": 1790695674.6246264
-  },
-  "8a6f88dfb13c2562": {
-   "cfg": "vless://%58pnTeam-48@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 406,
-   "ts": 1790697914.113111
-  },
   "c7afbc2bcb5db0de": {
    "cfg": "vless://554152b4-7819-4e3b-9971-74d6fd8b3975@146.19.130.192:57890?security=&encryption=none&headerType=&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 407,
    "ts": 1790699264.334515
-  },
-  "a45ab08416b9af46": {
-   "cfg": "vless://%58pnTeam-49@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 408,
-   "ts": 1790700108.2621062
   },
   "cb3f5c4cc3f9f96d": {
    "cfg": "vless://228ecfd3-9bf0-42fd-a50e-581f84022513@89.125.65.110:443?flow=xtls-rprx-vision&sid=5d8ec7b1dbc0&pbk=94vM83D04n5QHxwxT-DSY8Q5YqGjMFEHnDVS_M-L2wc&sni=ozone.nl&type=tcp&encryption=none&security=reality&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -656,16 +621,6 @@
    "cfg": "vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.124.217.252:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 412,
    "ts": 1790703439.477266
-  },
-  "8041536e193f9d04": {
-   "cfg": "vless://c09da06c-ad4a-4bd9-a483-9cb9216a9ea6@fn2.ht.sublinkplas.ir:12040?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.goo.gl&sid=3e5cba1bd6eb6221#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 413,
-   "ts": 1790704305.880594
-  },
-  "06eb21c378f868c0": {
-   "cfg": "vless://c09da06c-ad4a-4bd9-a483-9cb9216a9ea6@de4ht.sublinkplas.ir:12040?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.goo.gl&sid=3e5cba1bd6eb6221#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 414,
-   "ts": 1790705077.1000206
   },
   "44804f700f4e74bf": {
    "cfg": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -697,11 +652,6 @@
    "msg": 420,
    "ts": 1790710664.2644672
   },
-  "8dd094d32b09a7ff": {
-   "cfg": "vless://40f2aa9a-05cc-44aa-bd79-5e973046c062@206.1.99.63:49985?security=reality&encryption=none&pbk=sw1jKj94Ko31_R9VrRAPQZJxoUY9_HRkvEA_-O1q6iE&headerType=&fp=chrome&spx=%2Facf016f7fcf8f80&type=tcp&sni=play.google.com&sid=5f61974010c2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 421,
-   "ts": 1790711464.833577
-  },
   "eaf77038f85b14a4": {
    "cfg": "vless://228ecfd3-9bf0-42fd-a50e-581f84022513@89.125.65.110:443?security=reality&encryption=none&pbk=94vM83D04n5QHxwxT-DSY8Q5YqGjMFEHnDVS_M-L2wc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ozone.nl&sid=5d8ec7b1dbc0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 422,
@@ -721,11 +671,6 @@
    "cfg": "vless://550a69ec-fec1-4eca-b939-4ee076875fa8@113.30.154.65:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=sellflow.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 425,
    "ts": 1790715061.378863
-  },
-  "7551e0d345dae7a4": {
-   "cfg": "vless://6e58f644-bc22-4dae-824a-4c3a760dc7a1@144.31.122.33:2053?security=reality&encryption=none&pbk=YfO61P-1nE3eQlo_QOYbSlrYpQto89TFVD2B3T_V30Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tripadvisor.com&sid=f5a2972048210937#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 426,
-   "ts": 1790715758.4010942
   },
   "1814084f5a254f65": {
    "cfg": "vless://365de9e9-ba29-0004-af2d-766f9638e3be@192.142.12.175:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&sni=diffoscope.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -757,25 +702,10 @@
    "msg": 432,
    "ts": 1790721373.2872267
   },
-  "56f50f2e5b705e97": {
-   "cfg": "vless://3df643c6-9f15-4400-a55d-5828998bfd40@us.berzema.ir:6300?security=reality&type=tcp&headerType=&path=&host=&sni=green.ai&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 433,
-   "ts": 1790722171.4601452
-  },
   "14b9b13a062e1d4c": {
    "cfg": "vless://179a88d7-9ddb-4d48-ac6c-0f208cf030bc@p2real22.greewebservices.ir:1320?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 434,
    "ts": 1790722929.0813463
-  },
-  "3d40adef120bc6a5": {
-   "cfg": "vless://3df643c6-9f15-4400-a55d-5828998bfd40@ip-aelix.berqovo.ir:6304?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 435,
-   "ts": 1790724112.4412124
-  },
-  "d5ac900e3a7f110c": {
-   "cfg": "vless://3df643c6-9f15-4400-a55d-5828998bfd40@De.berqovo.ir:6300?security=reality&type=tcp&headerType=&path=&host=&sni=green.ai&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 436,
-   "ts": 1790724840.5958495
   },
   "aff7b9caa80b9a71": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -1065,6 +995,6 @@
   "fetched": 0,
   "healthy": 0,
   "posted": 1,
-  "removed": 0
+  "removed": 14
  }
 }
