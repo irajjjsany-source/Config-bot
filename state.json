@@ -435,7 +435,8 @@
   "6f798cb44e073f7d": 1790773124.1043768,
   "f475de24e2bfb09c": 1790773124.1043768,
   "8764800ff9611df6": 1790773124.1043768,
-  "69c46a7ad98a43c8": 1790773124.1043768
+  "69c46a7ad98a43c8": 1790773124.1043768,
+  "ea06dcbeed7e0ce9": 1790775023.4226422
  },
  "queue": [
   {
@@ -748,6 +749,11 @@
    "cfg": "vless://3d9092f3-2ee2-497a-9732-ee7570531c09@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 485,
    "ts": 1790774004.3424945
+  },
+  "ea06dcbeed7e0ce9": {
+   "cfg": "vless://349fd9b8-ddb9-4ab8-bf35-a01151ef2304@5.161.102.40:80?path=%2F&security=none&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 486,
+   "ts": 1790775023.4226422
   }
  },
  "geo": {
@@ -1165,13 +1171,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1790773133.4786112
+  },
+  "5.161.102.40": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790775025.1618044
   }
  },
  "stats": {
   "date": "2026-09-30",
-  "fetched": 67,
-  "healthy": 49,
-  "posted": 42,
+  "fetched": 68,
+  "healthy": 50,
+  "posted": 43,
   "removed": 50
  }
 }
