@@ -430,12 +430,6 @@
  },
  "queue": [
   {
-   "id": "f9d8a2eab4167bf5",
-   "cfg": "vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#🔵@chillguy_vpn",
-   "ping": 999,
-   "ts": 1790758543.661117
-  },
-  {
    "id": "3d1238f36272c93f",
    "cfg": "vmess://eyJhZGQiOiAiZ2hhZmFzcWFtLnFqY20uaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ2hhZmFzcWFtLnFqY20uaXIiLCAiaWQiOiAiMTk5ZjYwM2EtM2Y5Ni00ZWE3LWIzM2YtNWFhNzlmMzBjZjNjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3FqY20iLCAicGNzIjogIiIsICJwb3J0IjogIjIwMjUiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2hhZmFzcWFtLnFqY20uaXIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
    "ping": 1189,
@@ -807,6 +801,11 @@
    "cfg": "vless://f774f037-6320-42e3-a97b-6d4a1f018dd5@91.107.156.190:8443?mode=auto&path=%2F&security=reality&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.0dGnrBYkUoWdtMe4AuGhztxmzzVNTT5EwGOBb3_Gdwc&pbk=jSnvBZf_8Yt7bVE8SNXVUtqe389yBWpNIkH6S4S9hhM&host=irancel.tulnaro.ir&fp=chrome&type=xhttp&sni=irancel.tulnaro.ir&sid=14fabe57c1ed0a05#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 479,
    "ts": 1790767405.0856051
+  },
+  "f9d8a2eab4167bf5": {
+   "cfg": "vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 480,
+   "ts": 1790768202.3868222
   }
  },
  "geo": {
@@ -1199,13 +1198,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790767407.8783169
+  },
+  "54.37.136.194": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1790768205.1348016
   }
  },
  "stats": {
   "date": "2026-09-30",
   "fetched": 58,
   "healthy": 44,
-  "posted": 36,
+  "posted": 37,
   "removed": 34
  }
 }
