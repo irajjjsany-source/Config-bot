@@ -374,18 +374,6 @@
  },
  "queue": [
   {
-   "id": "928b66c3726232ab",
-   "cfg": "vless://3df643c6-9f15-4400-a55d-5828998bfd40@aelix.berqovo.ir:6309?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#🔵@chillguy_vpn",
-   "ping": 933,
-   "ts": 1790722171.4601452
-  },
-  {
-   "id": "ad04dd7e0ac0d007",
-   "cfg": "vless://5d4557de-2778-4002-b12f-0211251e7595@206.1.99.14:39907?encryption=none&fp=chrome&pbk=WKMa8Yg-WkXAnbHV4HK9YHQOXDyQzH2xcAL9hRRJWA4&security=reality&sid=f7a5d3&sni=rpc.anker.com&spx=%2Fac715f56c3564de&type=tcp#🔵@chillguy_vpn",
-   "ping": 1063,
-   "ts": 1790708926.4052906
-  },
-  {
    "id": "a80db5f5f1338b67",
    "cfg": "vless://3df643c6-9f15-4400-a55d-5828998bfd40@aelix-al.safire-soleiman.ir:6311?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#🔵@chillguy_vpn",
    "ping": 1092,
@@ -722,6 +710,11 @@
    "cfg": "vless://179a88d7-9ddb-4d48-ac6c-0f208cf030bc@areal2.greewebservices.ir:3435?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 441,
    "ts": 1790729814.764128
+  },
+  "ad04dd7e0ac0d007": {
+   "cfg": "vless://5d4557de-2778-4002-b12f-0211251e7595@206.1.99.14:39907?encryption=none&fp=chrome&pbk=WKMa8Yg-WkXAnbHV4HK9YHQOXDyQzH2xcAL9hRRJWA4&security=reality&sid=f7a5d3&sni=rpc.anker.com&spx=%2Fac715f56c3564de&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 442,
+   "ts": 1790730470.0370867
   }
  },
  "geo": {
@@ -999,13 +992,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1790728370.642879
+  },
+  "206.1.99.14": {
+   "cc": "TR",
+   "name": "Türkiye",
+   "ts": 1790730473.8105428
   }
  },
  "stats": {
   "date": "2026-09-30",
   "fetched": 2,
   "healthy": 2,
-  "posted": 3,
+  "posted": 4,
   "removed": 14
  }
 }
