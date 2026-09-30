@@ -389,12 +389,6 @@
  },
  "queue": [
   {
-   "id": "818d18af88e07607",
-   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.113.240:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nvidia.com&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=chrome#🔵@chillguy_vpn",
-   "ping": 290,
-   "ts": 1790740350.7779143
-  },
-  {
    "id": "9cbfa5429e19109f",
    "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.113.240:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nvidia.com&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=random#🔵@chillguy_vpn",
    "ping": 457,
@@ -752,6 +746,11 @@
    "cfg": "vless://80f083d3-8348-4514-b075-62f303b7fd86@themeforest.net:8880?&packet-encoding=xudp&type=ws&headerType=none&host=young-term-5783.284.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 456,
    "ts": 1790747535.98093
+  },
+  "818d18af88e07607": {
+   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.113.240:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nvidia.com&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=chrome#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 457,
+   "ts": 1790748188.5327647
   }
  },
  "geo": {
@@ -1079,13 +1078,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790747537.8815002
+  },
+  "31.76.113.240": {
+   "cc": "IT",
+   "name": "Italy",
+   "ts": 1790748190.1057286
   }
  },
  "stats": {
   "date": "2026-09-30",
   "fetched": 17,
   "healthy": 14,
-  "posted": 18,
+  "posted": 19,
   "removed": 14
  }
 }
