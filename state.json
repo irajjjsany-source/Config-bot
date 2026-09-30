@@ -432,18 +432,6 @@
  },
  "queue": [
   {
-   "id": "ae7d9b3d9514f8b4",
-   "cfg": "vless://dbe7df9a-c846-4305-9bbf-771c1b2f0520@179.198.207.36:443?security=reality&encryption=none&pbk=OsyavP0kjFE1iSMCLRMRfOK2qDIpB1iwxBqdmamsaC4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ai.sonnysleepbot.uk&sid=be9df5407e49841e#🔵@chillguy_vpn",
-   "ping": 1859,
-   "ts": 1790763970.7322874
-  },
-  {
-   "id": "00f1a5f4de08119f",
-   "cfg": "vmess://eyJhZGQiOiAiNjYuMTYzLjExOC43MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
-   "ping": 2580,
-   "ts": 1790762662.3466077
-  },
-  {
    "id": "d72298d4561345d6",
    "cfg": "vless://d13baced-948a-40d7-be31-7b44fa768552@45.145.40.61:7443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.overload.ovh&sid=a20d3ed244c76426#🔵@chillguy_vpn",
    "ping": 2941,
@@ -801,6 +789,11 @@
    "cfg": "vless://a25d0eb0-5b56-455d-a224-048044a36b70@sub.begoovip.ir:8085?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.klOfBitZVEZOXJHrM7Q0-NkDdCvwY5S5-tbxLtOlmxs&insecure=0&host=sub.begoovp.ir&fp=chrome&ech=AGH%2BDQBdAAAgACDcX1KLYuPXzDauSsb%2Bp0KXjY2x66le3%2FbHZ0wijc7lRQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA5zdWIuYmVnb292cC5pcgAA&type=ws&allowInsecure=0&sni=sub.begoovp.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 481,
    "ts": 1790769154.1289933
+  },
+  "00f1a5f4de08119f": {
+   "cfg": "vmess://eyJhZGQiOiAiNjYuMTYzLjExOC43MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "msg": 482,
+   "ts": 1790769845.0646367
   }
  },
  "geo": {
@@ -1203,13 +1196,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790769166.9542084
+  },
+  "66.163.118.73": {
+   "cc": "ES",
+   "name": "Spain",
+   "ts": 1790769847.5243692
   }
  },
  "stats": {
   "date": "2026-09-30",
   "fetched": 60,
   "healthy": 44,
-  "posted": 38,
+  "posted": 39,
   "removed": 34
  }
 }
