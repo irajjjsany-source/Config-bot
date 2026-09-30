@@ -387,12 +387,6 @@
  },
  "queue": [
   {
-   "id": "f5b546528cd495d6",
-   "cfg": "vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?encryption=none&security=none&type=ws&host=cold-bush-a762.lidrezvpn.workers.dev&path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🔵@chillguy_vpn",
-   "ping": 85,
-   "ts": 1790742360.3763385
-  },
-  {
    "id": "715879550339ca59",
    "cfg": "vless://8995976a-1c81-4b44-a414-d3bc71058a21@104.21.0.115:8880?type=ws&host=muddy-queen-cdda.181-cf9.workers.dev#🔵@chillguy_vpn",
    "ping": 87,
@@ -750,6 +744,11 @@
    "cfg": "vless://f15a5586-23f6-453f-97f5-c301b949e699@172.64.151.134:8880?type=ws&host=mute-sunset-0849.40-aeb.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 450,
    "ts": 1790742360.3763385
+  },
+  "f5b546528cd495d6": {
+   "cfg": "vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?encryption=none&security=none&type=ws&host=cold-bush-a762.lidrezvpn.workers.dev&path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 451,
+   "ts": 1790743163.6625726
   }
  },
  "geo": {
@@ -1057,13 +1056,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790742362.4220386
+  },
+  "104.21.19.226": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790743164.7645795
   }
  },
  "stats": {
   "date": "2026-09-30",
   "fetched": 15,
   "healthy": 13,
-  "posted": 12,
+  "posted": 13,
   "removed": 14
  }
 }
