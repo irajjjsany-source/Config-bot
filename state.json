@@ -424,15 +424,11 @@
   "16c47f3f5b7f670c": 1790764784.7475893,
   "a11ad4ccf86e3c77": 1790765608.593932,
   "97c45b6ddf790965": 1790765608.593932,
-  "3d1238f36272c93f": 1790766210.7050288
+  "3d1238f36272c93f": 1790766210.7050288,
+  "35c42be9ecc82732": 1790767405.0856051,
+  "a8434a475d6595d5": 1790767405.0856051
  },
  "queue": [
-  {
-   "id": "161b9b5ed3ef1b37",
-   "cfg": "vless://f774f037-6320-42e3-a97b-6d4a1f018dd5@91.107.156.190:8443?mode=auto&path=%2F&security=reality&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.0dGnrBYkUoWdtMe4AuGhztxmzzVNTT5EwGOBb3_Gdwc&pbk=jSnvBZf_8Yt7bVE8SNXVUtqe389yBWpNIkH6S4S9hhM&host=irancel.tulnaro.ir&fp=chrome&type=xhttp&sni=irancel.tulnaro.ir&sid=14fabe57c1ed0a05#🔵@chillguy_vpn",
-   "ping": 666,
-   "ts": 1790758543.661117
-  },
   {
    "id": "f9d8a2eab4167bf5",
    "cfg": "vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#🔵@chillguy_vpn",
@@ -806,6 +802,11 @@
    "cfg": "vmess://eyJhZGQiOiAic3Vucy5kZXNydC1pLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlMmUxMWVhNi1mM2QwLTQ3YTQtOTFjOC03NzQ2NjBhNGU2MmYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTE3OTIiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==",
    "msg": 478,
    "ts": 1790766210.7050288
+  },
+  "161b9b5ed3ef1b37": {
+   "cfg": "vless://f774f037-6320-42e3-a97b-6d4a1f018dd5@91.107.156.190:8443?mode=auto&path=%2F&security=reality&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.0dGnrBYkUoWdtMe4AuGhztxmzzVNTT5EwGOBb3_Gdwc&pbk=jSnvBZf_8Yt7bVE8SNXVUtqe389yBWpNIkH6S4S9hhM&host=irancel.tulnaro.ir&fp=chrome&type=xhttp&sni=irancel.tulnaro.ir&sid=14fabe57c1ed0a05#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 479,
+   "ts": 1790767405.0856051
   }
  },
  "geo": {
@@ -1193,13 +1194,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790766213.3687594
+  },
+  "91.107.156.190": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790767407.8783169
   }
  },
  "stats": {
   "date": "2026-09-30",
-  "fetched": 56,
+  "fetched": 58,
   "healthy": 44,
-  "posted": 35,
+  "posted": 36,
   "removed": 34
  }
 }
