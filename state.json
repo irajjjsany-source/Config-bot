@@ -1,9 +1,5 @@
 {
  "seen": {
-  "b483d1aa317f3fb4": 1790638542.5294433,
-  "1a500de747e3b6e1": 1790639376.1362493,
-  "4d75cdb5cca4754f": 1790639376.1362493,
-  "29746edceaf3781c": 1790639376.1362493,
   "e670ac9b75f64027": 1790644973.2330015,
   "b9a3ef320fdeaf78": 1790653112.9969766,
   "72ed58706009ccfa": 1790653112.9969766,
@@ -592,12 +588,6 @@
  },
  "queue": [
   {
-   "id": "51da85bb7bd82c2c",
-   "cfg": "vless://%58pnTeam-58@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 1880,
-   "ts": 1790887941.9500542
-  },
-  {
    "id": "72a8b85a4a9962ba",
    "cfg": "vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.237.245:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=Tirandazl.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#🔵@chillguy_vpn",
    "ping": 2142,
@@ -1126,6 +1116,11 @@
    "cfg": "vless://fad0b9a6-187d-4fcc-96fc-498bc5b3135a@server.slavkiti.monster:443?security=reality&encryption=none&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=8325360e8bd2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 615,
    "ts": 1790897735.564692
+  },
+  "51da85bb7bd82c2c": {
+   "cfg": "vless://%58pnTeam-58@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 616,
+   "ts": 1790898604.0086248
   }
  },
  "geo": {
@@ -1999,7 +1994,7 @@
   "date": "2026-10-01",
   "fetched": 187,
   "healthy": 143,
-  "posted": 88,
+  "posted": 89,
   "removed": 78
  }
 }
