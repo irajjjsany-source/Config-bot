@@ -1,9 +1,5 @@
 {
  "seen": {
-  "006423f53b96a9b0": 1790632951.595096,
-  "f5d73628cdfe1ae0": 1790634159.1899562,
-  "a0ee7cc4ea27fe0b": 1790634159.1899562,
-  "0ccbfe4aaae6b364": 1790634159.1899562,
   "6eb262cbff29e54d": 1790636523.2398932,
   "3274588609798eb8": 1790636523.2398932,
   "4817f6b7f2715d99": 1790636523.2398932,
@@ -595,18 +591,6 @@
  },
  "queue": [
   {
-   "id": "94303dd5565102cc",
-   "cfg": "vless://%58pnTeam-59@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 1236,
-   "ts": 1790887941.9500542
-  },
-  {
-   "id": "065405698a907967",
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabbccdd&type=grpc&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&serviceName=grpc-tunnel&mode=gun#🔵@chillguy_vpn",
-   "ping": 1359,
-   "ts": 1790889864.8120947
-  },
-  {
    "id": "34dad5c4eea0889a",
    "cfg": "vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.246.236:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=teranko.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#🔵@chillguy_vpn",
    "ping": 1629,
@@ -623,12 +607,6 @@
    "cfg": "vless://%58pnTeam-58@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
    "ping": 1880,
    "ts": 1790887941.9500542
-  },
-  {
-   "id": "f9db734bd06c45a1",
-   "cfg": "vless://d13baced-948a-40d7-be31-7b44fa768552@188.68.218.37:8443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22%22%2C%22headers%22%3A%7B%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionIDPlacement%22%3A%22%22%2C%22sessionIDKey%22%3A%22%22%2C%22sessionIDTable%22%3A%22%22%2C%22sessionIDLength%22%3A%220%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A%220%22%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22serverMaxHeaderBytes%22%3A0%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&fp=ios&type=xhttp&sni=rumulti.federal-usa.com&sid=6b2f4e6ac9b1d2f0#🔵@chillguy_vpn",
-   "ping": 2027,
-   "ts": 1790870627.9153278
   },
   {
    "id": "72a8b85a4a9962ba",
@@ -1135,6 +1113,11 @@
    "cfg": "vless://ab59f7b9-c31a-4620-bd22-85bfcaecd63e@86.62.52.27:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 609,
    "ts": 1790892150.3709686
+  },
+  "065405698a907967": {
+   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabbccdd&type=grpc&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&serviceName=grpc-tunnel&mode=gun#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 610,
+   "ts": 1790893361.1073296
   }
  },
  "geo": {
@@ -1993,7 +1976,7 @@
   "date": "2026-10-01",
   "fetched": 182,
   "healthy": 139,
-  "posted": 82,
+  "posted": 83,
   "removed": 78
  }
 }
