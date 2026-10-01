@@ -546,24 +546,6 @@
  },
  "queue": [
   {
-   "id": "57f1566456b4d04a",
-   "cfg": "vless://14bdb3f7-4556-404b-9fba-fd51ca9bd4b2@plkrjo5j.danqela.ir:51595?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=play.google.com&security=reality&fp=chrome&sni=play.google.com&pbk=AJjXkgHlDAdrUkG8hK3_ECdPa-baeGYacNmLPyc_hEo&sid=ea36049247370f47#🔵@chillguy_vpn",
-   "ping": 688,
-   "ts": 1790800617.3604777
-  },
-  {
-   "id": "e469eb5e6e88295e",
-   "cfg": "vless://ea8932f2-e630-4bd6-8cdd-57e55d77089c@switzerland-sgood.wopd.butnorwa.butter.melon.shoes.bye.bye.whooisthebest.ir:8000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage-p2.googleapis.com&sid=cd0a1986719e44c8#🔵@chillguy_vpn",
-   "ping": 691,
-   "ts": 1790807106.4836588
-  },
-  {
-   "id": "0449663f57a04481",
-   "cfg": "vless://dc01beee-1a43-4378-91a4-666eb027f664@65.109.188.113:21430?encryption=mlkem768x25519plus.native.0rtt.Q4RsjjIF_UTytOkqEN1-F-HM1GODFQZoVxh-IGCsRzk&security=none&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 697,
-   "ts": 1790805789.948691
-  },
-  {
    "id": "7043a324211c2834",
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?sni=dl.google.com&security=reality&type=grpc&mode=gun&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&encryption=none&sid=aabbccdd&serviceName=grpc-tunnel#🔵@chillguy_vpn",
    "ping": 704,
@@ -1042,6 +1024,11 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.154:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 533,
    "ts": 1790818691.5868843
+  },
+  "0449663f57a04481": {
+   "cfg": "vless://dc01beee-1a43-4378-91a4-666eb027f664@65.109.188.113:21430?encryption=mlkem768x25519plus.native.0rtt.Q4RsjjIF_UTytOkqEN1-F-HM1GODFQZoVxh-IGCsRzk&security=none&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 534,
+   "ts": 1790819501.5521688
   }
  },
  "geo": {
@@ -1639,13 +1626,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1790818693.6286519
+  },
+  "65.109.188.113": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1790819507.8495927
   }
  },
  "stats": {
   "date": "2026-10-01",
   "fetched": 0,
   "healthy": 0,
-  "posted": 6,
+  "posted": 7,
   "removed": 12
  }
 }
