@@ -1,6 +1,5 @@
 {
  "seen": {
-  "4a6bb968fa3cdc96": 1790629393.9444165,
   "d5d763840d07b186": 1790631331.9711313,
   "e97f492e7ac651eb": 1790631331.9711313,
   "b9155ce4547a8034": 1790631331.9711313,
@@ -589,7 +588,12 @@
   "51da85bb7bd82c2c": 1790887941.9500542,
   "94303dd5565102cc": 1790887941.9500542,
   "a9dccd8489014814": 1790888532.01673,
-  "d7735ebbd4ead57d": 1790888532.01673
+  "d7735ebbd4ead57d": 1790888532.01673,
+  "dcd7c1bc2dab5f5f": 1790889864.8120947,
+  "fe8e5ab2566ea792": 1790889864.8120947,
+  "f709c43b0e5e7419": 1790889864.8120947,
+  "69c61bb4fc945106": 1790889864.8120947,
+  "065405698a907967": 1790889864.8120947
  },
  "queue": [
   {
@@ -603,6 +607,12 @@
    "cfg": "vless://%58pnTeam-59@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
    "ping": 1236,
    "ts": 1790887941.9500542
+  },
+  {
+   "id": "065405698a907967",
+   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabbccdd&type=grpc&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&serviceName=grpc-tunnel&mode=gun#🔵@chillguy_vpn",
+   "ping": 1359,
+   "ts": 1790889864.8120947
   },
   {
    "id": "3f73f938582091ba",
@@ -629,10 +639,22 @@
    "ts": 1790870627.9153278
   },
   {
+   "id": "fe8e5ab2566ea792",
+   "cfg": "vless://ebeb7358-9fc0-4222-a0e5-d8bc274a8856@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=swissjji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 2237,
+   "ts": 1790889864.8120947
+  },
+  {
    "id": "4e2d6582cb2b6416",
    "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.241.78:443?security=reality&encryption=none&pbk=6NIpIulg7Pzn5prCK2Qk6TWEcm2b72CD_z2_XLG8tyc&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sh-pl-01.mintrocket.org&sid=31db3f825e83e2b0#🔵@chillguy_vpn",
    "ping": 2308,
    "ts": 1790884221.4772866
+  },
+  {
+   "id": "69c61bb4fc945106",
+   "cfg": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@areal5.greewebservices.ir:5455?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 2610,
+   "ts": 1790889864.8120947
   },
   {
    "id": "c958f08e28f28164",
@@ -669,6 +691,12 @@
    "cfg": "vless://284dde63-5d87-4df2-a6bb-438f48765b1d@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=sevenfeshab.global.ssl.fastly.net.&path=%2F#🔵@chillguy_vpn",
    "ping": 5386,
    "ts": 1790874312.558348
+  },
+  {
+   "id": "dcd7c1bc2dab5f5f",
+   "cfg": "vless://ebeb7358-9fc0-4222-a0e5-d8bc274a8856@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=looazjboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 5946,
+   "ts": 1790889864.8120947
   },
   {
    "id": "89a8d7f62d5d7edc",
@@ -1077,6 +1105,11 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.103:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 605,
    "ts": 1790888532.01673
+  },
+  "f709c43b0e5e7419": {
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 606,
+   "ts": 1790889864.8120947
   }
  },
  "geo": {
@@ -1914,13 +1947,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1790888538.5671625
+  },
+  "15.204.97.206": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790889871.6576223
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 166,
-  "healthy": 127,
-  "posted": 78,
+  "fetched": 171,
+  "healthy": 132,
+  "posted": 79,
   "removed": 78
  }
 }
