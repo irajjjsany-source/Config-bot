@@ -627,7 +627,9 @@
   "cca03ce331614414": 1790855645.01336,
   "a115e4829517f72e": 1790857930.7021594,
   "0bcd2045f6c7fd6f": 1790857930.7021594,
-  "cef5f97bbfbd13fe": 1790857930.7021594
+  "cef5f97bbfbd13fe": 1790857930.7021594,
+  "91c5424daffdc4eb": 1790859449.338861,
+  "e4ea238c983ddeb7": 1790859449.338861
  },
  "queue": [
   {
@@ -715,12 +717,6 @@
    "ts": 1790844990.3147995
   },
   {
-   "id": "5ed11112fe89b024",
-   "cfg": "vless://30dab345-4de9-4b70-ad9f-8ebd5c66686f@81.90.21.168:443?security=reality&encryption=none&pbk=GRxGFwibgoUjG9OL5Dl1OLyK56yw8WaG5BdFP8ifVgQ&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=26f7082dd0e36ca1#🔵@chillguy_vpn",
-   "ping": 1286,
-   "ts": 1790837848.802974
-  },
-  {
    "id": "fb45c5ee7c97f099",
    "cfg": "vless://86f62b39-e8d4-4095-8e0e-e1bc60b4b2ce@num3-ge.specialteam2.com:2626?security=reality&encryption=none&pbk=PWQTEqDK7DXsRxV0w74VoF0p7dNKbkbIcLt0o4_QaHU&headerType=none&fp=chrome&type=tcp&sni=www.goo.gl&sid=29e8472db54c86dc#🔵@chillguy_vpn",
    "ping": 1347,
@@ -749,12 +745,6 @@
    "cfg": "vless://5860b202-143f-4111-a6f6-ab94c5ef61c2@varzesh3.com:2095?path=%2Fpgcfws-r4&security=&encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&host=dox.safari-df.ir&type=ws#🔵@chillguy_vpn",
    "ping": 2186,
    "ts": 1790853917.6311715
-  },
-  {
-   "id": "ada35ebc7624d86c",
-   "cfg": "vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@31.14.123.220:49433?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 2242,
-   "ts": 1790836336.2990992
   },
   {
    "id": "5d8cea4717f91217",
@@ -1152,6 +1142,11 @@
    "cfg": "vless://1e894442-31ba-479a-8199-1af4cc8c83a5@91.98.107.229:3435?type=tcp&headerType=none&security=reality&fp=chrome&sni=www.raja.ir&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 573,
    "ts": 1790857930.7021594
+  },
+  "91c5424daffdc4eb": {
+   "cfg": "vless://b1b99d33-8df1-4c74-b140-28941b43a4d2@deepl.com:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=nameless-poetry-cc33.268-910.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 574,
+   "ts": 1790859449.338861
   }
  },
  "geo": {
@@ -1879,13 +1874,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790857933.8605747
+  },
+  "deepl.com": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790859452.7158399
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 85,
-  "healthy": 74,
-  "posted": 46,
+  "fetched": 87,
+  "healthy": 75,
+  "posted": 47,
   "removed": 53
  }
 }
