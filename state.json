@@ -1,8 +1,5 @@
 {
  "seen": {
-  "6eb262cbff29e54d": 1790636523.2398932,
-  "3274588609798eb8": 1790636523.2398932,
-  "4817f6b7f2715d99": 1790636523.2398932,
   "05e235d08a7f64cc": 1790637756.590814,
   "b483d1aa317f3fb4": 1790638542.5294433,
   "1a500de747e3b6e1": 1790639376.1362493,
@@ -591,7 +588,8 @@
   "f76254b814e40ad9": 1790894196.7059116,
   "33061c4c3bec26c2": 1790895059.2651978,
   "c070ad96b0fde240": 1790895059.2651978,
-  "3f00cd3bfd0fb427": 1790895059.2651978
+  "3f00cd3bfd0fb427": 1790895059.2651978,
+  "f1ed00ca3e34f46a": 1790896906.5202854
  },
  "queue": [
   {
@@ -659,12 +657,6 @@
    "cfg": "vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.246.236:443?security=tls&encryption=none&insecure=0&host=teranko.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#🔵@chillguy_vpn",
    "ping": 4751,
    "ts": 1790887941.9500542
-  },
-  {
-   "id": "3bfe8a1135ff2e7e",
-   "cfg": "vless://284dde63-5d87-4df2-a6bb-438f48765b1d@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=sevenfeshab.global.ssl.fastly.net.&path=%2F#🔵@chillguy_vpn",
-   "ping": 5386,
-   "ts": 1790874312.558348
   },
   {
    "id": "8972b0e101e94b43",
@@ -1131,6 +1123,11 @@
    "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@188.225.79.44:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru&sid=db04ce8bdb8900f1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 613,
    "ts": 1790895714.8909855
+  },
+  "f1ed00ca3e34f46a": {
+   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.7:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 614,
+   "ts": 1790896906.5202854
   }
  },
  "geo": {
@@ -1997,9 +1994,9 @@
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 186,
-  "healthy": 142,
-  "posted": 86,
+  "fetched": 187,
+  "healthy": 143,
+  "posted": 87,
   "removed": 78
  }
 }
