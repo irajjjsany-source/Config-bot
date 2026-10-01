@@ -619,30 +619,6 @@
  },
  "queue": [
   {
-   "id": "2468edc1997c22b5",
-   "cfg": "vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.5:2085?mode=multi&security=none&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=grpc&serviceName=vless#🔵@chillguy_vpn",
-   "ping": 358,
-   "ts": 1790834007.3950384
-  },
-  {
-   "id": "88459f62577d7d18",
-   "cfg": "vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.5:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#🔵@chillguy_vpn",
-   "ping": 362,
-   "ts": 1790833075.6563237
-  },
-  {
-   "id": "87185b99caea2592",
-   "cfg": "vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.4:2085?mode=multi&security=none&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=grpc&serviceName=vless#🔵@chillguy_vpn",
-   "ping": 363,
-   "ts": 1790834007.3950384
-  },
-  {
-   "id": "2538f042d0e3334b",
-   "cfg": "vless://%58pnTeam-57@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 375,
-   "ts": 1790849118.1800134
-  },
-  {
    "id": "7dd4c78679fe03e2",
    "cfg": "vless://5469c1d9-e949-4553-a146-ac3ad363a705@91.233.121.32:443?security=reality&encryption=none&pbk=Ez3w5uLzFlysA6Owr7SguTK5kzlIFZ09TgalzUHGAR4&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=9f51e98fb874846b#🔵@chillguy_vpn",
    "ping": 379,
@@ -1310,6 +1286,11 @@
    "cfg": "vless://%58pnTeam-56@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 566,
    "ts": 1790851235.482479
+  },
+  "2538f042d0e3334b": {
+   "cfg": "vless://%58pnTeam-57@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 567,
+   "ts": 1790852019.1732392
   }
  },
  "geo": {
@@ -2018,7 +1999,7 @@
   "date": "2026-10-01",
   "fetched": 73,
   "healthy": 65,
-  "posted": 39,
+  "posted": 40,
   "removed": 24
  }
 }
