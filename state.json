@@ -613,12 +613,6 @@
  },
  "queue": [
   {
-   "id": "3b41e8475e6d2261",
-   "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.241.78:443?security=reality&encryption=none&pbk=6NIpIulg7Pzn5prCK2Qk6TWEcm2b72CD_z2_XLG8tyc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sh-pl-01.mintrocket.org&sid=31db3f825e83e2b0#🔵@chillguy_vpn",
-   "ping": 459,
-   "ts": 1790864912.708549
-  },
-  {
    "id": "083f65a829db1e42",
    "cfg": "vless://44757a3a-bd64-4c4a-ae6c-a11503cd6097@51.20.94.159:8010?security=reality&encryption=none&pbk=Vtx_JlcgqBDRv8XWimo41kgKuZdxvSUzkQR62188xWQ&headerType=none&fp=edge&type=tcp&sni=activision.com&sid=5ed0c99dd6c79bb5#🔵@chillguy_vpn",
    "ping": 477,
@@ -749,12 +743,6 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.249.189:9881?security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=random&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🔵@chillguy_vpn",
    "ping": 4761,
    "ts": 1790853917.6311715
-  },
-  {
-   "id": "72193ace75f544a8",
-   "cfg": "vless://30dab345-4de9-4b70-ad9f-8ebd5c66686f@81.90.21.168:443?security=reality&encryption=none&pbk=GRxGFwibgoUjG9OL5Dl1OLyK56yw8WaG5BdFP8ifVgQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=26f7082dd0e36ca1#🔵@chillguy_vpn",
-   "ping": 5489,
-   "ts": 1790850426.6530714
   }
  ],
  "posted": {
@@ -1192,6 +1180,11 @@
    "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@2.26.88.52:443?security=reality&encryption=none&pbk=gcx8FNkRv0rdkd0kRhgSLWDXqVc7KgAw4rnYaYx9JgE&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sh-lv-01.mintrocket.org&sid=338e250284b889ba#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 587,
    "ts": 1790871933.5503054
+  },
+  "3b41e8475e6d2261": {
+   "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.241.78:443?security=reality&encryption=none&pbk=6NIpIulg7Pzn5prCK2Qk6TWEcm2b72CD_z2_XLG8tyc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sh-pl-01.mintrocket.org&sid=31db3f825e83e2b0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 588,
+   "ts": 1790872735.8574948
   }
  },
  "geo": {
@@ -1980,7 +1973,7 @@
   "date": "2026-10-01",
   "fetched": 124,
   "healthy": 103,
-  "posted": 60,
+  "posted": 61,
   "removed": 53
  }
 }
