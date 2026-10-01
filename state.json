@@ -546,12 +546,6 @@
  },
  "queue": [
   {
-   "id": "9bc7dc5453dd3519",
-   "cfg": "vless://ff65fb9b-552f-426f-8321-4c85024377e6@de-hn.spacev67.com:443?security=reality&encryption=none&pbk=K1Tx2yzaAAYJ-jrj9VUx_BN81BeAySNbXTDKv258ThA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de-hn.spacev67.com&sid=fcbafe220392b8ef#🔵@chillguy_vpn",
-   "ping": 489,
-   "ts": 1790810559.9036148
-  },
-  {
    "id": "5e1d455280407a13",
    "cfg": "vless://b4370239-e25b-4396-8d67-2c6f2f6c8655@2.27.33.174:7443?security=reality&encryption=none&pbk=8qUiIosG5-OQWo0tD29BQCbxb50neUg8BynxdAvDzB4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=setbacks.hb-website.ru-msk.vkcloud-storage.ru&sid=132142#🔵@chillguy_vpn",
    "ping": 491,
@@ -1174,6 +1168,11 @@
    "cfg": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 526,
    "ts": 1790812174.469214
+  },
+  "9bc7dc5453dd3519": {
+   "cfg": "vless://ff65fb9b-552f-426f-8321-4c85024377e6@de-hn.spacev67.com:443?security=reality&encryption=none&pbk=K1Tx2yzaAAYJ-jrj9VUx_BN81BeAySNbXTDKv258ThA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de-hn.spacev67.com&sid=fcbafe220392b8ef#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 528,
+   "ts": 1790812986.5966303
   }
  },
  "geo": {
@@ -1746,13 +1745,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1790812176.0379944
+  },
+  "de-hn.spacev67.com": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790812988.693195
   }
  },
  "stats": {
-  "date": "2026-09-30",
-  "fetched": 174,
-  "healthy": 137,
-  "posted": 83,
-  "removed": 68
+  "date": "2026-10-01",
+  "fetched": 0,
+  "healthy": 0,
+  "posted": 1,
+  "removed": 0
  }
 }
