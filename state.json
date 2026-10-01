@@ -617,7 +617,8 @@
   "28c26ff37d083fae": 1790851235.482479,
   "6986b4342a6d5021": 1790851235.482479,
   "40fce4e81e49489e": 1790853917.6311715,
-  "ca9b38fcde58ef3b": 1790853917.6311715
+  "ca9b38fcde58ef3b": 1790853917.6311715,
+  "597355f0550ed9d9": 1790854678.0494044
  },
  "queue": [
   {
@@ -775,18 +776,6 @@
    "cfg": "vmess://eyJhZGQiOiAiNjYuMTYzLjExOC43MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIyMzI0IiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==",
    "ping": 3960,
    "ts": 1790844226.336895
-  },
-  {
-   "id": "078434e3d3307460",
-   "cfg": "vless://fc40ce64-3c90-4d32-8e2f-ed456a0553fd@178.105.248.88:10002?security=reality&encryption=none&pbk=UOa0v_JpSPRPMO6ABMM7tIir-GclotOVfnbI2WqJGVE&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9791feaccc1ca4d8#🔵@chillguy_vpn",
-   "ping": 4532,
-   "ts": 1790833075.6563237
-  },
-  {
-   "id": "3c3497b998337e84",
-   "cfg": "vless://fc40ce64-3c90-4d32-8e2f-ed456a0553fd@178.105.248.88:10001?security=reality&encryption=none&pbk=UOa0v_JpSPRPMO6ABMM7tIir-GclotOVfnbI2WqJGVE&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9791feaccc1ca4d8#🔵@chillguy_vpn",
-   "ping": 4537,
-   "ts": 1790833075.6563237
   },
   {
    "id": "217509ea0d187bfb",
@@ -1297,6 +1286,11 @@
    "cfg": "vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-571299667-direct.mbghalibaf.com:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 569,
    "ts": 1790853917.6311715
+  },
+  "597355f0550ed9d9": {
+   "cfg": "vless://8dafd22b-72fc-4d78-ae00-33affecb8fcd@86.62.52.6:2085?mode=multi&encryption=none&type=grpc&security=none&serviceName=vless#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 570,
+   "ts": 1790854678.0494044
   }
  },
  "geo": {
@@ -2004,13 +1998,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790853925.3010309
+  },
+  "86.62.52.6": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1790854679.366752
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 75,
-  "healthy": 67,
-  "posted": 42,
+  "fetched": 76,
+  "healthy": 68,
+  "posted": 43,
   "removed": 24
  }
 }
