@@ -590,7 +590,8 @@
   "8972b0e101e94b43": 1790890703.5680695,
   "e6c5f00c5dabefb4": 1790890703.5680695,
   "b17e795168341202": 1790891572.762916,
-  "e608926539287ea4": 1790891572.762916
+  "e608926539287ea4": 1790891572.762916,
+  "14ab39c5fb7a9c3a": 1790892150.3709686
  },
  "queue": [
   {
@@ -1129,6 +1130,11 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.154:9881?mode=gun&security=reality&encryption=none&authority=%40mehrosaboran&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 608,
    "ts": 1790891572.762916
+  },
+  "14ab39c5fb7a9c3a": {
+   "cfg": "vless://ab59f7b9-c31a-4620-bd22-85bfcaecd63e@86.62.52.27:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 609,
+   "ts": 1790892150.3709686
   }
  },
  "geo": {
@@ -1976,13 +1982,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1790890712.8382761
+  },
+  "86.62.52.27": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1790892151.5828702
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 181,
-  "healthy": 138,
-  "posted": 81,
+  "fetched": 182,
+  "healthy": 139,
+  "posted": 82,
   "removed": 78
  }
 }
