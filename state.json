@@ -546,18 +546,6 @@
  },
  "queue": [
   {
-   "id": "f2ed7f4c0137ea67",
-   "cfg": "vless://da803bc9-ec45-4c72-b81f-15ad8dd02eaa@areal66.greewebservices.ir:6465?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 1106,
-   "ts": 1790807106.4836588
-  },
-  {
-   "id": "d0ee64907ef2f4f7",
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.7:9881?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🔵@chillguy_vpn",
-   "ping": 1229,
-   "ts": 1790805789.948691
-  },
-  {
    "id": "9317e5ee7eb3ec84",
    "cfg": "vless://da803bc9-ec45-4c72-b81f-15ad8dd02eaa@areal4.greewebservices.ir:5455?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 1539,
@@ -981,6 +969,11 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 540,
    "ts": 1790825144.3304148
+  },
+  "d0ee64907ef2f4f7": {
+   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.7:9881?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 541,
+   "ts": 1790826047.1104727
   }
  },
  "geo": {
@@ -1604,7 +1597,7 @@
   "date": "2026-10-01",
   "fetched": 0,
   "healthy": 0,
-  "posted": 13,
+  "posted": 14,
   "removed": 12
  }
 }
