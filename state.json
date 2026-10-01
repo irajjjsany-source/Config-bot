@@ -611,7 +611,9 @@
   "a8a0f2d2b95b6f30": 1790871933.5503054,
   "88bd4f669a499f86": 1790871933.5503054,
   "1f28614b3dfcf517": 1790873531.0414548,
-  "7b09d04d5030c5c3": 1790873531.0414548
+  "7b09d04d5030c5c3": 1790873531.0414548,
+  "6eb97167944101d1": 1790874312.558348,
+  "3bfe8a1135ff2e7e": 1790874312.558348
  },
  "queue": [
   {
@@ -739,6 +741,12 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.249.189:9881?security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=random&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🔵@chillguy_vpn",
    "ping": 4761,
    "ts": 1790853917.6311715
+  },
+  {
+   "id": "3bfe8a1135ff2e7e",
+   "cfg": "vless://284dde63-5d87-4df2-a6bb-438f48765b1d@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=sevenfeshab.global.ssl.fastly.net.&path=%2F#🔵@chillguy_vpn",
+   "ping": 5386,
+   "ts": 1790874312.558348
   }
  ],
  "posted": {
@@ -1186,6 +1194,11 @@
    "cfg": "vless://44757a3a-bd64-4c4a-ae6c-a11503cd6097@51.20.94.159:8010?security=reality&encryption=none&pbk=Vtx_JlcgqBDRv8XWimo41kgKuZdxvSUzkQR62188xWQ&headerType=none&fp=edge&type=tcp&sni=activision.com&sid=5ed0c99dd6c79bb5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 589,
    "ts": 1790873531.0414548
+  },
+  "6eb97167944101d1": {
+   "cfg": "vless://ebeb7358-9fc0-4222-a0e5-d8bc274a8856@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=looazjboijji.global.ssl.fastly.net.&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 590,
+   "ts": 1790874312.558348
   }
  },
  "geo": {
@@ -1977,9 +1990,9 @@
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 126,
-  "healthy": 105,
-  "posted": 62,
+  "fetched": 128,
+  "healthy": 107,
+  "posted": 63,
   "removed": 53
  }
 }
