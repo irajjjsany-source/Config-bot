@@ -587,15 +587,11 @@
   "68a02450ecb0736d": 1790843318.6732955,
   "32038caa4e808eda": 1790843318.6732955,
   "3b1766cd14c3d719": 1790843318.6732955,
-  "a16ed8e87d9da0cd": 1790843318.6732955
+  "a16ed8e87d9da0cd": 1790843318.6732955,
+  "f17efee06416dedf": 1790844226.336895,
+  "d81a99b7c74cea08": 1790844226.336895
  },
  "queue": [
-  {
-   "id": "a16ed8e87d9da0cd",
-   "cfg": "vless://2ea6564b-a756-4edb-9328-1e590867fed7@95.182.93.25:18570?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=gaStnYu-VSz84uyym0d-eq-IKncY0nwu2_GLTBNeABE&security=reality&sid=4859ac2e&sni=www.sony.com.pa&spx=%2F08c49647bd23593&type=xhttp&x_padding_bytes=100-1000#🔵@chillguy_vpn",
-   "ping": 238,
-   "ts": 1790843318.6732955
-  },
   {
    "id": "3b1766cd14c3d719",
    "cfg": "vless://ba8f75b9-c876-428d-a6ab-b88eb037d14d@95.182.93.25:18570?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&pbk=gaStnYu-VSz84uyym0d-eq-IKncY0nwu2_GLTBNeABE&fp=chrome&spx=%2F55ee6311735fe50&type=xhttp&sni=www.sony.hr&sid=27f776b4e5a093#🔵@chillguy_vpn",
@@ -711,6 +707,12 @@
    "ts": 1790837848.802974
   },
   {
+   "id": "f17efee06416dedf",
+   "cfg": "vless://ba8f75b9-c876-428d-a6ab-b88eb037d14d@95.182.93.25:18570?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=gaStnYu-VSz84uyym0d-eq-IKncY0nwu2_GLTBNeABE&security=reality&sid=d898dfb7181d&sni=www.sony.pt&spx=%2F55ee6311735fe50&type=xhttp&x_padding_bytes=100-1000#🔵@chillguy_vpn",
+   "ping": 1440,
+   "ts": 1790844226.336895
+  },
+  {
    "id": "68a02450ecb0736d",
    "cfg": "vless://21d0929a-ba27-4822-9b50-bda9ee54a494@n34.himoy.space:443?security=reality&encryption=none&pbk=qQCRfCyAjTO1ojxIyyOMu6h7IFfQgyjsg5f0CALJByA&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=n34.himoy.space&sid=474a88f4aa2fe8a5#🔵@chillguy_vpn",
    "ping": 1838,
@@ -727,6 +729,12 @@
    "cfg": "vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@31.14.123.220:49433?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#🔵@chillguy_vpn",
    "ping": 3153,
    "ts": 1790834007.3950384
+  },
+  {
+   "id": "d81a99b7c74cea08",
+   "cfg": "vmess://eyJhZGQiOiAiNjYuMTYzLjExOC43MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIyMzI0IiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==",
+   "ping": 3960,
+   "ts": 1790844226.336895
   },
   {
    "id": "078434e3d3307460",
@@ -1171,6 +1179,11 @@
    "cfg": "vless://4a40e7a6-9179-42c1-9bd7-eefec23a62f8@104.21.55.229:8880?security=none&type=ws&host=soft-meadow-980a.458.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 557,
    "ts": 1790843318.6732955
+  },
+  "a16ed8e87d9da0cd": {
+   "cfg": "vless://2ea6564b-a756-4edb-9328-1e590867fed7@95.182.93.25:18570?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=gaStnYu-VSz84uyym0d-eq-IKncY0nwu2_GLTBNeABE&security=reality&sid=4859ac2e&sni=www.sony.com.pa&spx=%2F08c49647bd23593&type=xhttp&x_padding_bytes=100-1000#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 558,
+   "ts": 1790844226.336895
   }
  },
  "geo": {
@@ -1838,13 +1851,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790843321.8407466
+  },
+  "95.182.93.25": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790844231.9737298
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 45,
-  "healthy": 43,
-  "posted": 30,
+  "fetched": 47,
+  "healthy": 45,
+  "posted": 31,
   "removed": 24
  }
 }
