@@ -1,7 +1,5 @@
 {
  "seen": {
-  "b601c21b1dda0353": 1790632175.5932944,
-  "a7ff4232daa68348": 1790632175.5932944,
   "006423f53b96a9b0": 1790632951.595096,
   "f5d73628cdfe1ae0": 1790634159.1899562,
   "a0ee7cc4ea27fe0b": 1790634159.1899562,
@@ -590,15 +588,11 @@
   "b55adc4f99343a4d": 1790890703.5680695,
   "8179ec1afdb2982e": 1790890703.5680695,
   "8972b0e101e94b43": 1790890703.5680695,
-  "e6c5f00c5dabefb4": 1790890703.5680695
+  "e6c5f00c5dabefb4": 1790890703.5680695,
+  "b17e795168341202": 1790891572.762916,
+  "e608926539287ea4": 1790891572.762916
  },
  "queue": [
-  {
-   "id": "c403b903216278df",
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.154:9881?mode=gun&security=reality&encryption=none&authority=%40mehrosaboran&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🔵@chillguy_vpn",
-   "ping": 673,
-   "ts": 1790887941.9500542
-  },
   {
    "id": "94303dd5565102cc",
    "cfg": "vless://%58pnTeam-59@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
@@ -610,12 +604,6 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabbccdd&type=grpc&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&serviceName=grpc-tunnel&mode=gun#🔵@chillguy_vpn",
    "ping": 1359,
    "ts": 1790889864.8120947
-  },
-  {
-   "id": "3f73f938582091ba",
-   "cfg": "vless://5f424b45-29e5-4cbe-b752-88ac535c11b7@www.asamping.ir:2052?path=%2F&security=none&encryption=none&host=www.asamping.ir&type=ws#🔵@chillguy_vpn",
-   "ping": 1550,
-   "ts": 1790869280.3516536
   },
   {
    "id": "34dad5c4eea0889a",
@@ -1136,6 +1124,11 @@
    "cfg": "vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.246.236:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=Nonetrap.global.ssl.fastly.net&fp=safari&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 607,
    "ts": 1790890703.5680695
+  },
+  "c403b903216278df": {
+   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.154:9881?mode=gun&security=reality&encryption=none&authority=%40mehrosaboran&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 608,
+   "ts": 1790891572.762916
   }
  },
  "geo": {
@@ -1987,9 +1980,9 @@
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 179,
+  "fetched": 181,
   "healthy": 138,
-  "posted": 80,
+  "posted": 81,
   "removed": 78
  }
 }
