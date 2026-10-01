@@ -581,7 +581,8 @@
   "63b27a13258ba24a": 1790838572.02622,
   "6da7ff18ed300722": 1790838572.02622,
   "ce20a0b4f94b7f1e": 1790839700.5494568,
-  "8d1231528a4d15fa": 1790841258.033011
+  "8d1231528a4d15fa": 1790841258.033011,
+  "d9c8fdbb86f8c62d": 1790841882.5381656
  },
  "queue": [
   {
@@ -1131,6 +1132,11 @@
    "cfg": "vless://a8c23fe7-d2bb-46ba-a14e-8847f1944642@188.114.97.6:8080?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=billowing-fire-a10b.301-d6c.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 555,
    "ts": 1790841258.033011
+  },
+  "d9c8fdbb86f8c62d": {
+   "cfg": "vless://34cedc35-a520-4a8f-8cb6-d9afba04751b@188.114.97.6:8080?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=ancient-tooth-af89.500-ba0.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 556,
+   "ts": 1790841882.5381656
   }
  },
  "geo": {
@@ -1797,9 +1803,9 @@
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 39,
-  "healthy": 37,
-  "posted": 28,
+  "fetched": 40,
+  "healthy": 38,
+  "posted": 29,
   "removed": 24
  }
 }
