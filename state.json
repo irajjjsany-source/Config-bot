@@ -546,12 +546,6 @@
  },
  "queue": [
   {
-   "id": "c5207904846052fb",
-   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@pl.srv.vbuste-bot.com:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=firefox&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#🔵@chillguy_vpn",
-   "ping": 658,
-   "ts": 1790810559.9036148
-  },
-  {
    "id": "5cc2724c93a09e0c",
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🔵@chillguy_vpn",
    "ping": 662,
@@ -1069,6 +1063,11 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 530,
    "ts": 1790816232.1849787
+  },
+  "c5207904846052fb": {
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@pl.srv.vbuste-bot.com:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=firefox&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 531,
+   "ts": 1790816972.7848942
   }
  },
  "geo": {
@@ -1656,13 +1655,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1790816241.9911628
+  },
+  "pl.srv.vbuste-bot.com": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1790816976.1385953
   }
  },
  "stats": {
   "date": "2026-10-01",
   "fetched": 0,
   "healthy": 0,
-  "posted": 3,
+  "posted": 4,
   "removed": 12
  }
 }
