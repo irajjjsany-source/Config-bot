@@ -546,18 +546,6 @@
  },
  "queue": [
   {
-   "id": "9317e5ee7eb3ec84",
-   "cfg": "vless://da803bc9-ec45-4c72-b81f-15ad8dd02eaa@areal4.greewebservices.ir:5455?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 1539,
-   "ts": 1790805789.948691
-  },
-  {
-   "id": "37a30c7d5ee10129",
-   "cfg": "vless://85163fd9-6f73-4eea-b1df-3b327dacbabf@83.217.9.140:43000?security=reality&encryption=none&pbk=ptE_QnAka3pXNEf8BYKpA9CHdgj4U4xXTixjYWOji0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=68d2eb23#🔵@chillguy_vpn",
-   "ping": 1823,
-   "ts": 1790810559.9036148
-  },
-  {
    "id": "a2b22ebfe86ad0da",
    "cfg": "vless://3cdc6bec-363e-4754-9797-f0e622680198@94.183.154.216:2003?encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.156NRkt21U_2b3dQK0MprNGqLivKRysedHYJNmESJVY&flow=xtls-rprx-vision&security=reality&sni=www.filimo.com&fp=chrome&pbk=oxVeOPOnhOnMvPA-pZ2z_OAbXsf2oCp9YRt7TcmdjBo&sid=2c4a61e923dd21e2&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 5460,
@@ -974,6 +962,11 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.7:9881?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 541,
    "ts": 1790826047.1104727
+  },
+  "37a30c7d5ee10129": {
+   "cfg": "vless://85163fd9-6f73-4eea-b1df-3b327dacbabf@83.217.9.140:43000?security=reality&encryption=none&pbk=ptE_QnAka3pXNEf8BYKpA9CHdgj4U4xXTixjYWOji0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=68d2eb23#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 542,
+   "ts": 1790826821.0709743
   }
  },
  "geo": {
@@ -1591,13 +1584,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1790823801.6933703
+  },
+  "83.217.9.140": {
+   "cc": "TR",
+   "name": "Türkiye",
+   "ts": 1790826824.3882406
   }
  },
  "stats": {
   "date": "2026-10-01",
   "fetched": 0,
   "healthy": 0,
-  "posted": 14,
+  "posted": 15,
   "removed": 12
  }
 }
