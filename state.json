@@ -607,26 +607,23 @@
   "54394f5c329bd6d2": 1790846874.806267,
   "8495653cf6ec43c0": 1790847701.6052418,
   "467b682cc52df90d": 1790848504.0390837,
-  "fb45c5ee7c97f099": 1790848504.0390837
+  "fb45c5ee7c97f099": 1790848504.0390837,
+  "3e81d4cb1872bab9": 1790849118.1800134,
+  "c2398e010aa86553": 1790849118.1800134,
+  "2538f042d0e3334b": 1790849118.1800134
  },
  "queue": [
-  {
-   "id": "6db951efe8262344",
-   "cfg": "vless://4abdfe42-aec7-4b66-974d-3f891e2e8184@195.133.66.229:8443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nlll.gaz-service.shop&sid=b415b8d7a6106ace#🔵@chillguy_vpn",
-   "ping": 341,
-   "ts": 1790834007.3950384
-  },
-  {
-   "id": "8495653cf6ec43c0",
-   "cfg": "vless://5469c1d9-e949-4553-a146-ac3ad363a705@91.233.121.32:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=Ez3w5uLzFlysA6Owr7SguTK5kzlIFZ09TgalzUHGAR4&sid=9f51e98fb874846b#🔵@chillguy_vpn",
-   "ping": 341,
-   "ts": 1790847701.6052418
-  },
   {
    "id": "d276e1c709755ccf",
    "cfg": "vless://e0bd9dfa-0cf9-47c0-92ac-7dba08ebcff8@179.237.103.152:443?security=reality&encryption=none&pbk=8PZTYkhNhSgagVdaI-iqSCPXJwDhHU23IUwZIu08zH4&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=9de8ae53dabf1dc2#🔵@chillguy_vpn",
    "ping": 345,
    "ts": 1790837848.802974
+  },
+  {
+   "id": "c2398e010aa86553",
+   "cfg": "vless://%58pnTeam-56@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 345,
+   "ts": 1790849118.1800134
   },
   {
    "id": "2468edc1997c22b5",
@@ -645,6 +642,12 @@
    "cfg": "vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.4:2085?mode=multi&security=none&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=grpc&serviceName=vless#🔵@chillguy_vpn",
    "ping": 363,
    "ts": 1790834007.3950384
+  },
+  {
+   "id": "2538f042d0e3334b",
+   "cfg": "vless://%58pnTeam-57@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 375,
+   "ts": 1790849118.1800134
   },
   {
    "id": "7dd4c78679fe03e2",
@@ -699,6 +702,12 @@
    "cfg": "vless://c635f33d-e390-4964-abac-99f1a4fc41d4@162.159.193.4:443?path=%2F&security=tls&alpn=h2%2Ch3&encryption=none&insecure=0&host=api.trustpacket.ir&fp=chrome&type=ws&allowInsecure=0&sni=api.trustpacket.ir#🔵@chillguy_vpn",
    "ping": 542,
    "ts": 1790846874.806267
+  },
+  {
+   "id": "3e81d4cb1872bab9",
+   "cfg": "vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#🔵@chillguy_vpn",
+   "ping": 586,
+   "ts": 1790849118.1800134
   },
   {
    "id": "f53e43819c669ab0",
@@ -1275,6 +1284,11 @@
    "cfg": "vless://391a01e9-b664-407b-9158-610fab3f5920@3.9.135.156:51847?security=reality&encryption=none&pbk=S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc&host=%2F%3FTELEGRAM--V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=0eec442e7b34d2f2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 563,
    "ts": 1790848504.0390837
+  },
+  "8495653cf6ec43c0": {
+   "cfg": "vless://5469c1d9-e949-4553-a146-ac3ad363a705@91.233.121.32:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=Ez3w5uLzFlysA6Owr7SguTK5kzlIFZ09TgalzUHGAR4&sid=9f51e98fb874846b#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 564,
+   "ts": 1790849118.1800134
   }
  },
  "geo": {
@@ -1967,13 +1981,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1790848513.9136312
+  },
+  "91.233.121.32": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790849120.8312018
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 65,
-  "healthy": 59,
-  "posted": 36,
+  "fetched": 68,
+  "healthy": 62,
+  "posted": 37,
   "removed": 24
  }
 }
