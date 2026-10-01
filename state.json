@@ -1,9 +1,5 @@
 {
  "seen": {
-  "dcf8e8f064eb036b": 1790627830.0592828,
-  "cac1a0894eb0d257": 1790627830.0592828,
-  "9a4be4c1f0d47a9a": 1790627830.0592828,
-  "bc1759452835a91b": 1790627830.0592828,
   "9fe0020e056f85a7": 1790628726.3427155,
   "41f4f10e76a3298f": 1790628726.3427155,
   "1701ae70be5d4064": 1790628726.3427155,
@@ -589,12 +585,6 @@
  },
  "queue": [
   {
-   "id": "f5dfdbacc281ec9f",
-   "cfg": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#🔵@chillguy_vpn",
-   "ping": 1318,
-   "ts": 1790865840.0266702
-  },
-  {
    "id": "3f73f938582091ba",
    "cfg": "vless://5f424b45-29e5-4cbe-b752-88ac535c11b7@www.asamping.ir:2052?path=%2F&security=none&encryption=none&host=www.asamping.ir&type=ws#🔵@chillguy_vpn",
    "ping": 1550,
@@ -1034,6 +1024,11 @@
    "cfg": "vless://0c61937c-d851-4caf-987e-a28f0751109d@199.232.78.159:80?path=%2F&security=none&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 602,
    "ts": 1790886395.0357306
+  },
+  "f5dfdbacc281ec9f": {
+   "cfg": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 603,
+   "ts": 1790887263.2316387
   }
  },
  "geo": {
@@ -1861,13 +1856,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1790884261.1546652
+  },
+  "milan.adaspoloandco.com": {
+   "cc": "IT",
+   "name": "Italy",
+   "ts": 1790887270.1038332
   }
  },
  "stats": {
   "date": "2026-10-01",
   "fetched": 155,
   "healthy": 120,
-  "posted": 75,
+  "posted": 76,
   "removed": 78
  }
 }
