@@ -550,12 +550,6 @@
  },
  "queue": [
   {
-   "id": "71be06435a177251",
-   "cfg": "vless://ae0e6518-71ab-4f4b-87d1-7802765f52ba@172.67.178.142:2086?encryption=none&security=none&sni=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&fp=chrome&type=ws&host=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&path=%2Fvl%2FvuHASprDE9HV8y2BnO7UV%3Fed%3D2560#🔵@chillguy_vpn",
-   "ping": 75,
-   "ts": 1790829677.5774112
-  },
-  {
    "id": "d8c3a9868b44a73c",
    "cfg": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.37.228:8880?encryption=none&security=none&type=ws&host=vms.lifetime29.workers.dev&path=%2F#🔵@chillguy_vpn",
    "ping": 125,
@@ -987,6 +981,11 @@
    "cfg": "vless://e081da45-9fae-4687-9376-f9a6a0dbbe83@104.20.28.233:80?encryption=none&security=none&type=ws&host=e33xr.qzz.io&path=%2Fid-amz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 544,
    "ts": 1790830492.0405138
+  },
+  "71be06435a177251": {
+   "cfg": "vless://ae0e6518-71ab-4f4b-87d1-7802765f52ba@172.67.178.142:2086?encryption=none&security=none&sni=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&fp=chrome&type=ws&host=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&path=%2Fvl%2FvuHASprDE9HV8y2BnO7UV%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 545,
+   "ts": 1790831027.5402653
   }
  },
  "geo": {
@@ -1625,7 +1624,7 @@
   "date": "2026-10-01",
   "fetched": 4,
   "healthy": 4,
-  "posted": 17,
+  "posted": 18,
   "removed": 12
  }
 }
