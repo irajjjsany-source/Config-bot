@@ -553,14 +553,61 @@
   "51da594668a545b4": 1790833075.6563237,
   "078434e3d3307460": 1790833075.6563237,
   "3c3497b998337e84": 1790833075.6563237,
-  "7dd4c78679fe03e2": 1790833075.6563237
+  "7dd4c78679fe03e2": 1790833075.6563237,
+  "e26afcedcb024dc8": 1790834007.3950384,
+  "3e65e74ffd3358a3": 1790834007.3950384,
+  "8a73e48a23a5cb1d": 1790834007.3950384,
+  "a839a29916541cc5": 1790834007.3950384,
+  "7818fb4d9b584684": 1790834007.3950384,
+  "a47b715f4774b9c5": 1790834007.3950384,
+  "2468edc1997c22b5": 1790834007.3950384,
+  "87185b99caea2592": 1790834007.3950384,
+  "14d5a4d0dc302034": 1790834007.3950384,
+  "cbcb146c69ddb840": 1790834007.3950384,
+  "6db951efe8262344": 1790834007.3950384
  },
  "queue": [
+  {
+   "id": "a839a29916541cc5",
+   "cfg": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@104.21.91.244:443?path=%2F%3FTELEGRAM--V2ray_confiig%3Fed%3D512&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#🔵@chillguy_vpn",
+   "ping": 113,
+   "ts": 1790834007.3950384
+  },
+  {
+   "id": "14d5a4d0dc302034",
+   "cfg": "vless://b7e7ed42-5b9d-462d-8e54-5a4bd46f6822@65.109.187.18:49092?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#🔵@chillguy_vpn",
+   "ping": 299,
+   "ts": 1790834007.3950384
+  },
+  {
+   "id": "e26afcedcb024dc8",
+   "cfg": "vless://391a01e9-b664-407b-9158-610fab3f5920@3.9.135.156:51847?security=reality&encryption=none&pbk=S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc&host=%2F%3FTELEGRAM--V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=0eec442e7b34d2f2#🔵@chillguy_vpn",
+   "ping": 341,
+   "ts": 1790834007.3950384
+  },
+  {
+   "id": "6db951efe8262344",
+   "cfg": "vless://4abdfe42-aec7-4b66-974d-3f891e2e8184@195.133.66.229:8443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nlll.gaz-service.shop&sid=b415b8d7a6106ace#🔵@chillguy_vpn",
+   "ping": 341,
+   "ts": 1790834007.3950384
+  },
+  {
+   "id": "2468edc1997c22b5",
+   "cfg": "vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.5:2085?mode=multi&security=none&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=grpc&serviceName=vless#🔵@chillguy_vpn",
+   "ping": 358,
+   "ts": 1790834007.3950384
+  },
   {
    "id": "88459f62577d7d18",
    "cfg": "vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.5:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#🔵@chillguy_vpn",
    "ping": 362,
    "ts": 1790833075.6563237
+  },
+  {
+   "id": "87185b99caea2592",
+   "cfg": "vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.4:2085?mode=multi&security=none&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=grpc&serviceName=vless#🔵@chillguy_vpn",
+   "ping": 363,
+   "ts": 1790834007.3950384
   },
   {
    "id": "7dd4c78679fe03e2",
@@ -573,6 +620,24 @@
    "cfg": "vless://fc40ce64-3c90-4d32-8e2f-ed456a0553fd@178.105.248.88:10007?security=reality&encryption=none&pbk=UOa0v_JpSPRPMO6ABMM7tIir-GclotOVfnbI2WqJGVE&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9791feaccc1ca4d8#🔵@chillguy_vpn",
    "ping": 400,
    "ts": 1790833075.6563237
+  },
+  {
+   "id": "a47b715f4774b9c5",
+   "cfg": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--V2ray_confiig&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🔵@chillguy_vpn",
+   "ping": 444,
+   "ts": 1790834007.3950384
+  },
+  {
+   "id": "7818fb4d9b584684",
+   "cfg": "vless://82f37352-85e5-49bb-9edc-a80997065659@83.168.95.145:443?security=reality&encryption=none&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&host=%2F%3FTELEGRAM--V2ray_confiig&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d345ad4657adeef9#🔵@chillguy_vpn",
+   "ping": 517,
+   "ts": 1790834007.3950384
+  },
+  {
+   "id": "cbcb146c69ddb840",
+   "cfg": "vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@31.14.123.220:49433?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#🔵@chillguy_vpn",
+   "ping": 3153,
+   "ts": 1790834007.3950384
   },
   {
    "id": "078434e3d3307460",
@@ -1027,6 +1092,11 @@
    "cfg": "vless://b7e7ed42-5b9d-462d-8e54-5a4bd46f6822@65.109.187.18:49092?encryption=none&security=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 547,
    "ts": 1790833075.6563237
+  },
+  "3e65e74ffd3358a3": {
+   "cfg": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@104.21.14.240:443?path=%2F%3FTELEGRAM--V2ray_confiig%3Fed%3D512&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&fp=unsafe&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 548,
+   "ts": 1790834007.3950384
   }
  },
  "geo": {
@@ -1664,13 +1734,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1790833081.2853067
+  },
+  "104.21.14.240": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790834012.0144591
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 11,
-  "healthy": 11,
-  "posted": 20,
+  "fetched": 22,
+  "healthy": 21,
+  "posted": 21,
   "removed": 12
  }
 }
