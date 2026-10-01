@@ -546,28 +546,10 @@
  },
  "queue": [
   {
-   "id": "b669e2b250e689d3",
-   "cfg": "vless://e6261601-0ba9-465d-9c70-6c8b4e47c7e4@62.109.19.28:443?security=reality&encryption=none&pbk=IxFbqmfuwejYSKYu69qBnzG9yWSuf7UjHujXWOO_w34&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=duckduckgo.com&sid=9137d914cd770b54#🔵@chillguy_vpn",
-   "ping": 583,
-   "ts": 1790810559.9036148
-  },
-  {
-   "id": "153a3f4171effec9",
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🔵@chillguy_vpn",
-   "ping": 618,
-   "ts": 1790808708.2114663
-  },
-  {
    "id": "c5207904846052fb",
    "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@pl.srv.vbuste-bot.com:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=firefox&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#🔵@chillguy_vpn",
    "ping": 658,
    "ts": 1790810559.9036148
-  },
-  {
-   "id": "918354d9ee849fb3",
-   "cfg": "vless://8e6104da-f178-49ea-b559-1fd69562baae@se-54155bce.sishka.network:443?encryption=none&fp=firefox&sid=bcfba22d203308aa&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&sni=se-54155bce.sishka.network&fm=AhmadV2ray&headerType=none&security=reality&flow=xtls-rprx-vision&spx=%2FAhmadV2ray&type=tcp#🔵@chillguy_vpn",
-   "ping": 659,
-   "ts": 1790793831.4706628
   },
   {
    "id": "5cc2724c93a09e0c",
@@ -1082,6 +1064,11 @@
    "cfg": "vless://b4370239-e25b-4396-8d67-2c6f2f6c8655@2.27.33.174:7443?security=reality&encryption=none&pbk=8qUiIosG5-OQWo0tD29BQCbxb50neUg8BynxdAvDzB4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=setbacks.hb-website.ru-msk.vkcloud-storage.ru&sid=132142#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 529,
    "ts": 1790814828.9741483
+  },
+  "153a3f4171effec9": {
+   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 530,
+   "ts": 1790816232.1849787
   }
  },
  "geo": {
@@ -1664,13 +1651,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1790814830.5562117
+  },
+  "176.108.245.167": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1790816241.9911628
   }
  },
  "stats": {
   "date": "2026-10-01",
   "fetched": 0,
   "healthy": 0,
-  "posted": 2,
+  "posted": 3,
   "removed": 12
  }
 }
