@@ -580,7 +580,8 @@
   "e3e96b126de462de": 1790838572.02622,
   "63b27a13258ba24a": 1790838572.02622,
   "6da7ff18ed300722": 1790838572.02622,
-  "ce20a0b4f94b7f1e": 1790839700.5494568
+  "ce20a0b4f94b7f1e": 1790839700.5494568,
+  "8d1231528a4d15fa": 1790841258.033011
  },
  "queue": [
   {
@@ -1125,6 +1126,11 @@
    "cfg": "vless://b7e7ed42-5b9d-462d-8e54-5a4bd46f6822@65.109.187.18:49092?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 554,
    "ts": 1790840551.8798068
+  },
+  "8d1231528a4d15fa": {
+   "cfg": "vless://a8c23fe7-d2bb-46ba-a14e-8847f1944642@188.114.97.6:8080?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=billowing-fire-a10b.301-d6c.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 555,
+   "ts": 1790841258.033011
   }
  },
  "geo": {
@@ -1791,9 +1797,9 @@
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 38,
-  "healthy": 36,
-  "posted": 27,
+  "fetched": 39,
+  "healthy": 37,
+  "posted": 28,
   "removed": 24
  }
 }
