@@ -628,30 +628,6 @@
  },
  "queue": [
   {
-   "id": "e3b1b1e4af190bf7",
-   "cfg": "vless://730cbebb-39b2-4a1c-b2f8-f922095d6623@188.114.97.6:8080?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=wandering-bonus-e035.272.workers.dev&packetEncoding=xudp&encryption=none#🔵@chillguy_vpn",
-   "ping": 55,
-   "ts": 1790855645.01336
-  },
-  {
-   "id": "ff13e4c8841cdf19",
-   "cfg": "vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@87.199.199.25:8443?security=reality&encryption=none&pbk=kQV48T3zJZQbisn4n1EEGVP8Ok3gSB5Uml2LLdplNU4&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=fileharbor.cc&sid=a53f8c1e6d9b2740#🔵@chillguy_vpn",
-   "ping": 443,
-   "ts": 1790846874.806267
-  },
-  {
-   "id": "f52c571bd2ae3f4e",
-   "cfg": "vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@64.204.180.58:8443?security=reality&encryption=none&pbk=PdP1LjK-ioSLjrFa0pOfriSf5afLYvyy42U6nLHzVls&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de1.utchka.cc&sid=475c46cbe0d03d5a#🔵@chillguy_vpn",
-   "ping": 479,
-   "ts": 1790844990.3147995
-  },
-  {
-   "id": "edd21ed867b40d7f",
-   "cfg": "vless://6f597b2d-2df5-4f4f-a755-bdb5c10604e9@psf-3.weedly.top:80?path=%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&host=homelander.ir&type=ws#🔵@chillguy_vpn",
-   "ping": 494,
-   "ts": 1790837848.802974
-  },
-  {
    "id": "c19f8e5f1d03f8db",
    "cfg": "vless://c635f33d-e390-4964-abac-99f1a4fc41d4@162.159.193.4:443?path=%2F&security=tls&alpn=h2%2Ch3&encryption=none&insecure=0&host=api.trustpacket.ir&fp=chrome&type=ws&allowInsecure=0&sni=api.trustpacket.ir#🔵@chillguy_vpn",
    "ping": 542,
@@ -1302,6 +1278,11 @@
    "cfg": "vless://a368752a-32fc-42f3-980a-6b049218b23f@107.148.158.102:443?security=reality&encryption=none&pbk=iOXJkurGWCpwU-Z1B3RPJnjXGSQ_v1-H5XtHa6mEeFc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=usa-2.letsconnectpoint.com&sid=b1c1b5e2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 571,
    "ts": 1790855645.01336
+  },
+  "edd21ed867b40d7f": {
+   "cfg": "vless://6f597b2d-2df5-4f4f-a755-bdb5c10604e9@psf-3.weedly.top:80?path=%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&host=homelander.ir&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 572,
+   "ts": 1790856353.9122229
   }
  },
  "geo": {
@@ -2019,13 +2000,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1790855652.9352582
+  },
+  "psf-3.weedly.top": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790856361.8015714
   }
  },
  "stats": {
   "date": "2026-10-01",
   "fetched": 82,
   "healthy": 72,
-  "posted": 44,
+  "posted": 45,
   "removed": 24
  }
 }
