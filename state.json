@@ -1,9 +1,5 @@
 {
  "seen": {
-  "0b50e9d453c87fe6": 1790621789.7066965,
-  "ec99baca5e675584": 1790621789.7066965,
-  "ab55349707ab7478": 1790621789.7066965,
-  "2e40ef4cd0e8dbe4": 1790621789.7066965,
   "cc59bf502fc809bb": 1790622373.4928207,
   "1cbeeae7edfcf663": 1790622373.4928207,
   "6f9c1867e0e89078": 1790622373.4928207,
@@ -609,9 +605,20 @@
   "cf5bda96267d37f1": 1790880447.3635094,
   "e1d0ec7cef39a30a": 1790880447.3635094,
   "9ccca194a9f116db": 1790880447.3635094,
-  "705b90804b4d8e66": 1790880447.3635094
+  "705b90804b4d8e66": 1790880447.3635094,
+  "18db77bde2a75ad2": 1790881410.6827102,
+  "e85a529cb3734585": 1790881410.6827102,
+  "53eacf1e872406d3": 1790881410.6827102,
+  "7fd3de62b310c713": 1790881410.6827102,
+  "59eb0184a729ac79": 1790881410.6827102
  },
  "queue": [
+  {
+   "id": "53eacf1e872406d3",
+   "cfg": "vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#🔵@chillguy_vpn",
+   "ping": 413,
+   "ts": 1790881410.6827102
+  },
   {
    "id": "88bd4f669a499f86",
    "cfg": "vless://26c88828-53a0-40b9-84fc-e9a50fde5e7d@194.32.214.50:31079?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#🔵@chillguy_vpn",
@@ -1046,6 +1053,11 @@
    "cfg": "vless://02570857-63f0-4c68-bae6-21bde6442da1@185.215.244.161:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cuaBBeH-MK0WTbHk4x0wFfQgPqy2EQkRs82l6B9UYS0&security=reality&sid=6cd345de&sni=www.cloudflare.com&spx=%2F073ac438c22d716&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 596,
    "ts": 1790880447.3635094
+  },
+  "18db77bde2a75ad2": {
+   "cfg": "vless://a368752a-32fc-42f3-980a-6b049218b23f@usa-3.letsconnectpoint.com:443?security=reality&encryption=none&pbk=Fd6VTTHCVNkP_H9EZBlSXEsHp_J3aRKeBpoYZ5gRiQc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=usa-3.letsconnectpoint.com&sid=a2b95f1d#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 597,
+   "ts": 1790881410.6827102
   }
  },
  "geo": {
@@ -1858,13 +1870,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790880456.3707776
+  },
+  "usa-3.letsconnectpoint.com": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790881419.981195
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 142,
-  "healthy": 112,
-  "posted": 69,
+  "fetched": 147,
+  "healthy": 114,
+  "posted": 70,
   "removed": 78
  }
 }
