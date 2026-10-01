@@ -582,9 +582,26 @@
   "6da7ff18ed300722": 1790838572.02622,
   "ce20a0b4f94b7f1e": 1790839700.5494568,
   "8d1231528a4d15fa": 1790841258.033011,
-  "d9c8fdbb86f8c62d": 1790841882.5381656
+  "d9c8fdbb86f8c62d": 1790841882.5381656,
+  "f53e43819c669ab0": 1790843318.6732955,
+  "68a02450ecb0736d": 1790843318.6732955,
+  "32038caa4e808eda": 1790843318.6732955,
+  "3b1766cd14c3d719": 1790843318.6732955,
+  "a16ed8e87d9da0cd": 1790843318.6732955
  },
  "queue": [
+  {
+   "id": "a16ed8e87d9da0cd",
+   "cfg": "vless://2ea6564b-a756-4edb-9328-1e590867fed7@95.182.93.25:18570?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=gaStnYu-VSz84uyym0d-eq-IKncY0nwu2_GLTBNeABE&security=reality&sid=4859ac2e&sni=www.sony.com.pa&spx=%2F08c49647bd23593&type=xhttp&x_padding_bytes=100-1000#🔵@chillguy_vpn",
+   "ping": 238,
+   "ts": 1790843318.6732955
+  },
+  {
+   "id": "3b1766cd14c3d719",
+   "cfg": "vless://ba8f75b9-c876-428d-a6ab-b88eb037d14d@95.182.93.25:18570?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&pbk=gaStnYu-VSz84uyym0d-eq-IKncY0nwu2_GLTBNeABE&fp=chrome&spx=%2F55ee6311735fe50&type=xhttp&sni=www.sony.hr&sid=27f776b4e5a093#🔵@chillguy_vpn",
+   "ping": 244,
+   "ts": 1790843318.6732955
+  },
   {
    "id": "cd08cc19851ee80a",
    "cfg": "vless://b7e7ed42-5b9d-462d-8e54-5a4bd46f6822@65.109.187.18:49092?security=&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#🔵@chillguy_vpn",
@@ -664,6 +681,12 @@
    "ts": 1790834007.3950384
   },
   {
+   "id": "f53e43819c669ab0",
+   "cfg": "vless://baae2743-e2b0-448a-9e97-da3a0fce6269@5.129.196.56:443?security=reality&encryption=none&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru-c2d937931e.sishka.network&sid=d40efd6b362b7ec6#🔵@chillguy_vpn",
+   "ping": 590,
+   "ts": 1790843318.6732955
+  },
+  {
    "id": "63b27a13258ba24a",
    "cfg": "vless://16c23193-ce68-fe74-96d2-2f340000002d@104.19.230.21:8880?path=%2Fsync&security=none&encryption=none&host=bnukoe-y937zy-b5943c.tiufucuc8r737f.workers.dev&fp=chrome&type=ws&sni=bnukoe-y937zy-b5943c.tiufucuc8r737f.workers.dev#🔵@chillguy_vpn",
    "ping": 889,
@@ -686,6 +709,12 @@
    "cfg": "vless://30dab345-4de9-4b70-ad9f-8ebd5c66686f@81.90.21.168:443?security=reality&encryption=none&pbk=GRxGFwibgoUjG9OL5Dl1OLyK56yw8WaG5BdFP8ifVgQ&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=26f7082dd0e36ca1#🔵@chillguy_vpn",
    "ping": 1286,
    "ts": 1790837848.802974
+  },
+  {
+   "id": "68a02450ecb0736d",
+   "cfg": "vless://21d0929a-ba27-4822-9b50-bda9ee54a494@n34.himoy.space:443?security=reality&encryption=none&pbk=qQCRfCyAjTO1ojxIyyOMu6h7IFfQgyjsg5f0CALJByA&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=n34.himoy.space&sid=474a88f4aa2fe8a5#🔵@chillguy_vpn",
+   "ping": 1838,
+   "ts": 1790843318.6732955
   },
   {
    "id": "ada35ebc7624d86c",
@@ -1137,6 +1166,11 @@
    "cfg": "vless://34cedc35-a520-4a8f-8cb6-d9afba04751b@188.114.97.6:8080?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=ancient-tooth-af89.500-ba0.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 556,
    "ts": 1790841882.5381656
+  },
+  "32038caa4e808eda": {
+   "cfg": "vless://4a40e7a6-9179-42c1-9bd7-eefec23a62f8@104.21.55.229:8880?security=none&type=ws&host=soft-meadow-980a.458.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 557,
+   "ts": 1790843318.6732955
   }
  },
  "geo": {
@@ -1799,13 +1833,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790839704.7111604
+  },
+  "104.21.55.229": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790843321.8407466
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 40,
-  "healthy": 38,
-  "posted": 29,
+  "fetched": 45,
+  "healthy": 43,
+  "posted": 30,
   "removed": 24
  }
 }
