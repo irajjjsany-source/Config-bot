@@ -546,12 +546,6 @@
  },
  "queue": [
   {
-   "id": "7043a324211c2834",
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?sni=dl.google.com&security=reality&type=grpc&mode=gun&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&encryption=none&sid=aabbccdd&serviceName=grpc-tunnel#🔵@chillguy_vpn",
-   "ping": 704,
-   "ts": 1790810559.9036148
-  },
-  {
    "id": "188bdb7a9c84ca17",
    "cfg": "vmess://eyJhZGQiOiAibXlncHRhZ2VudC5vcmciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibXlncHRhZ2VudC5vcmciLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicGNzIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJteWdwdGFnZW50Lm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
    "ping": 790,
@@ -586,12 +580,6 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.154:9881?mode=gun&security=reality&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🔵@chillguy_vpn",
    "ping": 868,
    "ts": 1790800617.3604777
-  },
-  {
-   "id": "71a76b6e09608f19",
-   "cfg": "vless://fc40ce64-3c90-4d32-8e2f-ed456a0553fd@swisssssss.14245.fsrcbutwander.full.garqino.ir:10000?security=reality&encryption=none&pbk=UOa0v_JpSPRPMO6ABMM7tIir-GclotOVfnbI2WqJGVE&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9791feaccc1ca4d8#🔵@chillguy_vpn",
-   "ping": 892,
-   "ts": 1790798573.4910135
   },
   {
    "id": "f2ed7f4c0137ea67",
@@ -1029,6 +1017,11 @@
    "cfg": "vless://dc01beee-1a43-4378-91a4-666eb027f664@65.109.188.113:21430?encryption=mlkem768x25519plus.native.0rtt.Q4RsjjIF_UTytOkqEN1-F-HM1GODFQZoVxh-IGCsRzk&security=none&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 534,
    "ts": 1790819501.5521688
+  },
+  "7043a324211c2834": {
+   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?sni=dl.google.com&security=reality&type=grpc&mode=gun&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&encryption=none&sid=aabbccdd&serviceName=grpc-tunnel#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 535,
+   "ts": 1790820218.6563191
   }
  },
  "geo": {
@@ -1637,7 +1630,7 @@
   "date": "2026-10-01",
   "fetched": 0,
   "healthy": 0,
-  "posted": 7,
+  "posted": 8,
   "removed": 12
  }
 }
