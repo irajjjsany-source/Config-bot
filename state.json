@@ -581,7 +581,11 @@
   "2e3f12765e16b5fb": 1790882711.6296885,
   "3c0e2b615e0fbd98": 1790884221.4772866,
   "4e2d6582cb2b6416": 1790884221.4772866,
-  "c958f08e28f28164": 1790884221.4772866
+  "c958f08e28f28164": 1790884221.4772866,
+  "609a9d90e58f1dbd": 1790886395.0357306,
+  "c4f43c67e22f7021": 1790886395.0357306,
+  "a006d2abd83ebaa6": 1790886395.0357306,
+  "a48499d805b8995e": 1790886395.0357306
  },
  "queue": [
   {
@@ -625,6 +629,18 @@
    "cfg": "vless://3721913e-0ab1-4ee5-a05d-c9e85c72311c@77.42.28.120:1280?path=%2F&security=&encryption=none&host=is1-ssl.mzstatic.com&type=ws#🔵@chillguy_vpn",
    "ping": 3504,
    "ts": 1790880447.3635094
+  },
+  {
+   "id": "a006d2abd83ebaa6",
+   "cfg": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@91.98.97.230:2425?type=tcp&headerType=none&security=reality&fp=chrome&sni=www.raja.ir&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🔵@chillguy_vpn",
+   "ping": 3705,
+   "ts": 1790886395.0357306
+  },
+  {
+   "id": "a48499d805b8995e",
+   "cfg": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@areal5.greewebservices.ir:5455?type=tcp&headerType=none&security=reality&fp=edge&sni=amp-api-edge.apps.apple.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#🔵@chillguy_vpn",
+   "ping": 4475,
+   "ts": 1790886395.0357306
   },
   {
    "id": "3bfe8a1135ff2e7e",
@@ -1013,6 +1029,11 @@
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 601,
    "ts": 1790884969.6785269
+  },
+  "c4f43c67e22f7021": {
+   "cfg": "vless://0c61937c-d851-4caf-987e-a28f0751109d@199.232.78.159:80?path=%2F&security=none&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 602,
+   "ts": 1790886395.0357306
   }
  },
  "geo": {
@@ -1844,9 +1865,9 @@
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 151,
-  "healthy": 117,
-  "posted": 74,
+  "fetched": 155,
+  "healthy": 120,
+  "posted": 75,
   "removed": 78
  }
 }
