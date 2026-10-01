@@ -587,20 +587,15 @@
   "e6c5f00c5dabefb4": 1790890703.5680695,
   "b17e795168341202": 1790891572.762916,
   "e608926539287ea4": 1790891572.762916,
-  "14ab39c5fb7a9c3a": 1790892150.3709686
+  "14ab39c5fb7a9c3a": 1790892150.3709686,
+  "f76254b814e40ad9": 1790894196.7059116
  },
  "queue": [
   {
-   "id": "34dad5c4eea0889a",
-   "cfg": "vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.246.236:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=teranko.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#🔵@chillguy_vpn",
-   "ping": 1629,
-   "ts": 1790890703.5680695
-  },
-  {
-   "id": "8179ec1afdb2982e",
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=random&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🔵@chillguy_vpn",
-   "ping": 1667,
-   "ts": 1790890703.5680695
+   "id": "f76254b814e40ad9",
+   "cfg": "vless://fad0b9a6-187d-4fcc-96fc-498bc5b3135a@server.slavkiti.monster:443?security=reality&encryption=none&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=8325360e8bd2#🔵@chillguy_vpn",
+   "ping": 1804,
+   "ts": 1790894196.7059116
   },
   {
    "id": "51da85bb7bd82c2c",
@@ -1118,6 +1113,11 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabbccdd&type=grpc&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&serviceName=grpc-tunnel&mode=gun#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 610,
    "ts": 1790893361.1073296
+  },
+  "8179ec1afdb2982e": {
+   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=random&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 611,
+   "ts": 1790894196.7059116
   }
  },
  "geo": {
@@ -1974,9 +1974,9 @@
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 182,
-  "healthy": 139,
-  "posted": 83,
+  "fetched": 183,
+  "healthy": 140,
+  "posted": 84,
   "removed": 78
  }
 }
