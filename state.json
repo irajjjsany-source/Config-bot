@@ -624,7 +624,10 @@
   "ec7176cda7df0625": 1790855645.01336,
   "ede515ab5201cc7b": 1790855645.01336,
   "e3b1b1e4af190bf7": 1790855645.01336,
-  "cca03ce331614414": 1790855645.01336
+  "cca03ce331614414": 1790855645.01336,
+  "a115e4829517f72e": 1790857930.7021594,
+  "0bcd2045f6c7fd6f": 1790857930.7021594,
+  "cef5f97bbfbd13fe": 1790857930.7021594
  },
  "queue": [
   {
@@ -686,6 +689,12 @@
    "cfg": "vless://16c23193-ce68-fe74-96d2-2f340000000e@104.17.147.22:80?path=%2Fsync&security=none&encryption=none&host=bnukoe-y937zy-b5943c.tiufucuc8r737f.workers.dev&fp=chrome&type=ws&sni=bnukoe-y937zy-b5943c.tiufucuc8r737f.workers.dev#🔵@chillguy_vpn",
    "ping": 946,
    "ts": 1790838572.02622
+  },
+  {
+   "id": "0bcd2045f6c7fd6f",
+   "cfg": "vless://1e894442-31ba-479a-8199-1af4cc8c83a5@p2real4.greewebservices.ir:1340?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🔵@chillguy_vpn",
+   "ping": 1093,
+   "ts": 1790857930.7021594
   },
   {
    "id": "2fd4f84c2c6befe9",
@@ -1138,6 +1147,11 @@
    "cfg": "vless://6f597b2d-2df5-4f4f-a755-bdb5c10604e9@psf-3.weedly.top:80?path=%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&host=homelander.ir&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 572,
    "ts": 1790856353.9122229
+  },
+  "cef5f97bbfbd13fe": {
+   "cfg": "vless://1e894442-31ba-479a-8199-1af4cc8c83a5@91.98.107.229:3435?type=tcp&headerType=none&security=reality&fp=chrome&sni=www.raja.ir&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 573,
+   "ts": 1790857930.7021594
   }
  },
  "geo": {
@@ -1860,13 +1874,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1790856361.8015714
+  },
+  "91.98.107.229": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790857933.8605747
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 82,
-  "healthy": 72,
-  "posted": 45,
+  "fetched": 85,
+  "healthy": 74,
+  "posted": 46,
   "removed": 53
  }
 }
