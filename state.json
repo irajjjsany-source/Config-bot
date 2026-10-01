@@ -604,15 +604,12 @@
   "25524cb00634888d": 1790868434.3965638,
   "98062c0440ae24eb": 1790868434.3965638,
   "00d598ad00a48fc9": 1790869280.3516536,
-  "3f73f938582091ba": 1790869280.3516536
+  "3f73f938582091ba": 1790869280.3516536,
+  "01d3b5ee083ae192": 1790870627.9153278,
+  "049992e4977816fe": 1790870627.9153278,
+  "f9db734bd06c45a1": 1790870627.9153278
  },
  "queue": [
-  {
-   "id": "ecf9fd0d026b0d40",
-   "cfg": "vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.249.133:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=vault.connectiux.com&sid=9e15546f267baa64#🔵@chillguy_vpn",
-   "ping": 384,
-   "ts": 1790863540.5199797
-  },
   {
    "id": "bd59affcc5025a0e",
    "cfg": "vless://e5b261f9-1491-4dfa-aee5-fcc958a1d73b@poefauscw.ir:2027?security=reality&encryption=none&pbk=jqkhdICFhCsOxkhu_kZXche0UqoNGfxVXZThFEwjnhE&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=efd5ce8d7eed1962#🔵@chillguy_vpn",
@@ -710,12 +707,6 @@
    "ts": 1790865840.0266702
   },
   {
-   "id": "fb45c5ee7c97f099",
-   "cfg": "vless://86f62b39-e8d4-4095-8e0e-e1bc60b4b2ce@num3-ge.specialteam2.com:2626?security=reality&encryption=none&pbk=PWQTEqDK7DXsRxV0w74VoF0p7dNKbkbIcLt0o4_QaHU&headerType=none&fp=chrome&type=tcp&sni=www.goo.gl&sid=29e8472db54c86dc#🔵@chillguy_vpn",
-   "ping": 1347,
-   "ts": 1790848504.0390837
-  },
-  {
    "id": "3f73f938582091ba",
    "cfg": "vless://5f424b45-29e5-4cbe-b752-88ac535c11b7@www.asamping.ir:2052?path=%2F&security=none&encryption=none&host=www.asamping.ir&type=ws#🔵@chillguy_vpn",
    "ping": 1550,
@@ -738,6 +729,12 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.7:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#🔵@chillguy_vpn",
    "ping": 1731,
    "ts": 1790861437.9695823
+  },
+  {
+   "id": "f9db734bd06c45a1",
+   "cfg": "vless://d13baced-948a-40d7-be31-7b44fa768552@188.68.218.37:8443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22%22%2C%22headers%22%3A%7B%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionIDPlacement%22%3A%22%22%2C%22sessionIDKey%22%3A%22%22%2C%22sessionIDTable%22%3A%22%22%2C%22sessionIDLength%22%3A%220%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A%220%22%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22serverMaxHeaderBytes%22%3A0%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&fp=ios&type=xhttp&sni=rumulti.federal-usa.com&sid=6b2f4e6ac9b1d2f0#🔵@chillguy_vpn",
+   "ping": 2027,
+   "ts": 1790870627.9153278
   },
   {
    "id": "40fce4e81e49489e",
@@ -1189,6 +1186,11 @@
    "cfg": "vless://0f4081e7-612b-425f-8def-eebf144aedba@149.86.227.200:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=waypoint.connectserverix.com&sid=9e15546f267baa64#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 585,
    "ts": 1790870079.2212572
+  },
+  "ecf9fd0d026b0d40": {
+   "cfg": "vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.249.133:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=vault.connectiux.com&sid=9e15546f267baa64#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 586,
+   "ts": 1790870627.9153278
   }
  },
  "geo": {
@@ -1961,13 +1963,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1790869289.9475086
+  },
+  "2.27.249.133": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1790870637.5115197
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 119,
-  "healthy": 101,
-  "posted": 58,
+  "fetched": 122,
+  "healthy": 102,
+  "posted": 59,
   "removed": 53
  }
 }
