@@ -546,12 +546,6 @@
  },
  "queue": [
   {
-   "id": "b89193cdc567a5bb",
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.154:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🔵@chillguy_vpn",
-   "ping": 667,
-   "ts": 1790805167.773384
-  },
-  {
    "id": "57f1566456b4d04a",
    "cfg": "vless://14bdb3f7-4556-404b-9fba-fd51ca9bd4b2@plkrjo5j.danqela.ir:51595?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=play.google.com&security=reality&fp=chrome&sni=play.google.com&pbk=AJjXkgHlDAdrUkG8hK3_ECdPa-baeGYacNmLPyc_hEo&sid=ea36049247370f47#🔵@chillguy_vpn",
    "ping": 688,
@@ -616,12 +610,6 @@
    "cfg": "vless://fc40ce64-3c90-4d32-8e2f-ed456a0553fd@swisssssss.14245.fsrcbutwander.full.garqino.ir:10000?security=reality&encryption=none&pbk=UOa0v_JpSPRPMO6ABMM7tIir-GclotOVfnbI2WqJGVE&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9791feaccc1ca4d8#🔵@chillguy_vpn",
    "ping": 892,
    "ts": 1790798573.4910135
-  },
-  {
-   "id": "a52419d17a657349",
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.241.226:9891?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🔵@chillguy_vpn",
-   "ping": 1038,
-   "ts": 1790797048.9883728
   },
   {
    "id": "f2ed7f4c0137ea67",
@@ -1049,6 +1037,11 @@
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 532,
    "ts": 1790817965.4830341
+  },
+  "b89193cdc567a5bb": {
+   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.154:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 533,
+   "ts": 1790818691.5868843
   }
  },
  "geo": {
@@ -1641,13 +1634,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1790816976.1385953
+  },
+  "176.109.111.154": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1790818693.6286519
   }
  },
  "stats": {
   "date": "2026-10-01",
   "fetched": 0,
   "healthy": 0,
-  "posted": 5,
+  "posted": 6,
   "removed": 12
  }
 }
