@@ -609,15 +609,11 @@
   "049992e4977816fe": 1790870627.9153278,
   "f9db734bd06c45a1": 1790870627.9153278,
   "a8a0f2d2b95b6f30": 1790871933.5503054,
-  "88bd4f669a499f86": 1790871933.5503054
+  "88bd4f669a499f86": 1790871933.5503054,
+  "1f28614b3dfcf517": 1790873531.0414548,
+  "7b09d04d5030c5c3": 1790873531.0414548
  },
  "queue": [
-  {
-   "id": "083f65a829db1e42",
-   "cfg": "vless://44757a3a-bd64-4c4a-ae6c-a11503cd6097@51.20.94.159:8010?security=reality&encryption=none&pbk=Vtx_JlcgqBDRv8XWimo41kgKuZdxvSUzkQR62188xWQ&headerType=none&fp=edge&type=tcp&sni=activision.com&sid=5ed0c99dd6c79bb5#🔵@chillguy_vpn",
-   "ping": 477,
-   "ts": 1790868434.3965638
-  },
   {
    "id": "a604f88e4e11be2f",
    "cfg": "vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#🔵@chillguy_vpn",
@@ -661,22 +657,22 @@
    "ts": 1790868434.3965638
   },
   {
-   "id": "2fbfe80165d25202",
-   "cfg": "vmess://eyJhZGQiOiAiMTQzLjE0LjU5LjIxMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjQ2ZDkwMTYtMGU3MC00ZGY2LWIyYWUtNDMxOTg4MzdiODRiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjA1MiIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
-   "ping": 736,
-   "ts": 1790851235.482479
-  },
-  {
-   "id": "72b08536ee76870c",
-   "cfg": "vmess://eyJhZGQiOiAiMTQzLjE0LjU5LjIxMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNjllZGUwZTctNjNhMi00NTI2LTk4MTUtMTYyM2FiYTYzMDYzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwNTIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
-   "ping": 747,
-   "ts": 1790851235.482479
-  },
-  {
    "id": "88bd4f669a499f86",
    "cfg": "vless://26c88828-53a0-40b9-84fc-e9a50fde5e7d@194.32.214.50:31079?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#🔵@chillguy_vpn",
    "ping": 784,
    "ts": 1790871933.5503054
+  },
+  {
+   "id": "1f28614b3dfcf517",
+   "cfg": "vless://26c88828-53a0-40b9-84fc-e9a50fde5e7d@194.32.214.50:31079?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 826,
+   "ts": 1790873531.0414548
+  },
+  {
+   "id": "7b09d04d5030c5c3",
+   "cfg": "vless://26c88828-53a0-40b9-84fc-e9a50fde5e7d@194.32.214.50:31079?encryption=none&security=none&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🔵@chillguy_vpn",
+   "ping": 855,
+   "ts": 1790873531.0414548
   },
   {
    "id": "c64e5d76c77a46d4",
@@ -1185,6 +1181,11 @@
    "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.241.78:443?security=reality&encryption=none&pbk=6NIpIulg7Pzn5prCK2Qk6TWEcm2b72CD_z2_XLG8tyc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sh-pl-01.mintrocket.org&sid=31db3f825e83e2b0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 588,
    "ts": 1790872735.8574948
+  },
+  "083f65a829db1e42": {
+   "cfg": "vless://44757a3a-bd64-4c4a-ae6c-a11503cd6097@51.20.94.159:8010?security=reality&encryption=none&pbk=Vtx_JlcgqBDRv8XWimo41kgKuZdxvSUzkQR62188xWQ&headerType=none&fp=edge&type=tcp&sni=activision.com&sid=5ed0c99dd6c79bb5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 589,
+   "ts": 1790873531.0414548
   }
  },
  "geo": {
@@ -1967,13 +1968,18 @@
    "cc": "LV",
    "name": "Latvia",
    "ts": 1790871942.440231
+  },
+  "51.20.94.159": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1790873535.1656146
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 124,
-  "healthy": 103,
-  "posted": 61,
+  "fetched": 126,
+  "healthy": 105,
+  "posted": 62,
   "removed": 53
  }
 }
