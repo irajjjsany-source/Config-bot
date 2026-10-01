@@ -607,21 +607,11 @@
   "3f73f938582091ba": 1790869280.3516536,
   "01d3b5ee083ae192": 1790870627.9153278,
   "049992e4977816fe": 1790870627.9153278,
-  "f9db734bd06c45a1": 1790870627.9153278
+  "f9db734bd06c45a1": 1790870627.9153278,
+  "a8a0f2d2b95b6f30": 1790871933.5503054,
+  "88bd4f669a499f86": 1790871933.5503054
  },
  "queue": [
-  {
-   "id": "bd59affcc5025a0e",
-   "cfg": "vless://e5b261f9-1491-4dfa-aee5-fcc958a1d73b@poefauscw.ir:2027?security=reality&encryption=none&pbk=jqkhdICFhCsOxkhu_kZXche0UqoNGfxVXZThFEwjnhE&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=efd5ce8d7eed1962#🔵@chillguy_vpn",
-   "ping": 423,
-   "ts": 1790862835.3054125
-  },
-  {
-   "id": "fc32617543e9e29b",
-   "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@2.26.88.52:443?security=reality&encryption=none&pbk=gcx8FNkRv0rdkd0kRhgSLWDXqVc7KgAw4rnYaYx9JgE&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sh-lv-01.mintrocket.org&sid=338e250284b889ba#🔵@chillguy_vpn",
-   "ping": 440,
-   "ts": 1790862835.3054125
-  },
   {
    "id": "3b41e8475e6d2261",
    "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.241.78:443?security=reality&encryption=none&pbk=6NIpIulg7Pzn5prCK2Qk6TWEcm2b72CD_z2_XLG8tyc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sh-pl-01.mintrocket.org&sid=31db3f825e83e2b0#🔵@chillguy_vpn",
@@ -687,6 +677,12 @@
    "cfg": "vmess://eyJhZGQiOiAiMTQzLjE0LjU5LjIxMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNjllZGUwZTctNjNhMi00NTI2LTk4MTUtMTYyM2FiYTYzMDYzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwNTIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
    "ping": 747,
    "ts": 1790851235.482479
+  },
+  {
+   "id": "88bd4f669a499f86",
+   "cfg": "vless://26c88828-53a0-40b9-84fc-e9a50fde5e7d@194.32.214.50:31079?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#🔵@chillguy_vpn",
+   "ping": 784,
+   "ts": 1790871933.5503054
   },
   {
    "id": "c64e5d76c77a46d4",
@@ -1191,6 +1187,11 @@
    "cfg": "vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.249.133:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=vault.connectiux.com&sid=9e15546f267baa64#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 586,
    "ts": 1790870627.9153278
+  },
+  "fc32617543e9e29b": {
+   "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@2.26.88.52:443?security=reality&encryption=none&pbk=gcx8FNkRv0rdkd0kRhgSLWDXqVc7KgAw4rnYaYx9JgE&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sh-lv-01.mintrocket.org&sid=338e250284b889ba#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 587,
+   "ts": 1790871933.5503054
   }
  },
  "geo": {
@@ -1968,13 +1969,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1790870637.5115197
+  },
+  "2.26.88.52": {
+   "cc": "LV",
+   "name": "Latvia",
+   "ts": 1790871942.440231
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 122,
-  "healthy": 102,
-  "posted": 59,
+  "fetched": 124,
+  "healthy": 103,
+  "posted": 60,
   "removed": 53
  }
 }
