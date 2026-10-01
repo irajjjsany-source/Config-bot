@@ -615,21 +615,12 @@
   "6eb97167944101d1": 1790874312.558348,
   "3bfe8a1135ff2e7e": 1790874312.558348,
   "5538d29dcf2f444a": 1790875552.5298402,
-  "2d47bdb25c0d55dc": 1790875552.5298402
+  "2d47bdb25c0d55dc": 1790875552.5298402,
+  "11e7d9aa4ca45877": 1790876333.3503878,
+  "f895852dcaf5f0cc": 1790876333.3503878,
+  "17128d5168c0c401": 1790876333.3503878
  },
  "queue": [
-  {
-   "id": "793e7033907a4e64",
-   "cfg": "vless://e5b261f9-1491-4dfa-aee5-fcc958a1d73b@yryyryr.poelspsgwk.ir:2027?security=reality&encryption=none&pbk=jqkhdICFhCsOxkhu_kZXche0UqoNGfxVXZThFEwjnhE&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=efd5ce8d7eed1962#🔵@chillguy_vpn",
-   "ping": 564,
-   "ts": 1790862835.3054125
-  },
-  {
-   "id": "5538d29dcf2f444a",
-   "cfg": "vless://a80212c8-a909-4837-beb2-7960b59ee5ca@45.151.180.165:43000?security=reality&encryption=none&pbk=lGf40xP_E5TZz9KkrQoeUKCfRq8WBatc7OYnRgBEuXI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=e4a3b0e4#🔵@chillguy_vpn",
-   "ping": 567,
-   "ts": 1790875552.5298402
-  },
   {
    "id": "1568956580f38ec0",
    "cfg": "vless://4ea34b32-e23e-4c9e-b698-a47dc0f6a403@Trustme.moranosd.ir:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=iranrouter.org&sid=6ea3daaac3d6bede#🔵@chillguy_vpn",
@@ -671,6 +662,12 @@
    "cfg": "vless://ce4b2104-f1fe-4216-ad67-8c21869b9118@g1.sabet1.blazevx.ir:31913?encryption=none&security=reality&sni=cdn.eiger.io&fp=chrome&pbk=u8QXW7crvuXyOf305UfxBrr7Pa9epO1fK2rpPxmJ4lc&sid=9053a51b5337ae12&type=xhttp&mode=auto&path=%2F#🔵@chillguy_vpn",
    "ping": 873,
    "ts": 1790862835.3054125
+  },
+  {
+   "id": "11e7d9aa4ca45877",
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
+   "ping": 1032,
+   "ts": 1790876333.3503878
   },
   {
    "id": "0bcd2045f6c7fd6f",
@@ -1182,6 +1179,11 @@
    "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.249.204:443?security=reality&encryption=none&pbk=WHb-QaDcaJMJ0S8Jtw83C_AdCK2anMZvTd3YCdcNanc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sh-fi-01.mintrocket.org&sid=e4d61fb3192a14a3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 591,
    "ts": 1790875552.5298402
+  },
+  "5538d29dcf2f444a": {
+   "cfg": "vless://a80212c8-a909-4837-beb2-7960b59ee5ca@45.151.180.165:43000?security=reality&encryption=none&pbk=lGf40xP_E5TZz9KkrQoeUKCfRq8WBatc7OYnRgBEuXI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=e4a3b0e4#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 592,
+   "ts": 1790876333.3503878
   }
  },
  "geo": {
@@ -1974,13 +1976,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1790875573.1613848
+  },
+  "45.151.180.165": {
+   "cc": "CZ",
+   "name": "Czechia",
+   "ts": 1790876344.8300982
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 130,
-  "healthy": 108,
-  "posted": 64,
+  "fetched": 133,
+  "healthy": 109,
+  "posted": 65,
   "removed": 53
  }
 }
