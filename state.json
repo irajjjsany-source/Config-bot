@@ -611,15 +611,13 @@
   "3e81d4cb1872bab9": 1790849118.1800134,
   "c2398e010aa86553": 1790849118.1800134,
   "2538f042d0e3334b": 1790849118.1800134,
-  "72193ace75f544a8": 1790850426.6530714
+  "72193ace75f544a8": 1790850426.6530714,
+  "2fbfe80165d25202": 1790851235.482479,
+  "72b08536ee76870c": 1790851235.482479,
+  "28c26ff37d083fae": 1790851235.482479,
+  "6986b4342a6d5021": 1790851235.482479
  },
  "queue": [
-  {
-   "id": "c2398e010aa86553",
-   "cfg": "vless://%58pnTeam-56@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 345,
-   "ts": 1790849118.1800134
-  },
   {
    "id": "2468edc1997c22b5",
    "cfg": "vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.5:2085?mode=multi&security=none&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=grpc&serviceName=vless#🔵@chillguy_vpn",
@@ -715,6 +713,18 @@
    "cfg": "vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@45.39.255.74:443?mode=auto&security=reality&encryption=none&pbk=nePVxxnByjxR4YMlM8dUl1bedOy72r578aNwNJxCdDI&fp=firefox&type=xhttp&sni=yahoo.com&sid=9f3c1a7b2d8e6041#🔵@chillguy_vpn",
    "ping": 687,
    "ts": 1790846874.806267
+  },
+  {
+   "id": "2fbfe80165d25202",
+   "cfg": "vmess://eyJhZGQiOiAiMTQzLjE0LjU5LjIxMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjQ2ZDkwMTYtMGU3MC00ZGY2LWIyYWUtNDMxOTg4MzdiODRiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjA1MiIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "ping": 736,
+   "ts": 1790851235.482479
+  },
+  {
+   "id": "72b08536ee76870c",
+   "cfg": "vmess://eyJhZGQiOiAiMTQzLjE0LjU5LjIxMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNjllZGUwZTctNjNhMi00NTI2LTk4MTUtMTYyM2FiYTYzMDYzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwNTIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
+   "ping": 747,
+   "ts": 1790851235.482479
   },
   {
    "id": "63b27a13258ba24a",
@@ -1295,6 +1305,11 @@
    "cfg": "vless://e0bd9dfa-0cf9-47c0-92ac-7dba08ebcff8@179.237.103.152:443?security=reality&encryption=none&pbk=8PZTYkhNhSgagVdaI-iqSCPXJwDhHU23IUwZIu08zH4&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=9de8ae53dabf1dc2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 565,
    "ts": 1790850426.6530714
+  },
+  "c2398e010aa86553": {
+   "cfg": "vless://%58pnTeam-56@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 566,
+   "ts": 1790851235.482479
   }
  },
  "geo": {
@@ -2001,9 +2016,9 @@
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 69,
-  "healthy": 63,
-  "posted": 38,
+  "fetched": 73,
+  "healthy": 65,
+  "posted": 39,
   "removed": 24
  }
 }
