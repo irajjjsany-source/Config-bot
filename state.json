@@ -584,24 +584,6 @@
  },
  "queue": [
   {
-   "id": "19dd1de54b034d7a",
-   "cfg": "vless://a5c7e18f-1701-46ed-8f42-00eb078d9445@upwork.com:8880?encryption=none&security=none&type=ws&host=weathered-snow-b87b.292-455.workers.dev&path=%2Fpyip%3Dproxyip.kr.cmliussss.net#🔵@chillguy_vpn",
-   "ping": 91,
-   "ts": 1790836336.2990992
-  },
-  {
-   "id": "fd42d6c54856cfdc",
-   "cfg": "vless://2a8cafda-479d-4e30-82d1-0bd4c6da6db9@log.bpminecraft.com:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&host=delicate-meadow-15da.423-c77.workers.dev&type=ws#🔵@chillguy_vpn",
-   "ping": 130,
-   "ts": 1790836336.2990992
-  },
-  {
-   "id": "14d5a4d0dc302034",
-   "cfg": "vless://b7e7ed42-5b9d-462d-8e54-5a4bd46f6822@65.109.187.18:49092?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 299,
-   "ts": 1790834007.3950384
-  },
-  {
    "id": "cd08cc19851ee80a",
    "cfg": "vless://b7e7ed42-5b9d-462d-8e54-5a4bd46f6822@65.109.187.18:49092?security=&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#🔵@chillguy_vpn",
    "ping": 311,
@@ -1138,6 +1120,11 @@
    "cfg": "vless://580af126-448f-407b-a4c2-785e702cd8ea@www.gov.ua:8880?security=none&type=ws&path=/pyip=proxyip.jp.cmliussss.net&host=misty-wood-62b4.263-93e.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 553,
    "ts": 1790839700.5494568
+  },
+  "14d5a4d0dc302034": {
+   "cfg": "vless://b7e7ed42-5b9d-462d-8e54-5a4bd46f6822@65.109.187.18:49092?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 554,
+   "ts": 1790840551.8798068
   }
  },
  "geo": {
@@ -1806,7 +1793,7 @@
   "date": "2026-10-01",
   "fetched": 38,
   "healthy": 36,
-  "posted": 26,
+  "posted": 27,
   "removed": 24
  }
 }
