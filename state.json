@@ -595,12 +595,6 @@
  },
  "queue": [
   {
-   "id": "33061c4c3bec26c2",
-   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@188.225.79.44:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru&sid=db04ce8bdb8900f1#🔵@chillguy_vpn",
-   "ping": 1246,
-   "ts": 1790895059.2651978
-  },
-  {
    "id": "f76254b814e40ad9",
    "cfg": "vless://fad0b9a6-187d-4fcc-96fc-498bc5b3135a@server.slavkiti.monster:443?security=reality&encryption=none&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=8325360e8bd2#🔵@chillguy_vpn",
    "ping": 1804,
@@ -1132,6 +1126,11 @@
    "cfg": "vmess://eyJhZGQiOiAiMjA2LjEuOTguNTMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiL2l0c21lTmV0RGFzaCIsICJpZCI6ICI4MDIwNjY0YS01MTBkLTQwZjMtYjExMS0wZDI3N2JkYTllZDciLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIyMDUzIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
    "msg": 612,
    "ts": 1790895059.2651978
+  },
+  "33061c4c3bec26c2": {
+   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@188.225.79.44:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru&sid=db04ce8bdb8900f1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 613,
+   "ts": 1790895714.8909855
   }
  },
  "geo": {
@@ -1989,13 +1988,18 @@
    "cc": "TR",
    "name": "Türkiye",
    "ts": 1790895061.8010411
+  },
+  "188.225.79.44": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1790895716.313601
   }
  },
  "stats": {
   "date": "2026-10-01",
   "fetched": 186,
   "healthy": 142,
-  "posted": 85,
+  "posted": 86,
   "removed": 78
  }
 }
