@@ -587,15 +587,11 @@
   "b3d4c52264d3d320": 1790887941.9500542,
   "89a8d7f62d5d7edc": 1790887941.9500542,
   "51da85bb7bd82c2c": 1790887941.9500542,
-  "94303dd5565102cc": 1790887941.9500542
+  "94303dd5565102cc": 1790887941.9500542,
+  "a9dccd8489014814": 1790888532.01673,
+  "d7735ebbd4ead57d": 1790888532.01673
  },
  "queue": [
-  {
-   "id": "17b794f36c0b6e39",
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.103:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🔵@chillguy_vpn",
-   "ping": 662,
-   "ts": 1790887941.9500542
-  },
   {
    "id": "c403b903216278df",
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.154:9881?mode=gun&security=reality&encryption=none&authority=%40mehrosaboran&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🔵@chillguy_vpn",
@@ -1076,6 +1072,11 @@
    "cfg": "vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=kayko.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 604,
    "ts": 1790887941.9500542
+  },
+  "17b794f36c0b6e39": {
+   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.103:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 605,
+   "ts": 1790888532.01673
   }
  },
  "geo": {
@@ -1908,13 +1909,18 @@
    "cc": "IT",
    "name": "Italy",
    "ts": 1790887270.1038332
+  },
+  "176.109.104.103": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1790888538.5671625
   }
  },
  "stats": {
   "date": "2026-10-01",
-  "fetched": 164,
+  "fetched": 166,
   "healthy": 127,
-  "posted": 77,
+  "posted": 78,
   "removed": 78
  }
 }
