@@ -1,6 +1,5 @@
 {
  "seen": {
-  "e670ac9b75f64027": 1790644973.2330015,
   "b9a3ef320fdeaf78": 1790653112.9969766,
   "72ed58706009ccfa": 1790653112.9969766,
   "7798c2720c5550ee": 1790656656.6747713,
@@ -604,12 +603,6 @@
  },
  "queue": [
   {
-   "id": "0286c1a11b9cdda1",
-   "cfg": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.40.187:62145?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 219,
-   "ts": 1790902533.788076
-  },
-  {
    "id": "c06da2a540d4d952",
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.241.126:9892?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🔵@chillguy_vpn",
    "ping": 637,
@@ -1135,6 +1128,11 @@
    "cfg": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.137.228:62145?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 621,
    "ts": 1790903135.4188902
+  },
+  "0286c1a11b9cdda1": {
+   "cfg": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.40.187:62145?security=&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 622,
+   "ts": 1790904316.3356183
   }
  },
  "geo": {
@@ -2012,13 +2010,18 @@
    "cc": "NL",
    "name": "Netherlands",
    "ts": 1790903144.3166423
+  },
+  "144.21.40.187": {
+   "cc": "NL",
+   "name": "Netherlands",
+   "ts": 1790904317.882995
   }
  },
  "stats": {
   "date": "2026-10-02",
   "fetched": 16,
   "healthy": 14,
-  "posted": 4,
+  "posted": 5,
   "removed": 14
  }
 }
