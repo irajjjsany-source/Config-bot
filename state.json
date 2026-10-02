@@ -1,9 +1,5 @@
 {
  "seen": {
-  "eba83904a1f5b709": 1790687331.367292,
-  "c9da6558acf2de1d": 1790687331.367292,
-  "5224e5acaf90f7e5": 1790687331.367292,
-  "ca2f8a0b29d7299b": 1790687331.367292,
   "183ea50b639a743f": 1790688574.1725974,
   "e3ef1db39d819c86": 1790688574.1725974,
   "a00ac8011da357cb": 1790689482.5879622,
@@ -577,15 +573,12 @@
   "de29c84d79ad8c7d": 1790946396.795913,
   "2c2926b2ca265bbc": 1790946396.795913,
   "04befe7b4bea002e": 1790946396.795913,
-  "7e4f1ae9fed59e6d": 1790946396.795913
+  "7e4f1ae9fed59e6d": 1790946396.795913,
+  "5c53651e87e63d1c": 1790947661.7630506,
+  "e41edf06ab7ee223": 1790947661.7630506,
+  "ffffb94367b5c133": 1790947661.7630506
  },
  "queue": [
-  {
-   "id": "32e6d1781801d890",
-   "cfg": "vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#🔵@chillguy_vpn",
-   "ping": 531,
-   "ts": 1790946396.795913
-  },
   {
    "id": "de29c84d79ad8c7d",
    "cfg": "vless://9eb6abc0-8423-4ff6-efb3-7603ddfb9636@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#🔵@chillguy_vpn",
@@ -675,6 +668,12 @@
    "cfg": "vless://nasnet@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#🔵@chillguy_vpn",
    "ping": 5588,
    "ts": 1790937473.052119
+  },
+  {
+   "id": "e41edf06ab7ee223",
+   "cfg": "vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 5756,
+   "ts": 1790947661.7630506
   },
   {
    "id": "03044c300850e11b",
@@ -1073,6 +1072,11 @@
    "cfg": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 666,
    "ts": 1790946396.795913
+  },
+  "32e6d1781801d890": {
+   "cfg": "vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 667,
+   "ts": 1790947661.7630506
   }
  },
  "geo": {
@@ -2115,13 +2119,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1790945747.1176689
+  },
+  "arcturus.yokkastars.com": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790947669.6500103
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 109,
-  "healthy": 93,
-  "posted": 49,
+  "fetched": 112,
+  "healthy": 94,
+  "posted": 50,
   "removed": 62
  }
 }
