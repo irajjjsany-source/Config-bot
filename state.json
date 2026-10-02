@@ -610,24 +610,6 @@
  },
  "queue": [
   {
-   "id": "1eff14a381e04191",
-   "cfg": "vless://873f969e-c242-480a-b939-2466cbdb65a0@194.59.40.57:444?security=reality&encryption=none&pbk=5lkWEi_DMO74pEX8JZPDUY8L6yP-61qXQ1Q_CBW731k&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=perekrestok.ru#🔵@chillguy_vpn",
-   "ping": 418,
-   "ts": 1790913817.287276
-  },
-  {
-   "id": "4b2f78f17cfe8012",
-   "cfg": "vless://ea954244-bd25-4233-a77e-bf04b7a7fd5a@189.74.114.135:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.setevoyprichal.cc&sid=a8#🔵@chillguy_vpn",
-   "ping": 439,
-   "ts": 1790913817.287276
-  },
-  {
-   "id": "fe59248f481d8d95",
-   "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@177.1.186.44:443?security=reality&encryption=none&pbk=4hvjCaGIMlFeWxMYoAWTNHQOaZkGvGQREOjB3Unn7iE&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mcde.67resserv67.info&sid=29455a3a790acbd0#🔵@chillguy_vpn",
-   "ping": 453,
-   "ts": 1790915960.113764
-  },
-  {
    "id": "7f0d58e715da5910",
    "cfg": "vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@www.zsu.gov.ua:8880?&packet-encoding=xudp&type=ws&headerType=none&host=winter-mode-7f4e.89-136.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🔵@chillguy_vpn",
    "ping": 470,
@@ -1157,6 +1139,11 @@
    "cfg": "vless://95f69f04-9685-41ec-9986-b2f97c8c9742@linColn.iRoNoS.iR:22000?security=reality&encryption=none&pbk=Js4-JgLBM09uVKI_Y1LmXmONAj--4mP7wy_qU0LfMgc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=93be0155b42462df#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 647,
    "ts": 1790927590.6485853
+  },
+  "fe59248f481d8d95": {
+   "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@177.1.186.44:443?security=reality&encryption=none&pbk=4hvjCaGIMlFeWxMYoAWTNHQOaZkGvGQREOjB3Unn7iE&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mcde.67resserv67.info&sid=29455a3a790acbd0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 648,
+   "ts": 1790928259.6133587
   }
  },
  "geo": {
@@ -2119,13 +2106,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790927600.3466344
+  },
+  "177.1.186.44": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790928269.6358063
   }
  },
  "stats": {
   "date": "2026-10-02",
   "fetched": 64,
   "healthy": 58,
-  "posted": 30,
+  "posted": 31,
   "removed": 32
  }
 }
