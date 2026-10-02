@@ -572,14 +572,16 @@
   "705d2e2cbcdaf123": 1790968176.398734,
   "a5990df8d1725c99": 1790968176.398734,
   "dc060aa5690d7759": 1790969133.398822,
-  "e04c5fbfbd0faeca": 1790969932.9267297
+  "e04c5fbfbd0faeca": 1790969932.9267297,
+  "548046748258e2f6": 1790970744.264758,
+  "d8ecf388f6474286": 1790970744.264758
  },
  "queue": [
   {
-   "id": "705d2e2cbcdaf123",
-   "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.setevoyprostor.cc&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 475,
-   "ts": 1790968176.398734
+   "id": "d8ecf388f6474286",
+   "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.150:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.setevoyprostor.cc&sid=a8#🔵@chillguy_vpn",
+   "ping": 481,
+   "ts": 1790970744.264758
   },
   {
    "id": "5bb33e768e8a8b6c",
@@ -1153,6 +1155,11 @@
    "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.52:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.setevoyprostor.cc&sid=a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 692,
    "ts": 1790969932.9267297
+  },
+  "705d2e2cbcdaf123": {
+   "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.setevoyprostor.cc&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 693,
+   "ts": 1790970744.264758
   }
  },
  "geo": {
@@ -2290,13 +2297,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1790969135.4998786
+  },
+  "189.74.106.19": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1790970753.8071692
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 178,
-  "healthy": 141,
-  "posted": 75,
+  "fetched": 180,
+  "healthy": 142,
+  "posted": 76,
   "removed": 77
  }
 }
