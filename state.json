@@ -577,7 +577,9 @@
   "2237bb76a76f668f": 1790930433.7185585,
   "a18c63ac3ce85d5a": 1790931856.3862321,
   "13ffa1f142bb2de6": 1790931856.3862321,
-  "81f3d0e8ca6be44c": 1790933206.3678408
+  "81f3d0e8ca6be44c": 1790933206.3678408,
+  "8c5060cd4e07377a": 1790936686.8837645,
+  "e52fdae12fa68333": 1790936686.8837645
  },
  "queue": [],
  "posted": {
@@ -1065,6 +1067,11 @@
    "cfg": "vless://2690c11f-7258-43fe-aeb9-d90f93a3c317@81.94.148.120:7449?security=reality&encryption=none&pbk=blW-TdkBvKRn4-lkM64Cn2QgfOqjCRYRQ9upE6RPt3c&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=c0c41dc21cf7c18e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 655,
    "ts": 1790934810.7746563
+  },
+  "e52fdae12fa68333": {
+   "cfg": "vless://a955a742-71de-4d5c-a65e-63eb290a8a10@94.183.154.216:1002?security=reality&encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.Mwkrd83bm5m80iu6CgKLEwH-UEIQnr8SvunV6wOd4Tk&pbk=OInX6PLOlHUx9CkvaGJNxuXhrA0bym6PnGcW5qpI8hk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.filimo.com&sid=d2830ef9f5bdeb2b#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 656,
+   "ts": 1790936686.8837645
   }
  },
  "geo": {
@@ -2057,13 +2064,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1790934815.394645
+  },
+  "94.183.154.216": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1790936696.0668583
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 72,
-  "healthy": 64,
-  "posted": 38,
+  "fetched": 74,
+  "healthy": 65,
+  "posted": 39,
   "removed": 32
  }
 }
