@@ -627,12 +627,6 @@
  },
  "queue": [
   {
-   "id": "d9c1808b72692466",
-   "cfg": "vless://ba746959-18e7-471c-b00f-fa5cdd930abf@172.67.187.219:8880?security=false&fp=chrome&type=ws&headerType=none&host=crimson-bread-c38e.295.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#🔵@chillguy_vpn",
-   "ping": 83,
-   "ts": 1790915960.113764
-  },
-  {
    "id": "0dd941688537803d",
    "cfg": "vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@172.67.174.37:8880?encryption=none&type=ws&host=floral-resonance-4baf.468.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#🔵@chillguy_vpn",
    "ping": 88,
@@ -1258,6 +1252,11 @@
    "cfg": "vless://30a88c40-581e-4952-aa4c-8af95686ede0@172.67.209.127:8880?encryption=none&type=ws&host=rapid-lab-95ef.173-74c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 635,
    "ts": 1790915960.113764
+  },
+  "d9c1808b72692466": {
+   "cfg": "vless://ba746959-18e7-471c-b00f-fa5cdd930abf@172.67.187.219:8880?security=false&fp=chrome&type=ws&headerType=none&host=crimson-bread-c38e.295.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 636,
+   "ts": 1790916768.3061202
   }
  },
  "geo": {
@@ -2186,7 +2185,7 @@
   "date": "2026-10-02",
   "fetched": 47,
   "healthy": 44,
-  "posted": 18,
+  "posted": 19,
   "removed": 14
  }
 }
