@@ -584,7 +584,9 @@
   "33061c4c3bec26c2": 1790895059.2651978,
   "c070ad96b0fde240": 1790895059.2651978,
   "3f00cd3bfd0fb427": 1790895059.2651978,
-  "f1ed00ca3e34f46a": 1790896906.5202854
+  "f1ed00ca3e34f46a": 1790896906.5202854,
+  "75129b501f377742": 1790899358.5648818,
+  "1a500de747e3b6e1": 1790899358.5648818
  },
  "queue": [
   {
@@ -1121,6 +1123,11 @@
    "cfg": "vless://%58pnTeam-58@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 616,
    "ts": 1790898604.0086248
+  },
+  "75129b501f377742": {
+   "cfg": "vmess://eyJhZGQiOiAiMjA2LjEuOTguNTMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiL2l0c21lTmV0RGFzaCIsICJpZCI6ICI4MDIwNjY0YS01MTBkLTQwZjMtYjExMS0wZDI3N2JkYTllZDciLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
+   "msg": 618,
+   "ts": 1790899358.5648818
   }
  },
  "geo": {
@@ -1991,10 +1998,10 @@
   }
  },
  "stats": {
-  "date": "2026-10-01",
-  "fetched": 187,
-  "healthy": 143,
-  "posted": 89,
-  "removed": 78
+  "date": "2026-10-02",
+  "fetched": 2,
+  "healthy": 1,
+  "posted": 1,
+  "removed": 0
  }
 }
