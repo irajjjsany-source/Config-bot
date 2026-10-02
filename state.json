@@ -567,27 +567,15 @@
   "13041f6523536a7e": 1790964230.9229307,
   "4c10ca7ae428bd67": 1790964230.9229307,
   "5bb33e768e8a8b6c": 1790965734.6932037,
-  "55a96214458e6156": 1790965734.6932037
+  "55a96214458e6156": 1790965734.6932037,
+  "0144dea8eb518b8a": 1790966685.8987975,
+  "c143bd662cb5067e": 1790966685.8987975,
+  "f477959c8783117b": 1790966685.8987975,
+  "8d474a871df60153": 1790966685.8987975,
+  "5599b067f7939221": 1790966685.8987975,
+  "484685bd0a6359eb": 1790966685.8987975
  },
  "queue": [
-  {
-   "id": "f4af17199d487bac",
-   "cfg": "vless://758a691a-45d2-4462-a0e8-991248a6994e@49.13.231.249:33483?encryption=none&security=none&type=ws&path=%2F#🔵@chillguy_vpn",
-   "ping": 459,
-   "ts": 1790962708.2758293
-  },
-  {
-   "id": "8f88d2cf24dd5565",
-   "cfg": "vless://ae1e1f22-6bea-98a9-92ba-fff78ec9582b@vodiwalkerpanel-production-1579.up.railway.app:443?encryption=none&security=tls&sni=vodiwalkerpanel-production-1579.up.railway.app&alpn=http%2F1.1&fp=chrome&type=ws&host=vodiwalkerpanel-production-1579.up.railway.app&path=%2Fws%2Fae1e1f22-6bea-98a9-92ba-fff78ec9582b#🔵@chillguy_vpn",
-   "ping": 459,
-   "ts": 1790962708.2758293
-  },
-  {
-   "id": "13041f6523536a7e",
-   "cfg": "vless://d32933b8-6f92-470e-a36d-fc27ba1e2cd1@77.220.213.42:33558?security=reality&encryption=none&pbk=oDtto9n7VP7EOuxXlMBWrzKS3ohZLAHYb2iZhKr9bQE&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2F90b56aad19d61c7&type=tcp&sni=iran.panelsaz.ir&sid=19ee#🔵@chillguy_vpn",
-   "ping": 478,
-   "ts": 1790964230.9229307
-  },
   {
    "id": "5bb33e768e8a8b6c",
    "cfg": "vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@77.42.28.120:1280?path=%2F&security=none&encryption=none&host=is1-ssl.mzstatic.com&type=ws#🔵@chillguy_vpn",
@@ -629,6 +617,12 @@
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@185.213.20.133:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
    "ping": 1074,
    "ts": 1790961929.703601
+  },
+  {
+   "id": "5599b067f7939221",
+   "cfg": "vless://8e7614a9-5648-424c-9e1b-7776fed9ebb3@94.183.160.144:2082?encryption=none&fp=chrome&pbk=5t058MD4dZPpM05n2fPBvUvCdpDhgg89psrAbiq92zg&security=reality&sid=811a0b074e871f&sni=www.microsoft.com&spx=%2F2b0a82b0353dd14&type=tcp#🔵@chillguy_vpn",
+   "ping": 1083,
+   "ts": 1790966685.8987975
   },
   {
    "id": "8f7d287375fc5a7a",
@@ -1123,6 +1117,11 @@
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@147.45.116.19:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=br.monkora.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 687,
    "ts": 1790965734.6932037
+  },
+  "13041f6523536a7e": {
+   "cfg": "vless://d32933b8-6f92-470e-a36d-fc27ba1e2cd1@77.220.213.42:33558?security=reality&encryption=none&pbk=oDtto9n7VP7EOuxXlMBWrzKS3ohZLAHYb2iZhKr9bQE&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2F90b56aad19d61c7&type=tcp&sni=iran.panelsaz.ir&sid=19ee#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 688,
+   "ts": 1790966685.8987975
   }
  },
  "geo": {
@@ -2249,9 +2248,9 @@
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 163,
-  "healthy": 132,
-  "posted": 70,
+  "fetched": 169,
+  "healthy": 133,
+  "posted": 71,
   "removed": 77
  }
 }
