@@ -1,8 +1,5 @@
 {
  "seen": {
-  "c61f304387b0af42": 1790717780.4511936,
-  "a498e86f6a8912e6": 1790717780.4511936,
-  "acaced2aa03e9015": 1790717780.4511936,
   "99fca7e4f06889cf": 1790721373.2872267,
   "d5ac900e3a7f110c": 1790722171.4601452,
   "56f50f2e5b705e97": 1790722171.4601452,
@@ -591,12 +588,6 @@
   "39f10c5785395191": 1790976258.4529696
  },
  "queue": [
-  {
-   "id": "a0cef7303f36e243",
-   "cfg": "vless://758a691a-45d2-4462-a0e8-991248a6994e@49.13.231.249:33483?path=%2F&security=&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 558,
-   "ts": 1790961929.703601
-  },
   {
    "id": "ece6b3ce50448dea",
    "cfg": "vmess://eyJhZGQiOiAiMjA2LjEuOTkuMTYwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJOaXRyb19Ta3lib3QiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDEzMTAiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==",
@@ -1312,6 +1303,11 @@
    "cfg": "vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@77.42.28.120:1280?path=%2F&security=none&encryption=none&host=is1-ssl.mzstatic.com&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 699,
    "ts": 1790976258.4529696
+  },
+  "a0cef7303f36e243": {
+   "cfg": "vless://758a691a-45d2-4462-a0e8-991248a6994e@49.13.231.249:33483?path=%2F&security=&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 700,
+   "ts": 1790977060.4667401
   }
  },
  "geo": {
@@ -2469,13 +2465,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1790976264.142517
+  },
+  "49.13.231.249": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790977062.2948132
   }
  },
  "stats": {
   "date": "2026-10-02",
   "fetched": 216,
   "healthy": 172,
-  "posted": 82,
+  "posted": 83,
   "removed": 77
  }
 }
