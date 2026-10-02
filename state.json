@@ -607,12 +607,6 @@
  },
  "queue": [
   {
-   "id": "f7673763282eee8f",
-   "cfg": "vless://a795c2af-a513-40b0-affd-15a04558d009@46.249.100.198:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4blBIie25p9RDi96JP2m9lQc8ciCzjaRjtMrv3iaHW4&security=reality&sid=f4e93f5397e388&sni=www.microsoft.com&spx=%2Fb01ad34ffc6021c&type=tcp#🔵@chillguy_vpn",
-   "ping": 396,
-   "ts": 1790906633.5540621
-  },
-  {
    "id": "fbc80b19d75c723b",
    "cfg": "vless://a795c2af-a513-40b0-affd-15a04558d009@46.249.100.198:20530?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aqON1djzM7DyR6Sui96oOwTxd5wblt0xrJV6xYPOkQ8&security=reality&sid=83ff&sni=www.samsung.com&spx=%2F89ee9192150b4a5&type=tcp#🔵@chillguy_vpn",
    "ping": 397,
@@ -671,18 +665,6 @@
    "cfg": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.197.109:62145?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
    "ping": 3285,
    "ts": 1790902533.788076
-  },
-  {
-   "id": "a006d2abd83ebaa6",
-   "cfg": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@91.98.97.230:2425?type=tcp&headerType=none&security=reality&fp=chrome&sni=www.raja.ir&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🔵@chillguy_vpn",
-   "ping": 3705,
-   "ts": 1790886395.0357306
-  },
-  {
-   "id": "a48499d805b8995e",
-   "cfg": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@areal5.greewebservices.ir:5455?type=tcp&headerType=none&security=reality&fp=edge&sni=amp-api-edge.apps.apple.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#🔵@chillguy_vpn",
-   "ping": 4475,
-   "ts": 1790886395.0357306
   },
   {
    "id": "b3d4c52264d3d320",
@@ -1145,6 +1127,11 @@
    "cfg": "vless://a795c2af-a513-40b0-affd-15a04558d009@46.249.100.198:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WOrJUN3iTMyeGtN-SNDfzv_vKr-nvY1vNICapa3E3BA&security=reality&sid=dc798be843148e25&sni=www.apple.com&spx=%2F3ac72ac303c08df&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 626,
    "ts": 1790907812.562315
+  },
+  "f7673763282eee8f": {
+   "cfg": "vless://a795c2af-a513-40b0-affd-15a04558d009@46.249.100.198:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4blBIie25p9RDi96JP2m9lQc8ciCzjaRjtMrv3iaHW4&security=reality&sid=f4e93f5397e388&sni=www.microsoft.com&spx=%2Fb01ad34ffc6021c&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 627,
+   "ts": 1790908613.7272692
   }
  },
  "geo": {
@@ -2043,7 +2030,7 @@
   "date": "2026-10-02",
   "fetched": 20,
   "healthy": 18,
-  "posted": 9,
+  "posted": 10,
   "removed": 14
  }
 }
