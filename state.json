@@ -605,18 +605,6 @@
  },
  "queue": [
   {
-   "id": "7f0d58e715da5910",
-   "cfg": "vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@www.zsu.gov.ua:8880?&packet-encoding=xudp&type=ws&headerType=none&host=winter-mode-7f4e.89-136.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🔵@chillguy_vpn",
-   "ping": 470,
-   "ts": 1790923762.333685
-  },
-  {
-   "id": "be175d543a6b4e8c",
-   "cfg": "vless://af83035e-5d32-4d07-b84d-4f8e219cd237@144.31.150.124:443?security=reality&encryption=none&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=fl3.sky-vault.top&sid=ae64c9b46bff174a#🔵@chillguy_vpn",
-   "ping": 506,
-   "ts": 1790915960.113764
-  },
-  {
    "id": "819d377f022cdc98",
    "cfg": "vless://ef0a953e-a366-46fe-abd5-3d1c2f1c7891@31.77.17.170:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#🔵@chillguy_vpn",
    "ping": 508,
@@ -1161,6 +1149,11 @@
    "cfg": "vless://3bf2781f-63a2-4c38-ad02-2cc337c2f7fa@104.16.25.46:8880?encryption=none&type=ws&host=silent-heart-175f.325-a85.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 650,
    "ts": 1790930433.7185585
+  },
+  "be175d543a6b4e8c": {
+   "cfg": "vless://af83035e-5d32-4d07-b84d-4f8e219cd237@144.31.150.124:443?security=reality&encryption=none&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=fl3.sky-vault.top&sid=ae64c9b46bff174a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 651,
+   "ts": 1790931158.3103316
   }
  },
  "geo": {
@@ -2133,13 +2126,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790930443.0369074
+  },
+  "144.31.150.124": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1790931162.869459
   }
  },
  "stats": {
   "date": "2026-10-02",
   "fetched": 69,
   "healthy": 62,
-  "posted": 33,
+  "posted": 34,
   "removed": 32
  }
 }
