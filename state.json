@@ -1,7 +1,5 @@
 {
  "seen": {
-  "25705523f1b9252d": 1790679181.6931105,
-  "e017f4806546b8b9": 1790679181.6931105,
   "046efa3ba4349e06": 1790679784.6831074,
   "8a6f88dfb13c2562": 1790679784.6831074,
   "a45ab08416b9af46": 1790679784.6831074,
@@ -574,7 +572,9 @@
   "27f5b6ff7645cb0c": 1790938347.9280498,
   "c0844bbf06646483": 1790938347.9280498,
   "0f2b5a2515a9f59c": 1790938347.9280498,
-  "97eb99a0dfa133cd": 1790938347.9280498
+  "97eb99a0dfa133cd": 1790938347.9280498,
+  "80ce7254d2a8b30c": 1790938976.853748,
+  "8b622c70b270082f": 1790938976.853748
  },
  "queue": [
   {
@@ -1132,6 +1132,11 @@
    "cfg": "vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?security=reality&encryption=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.akamai.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 658,
    "ts": 1790938347.9280498
+  },
+  "8b622c70b270082f": {
+   "cfg": "vless://091ed287-c062-47a7-b9f8-14b0d78dfc1a@130.94.0.23:2095?security=none&type=tcp&headerType=&path=&host=#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 659,
+   "ts": 1790938976.853748
   }
  },
  "geo": {
@@ -2139,13 +2144,18 @@
    "cc": "HU",
    "name": "Hungary",
    "ts": 1790938357.3048174
+  },
+  "130.94.0.23": {
+   "cc": "TR",
+   "name": "Türkiye",
+   "ts": 1790938982.4862347
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 88,
-  "healthy": 76,
-  "posted": 41,
+  "fetched": 90,
+  "healthy": 77,
+  "posted": 42,
   "removed": 32
  }
 }
