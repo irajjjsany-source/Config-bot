@@ -1,9 +1,5 @@
 {
  "seen": {
-  "ca2d4626b0f28650": 1790709928.6974337,
-  "3e3df138c03b1e33": 1790709928.6974337,
-  "e3e3ac5897356c39": 1790709928.6974337,
-  "f85ec14471e1d8a6": 1790709928.6974337,
   "aff7b9caa80b9a71": 1790712214.902296,
   "eaf77038f85b14a4": 1790712214.902296,
   "0738b0129939d563": 1790712214.902296,
@@ -574,15 +570,10 @@
   "20d7efabaa779e32": 1790967475.88765,
   "694126671e7754a4": 1790968176.398734,
   "705d2e2cbcdaf123": 1790968176.398734,
-  "a5990df8d1725c99": 1790968176.398734
+  "a5990df8d1725c99": 1790968176.398734,
+  "dc060aa5690d7759": 1790969133.398822
  },
  "queue": [
-  {
-   "id": "74243b463f4554e6",
-   "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.52:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.setevoyprostor.cc&sid=a8#🔵@chillguy_vpn",
-   "ping": 465,
-   "ts": 1790967475.88765
-  },
   {
    "id": "705d2e2cbcdaf123",
    "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.setevoyprostor.cc&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none#🔵@chillguy_vpn",
@@ -606,6 +597,12 @@
    "cfg": "vless://6d56436c-150d-11f0-b0c8-f23c913c8d2b@218.250.216.236:443?security=reality&encryption=none&pbk=c9DdggKaJGSH7FN3JgGbi9ZvsUqOGGpIr7BhzTWeTCo&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=download.windowsupdate.com#🔵@chillguy_vpn",
    "ping": 600,
    "ts": 1790962708.2758293
+  },
+  {
+   "id": "dc060aa5690d7759",
+   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@2.58.66.198:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
+   "ping": 699,
+   "ts": 1790969133.398822
   },
   {
    "id": "4df0029c27a8a7e3",
@@ -1151,6 +1148,11 @@
    "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.150:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.setevoyprostor.cc&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 690,
    "ts": 1790968176.398734
+  },
+  "74243b463f4554e6": {
+   "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.52:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.setevoyprostor.cc&sid=a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 691,
+   "ts": 1790969133.398822
   }
  },
  "geo": {
@@ -2283,13 +2285,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1790968178.8769827
+  },
+  "189.74.106.52": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1790969135.4998786
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 176,
-  "healthy": 139,
-  "posted": 73,
+  "fetched": 177,
+  "healthy": 140,
+  "posted": 74,
   "removed": 77
  }
 }
