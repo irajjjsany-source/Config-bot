@@ -1,6 +1,5 @@
 {
  "seen": {
-  "57537d8d075fc9d7": 1790693655.0049484,
   "07b48edb2be1bce1": 1790695674.6246264,
   "f6a97bc62f7778cf": 1790695674.6246264,
   "5b1333767b074854": 1790696528.0780017,
@@ -575,39 +574,10 @@
   "4a10eec027a4fcb2": 1790949349.7875123,
   "c2373f1dc0f048a3": 1790949349.7875123,
   "49c55a7b739b2a37": 1790951268.0465083,
-  "5d09bf1f35503d7b": 1790951268.0465083
+  "5d09bf1f35503d7b": 1790951268.0465083,
+  "1166733ee86cd700": 1790953045.9119377
  },
  "queue": [
-  {
-   "id": "2ff863af0161eb06",
-   "cfg": "vless://4643976f-85fa-40cf-9e58-ea28b50f253b@37.139.42.225:7448?security=reality&encryption=none&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision#🔵@chillguy_vpn",
-   "ping": 645,
-   "ts": 1790949349.7875123
-  },
-  {
-   "id": "97eb99a0dfa133cd",
-   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.165.25:9881?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=ios&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🔵@chillguy_vpn",
-   "ping": 690,
-   "ts": 1790938347.9280498
-  },
-  {
-   "id": "553d8516c819950b",
-   "cfg": "vless://5feacd6b-6021-47c0-a584-1aa0caaa992a@harbor44.fars-remen.ir:443?security=none&encryption=mlkem768x25519plus.native.0rtt.LQnRVsDhfdgLrbL5EeSyS1P6JRDWLYLkddE7vyHgj20&host=dynu.com&headerType=http&type=tcp#🔵@chillguy_vpn",
-   "ping": 718,
-   "ts": 1790940253.8507855
-  },
-  {
-   "id": "837e39dd1ed43662",
-   "cfg": "vless://5feacd6b-6021-47c0-a584-1aa0caaa992a@nova84.fars-remen.ir:443?security=&encryption=mlkem768x25519plus.native.0rtt.LQnRVsDhfdgLrbL5EeSyS1P6JRDWLYLkddE7vyHgj20&host=play.google.com&headerType=http&type=tcp#🔵@chillguy_vpn",
-   "ping": 726,
-   "ts": 1790940253.8507855
-  },
-  {
-   "id": "c0844bbf06646483",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
-   "ping": 812,
-   "ts": 1790938347.9280498
-  },
   {
    "id": "49c55a7b739b2a37",
    "cfg": "vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@82.152.132.196:443?security=reality&encryption=none&pbk=tbQ_5ZgBOwC63hLOYKQkYKBKIuTgJ13oxtWblB2pjGo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikipedia.org&sid=ddeed294#🔵@chillguy_vpn",
@@ -1125,6 +1095,11 @@
    "cfg": "vless://9eb6abc0-8423-4ff6-efb3-7603ddfb9636@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 672,
    "ts": 1790952188.952985
+  },
+  "c0844bbf06646483": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 673,
+   "ts": 1790953045.9119377
   }
  },
  "geo": {
@@ -2192,13 +2167,18 @@
    "cc": "SE",
    "name": "Sweden",
    "ts": 1790951274.1464255
+  },
+  "169.40.42.184": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790953082.9070618
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 123,
+  "fetched": 124,
   "healthy": 103,
-  "posted": 55,
+  "posted": 56,
   "removed": 62
  }
 }
