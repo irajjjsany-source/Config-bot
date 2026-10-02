@@ -1,10 +1,5 @@
 {
  "seen": {
-  "d26cfd423cd12a75": 1790663397.6970499,
-  "48632ef7f6545b0e": 1790663397.6970499,
-  "e4ee9b20ad8e6dff": 1790663397.6970499,
-  "fd48ffcccac66ddd": 1790663397.6970499,
-  "8d587a5ae9110619": 1790663397.6970499,
   "b7a8ea8995402e3a": 1790664477.671767,
   "1767b61ba63e39b3": 1790664477.671767,
   "eb8b7dcecf2723f9": 1790664477.671767,
@@ -604,7 +599,10 @@
   "819d377f022cdc98": 1790915960.113764,
   "3326d512e9146cf6": 1790919457.5977879,
   "3e130b5767cc427e": 1790919457.5977879,
-  "c175c4b8c0f3ca6e": 1790919457.5977879
+  "c175c4b8c0f3ca6e": 1790919457.5977879,
+  "19d7954cb1d1a797": 1790922604.6775463,
+  "a0b8f9ca0782b443": 1790922604.6775463,
+  "13e35d1b3e1cc1be": 1790922604.6775463
  },
  "queue": [
   {
@@ -612,6 +610,12 @@
    "cfg": "vless://34ce8760-24ed-41e7-a1f5-aa6c2660a53c@www.gov.ua:8880?encryption=none&type=ws&host=quiet-frost-ac61.333-07d.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#🔵@chillguy_vpn",
    "ping": 181,
    "ts": 1790913817.287276
+  },
+  {
+   "id": "13e35d1b3e1cc1be",
+   "cfg": "vless://c538c9dd-2e3f-488f-a8ca-ac5b7c0773f3@47.237.74.17:16263?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
+   "ping": 370,
+   "ts": 1790922604.6775463
   },
   {
    "id": "1eff14a381e04191",
@@ -1161,6 +1165,11 @@
    "cfg": "vless://f3a30870-eb2e-4ad7-85cb-c0e65d061d5b@188.114.97.6:8080?security=none&type=ws&host=shrill-mouse-dacd.391.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 640,
    "ts": 1790920325.98508
+  },
+  "a0b8f9ca0782b443": {
+   "cfg": "vless://f22856f8-66f0-4655-ba86-5385971e1302@www.zsu.gov.ua:8880?encryption=none&type=ws&host=throbbing-mountain-45e9.314-df3.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 642,
+   "ts": 1790922604.6775463
   }
  },
  "geo": {
@@ -2098,13 +2107,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790921021.01183
+  },
+  "www.zsu.gov.ua": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790922608.1000195
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 50,
-  "healthy": 47,
-  "posted": 24,
+  "fetched": 53,
+  "healthy": 49,
+  "posted": 25,
   "removed": 32
  }
 }
