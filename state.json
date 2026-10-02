@@ -1,12 +1,5 @@
 {
  "seen": {
-  "3bd6e1e3c1bd99f4": 1790686594.615906,
-  "528d53f07d058d4b": 1790686594.615906,
-  "559e51453b88560f": 1790686594.615906,
-  "494439ce6d4e9c78": 1790686594.615906,
-  "dc815f2f1e9b31f5": 1790686594.615906,
-  "de29c84d79ad8c7d": 1790686594.615906,
-  "7e4f1ae9fed59e6d": 1790686594.615906,
   "eba83904a1f5b709": 1790687331.367292,
   "c9da6558acf2de1d": 1790687331.367292,
   "5224e5acaf90f7e5": 1790687331.367292,
@@ -577,9 +570,28 @@
   "fc6eaa03fd9f81a7": 1790941950.376631,
   "00e331128915c10b": 1790941950.376631,
   "f9b58b57c2a99504": 1790942608.3979125,
-  "49a14f6e623733a3": 1790944246.8555682
+  "49a14f6e623733a3": 1790944246.8555682,
+  "32e6d1781801d890": 1790946396.795913,
+  "7244d074ebf8c69c": 1790946396.795913,
+  "513c9c68b69ea12b": 1790946396.795913,
+  "de29c84d79ad8c7d": 1790946396.795913,
+  "2c2926b2ca265bbc": 1790946396.795913,
+  "04befe7b4bea002e": 1790946396.795913,
+  "7e4f1ae9fed59e6d": 1790946396.795913
  },
  "queue": [
+  {
+   "id": "32e6d1781801d890",
+   "cfg": "vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#🔵@chillguy_vpn",
+   "ping": 531,
+   "ts": 1790946396.795913
+  },
+  {
+   "id": "de29c84d79ad8c7d",
+   "cfg": "vless://9eb6abc0-8423-4ff6-efb3-7603ddfb9636@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#🔵@chillguy_vpn",
+   "ping": 578,
+   "ts": 1790946396.795913
+  },
   {
    "id": "97eb99a0dfa133cd",
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.165.25:9881?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=ios&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🔵@chillguy_vpn",
@@ -633,6 +645,12 @@
    "cfg": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?path=%2Ftyxyws%23telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#🔵@chillguy_vpn",
    "ping": 3147,
    "ts": 1790940253.8507855
+  },
+  {
+   "id": "04befe7b4bea002e",
+   "cfg": "vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#🔵@chillguy_vpn",
+   "ping": 3216,
+   "ts": 1790946396.795913
   },
   {
    "id": "7ed26c6584fe9964",
@@ -1050,6 +1068,11 @@
    "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.4.193:444?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=firefox&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 665,
    "ts": 1790945745.146907
+  },
+  "2c2926b2ca265bbc": {
+   "cfg": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 666,
+   "ts": 1790946396.795913
   }
  },
  "geo": {
@@ -2096,9 +2119,9 @@
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 102,
-  "healthy": 89,
-  "posted": 48,
+  "fetched": 109,
+  "healthy": 93,
+  "posted": 49,
   "removed": 62
  }
 }
