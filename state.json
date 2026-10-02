@@ -603,9 +603,24 @@
   "f7673763282eee8f": 1790906633.5540621,
   "2a635396ac22351e": 1790906633.5540621,
   "fbc80b19d75c723b": 1790906633.5540621,
-  "c5f9cd4c41e6ada0": 1790906633.5540621
+  "c5f9cd4c41e6ada0": 1790906633.5540621,
+  "6c33d034d396992b": 1790909481.502049,
+  "99e44b8d2acb04a1": 1790909481.502049,
+  "26c4fc7aa44df158": 1790909481.502049
  },
  "queue": [
+  {
+   "id": "26c4fc7aa44df158",
+   "cfg": "vless://8546bcef-8456-41a2-82bc-d2231b42b769@172.67.179.98:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=small-tree-9ec0.84-971.workers.dev&path=%2F#🔵@chillguy_vpn",
+   "ping": 86,
+   "ts": 1790909481.502049
+  },
+  {
+   "id": "6c33d034d396992b",
+   "cfg": "vless://ba746959-18e7-471c-b00f-fa5cdd930abf@104.21.89.181:8880?security=false&fp=chrome&type=ws&headerType=none&host=crimson-bread-c38e.295.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#🔵@chillguy_vpn",
+   "ping": 87,
+   "ts": 1790909481.502049
+  },
   {
    "id": "fbc80b19d75c723b",
    "cfg": "vless://a795c2af-a513-40b0-affd-15a04558d009@46.249.100.198:20530?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aqON1djzM7DyR6Sui96oOwTxd5wblt0xrJV6xYPOkQ8&security=reality&sid=83ff&sni=www.samsung.com&spx=%2F89ee9192150b4a5&type=tcp#🔵@chillguy_vpn",
@@ -1132,6 +1147,11 @@
    "cfg": "vless://a795c2af-a513-40b0-affd-15a04558d009@46.249.100.198:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4blBIie25p9RDi96JP2m9lQc8ciCzjaRjtMrv3iaHW4&security=reality&sid=f4e93f5397e388&sni=www.microsoft.com&spx=%2Fb01ad34ffc6021c&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 627,
    "ts": 1790908613.7272692
+  },
+  "99e44b8d2acb04a1": {
+   "cfg": "vless://4a40e7a6-9179-42c1-9bd7-eefec23a62f8@172.67.187.219:8880?type=ws&encryption=none&path=/pyip=ProxyIP.KR.CMLiussss.net&host=soft-meadow-980a.458.workers.dev&fp=chrome&alpn=http/1.1&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 628,
+   "ts": 1790909481.502049
   }
  },
  "geo": {
@@ -2024,13 +2044,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790906634.9830074
+  },
+  "172.67.187.219": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790909483.1296973
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 20,
-  "healthy": 18,
-  "posted": 10,
+  "fetched": 23,
+  "healthy": 21,
+  "posted": 11,
   "removed": 14
  }
 }
