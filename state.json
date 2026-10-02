@@ -1,6 +1,5 @@
 {
  "seen": {
-  "672bf0854f12e401": 1790667566.2080126,
   "4a8acb254aa98fd7": 1790670415.6544733,
   "0b9d523b03089059": 1790670415.6544733,
   "ef67befa7a25d562": 1790670415.6544733,
@@ -610,12 +609,6 @@
  },
  "queue": [
   {
-   "id": "f6870fd77451cd76",
-   "cfg": "vless://0c13ef54-3890-4bbc-baec-e80335db9fe7@104.16.97.215:8880?encryption=none&type=ws&host=plain-dawn-765f.452.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#🔵@chillguy_vpn",
-   "ping": 49,
-   "ts": 1790926035.4191236
-  },
-  {
    "id": "0232f58f134ae96a",
    "cfg": "vless://4e81922a-1c2e-41ee-bb4c-9095a0a363fe@172.67.209.127:8880?encryption=none&type=ws&host=gentle-cell-501a.273-d6b.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#🔵@chillguy_vpn",
    "ping": 54,
@@ -1177,6 +1170,11 @@
    "cfg": "vless://15ce0fde-88e2-42b0-91e6-e4a1b4568f6e@104.20.23.154:8880?encryption=none&type=ws&host=old-truth-de8a.110-187.workers.dev&path=%2Fpyip&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 645,
    "ts": 1790926035.4191236
+  },
+  "f6870fd77451cd76": {
+   "cfg": "vless://0c13ef54-3890-4bbc-baec-e80335db9fe7@104.16.97.215:8880?encryption=none&type=ws&host=plain-dawn-765f.452.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 646,
+   "ts": 1790926848.2517047
   }
  },
  "geo": {
@@ -2129,13 +2127,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790926036.3953424
+  },
+  "104.16.97.215": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790926849.3720226
   }
  },
  "stats": {
   "date": "2026-10-02",
   "fetched": 63,
   "healthy": 58,
-  "posted": 28,
+  "posted": 29,
   "removed": 32
  }
 }
