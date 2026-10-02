@@ -1,11 +1,5 @@
 {
  "seen": {
-  "37b857574659a4a4": 1790697914.113111,
-  "34b94d925cded545": 1790697914.113111,
-  "e8ea09201e902751": 1790697914.113111,
-  "88199451fc263938": 1790697914.113111,
-  "e10c2dae35aa61d7": 1790697914.113111,
-  "3eb87a005ecdf90d": 1790697914.113111,
   "14359d854a7d24bd": 1790699264.334515,
   "0554825882a5ec3e": 1790699264.334515,
   "e4e326316d18a61c": 1790699264.334515,
@@ -573,7 +567,9 @@
   "c8d583f6a2ba2ca8": 1790957063.2091296,
   "aad5fbdca57b051e": 1790957063.2091296,
   "8d846022d7b1c315": 1790957063.2091296,
-  "7658026065dd0812": 1790957063.2091296
+  "7658026065dd0812": 1790957063.2091296,
+  "c9bb3e00ed3752b7": 1790958351.6416168,
+  "8f7d287375fc5a7a": 1790958351.6416168
  },
  "queue": [
   {
@@ -593,6 +589,12 @@
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@62.192.153.132:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
    "ping": 388,
    "ts": 1790957063.2091296
+  },
+  {
+   "id": "8f7d287375fc5a7a",
+   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@2.58.66.143:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
+   "ping": 1115,
+   "ts": 1790958351.6416168
   },
   {
    "id": "0c6a272f20864041",
@@ -1117,6 +1119,11 @@
    "cfg": "vmess://eyJhZGQiOiAiOTEuMjI4LjE4Ni4xMDkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjFlN2RlZDI3LTU4ODMtNDZlZS1iNGI5LTQ5YzQyY2EzOTliMSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjQwOTEwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
    "msg": 678,
    "ts": 1790957063.2091296
+  },
+  "c9bb3e00ed3752b7": {
+   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@216.222.201.73:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 679,
+   "ts": 1790958351.6416168
   }
  },
  "geo": {
@@ -2199,13 +2206,18 @@
    "cc": "TR",
    "name": "Turkey",
    "ts": 1790955768.1157777
+  },
+  "216.222.201.73": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790958354.1316276
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 133,
-  "healthy": 108,
-  "posted": 61,
+  "fetched": 135,
+  "healthy": 110,
+  "posted": 62,
   "removed": 62
  }
 }
