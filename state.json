@@ -1,13 +1,5 @@
 {
  "seen": {
-  "d0299d0dfcd0cf71": 1790661802.4190874,
-  "3ceed8eb652e7eb7": 1790661802.4190874,
-  "0258f208c1b2b261": 1790661802.4190874,
-  "479d73e3a3ef4a18": 1790661802.4190874,
-  "59e4b513e1c40e3c": 1790661802.4190874,
-  "3a902917c6a333ce": 1790661802.4190874,
-  "79592fd1357f21b5": 1790661802.4190874,
-  "24f3b11a731b713b": 1790661802.4190874,
   "d26cfd423cd12a75": 1790663397.6970499,
   "48632ef7f6545b0e": 1790663397.6970499,
   "e4ee9b20ad8e6dff": 1790663397.6970499,
@@ -615,12 +607,6 @@
   "c175c4b8c0f3ca6e": 1790919457.5977879
  },
  "queue": [
-  {
-   "id": "3e130b5767cc427e",
-   "cfg": "vless://7a629a11-b75a-4889-957d-dc0987a73a19@104.24.65.202:2086?encryption=none&type=ws&host=jimifree.jimshofree1.workers.dev&path=%2FeyJqdW5rIjoieVMzbmVFWlBsd3prIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed&security=none#🔵@chillguy_vpn",
-   "ping": 50,
-   "ts": 1790919457.5977879
-  },
   {
    "id": "c261f26c86591035",
    "cfg": "vless://34ce8760-24ed-41e7-a1f5-aa6c2660a53c@www.gov.ua:8880?encryption=none&type=ws&host=quiet-frost-ac61.333-07d.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#🔵@chillguy_vpn",
@@ -1260,6 +1246,11 @@
    "cfg": "vless://f3a30870-eb2e-4ad7-85cb-c0e65d061d5b@188.114.97.6:8080?security=none&type=ws&host=shrill-mouse-dacd.391.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 640,
    "ts": 1790920325.98508
+  },
+  "3e130b5767cc427e": {
+   "cfg": "vless://7a629a11-b75a-4889-957d-dc0987a73a19@104.24.65.202:2086?encryption=none&type=ws&host=jimifree.jimshofree1.workers.dev&path=%2FeyJqdW5rIjoieVMzbmVFWlBsd3prIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 641,
+   "ts": 1790921019.5121768
   }
  },
  "geo": {
@@ -2192,13 +2183,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790919458.5729272
+  },
+  "104.24.65.202": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790921021.01183
   }
  },
  "stats": {
   "date": "2026-10-02",
   "fetched": 50,
   "healthy": 47,
-  "posted": 23,
+  "posted": 24,
   "removed": 14
  }
 }
