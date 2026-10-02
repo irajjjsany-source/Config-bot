@@ -616,9 +616,17 @@
   "219e906cf41f8b32": 1790913817.287276,
   "9d36fcd2413a6c69": 1790913817.287276,
   "242fd2afe639d9eb": 1790913817.287276,
-  "e09175dd4c78f916": 1790913817.287276
+  "e09175dd4c78f916": 1790913817.287276,
+  "a8199bf271aff011": 1790915123.7034318,
+  "29ea66779c7bf71d": 1790915123.7034318
  },
  "queue": [
+  {
+   "id": "a8199bf271aff011",
+   "cfg": "vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@www.ipget.net:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=morning-silence-7b1b.222-46c.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#🔵@chillguy_vpn",
+   "ping": 122,
+   "ts": 1790915123.7034318
+  },
   {
    "id": "c261f26c86591035",
    "cfg": "vless://34ce8760-24ed-41e7-a1f5-aa6c2660a53c@www.gov.ua:8880?encryption=none&type=ws&host=quiet-frost-ac61.333-07d.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#🔵@chillguy_vpn",
@@ -1181,6 +1189,11 @@
    "cfg": "vless://30a88c40-581e-4952-aa4c-8af95686ede0@172.67.209.127:8880?security=none&sni=rapid-lab-95ef.173-74c.workers.dev&type=ws&host=rapid-lab-95ef.173-74c.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 633,
    "ts": 1790913817.287276
+  },
+  "29ea66779c7bf71d": {
+   "cfg": "vless://bbecfa92-4f64-4eb8-82e6-388394d909fe@www.ipget.net:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=empty-poetry-07b6.477-e0d.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 634,
+   "ts": 1790915123.7034318
   }
  },
  "geo": {
@@ -2098,13 +2111,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790913167.9737897
+  },
+  "www.ipget.net": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790915125.0857863
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 35,
-  "healthy": 32,
-  "posted": 16,
+  "fetched": 37,
+  "healthy": 34,
+  "posted": 17,
   "removed": 14
  }
 }
