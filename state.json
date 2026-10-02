@@ -1,8 +1,5 @@
 {
  "seen": {
-  "d863fb1d2309daba": 1790692840.917416,
-  "898d742104bf5853": 1790692840.917416,
-  "8e09f26eb63a120c": 1790692840.917416,
   "57537d8d075fc9d7": 1790693655.0049484,
   "07b48edb2be1bce1": 1790695674.6246264,
   "f6a97bc62f7778cf": 1790695674.6246264,
@@ -582,12 +579,6 @@
  },
  "queue": [
   {
-   "id": "de29c84d79ad8c7d",
-   "cfg": "vless://9eb6abc0-8423-4ff6-efb3-7603ddfb9636@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#🔵@chillguy_vpn",
-   "ping": 578,
-   "ts": 1790946396.795913
-  },
-  {
    "id": "2ff863af0161eb06",
    "cfg": "vless://4643976f-85fa-40cf-9e58-ea28b50f253b@37.139.42.225:7448?security=reality&encryption=none&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision#🔵@chillguy_vpn",
    "ping": 645,
@@ -1129,6 +1120,11 @@
    "cfg": "vless://af2bf319-ba88-4fec-8317-2b6a8cee96d1@31.77.158.132:443?security=reality&encryption=none&pbk=COMosLQzz8GJ3ATEBK__SBjKsiL5VVS1MWkWUFpQTVk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hittaikea.prizraknode.shop#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 671,
    "ts": 1790951268.0465083
+  },
+  "de29c84d79ad8c7d": {
+   "cfg": "vless://9eb6abc0-8423-4ff6-efb3-7603ddfb9636@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 672,
+   "ts": 1790952188.952985
   }
  },
  "geo": {
@@ -2202,7 +2198,7 @@
   "date": "2026-10-02",
   "fetched": 123,
   "healthy": 103,
-  "posted": 54,
+  "posted": 55,
   "removed": 62
  }
 }
