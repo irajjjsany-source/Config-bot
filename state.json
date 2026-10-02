@@ -1,6 +1,5 @@
 {
  "seen": {
-  "150bb9e93fd27315": 1790658178.618111,
   "f1edcc6c0bd523ba": 1790659446.6043875,
   "cca7aefcf0b96c4e": 1790659446.6043875,
   "2c39748e255e570b": 1790659446.6043875,
@@ -627,12 +626,6 @@
  },
  "queue": [
   {
-   "id": "0dd941688537803d",
-   "cfg": "vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@172.67.174.37:8880?encryption=none&type=ws&host=floral-resonance-4baf.468.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#🔵@chillguy_vpn",
-   "ping": 88,
-   "ts": 1790915960.113764
-  },
-  {
    "id": "a8199bf271aff011",
    "cfg": "vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@www.ipget.net:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=morning-silence-7b1b.222-46c.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#🔵@chillguy_vpn",
    "ping": 122,
@@ -1257,6 +1250,11 @@
    "cfg": "vless://ba746959-18e7-471c-b00f-fa5cdd930abf@172.67.187.219:8880?security=false&fp=chrome&type=ws&headerType=none&host=crimson-bread-c38e.295.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 636,
    "ts": 1790916768.3061202
+  },
+  "0dd941688537803d": {
+   "cfg": "vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@172.67.174.37:8880?encryption=none&type=ws&host=floral-resonance-4baf.468.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 637,
+   "ts": 1790917399.135727
   }
  },
  "geo": {
@@ -2179,13 +2177,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790915125.0857863
+  },
+  "172.67.174.37": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790917400.3787832
   }
  },
  "stats": {
   "date": "2026-10-02",
   "fetched": 47,
   "healthy": 44,
-  "posted": 19,
+  "posted": 20,
   "removed": 14
  }
 }
