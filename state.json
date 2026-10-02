@@ -591,12 +591,6 @@
  },
  "queue": [
   {
-   "id": "d337993133922e68",
-   "cfg": "vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@germanybeforelanz.site:443?security=reality&encryption=none&pbk=qxeqNkLoTs6t9YIbarwpV53bfBei0dBBiaC52fQ_NlY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=germanybeforelanz.site#🔵@chillguy_vpn",
-   "ping": 499,
-   "ts": 1790982106.1663854
-  },
-  {
    "id": "91c6f6b42ecffdf1",
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@77.83.246.202:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&sni=example.org#🔵@chillguy_vpn",
    "ping": 500,
@@ -709,12 +703,6 @@
    "cfg": "vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?security=reality&encryption=none&pbk=LEoyslGYLVf2XWq9Bkq8Hod-EsB3ZoTlvR5AKK3rciQ&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cdn-de.bulkavpn.top&sid=c885e8f8#🔵@chillguy_vpn",
    "ping": 1406,
    "ts": 1790964230.9229307
-  },
-  {
-   "id": "a805992129de2b59",
-   "cfg": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🔵@chillguy_vpn",
-   "ping": 1418,
-   "ts": 1790960610.4041178
   },
   {
    "id": "9696e88bb6c0171f",
@@ -1322,6 +1310,11 @@
    "cfg": "vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@germanydvatri.online:443?security=reality&encryption=none&pbk=aHxzHc7w0r_8X8mdx1XCyg2ooRLjcOQMOuscdAQPrEo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=germanydvatri.online#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 706,
    "ts": 1790982106.1663854
+  },
+  "d337993133922e68": {
+   "cfg": "vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@germanybeforelanz.site:443?security=reality&encryption=none&pbk=qxeqNkLoTs6t9YIbarwpV53bfBei0dBBiaC52fQ_NlY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=germanybeforelanz.site#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 707,
+   "ts": 1790983257.9980822
   }
  },
  "geo": {
@@ -2509,13 +2502,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790982107.8445911
+  },
+  "germanybeforelanz.site": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790983259.7720034
   }
  },
  "stats": {
   "date": "2026-10-02",
   "fetched": 225,
   "healthy": 180,
-  "posted": 89,
+  "posted": 90,
   "removed": 77
  }
 }
