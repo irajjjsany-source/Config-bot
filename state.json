@@ -597,7 +597,11 @@
   "0232f58f134ae96a": 1790926035.4191236,
   "f6870fd77451cd76": 1790926035.4191236,
   "8d513446fcde903a": 1790927590.6485853,
-  "3fea1a7898be5b64": 1790929655.5863686
+  "3fea1a7898be5b64": 1790929655.5863686,
+  "5b661c1ecc747fb1": 1790930433.7185585,
+  "f8d0308bdebe3ce4": 1790930433.7185585,
+  "1ccd7b85e1636786": 1790930433.7185585,
+  "2237bb76a76f668f": 1790930433.7185585
  },
  "queue": [
   {
@@ -643,6 +647,12 @@
    "ts": 1790913817.287276
   },
   {
+   "id": "2237bb76a76f668f",
+   "cfg": "vless://2463908b-9922-43d1-8186-a9d245790073@senkg.animereze.site:443?security=reality&encryption=none&pbk=L1R-4vtZhYOrrap1zlIekMoBmrcKscBEs7ikTFd7f2U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=senkg.animereze.site&sid=6b8bb095363349af#🔵@chillguy_vpn",
+   "ping": 585,
+   "ts": 1790930433.7185585
+  },
+  {
    "id": "406d113ff45f6fd3",
    "cfg": "vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?security=reality&encryption=none&pbk=XrgbY2hKJQG8QOZO2J1pGmZsbvjSsSWoM9iULIMGK00&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ru-c-1.minzt.su#🔵@chillguy_vpn",
    "ping": 588,
@@ -665,6 +675,12 @@
    "cfg": "vless://2690c11f-7258-43fe-aeb9-d90f93a3c317@81.94.148.120:7449?security=reality&encryption=none&pbk=blW-TdkBvKRn4-lkM64Cn2QgfOqjCRYRQ9upE6RPt3c&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=c0c41dc21cf7c18e#🔵@chillguy_vpn",
    "ping": 783,
    "ts": 1790913817.287276
+  },
+  {
+   "id": "1ccd7b85e1636786",
+   "cfg": "vless://2463908b-9922-43d1-8186-a9d245790073@uk1.animereze.site:443?mode=gun&security=reality&encryption=none&authority=www.siemens.com&pbk=Omnn-hLBW2_wutioaIBLXTYY-Id4eL0wKFEbVYTt4xI&fp=firefox&type=grpc&serviceName=DataFeed&sni=www.siemens.com&sid=fc05104e7d2a2eeb#🔵@chillguy_vpn",
+   "ping": 959,
+   "ts": 1790930433.7185585
   },
   {
    "id": "4d4f2e4e2b843e75",
@@ -1140,6 +1156,11 @@
    "cfg": "vless://b7300b59-7598-4997-9714-27efd75065d0@www.ipget.net:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=&encryption=none&host=mute-lab-4c55.389.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 649,
    "ts": 1790929655.5863686
+  },
+  "5b661c1ecc747fb1": {
+   "cfg": "vless://3bf2781f-63a2-4c38-ad02-2cc337c2f7fa@104.16.25.46:8880?encryption=none&type=ws&host=silent-heart-175f.325-a85.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 650,
+   "ts": 1790930433.7185585
   }
  },
  "geo": {
@@ -2107,13 +2128,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790928269.6358063
+  },
+  "104.16.25.46": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790930443.0369074
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 65,
-  "healthy": 59,
-  "posted": 32,
+  "fetched": 69,
+  "healthy": 62,
+  "posted": 33,
   "removed": 32
  }
 }
