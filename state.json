@@ -590,18 +590,6 @@
  },
  "queue": [
   {
-   "id": "72a8b85a4a9962ba",
-   "cfg": "vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.237.245:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=Tirandazl.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#🔵@chillguy_vpn",
-   "ping": 2142,
-   "ts": 1790890703.5680695
-  },
-  {
-   "id": "fe8e5ab2566ea792",
-   "cfg": "vless://ebeb7358-9fc0-4222-a0e5-d8bc274a8856@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=swissjji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 2237,
-   "ts": 1790889864.8120947
-  },
-  {
    "id": "4e2d6582cb2b6416",
    "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.241.78:443?security=reality&encryption=none&pbk=6NIpIulg7Pzn5prCK2Qk6TWEcm2b72CD_z2_XLG8tyc&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sh-pl-01.mintrocket.org&sid=31db3f825e83e2b0#🔵@chillguy_vpn",
    "ping": 2308,
@@ -1058,6 +1046,11 @@
    "cfg": "vmess://eyJhZGQiOiAiMjA2LjEuOTguNTMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiL2l0c21lTmV0RGFzaCIsICJpZCI6ICI4MDIwNjY0YS01MTBkLTQwZjMtYjExMS0wZDI3N2JkYTllZDciLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
    "msg": 618,
    "ts": 1790899358.5648818
+  },
+  "fe8e5ab2566ea792": {
+   "cfg": "vless://ebeb7358-9fc0-4222-a0e5-d8bc274a8856@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=swissjji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 619,
+   "ts": 1790901148.171595
   }
  },
  "geo": {
@@ -1931,7 +1924,7 @@
   "date": "2026-10-02",
   "fetched": 2,
   "healthy": 1,
-  "posted": 1,
+  "posted": 2,
   "removed": 14
  }
 }
