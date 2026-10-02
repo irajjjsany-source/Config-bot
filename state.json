@@ -1,14 +1,5 @@
 {
  "seen": {
-  "07b48edb2be1bce1": 1790695674.6246264,
-  "f6a97bc62f7778cf": 1790695674.6246264,
-  "5b1333767b074854": 1790696528.0780017,
-  "1216d638fa580868": 1790696528.0780017,
-  "dd7929d1b586b8a6": 1790696528.0780017,
-  "5e489c4eacf984eb": 1790696528.0780017,
-  "dca89aa4f69f5fed": 1790696528.0780017,
-  "32fbb0e9c645020e": 1790696528.0780017,
-  "dc9c3cbe32f52de8": 1790696528.0780017,
   "eb90e64bd89f4f65": 1790697325.8587756,
   "a1f2eb683c9e6f07": 1790697325.8587756,
   "37b857574659a4a4": 1790697914.113111,
@@ -581,12 +572,6 @@
  },
  "queue": [
   {
-   "id": "0f2b5a2515a9f59c",
-   "cfg": "vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@176.96.131.251:1280?security=none&encryption=none&path=%2F&type=ws#🔵@chillguy_vpn",
-   "ping": 1916,
-   "ts": 1790938347.9280498
-  },
-  {
    "id": "49a14f6e623733a3",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
    "ping": 2292,
@@ -1094,6 +1079,11 @@
    "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.249.204:443?security=reality&encryption=none&pbk=WHb-QaDcaJMJ0S8Jtw83C_AdCK2anMZvTd3YCdcNanc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=sh-fi-01.mintrocket.org&sid=e4d61fb3192a14a3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 675,
    "ts": 1790954864.7048247
+  },
+  "0f2b5a2515a9f59c": {
+   "cfg": "vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@176.96.131.251:1280?security=none&encryption=none&path=%2F&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 676,
+   "ts": 1790955765.2063549
   }
  },
  "geo": {
@@ -2171,13 +2161,18 @@
    "cc": "RO",
    "name": "Romania",
    "ts": 1790953757.4649034
+  },
+  "176.96.131.251": {
+   "cc": "TR",
+   "name": "Turkey",
+   "ts": 1790955768.1157777
   }
  },
  "stats": {
   "date": "2026-10-02",
   "fetched": 126,
   "healthy": 103,
-  "posted": 58,
+  "posted": 59,
   "removed": 62
  }
 }
