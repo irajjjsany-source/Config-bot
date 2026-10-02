@@ -575,21 +575,11 @@
   "c2373f1dc0f048a3": 1790949349.7875123,
   "49c55a7b739b2a37": 1790951268.0465083,
   "5d09bf1f35503d7b": 1790951268.0465083,
-  "1166733ee86cd700": 1790953045.9119377
+  "1166733ee86cd700": 1790953045.9119377,
+  "be5020672477ac29": 1790954864.7048247,
+  "ea74fd7e5026c824": 1790954864.7048247
  },
  "queue": [
-  {
-   "id": "7bfe8e79bf604b5d",
-   "cfg": "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.2.33:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#🔵@chillguy_vpn",
-   "ping": 1346,
-   "ts": 1790937473.052119
-  },
-  {
-   "id": "4a10eec027a4fcb2",
-   "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.249.204:443?security=reality&encryption=none&pbk=WHb-QaDcaJMJ0S8Jtw83C_AdCK2anMZvTd3YCdcNanc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=sh-fi-01.mintrocket.org&sid=e4d61fb3192a14a3#🔵@chillguy_vpn",
-   "ping": 1443,
-   "ts": 1790949349.7875123
-  },
   {
    "id": "0f2b5a2515a9f59c",
    "cfg": "vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@176.96.131.251:1280?security=none&encryption=none&path=%2F&type=ws#🔵@chillguy_vpn",
@@ -1099,6 +1089,11 @@
    "cfg": "vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@82.152.132.196:443?security=reality&encryption=none&pbk=tbQ_5ZgBOwC63hLOYKQkYKBKIuTgJ13oxtWblB2pjGo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikipedia.org&sid=ddeed294#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 674,
    "ts": 1790953756.034824
+  },
+  "4a10eec027a4fcb2": {
+   "cfg": "vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.249.204:443?security=reality&encryption=none&pbk=WHb-QaDcaJMJ0S8Jtw83C_AdCK2anMZvTd3YCdcNanc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=sh-fi-01.mintrocket.org&sid=e4d61fb3192a14a3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 675,
+   "ts": 1790954864.7048247
   }
  },
  "geo": {
@@ -2180,9 +2175,9 @@
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 124,
+  "fetched": 126,
   "healthy": 103,
-  "posted": 57,
+  "posted": 58,
   "removed": 62
  }
 }
