@@ -1,17 +1,5 @@
 {
  "seen": {
-  "f1edcc6c0bd523ba": 1790659446.6043875,
-  "cca7aefcf0b96c4e": 1790659446.6043875,
-  "2c39748e255e570b": 1790659446.6043875,
-  "e65a1309d8cdfc87": 1790659446.6043875,
-  "c6ae01e605e85ab2": 1790659446.6043875,
-  "7e3ce9efe961be01": 1790659446.6043875,
-  "312a3e710786b949": 1790659446.6043875,
-  "812ba0ca30ac5905": 1790659446.6043875,
-  "a38781e9021806e3": 1790659446.6043875,
-  "99e9ae7f86bf71d9": 1790659446.6043875,
-  "9fdb8eba0972e161": 1790659446.6043875,
-  "e92395b20a11df4a": 1790659446.6043875,
   "28846c39d7bf43fe": 1790660231.5097253,
   "d0299d0dfcd0cf71": 1790661802.4190874,
   "3ceed8eb652e7eb7": 1790661802.4190874,
@@ -625,12 +613,6 @@
   "819d377f022cdc98": 1790915960.113764
  },
  "queue": [
-  {
-   "id": "a8199bf271aff011",
-   "cfg": "vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@www.ipget.net:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=morning-silence-7b1b.222-46c.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#🔵@chillguy_vpn",
-   "ping": 122,
-   "ts": 1790915123.7034318
-  },
   {
    "id": "c261f26c86591035",
    "cfg": "vless://34ce8760-24ed-41e7-a1f5-aa6c2660a53c@www.gov.ua:8880?encryption=none&type=ws&host=quiet-frost-ac61.333-07d.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#🔵@chillguy_vpn",
@@ -1255,6 +1237,11 @@
    "cfg": "vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@172.67.174.37:8880?encryption=none&type=ws&host=floral-resonance-4baf.468.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 637,
    "ts": 1790917399.135727
+  },
+  "a8199bf271aff011": {
+   "cfg": "vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@www.ipget.net:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=morning-silence-7b1b.222-46c.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 638,
+   "ts": 1790918650.9104056
   }
  },
  "geo": {
@@ -2188,7 +2175,7 @@
   "date": "2026-10-02",
   "fetched": 47,
   "healthy": 44,
-  "posted": 20,
+  "posted": 21,
   "removed": 14
  }
 }
