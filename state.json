@@ -605,7 +605,8 @@
   "6c33d034d396992b": 1790909481.502049,
   "99e44b8d2acb04a1": 1790909481.502049,
   "26c4fc7aa44df158": 1790909481.502049,
-  "2e8e99caf59fd745": 1790911526.166127
+  "2e8e99caf59fd745": 1790911526.166127,
+  "07466d097b249308": 1790913166.9909854
  },
  "queue": [
   {
@@ -1112,6 +1113,11 @@
    "cfg": "vless://cc76512c-91b2-4414-8b8f-f19f04ab2e74@195.123.6.88:443?security=reality&encryption=none&pbk=THRT-5PaiOlMuSgCB_KPZRhAQpIiHXFM6yoPJtZISVE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-prod.nova.nvidia.com&sid=61e7775c4c#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 631,
    "ts": 1790912366.3598862
+  },
+  "07466d097b249308": {
+   "cfg": "vless://fc46b03d-e185-48e7-8c18-dea03b4a0c25@104.21.15.212:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=flat-union-b292.17-4e0.workers.dev&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 632,
+   "ts": 1790913166.9909854
   }
  },
  "geo": {
@@ -2024,13 +2030,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790912369.0082028
+  },
+  "104.21.15.212": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790913167.9737897
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 24,
-  "healthy": 22,
-  "posted": 14,
+  "fetched": 25,
+  "healthy": 23,
+  "posted": 15,
   "removed": 14
  }
 }
