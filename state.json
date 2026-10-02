@@ -1,7 +1,5 @@
 {
  "seen": {
-  "183ea50b639a743f": 1790688574.1725974,
-  "e3ef1db39d819c86": 1790688574.1725974,
   "a00ac8011da357cb": 1790689482.5879622,
   "ac8a68c201a3e7a1": 1790689482.5879622,
   "5d9320083bfd49c3": 1790689482.5879622,
@@ -576,7 +574,8 @@
   "7e4f1ae9fed59e6d": 1790946396.795913,
   "5c53651e87e63d1c": 1790947661.7630506,
   "e41edf06ab7ee223": 1790947661.7630506,
-  "ffffb94367b5c133": 1790947661.7630506
+  "ffffb94367b5c133": 1790947661.7630506,
+  "23a18682fe937e47": 1790948579.848472
  },
  "queue": [
   {
@@ -1077,6 +1076,11 @@
    "cfg": "vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 667,
    "ts": 1790947661.7630506
+  },
+  "23a18682fe937e47": {
+   "cfg": "vless://1a7d5512-43ef-4d0e-a2e7-6f4f081c4534@miomio.kiokiokio.com:2086?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 668,
+   "ts": 1790948579.848472
   }
  },
  "geo": {
@@ -2124,13 +2128,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790947669.6500103
+  },
+  "miomio.kiokiokio.com": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1790948581.3363485
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 112,
-  "healthy": 94,
-  "posted": 50,
+  "fetched": 113,
+  "healthy": 95,
+  "posted": 51,
   "removed": 62
  }
 }
