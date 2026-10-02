@@ -1,6 +1,5 @@
 {
  "seen": {
-  "4b11a52620e423e2": 1790708260.6790335,
   "e54a331711aad8a1": 1790708926.4052906,
   "81b5d79da5382067": 1790708926.4052906,
   "c2e5f486c7b43f4a": 1790708926.4052906,
@@ -573,9 +572,19 @@
   "f477959c8783117b": 1790966685.8987975,
   "8d474a871df60153": 1790966685.8987975,
   "5599b067f7939221": 1790966685.8987975,
-  "484685bd0a6359eb": 1790966685.8987975
+  "484685bd0a6359eb": 1790966685.8987975,
+  "3976b8da6a9a9020": 1790967475.88765,
+  "74243b463f4554e6": 1790967475.88765,
+  "60a1ae7080ce055d": 1790967475.88765,
+  "20d7efabaa779e32": 1790967475.88765
  },
  "queue": [
+  {
+   "id": "74243b463f4554e6",
+   "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.52:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.setevoyprostor.cc&sid=a8#🔵@chillguy_vpn",
+   "ping": 465,
+   "ts": 1790967475.88765
+  },
   {
    "id": "5bb33e768e8a8b6c",
    "cfg": "vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@77.42.28.120:1280?path=%2F&security=none&encryption=none&host=is1-ssl.mzstatic.com&type=ws#🔵@chillguy_vpn",
@@ -647,6 +656,12 @@
    "cfg": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🔵@chillguy_vpn",
    "ping": 1418,
    "ts": 1790960610.4041178
+  },
+  {
+   "id": "3976b8da6a9a9020",
+   "cfg": "vless://c86c572a-7253-401e-90ba-f3d07fc7e8c2@netherlands.avara.fit:443?mode=gun&security=reality&encryption=none&pbk=jtwwnj2p4FdgQmUliAwTBwG-4RMKTte75LSuVPVkxXQ&fp=firefox&type=grpc&serviceName=health.v1.Health&sni=netherlands.avara.fit#🔵@chillguy_vpn",
+   "ping": 1721,
+   "ts": 1790967475.88765
   },
   {
    "id": "0c6a272f20864041",
@@ -1122,6 +1137,11 @@
    "cfg": "vless://d32933b8-6f92-470e-a36d-fc27ba1e2cd1@77.220.213.42:33558?security=reality&encryption=none&pbk=oDtto9n7VP7EOuxXlMBWrzKS3ohZLAHYb2iZhKr9bQE&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2F90b56aad19d61c7&type=tcp&sni=iran.panelsaz.ir&sid=19ee#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 688,
    "ts": 1790966685.8987975
+  },
+  "60a1ae7080ce055d": {
+   "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.116:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.setevoyprostor.cc&sid=a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 689,
+   "ts": 1790967475.88765
   }
  },
  "geo": {
@@ -2244,13 +2264,18 @@
    "cc": "BR",
    "name": "Brazil",
    "ts": 1790965741.5152879
+  },
+  "189.74.106.116": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1790967485.2041562
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 169,
-  "healthy": 133,
-  "posted": 71,
+  "fetched": 173,
+  "healthy": 136,
+  "posted": 72,
   "removed": 77
  }
 }
