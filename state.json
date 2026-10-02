@@ -579,26 +579,7 @@
   "13ffa1f142bb2de6": 1790931856.3862321,
   "81f3d0e8ca6be44c": 1790933206.3678408
  },
- "queue": [
-  {
-   "id": "1ccd7b85e1636786",
-   "cfg": "vless://2463908b-9922-43d1-8186-a9d245790073@uk1.animereze.site:443?mode=gun&security=reality&encryption=none&authority=www.siemens.com&pbk=Omnn-hLBW2_wutioaIBLXTYY-Id4eL0wKFEbVYTt4xI&fp=firefox&type=grpc&serviceName=DataFeed&sni=www.siemens.com&sid=fc05104e7d2a2eeb#🔵@chillguy_vpn",
-   "ping": 959,
-   "ts": 1790930433.7185585
-  },
-  {
-   "id": "4d4f2e4e2b843e75",
-   "cfg": "vless://3e06b1db-2efb-446e-ba2d-68850dfd2f9d@ip.sb:8080?ed=2048&type=ws&host=bdfba-cool-tree-b580.v8fz4kbv.workers.dev&sni=ip.sb#🔵@chillguy_vpn",
-   "ping": 1087,
-   "ts": 1790923762.333685
-  },
-  {
-   "id": "b4c2ced70b251ec4",
-   "cfg": "vless://ef0a953e-a366-46fe-abd5-3d1c2f1c7891@13.143.182.100:443?security=reality&encryption=none&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=baltic.cendora.ru&sid=4a46213c935e2ee4#🔵@chillguy_vpn",
-   "ping": 1449,
-   "ts": 1790915960.113764
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
