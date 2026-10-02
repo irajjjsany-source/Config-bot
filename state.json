@@ -1,6 +1,5 @@
 {
  "seen": {
-  "ca08d1bd4d14ae1c": 1790685072.113565,
   "3bd6e1e3c1bd99f4": 1790686594.615906,
   "528d53f07d058d4b": 1790686594.615906,
   "559e51453b88560f": 1790686594.615906,
@@ -582,12 +581,6 @@
  },
  "queue": [
   {
-   "id": "8fc01b2648c3cf79",
-   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.4.193:444?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=firefox&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#🔵@chillguy_vpn",
-   "ping": 663,
-   "ts": 1790940253.8507855
-  },
-  {
    "id": "97eb99a0dfa133cd",
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.165.25:9881?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=ios&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🔵@chillguy_vpn",
    "ping": 690,
@@ -1052,6 +1045,11 @@
    "cfg": "vless://720043a3-d5fb-4a94-883c-13e4b628253c@146.185.143.174:443?encryption=none&security=tls&sni=lom.vip100.cfd&fp=chrome&type=ws&host=lom.vip100.cfd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 664,
    "ts": 1790944246.8555682
+  },
+  "8fc01b2648c3cf79": {
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.4.193:444?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=firefox&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 665,
+   "ts": 1790945745.146907
   }
  },
  "geo": {
@@ -2089,13 +2087,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1790944259.0801768
+  },
+  "144.31.4.193": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1790945747.1176689
   }
  },
  "stats": {
   "date": "2026-10-02",
   "fetched": 102,
   "healthy": 89,
-  "posted": 47,
+  "posted": 48,
   "removed": 62
  }
 }
