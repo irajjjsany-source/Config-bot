@@ -576,7 +576,8 @@
   "c90e9112851abef0": 1790941950.376631,
   "80811d0fbd590f69": 1790941950.376631,
   "fc6eaa03fd9f81a7": 1790941950.376631,
-  "00e331128915c10b": 1790941950.376631
+  "00e331128915c10b": 1790941950.376631,
+  "f9b58b57c2a99504": 1790942608.3979125
  },
  "queue": [
   {
@@ -1196,6 +1197,11 @@
    "cfg": "vless://6a219111-9ee4-4a7a-b9df-af0a33918cb2@moblemangol.ir:2082?encryption=none&security=none&type=httpupgrade&host=usiii.zendegizibast.ir&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 662,
    "ts": 1790941950.376631
+  },
+  "f9b58b57c2a99504": {
+   "cfg": "vmess://eyJhZGQiOiAiOTEuMjI4LjE4Ni4xMDkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjlmYzc0ZGNiLWI4MWYtNGExYy1hYzU5LTM0ZDQ2MmEwYTE4MyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjQwOTEwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "msg": 663,
+   "ts": 1790942608.3979125
   }
  },
  "geo": {
@@ -2223,13 +2229,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790941954.045137
+  },
+  "91.228.186.109": {
+   "cc": "TR",
+   "name": "Türkiye",
+   "ts": 1790942609.583513
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 100,
-  "healthy": 87,
-  "posted": 45,
+  "fetched": 101,
+  "healthy": 88,
+  "posted": 46,
   "removed": 32
  }
 }
