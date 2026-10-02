@@ -1,7 +1,5 @@
 {
  "seen": {
-  "eb90e64bd89f4f65": 1790697325.8587756,
-  "a1f2eb683c9e6f07": 1790697325.8587756,
   "37b857574659a4a4": 1790697914.113111,
   "34b94d925cded545": 1790697914.113111,
   "e8ea09201e902751": 1790697914.113111,
@@ -572,12 +570,6 @@
  },
  "queue": [
   {
-   "id": "49a14f6e623733a3",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
-   "ping": 2292,
-   "ts": 1790944246.8555682
-  },
-  {
    "id": "0c6a272f20864041",
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@ee.monkora.org:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
    "ping": 2407,
@@ -1084,6 +1076,11 @@
    "cfg": "vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@176.96.131.251:1280?security=none&encryption=none&path=%2F&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 676,
    "ts": 1790955765.2063549
+  },
+  "49a14f6e623733a3": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 677,
+   "ts": 1790956535.4679213
   }
  },
  "geo": {
@@ -2172,7 +2169,7 @@
   "date": "2026-10-02",
   "fetched": 126,
   "healthy": 103,
-  "posted": 59,
+  "posted": 60,
   "removed": 62
  }
 }
