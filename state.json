@@ -1,7 +1,5 @@
 {
  "seen": {
-  "5eef027cad7a4bf9": 1790691015.1410196,
-  "d96cdb76f90c36f3": 1790691015.1410196,
   "d863fb1d2309daba": 1790692840.917416,
   "898d742104bf5853": 1790692840.917416,
   "8e09f26eb63a120c": 1790692840.917416,
@@ -578,15 +576,11 @@
   "2ff863af0161eb06": 1790949349.7875123,
   "0c6a272f20864041": 1790949349.7875123,
   "4a10eec027a4fcb2": 1790949349.7875123,
-  "c2373f1dc0f048a3": 1790949349.7875123
+  "c2373f1dc0f048a3": 1790949349.7875123,
+  "49c55a7b739b2a37": 1790951268.0465083,
+  "5d09bf1f35503d7b": 1790951268.0465083
  },
  "queue": [
-  {
-   "id": "a4be455d9035bed1",
-   "cfg": "vless://af2bf319-ba88-4fec-8317-2b6a8cee96d1@31.77.158.132:443?security=reality&encryption=none&pbk=COMosLQzz8GJ3ATEBK__SBjKsiL5VVS1MWkWUFpQTVk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hittaikea.prizraknode.shop#🔵@chillguy_vpn",
-   "ping": 430,
-   "ts": 1790949349.7875123
-  },
   {
    "id": "de29c84d79ad8c7d",
    "cfg": "vless://9eb6abc0-8423-4ff6-efb3-7603ddfb9636@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#🔵@chillguy_vpn",
@@ -622,6 +616,12 @@
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
    "ping": 812,
    "ts": 1790938347.9280498
+  },
+  {
+   "id": "49c55a7b739b2a37",
+   "cfg": "vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@82.152.132.196:443?security=reality&encryption=none&pbk=tbQ_5ZgBOwC63hLOYKQkYKBKIuTgJ13oxtWblB2pjGo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikipedia.org&sid=ddeed294#🔵@chillguy_vpn",
+   "ping": 1133,
+   "ts": 1790951268.0465083
   },
   {
    "id": "7bfe8e79bf604b5d",
@@ -682,6 +682,12 @@
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
    "ping": 3382,
    "ts": 1790937473.052119
+  },
+  {
+   "id": "5d09bf1f35503d7b",
+   "cfg": "vless://a80212c8-a909-4837-beb2-7960b59ee5ca@45.151.180.165:43000?security=reality&encryption=none&pbk=lGf40xP_E5TZz9KkrQoeUKCfRq8WBatc7OYnRgBEuXI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=45.151.180.165&sid=e4a3b0e4#🔵@chillguy_vpn",
+   "ping": 4031,
+   "ts": 1790951268.0465083
   },
   {
    "id": "bac1f5ef20840425",
@@ -1118,6 +1124,11 @@
    "cfg": "vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?security=reality&encryption=none&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=1d86d17709852910#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 670,
    "ts": 1790949958.194228
+  },
+  "a4be455d9035bed1": {
+   "cfg": "vless://af2bf319-ba88-4fec-8317-2b6a8cee96d1@31.77.158.132:443?security=reality&encryption=none&pbk=COMosLQzz8GJ3ATEBK__SBjKsiL5VVS1MWkWUFpQTVk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hittaikea.prizraknode.shop#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 671,
+   "ts": 1790951268.0465083
   }
  },
  "geo": {
@@ -2180,13 +2191,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1790949959.396057
+  },
+  "31.77.158.132": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1790951274.1464255
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 121,
-  "healthy": 101,
-  "posted": 53,
+  "fetched": 123,
+  "healthy": 103,
+  "posted": 54,
   "removed": 62
  }
 }
