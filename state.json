@@ -1,14 +1,5 @@
 {
  "seen": {
-  "a2c19365f93ef457": 1790705077.1000206,
-  "f839f50012ab7465": 1790705077.1000206,
-  "498154025af3b526": 1790706531.1965942,
-  "6813bd190e3f38e8": 1790706531.1965942,
-  "0144dea8eb518b8a": 1790706531.1965942,
-  "0e3a56056135128d": 1790706531.1965942,
-  "44804f700f4e74bf": 1790706531.1965942,
-  "197543b683311611": 1790706531.1965942,
-  "fc32b6207b0c510b": 1790706531.1965942,
   "4b11a52620e423e2": 1790708260.6790335,
   "e54a331711aad8a1": 1790708926.4052906,
   "81b5d79da5382067": 1790708926.4052906,
@@ -574,21 +565,11 @@
   "a90843cbcd181f89": 1790964230.9229307,
   "60b5d71003f6665c": 1790964230.9229307,
   "13041f6523536a7e": 1790964230.9229307,
-  "4c10ca7ae428bd67": 1790964230.9229307
+  "4c10ca7ae428bd67": 1790964230.9229307,
+  "5bb33e768e8a8b6c": 1790965734.6932037,
+  "55a96214458e6156": 1790965734.6932037
  },
  "queue": [
-  {
-   "id": "5567d7f2f651608a",
-   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@31.56.188.171:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
-   "ping": 418,
-   "ts": 1790959261.0508494
-  },
-  {
-   "id": "05f48d989943ac4e",
-   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@147.45.116.19:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=br.monkora.org#🔵@chillguy_vpn",
-   "ping": 437,
-   "ts": 1790961929.703601
-  },
   {
    "id": "f4af17199d487bac",
    "cfg": "vless://758a691a-45d2-4462-a0e8-991248a6994e@49.13.231.249:33483?encryption=none&security=none&type=ws&path=%2F#🔵@chillguy_vpn",
@@ -606,6 +587,12 @@
    "cfg": "vless://d32933b8-6f92-470e-a36d-fc27ba1e2cd1@77.220.213.42:33558?security=reality&encryption=none&pbk=oDtto9n7VP7EOuxXlMBWrzKS3ohZLAHYb2iZhKr9bQE&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2F90b56aad19d61c7&type=tcp&sni=iran.panelsaz.ir&sid=19ee#🔵@chillguy_vpn",
    "ping": 478,
    "ts": 1790964230.9229307
+  },
+  {
+   "id": "5bb33e768e8a8b6c",
+   "cfg": "vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@77.42.28.120:1280?path=%2F&security=none&encryption=none&host=is1-ssl.mzstatic.com&type=ws#🔵@chillguy_vpn",
+   "ping": 546,
+   "ts": 1790965734.6932037
   },
   {
    "id": "a0cef7303f36e243",
@@ -648,6 +635,12 @@
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@2.58.66.143:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
    "ping": 1115,
    "ts": 1790958351.6416168
+  },
+  {
+   "id": "55a96214458e6156",
+   "cfg": "vless://5623c82f-8e25-44c1-bbdc-3377e3a80477@snapp.ir:2095?path=%2Fpgcfws-r4&security=none&encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&host=cloud.zowe.ir&type=ws#🔵@chillguy_vpn",
+   "ping": 1167,
+   "ts": 1790965734.6932037
   },
   {
    "id": "60b5d71003f6665c",
@@ -1125,6 +1118,11 @@
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@62.192.153.132:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 686,
    "ts": 1790964230.9229307
+  },
+  "05f48d989943ac4e": {
+   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@147.45.116.19:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=br.monkora.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 687,
+   "ts": 1790965734.6932037
   }
  },
  "geo": {
@@ -2242,13 +2240,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790964238.336622
+  },
+  "147.45.116.19": {
+   "cc": "BR",
+   "name": "Brazil",
+   "ts": 1790965741.5152879
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 161,
-  "healthy": 130,
-  "posted": 69,
+  "fetched": 163,
+  "healthy": 132,
+  "posted": 70,
   "removed": 77
  }
 }
