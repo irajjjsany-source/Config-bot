@@ -1,7 +1,5 @@
 {
  "seen": {
-  "b9a3ef320fdeaf78": 1790653112.9969766,
-  "72ed58706009ccfa": 1790653112.9969766,
   "7798c2720c5550ee": 1790656656.6747713,
   "02f2ffead8b22b7b": 1790656656.6747713,
   "5fdad4ca6562743a": 1790656656.6747713,
@@ -611,18 +609,6 @@
  },
  "queue": [
   {
-   "id": "fbc80b19d75c723b",
-   "cfg": "vless://a795c2af-a513-40b0-affd-15a04558d009@46.249.100.198:20530?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aqON1djzM7DyR6Sui96oOwTxd5wblt0xrJV6xYPOkQ8&security=reality&sid=83ff&sni=www.samsung.com&spx=%2F89ee9192150b4a5&type=tcp#🔵@chillguy_vpn",
-   "ping": 397,
-   "ts": 1790906633.5540621
-  },
-  {
-   "id": "ae0eda5521223bd2",
-   "cfg": "vless://cc76512c-91b2-4414-8b8f-f19f04ab2e74@195.123.6.88:443?security=reality&encryption=none&pbk=THRT-5PaiOlMuSgCB_KPZRhAQpIiHXFM6yoPJtZISVE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-prod.nova.nvidia.com&sid=61e7775c4c#🔵@chillguy_vpn",
-   "ping": 713,
-   "ts": 1790902533.788076
-  },
-  {
    "id": "c2890ce5baf85bd3",
    "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.177.80:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=edge&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🔵@chillguy_vpn",
    "ping": 740,
@@ -669,18 +655,6 @@
    "cfg": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.197.109:62145?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
    "ping": 3285,
    "ts": 1790902533.788076
-  },
-  {
-   "id": "8972b0e101e94b43",
-   "cfg": "vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.237.245:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=BechBad.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 5482,
-   "ts": 1790890703.5680695
-  },
-  {
-   "id": "e6c5f00c5dabefb4",
-   "cfg": "vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.78.159:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=skyfarst.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🔵@chillguy_vpn",
-   "ping": 7014,
-   "ts": 1790890703.5680695
   }
  ],
  "posted": {
@@ -1133,6 +1107,11 @@
    "cfg": "vless://ba746959-18e7-471c-b00f-fa5cdd930abf@104.21.89.181:8880?security=false&fp=chrome&type=ws&headerType=none&host=crimson-bread-c38e.295.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 630,
    "ts": 1790911526.166127
+  },
+  "ae0eda5521223bd2": {
+   "cfg": "vless://cc76512c-91b2-4414-8b8f-f19f04ab2e74@195.123.6.88:443?security=reality&encryption=none&pbk=THRT-5PaiOlMuSgCB_KPZRhAQpIiHXFM6yoPJtZISVE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-prod.nova.nvidia.com&sid=61e7775c4c#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 631,
+   "ts": 1790912366.3598862
   }
  },
  "geo": {
@@ -2040,13 +2019,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1790911528.8377893
+  },
+  "195.123.6.88": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790912369.0082028
   }
  },
  "stats": {
   "date": "2026-10-02",
   "fetched": 24,
   "healthy": 22,
-  "posted": 13,
+  "posted": 14,
   "removed": 14
  }
 }
