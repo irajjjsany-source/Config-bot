@@ -1,12 +1,5 @@
 {
  "seen": {
-  "d30ef2c5dd6440ee": 1790714327.866819,
-  "14b9b13a062e1d4c": 1790714327.866819,
-  "7551e0d345dae7a4": 1790715061.378863,
-  "dccb0d4ae2a7867e": 1790715061.378863,
-  "4fc661207dbd457d": 1790715061.378863,
-  "5ee5ebdb6500e8b8": 1790715061.378863,
-  "a59cbeb0496c3c91": 1790715061.378863,
   "9d10fd33a0a4c6d1": 1790717032.6952157,
   "1814084f5a254f65": 1790717032.6952157,
   "fd88f8aa7b1ffbde": 1790717032.6952157,
@@ -585,39 +578,13 @@
   "884bd453e5d761ab": 1790972607.5695646,
   "a74ed8f61e1caf38": 1790972607.5695646,
   "d13bdf2ba218cd12": 1790972607.5695646,
-  "a0b10e7246866c0f": 1790972607.5695646
+  "a0b10e7246866c0f": 1790972607.5695646,
+  "ff30c1ea2519759e": 1790974348.8703904,
+  "fba735bca423c740": 1790974348.8703904,
+  "9696e88bb6c0171f": 1790974348.8703904,
+  "ce1dac2190b3c222": 1790974348.8703904
  },
  "queue": [
-  {
-   "id": "82f917b0f402b94c",
-   "cfg": "vless://0af6e48f-18c6-4ad9-8486-a46336cf5f84@lnagztgs7.global.ssl.fastly.net:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%7D%7D&host=lnagztgs7.global.ssl.fastly.net&type=xhttp#🔵@chillguy_vpn",
-   "ping": 395,
-   "ts": 1790972607.5695646
-  },
-  {
-   "id": "75d2317fc85fadd1",
-   "cfg": "vless://0af6e48f-18c6-4ad9-8486-a46336cf5f84@w5x41gitv.global.ssl.fastly.net:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%7D%7D&host=w5x41gitv.global.ssl.fastly.net&type=xhttp#🔵@chillguy_vpn",
-   "ping": 411,
-   "ts": 1790972607.5695646
-  },
-  {
-   "id": "0ed12f70fdfafd9e",
-   "cfg": "vless://0af6e48f-18c6-4ad9-8486-a46336cf5f84@xzyxub30l.global.ssl.fastly.net:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%7D%7D&host=xzyxub30l.global.ssl.fastly.net&type=xhttp#🔵@chillguy_vpn",
-   "ping": 477,
-   "ts": 1790972607.5695646
-  },
-  {
-   "id": "73910731ff66bd6a",
-   "cfg": "vless://0af6e48f-18c6-4ad9-8486-a46336cf5f84@xzyxub30l.global.ssl.fastly.net:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%7D%7D&host=xzyxub30l.global.ssl.fastly.net&type=xhttp#🔵@chillguy_vpn",
-   "ping": 504,
-   "ts": 1790972607.5695646
-  },
-  {
-   "id": "52dfcf7018aec20a",
-   "cfg": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🔵@chillguy_vpn",
-   "ping": 524,
-   "ts": 1790972607.5695646
-  },
   {
    "id": "5bb33e768e8a8b6c",
    "cfg": "vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@77.42.28.120:1280?path=%2F&security=none&encryption=none&host=is1-ssl.mzstatic.com&type=ws#🔵@chillguy_vpn",
@@ -739,10 +706,22 @@
    "ts": 1790960610.4041178
   },
   {
+   "id": "9696e88bb6c0171f",
+   "cfg": "vless://%58pnTeam-64@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 1651,
+   "ts": 1790974348.8703904
+  },
+  {
    "id": "3976b8da6a9a9020",
    "cfg": "vless://c86c572a-7253-401e-90ba-f3d07fc7e8c2@netherlands.avara.fit:443?mode=gun&security=reality&encryption=none&pbk=jtwwnj2p4FdgQmUliAwTBwG-4RMKTte75LSuVPVkxXQ&fp=firefox&type=grpc&serviceName=health.v1.Health&sni=netherlands.avara.fit#🔵@chillguy_vpn",
    "ping": 1721,
    "ts": 1790967475.88765
+  },
+  {
+   "id": "ff30c1ea2519759e",
+   "cfg": "vless://%58pnTeam-63@151.101.215.97:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 1944,
+   "ts": 1790974348.8703904
   },
   {
    "id": "22c17d63c006d243",
@@ -781,6 +760,12 @@
    "ts": 1790971357.1613026
   },
   {
+   "id": "ce1dac2190b3c222",
+   "cfg": "vless://26becb32-3d57-4b59-9252-3b046768b1ea@151.101.215.97:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=ovd13.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=accounts.fastly.com#🔵@chillguy_vpn",
+   "ping": 4879,
+   "ts": 1790974348.8703904
+  },
+  {
    "id": "811d1a3fe8ecb68f",
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@31.56.188.171:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
    "ping": 4971,
@@ -803,6 +788,12 @@
    "cfg": "vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@95.85.227.241:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dlX12huNd8CRSGgKGCwi1GiCLFtmRxY9b7ywKCIyWXo&security=reality&sid=25934afbedc65791&sni=proxy3d.h1guro.ovh&type=tcp#🔵@chillguy_vpn",
    "ping": 5605,
    "ts": 1790964230.9229307
+  },
+  {
+   "id": "fba735bca423c740",
+   "cfg": "vless://%58pnTeam-63@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 5838,
+   "ts": 1790974348.8703904
   }
  ],
  "posted": {
@@ -1270,6 +1261,11 @@
    "cfg": "vless://0af6e48f-18c6-4ad9-8486-a46336cf5f84@w5x41gitv.global.ssl.fastly.net:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%7D%7D&host=w5x41gitv.global.ssl.fastly.net&type=xhttp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 696,
    "ts": 1790973467.3263137
+  },
+  "52dfcf7018aec20a": {
+   "cfg": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 697,
+   "ts": 1790974348.8703904
   }
  },
  "geo": {
@@ -2426,9 +2422,9 @@
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 203,
-  "healthy": 161,
-  "posted": 79,
+  "fetched": 207,
+  "healthy": 165,
+  "posted": 80,
   "removed": 77
  }
 }
