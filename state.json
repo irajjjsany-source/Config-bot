@@ -581,24 +581,6 @@
  },
  "queue": [
   {
-   "id": "352953d2720eb1cc",
-   "cfg": "vless://ef0a953e-a366-46fe-abd5-3d1c2f1c7891@2.27.210.57:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#🔵@chillguy_vpn",
-   "ping": 697,
-   "ts": 1790915960.113764
-  },
-  {
-   "id": "100c3feb215715a1",
-   "cfg": "vless://9b99c4fc-a230-498c-b50e-ac2f5195cf5e@31.76.53.36:443?path=%2Fmedia%2Fws%2F&security=tls&encryption=none&insecure=0&host=freightdecoder.cleanfoodshop.org&fp=safari&type=ws&allowInsecure=0&sni=freightdecoder.cleanfoodshop.org#🔵@chillguy_vpn",
-   "ping": 718,
-   "ts": 1790915960.113764
-  },
-  {
-   "id": "53d1533640c8033d",
-   "cfg": "vless://2690c11f-7258-43fe-aeb9-d90f93a3c317@81.94.148.120:7449?security=reality&encryption=none&pbk=blW-TdkBvKRn4-lkM64Cn2QgfOqjCRYRQ9upE6RPt3c&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=c0c41dc21cf7c18e#🔵@chillguy_vpn",
-   "ping": 783,
-   "ts": 1790913817.287276
-  },
-  {
    "id": "1ccd7b85e1636786",
    "cfg": "vless://2463908b-9922-43d1-8186-a9d245790073@uk1.animereze.site:443?mode=gun&security=reality&encryption=none&authority=www.siemens.com&pbk=Omnn-hLBW2_wutioaIBLXTYY-Id4eL0wKFEbVYTt4xI&fp=firefox&type=grpc&serviceName=DataFeed&sni=www.siemens.com&sid=fc05104e7d2a2eeb#🔵@chillguy_vpn",
    "ping": 959,
@@ -1097,6 +1079,11 @@
    "cfg": "vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?security=reality&encryption=none&pbk=XrgbY2hKJQG8QOZO2J1pGmZsbvjSsSWoM9iULIMGK00&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ru-c-1.minzt.su#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 654,
    "ts": 1790934042.867354
+  },
+  "53d1533640c8033d": {
+   "cfg": "vless://2690c11f-7258-43fe-aeb9-d90f93a3c317@81.94.148.120:7449?security=reality&encryption=none&pbk=blW-TdkBvKRn4-lkM64Cn2QgfOqjCRYRQ9upE6RPt3c&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=c0c41dc21cf7c18e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 655,
+   "ts": 1790934810.7746563
   }
  },
  "geo": {
@@ -2084,13 +2071,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1790934050.3332245
+  },
+  "81.94.148.120": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1790934815.394645
   }
  },
  "stats": {
   "date": "2026-10-02",
   "fetched": 72,
   "healthy": 64,
-  "posted": 37,
+  "posted": 38,
   "removed": 32
  }
 }
