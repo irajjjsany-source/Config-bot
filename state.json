@@ -1,7 +1,5 @@
 {
  "seen": {
-  "b569c0fd183eeaea": 1790700924.2897856,
-  "cb3f5c4cc3f9f96d": 1790700924.2897856,
   "5e3e7dfb65a8d474": 1790702667.2336705,
   "e574928be1c854c5": 1790702667.2336705,
   "1046dc7303f9b21e": 1790704305.880594,
@@ -567,7 +565,12 @@
   "8f7d287375fc5a7a": 1790958351.6416168,
   "5567d7f2f651608a": 1790959261.0508494,
   "4d1ecad921303deb": 1790959261.0508494,
-  "4df0029c27a8a7e3": 1790959261.0508494
+  "4df0029c27a8a7e3": 1790959261.0508494,
+  "67ef0905b8bca971": 1790960610.4041178,
+  "da81bf431a3fba4c": 1790960610.4041178,
+  "f8dd078652474e97": 1790960610.4041178,
+  "a805992129de2b59": 1790960610.4041178,
+  "2e8bc91a2eab6fc9": 1790960610.4041178
  },
  "queue": [
   {
@@ -599,6 +602,12 @@
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@2.58.66.143:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
    "ping": 1115,
    "ts": 1790958351.6416168
+  },
+  {
+   "id": "a805992129de2b59",
+   "cfg": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🔵@chillguy_vpn",
+   "ping": 1418,
+   "ts": 1790960610.4041178
   },
   {
    "id": "0c6a272f20864041",
@@ -1114,6 +1123,11 @@
    "cfg": "vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.127.214:443?security=reality&encryption=none&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7a76f3c4b9dd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 681,
    "ts": 1790960021.8210192
+  },
+  "2e8bc91a2eab6fc9": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 682,
+   "ts": 1790960610.4041178
   }
  },
  "geo": {
@@ -2211,13 +2225,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790960023.2575226
+  },
+  "169.40.42.168": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790960619.35826
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 138,
-  "healthy": 113,
-  "posted": 64,
+  "fetched": 143,
+  "healthy": 115,
+  "posted": 65,
   "removed": 62
  }
 }
