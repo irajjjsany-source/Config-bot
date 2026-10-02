@@ -585,7 +585,10 @@
   "101f13754449c1ed": 1790976258.4529696,
   "db9c890e48bf3ded": 1790976258.4529696,
   "2228d9d6b30fc56c": 1790976258.4529696,
-  "39f10c5785395191": 1790976258.4529696
+  "39f10c5785395191": 1790976258.4529696,
+  "a6ecdd28e4b0105b": 1790977934.4663014,
+  "3590b1548b261f67": 1790977934.4663014,
+  "756f975139b21b4f": 1790977934.4663014
  },
  "queue": [
   {
@@ -635,6 +638,12 @@
    "cfg": "vless://5d99be05-5f54-4dce-aca3-a6f16f4bd6c1@drift87.fars-remen.ir:8445?security=reality&encryption=none&pbk=7OwcalQiQ5RaMsYRjvtwTxZWS3sCpjOefcr3WYKFh04&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=73da8baa63f8d537#🔵@chillguy_vpn",
    "ping": 818,
    "ts": 1790976258.4529696
+  },
+  {
+   "id": "a6ecdd28e4b0105b",
+   "cfg": "vless://a4ce8be3-7f19-488d-8930-10f050c2c673@p2tun0.greewebservices.ir:28820?fp=ios&sni=play.google.com&headerType=none&type=tcp&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&encryption=none&sid=e3085d4fc679ba12#🔵@chillguy_vpn",
+   "ping": 830,
+   "ts": 1790977934.4663014
   },
   {
    "id": "4df0029c27a8a7e3",
@@ -1308,6 +1317,11 @@
    "cfg": "vless://758a691a-45d2-4462-a0e8-991248a6994e@49.13.231.249:33483?path=%2F&security=&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 700,
    "ts": 1790977060.4667401
+  },
+  "756f975139b21b4f": {
+   "cfg": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 701,
+   "ts": 1790977934.4663014
   }
  },
  "geo": {
@@ -2470,13 +2484,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790977062.2948132
+  },
+  "150.241.101.17": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1790977943.4829757
   }
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 216,
-  "healthy": 172,
-  "posted": 83,
+  "fetched": 219,
+  "healthy": 174,
+  "posted": 84,
   "removed": 77
  }
 }
