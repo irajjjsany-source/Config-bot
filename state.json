@@ -1,11 +1,5 @@
 {
  "seen": {
-  "d5ac900e3a7f110c": 1790722171.4601452,
-  "56f50f2e5b705e97": 1790722171.4601452,
-  "3d40adef120bc6a5": 1790722171.4601452,
-  "928b66c3726232ab": 1790722171.4601452,
-  "05528642bdcfe857": 1790722171.4601452,
-  "a80db5f5f1338b67": 1790722171.4601452,
   "7018376d2ffc10a6": 1790725721.708681,
   "b8c74976e5746611": 1790725721.708681,
   "2acf9268db77e09b": 1790728369.04843,
@@ -594,12 +588,6 @@
  },
  "queue": [
   {
-   "id": "58152232ee891048",
-   "cfg": "vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?security=reality&encryption=none&pbk=LEoyslGYLVf2XWq9Bkq8Hod-EsB3ZoTlvR5AKK3rciQ&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-de.bulkavpn.top&sid=c885e8f8#🔵@chillguy_vpn",
-   "ping": 311,
-   "ts": 1790979813.926902
-  },
-  {
    "id": "a74ed8f61e1caf38",
    "cfg": "vless://0af6e48f-18c6-4ad9-8486-a46336cf5f84@urtei9mxo.global.ssl.fastly.net:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%7D%7D&host=urtei9mxo.global.ssl.fastly.net&type=xhttp#🔵@chillguy_vpn",
    "ping": 683,
@@ -634,12 +622,6 @@
    "cfg": "vless://a4ce8be3-7f19-488d-8930-10f050c2c673@p2tun0.greewebservices.ir:28820?fp=ios&sni=play.google.com&headerType=none&type=tcp&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&encryption=none&sid=e3085d4fc679ba12#🔵@chillguy_vpn",
    "ping": 830,
    "ts": 1790977934.4663014
-  },
-  {
-   "id": "4df0029c27a8a7e3",
-   "cfg": "vless://6d56436c-150d-11f0-b0c8-f23c913c8d2b@218.250.216.236:443?security=reality&encryption=none&pbk=c9DdggKaJGSH7FN3JgGbi9ZvsUqOGGpIr7BhzTWeTCo&headerType=none&fp=chrome&type=tcp&sni=download.windowsupdate.com#🔵@chillguy_vpn",
-   "ping": 861,
-   "ts": 1790959261.0508494
   },
   {
    "id": "a90843cbcd181f89",
@@ -1315,6 +1297,11 @@
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@31.76.119.123:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 704,
    "ts": 1790980611.2348554
+  },
+  "58152232ee891048": {
+   "cfg": "vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?security=reality&encryption=none&pbk=LEoyslGYLVf2XWq9Bkq8Hod-EsB3ZoTlvR5AKK3rciQ&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-de.bulkavpn.top&sid=c885e8f8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 705,
+   "ts": 1790981508.4358964
   }
  },
  "geo": {
@@ -2503,7 +2490,7 @@
   "date": "2026-10-02",
   "fetched": 222,
   "healthy": 177,
-  "posted": 87,
+  "posted": 88,
   "removed": 77
  }
 }
