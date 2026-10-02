@@ -574,15 +574,12 @@
   "dc060aa5690d7759": 1790969133.398822,
   "e04c5fbfbd0faeca": 1790969932.9267297,
   "548046748258e2f6": 1790970744.264758,
-  "d8ecf388f6474286": 1790970744.264758
+  "d8ecf388f6474286": 1790970744.264758,
+  "b56956da136a4071": 1790971357.1613026,
+  "6e6eccca1fcaf386": 1790971357.1613026,
+  "22c17d63c006d243": 1790971357.1613026
  },
  "queue": [
-  {
-   "id": "d8ecf388f6474286",
-   "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.150:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.setevoyprostor.cc&sid=a8#🔵@chillguy_vpn",
-   "ping": 481,
-   "ts": 1790970744.264758
-  },
   {
    "id": "5bb33e768e8a8b6c",
    "cfg": "vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@77.42.28.120:1280?path=%2F&security=none&encryption=none&host=is1-ssl.mzstatic.com&type=ws#🔵@chillguy_vpn",
@@ -644,6 +641,12 @@
    "ts": 1790958351.6416168
   },
   {
+   "id": "b56956da136a4071",
+   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@31.76.119.17:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
+   "ping": 1152,
+   "ts": 1790971357.1613026
+  },
+  {
    "id": "55a96214458e6156",
    "cfg": "vless://5623c82f-8e25-44c1-bbdc-3377e3a80477@snapp.ir:2095?path=%2Fpgcfws-r4&security=none&encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&host=cloud.zowe.ir&type=ws#🔵@chillguy_vpn",
    "ping": 1167,
@@ -674,10 +677,10 @@
    "ts": 1790967475.88765
   },
   {
-   "id": "0c6a272f20864041",
-   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@ee.monkora.org:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
-   "ping": 2407,
-   "ts": 1790949349.7875123
+   "id": "22c17d63c006d243",
+   "cfg": "vless://43595255-535f-504e-4c5f-d1f1c8fd3b96@chatgpt.com:8880?path=%2Fstream%2FCYRUS_PANEL%2F43595255&security=&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&host=cyrus-1.7h0kwjjo54k7gfhpands.workers.dev&type=ws#🔵@chillguy_vpn",
+   "ping": 1953,
+   "ts": 1790971357.1613026
   },
   {
    "id": "3cc4cbec2c8bf6d2",
@@ -690,6 +693,12 @@
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@77.83.246.202:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
    "ping": 3741,
    "ts": 1790957063.2091296
+  },
+  {
+   "id": "6e6eccca1fcaf386",
+   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@103.75.125.17:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
+   "ping": 3973,
+   "ts": 1790971357.1613026
   },
   {
    "id": "5d09bf1f35503d7b",
@@ -1160,6 +1169,11 @@
    "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.setevoyprostor.cc&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 693,
    "ts": 1790970744.264758
+  },
+  "d8ecf388f6474286": {
+   "cfg": "vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.150:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.setevoyprostor.cc&sid=a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 694,
+   "ts": 1790971357.1613026
   }
  },
  "geo": {
@@ -2306,9 +2320,9 @@
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 180,
-  "healthy": 142,
-  "posted": 76,
+  "fetched": 183,
+  "healthy": 145,
+  "posted": 77,
   "removed": 77
  }
 }
