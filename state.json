@@ -1,15 +1,5 @@
 {
  "seen": {
-  "4a8acb254aa98fd7": 1790670415.6544733,
-  "0b9d523b03089059": 1790670415.6544733,
-  "ef67befa7a25d562": 1790670415.6544733,
-  "f336d03c94e707bf": 1790670415.6544733,
-  "a2a357b1b23dab71": 1790670415.6544733,
-  "607c87c8d8e959b8": 1790670415.6544733,
-  "7280a5c4de671ca6": 1790670415.6544733,
-  "170d77de617d4dc0": 1790670415.6544733,
-  "66570e6c2e03cfc5": 1790670415.6544733,
-  "56112e0ef548ff4e": 1790670415.6544733,
   "147869a8a9c7e1a4": 1790672016.040033,
   "6425e05891d008fb": 1790672016.040033,
   "117ee845f5fb9a54": 1790672016.040033,
@@ -606,7 +596,8 @@
   "534d5d90775b9fe2": 1790926035.4191236,
   "0232f58f134ae96a": 1790926035.4191236,
   "f6870fd77451cd76": 1790926035.4191236,
-  "8d513446fcde903a": 1790927590.6485853
+  "8d513446fcde903a": 1790927590.6485853,
+  "3fea1a7898be5b64": 1790929655.5863686
  },
  "queue": [
   {
@@ -1144,6 +1135,11 @@
    "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@177.1.186.44:443?security=reality&encryption=none&pbk=4hvjCaGIMlFeWxMYoAWTNHQOaZkGvGQREOjB3Unn7iE&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mcde.67resserv67.info&sid=29455a3a790acbd0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 648,
    "ts": 1790928259.6133587
+  },
+  "3fea1a7898be5b64": {
+   "cfg": "vless://b7300b59-7598-4997-9714-27efd75065d0@www.ipget.net:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=&encryption=none&host=mute-lab-4c55.389.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 649,
+   "ts": 1790929655.5863686
   }
  },
  "geo": {
@@ -2115,9 +2111,9 @@
  },
  "stats": {
   "date": "2026-10-02",
-  "fetched": 64,
-  "healthy": 58,
-  "posted": 31,
+  "fetched": 65,
+  "healthy": 59,
+  "posted": 32,
   "removed": 32
  }
 }
