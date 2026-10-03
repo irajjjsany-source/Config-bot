@@ -1,16 +1,5 @@
 {
  "seen": {
-  "6d835941925baf2d": 1790756894.959229,
-  "deab0db3add1d9e0": 1790756894.959229,
-  "06b54be2ad54b255": 1790756894.959229,
-  "f62da20ac97e7bfb": 1790756894.959229,
-  "f510a818f30b5ac5": 1790756894.959229,
-  "23b13195f34c7c7a": 1790756894.959229,
-  "f564d7d4a10b4d8d": 1790756894.959229,
-  "606bec4eb82a9ac3": 1790756894.959229,
-  "f03ee4f9718326e2": 1790756894.959229,
-  "38dd7187e0203d8b": 1790756894.959229,
-  "c5ff031a241d8c7e": 1790756894.959229,
   "03a2675a69e9baa8": 1790758543.661117,
   "f9d8a2eab4167bf5": 1790758543.661117,
   "54d69562a5428a64": 1790758543.661117,
@@ -591,18 +580,6 @@
   "e789928602df2d89": 1791015927.7376184
  },
  "queue": [
-  {
-   "id": "221a24f04e23d5f0",
-   "cfg": "vless://ce3dab49-42ec-4a3d-b70c-a76efafd8eba@shop.jarorobo.ir:8443?encryption=none&fp=random&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=ab5b&sni=github.com&spx=%2Fc101a442be542ef&type=tcp#🔵@chillguy_vpn",
-   "ping": 724,
-   "ts": 1791014590.1938424
-  },
-  {
-   "id": "45ed60c88056ed88",
-   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@62.192.153.132:443?encryption=none&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 831,
-   "ts": 1791015927.7376184
-  },
   {
    "id": "86b50c83e39ad2aa",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
@@ -1193,6 +1170,11 @@
    "cfg": "vless://7a629a11-b75a-4889-957d-dc0987a73a19@188.114.97.6:2086?path=%2FeyJqdW5rIjoieVMzbmVFWlBsd3prIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed&security=&encryption=none&host=jimifree.jimshofree1.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 732,
    "ts": 1791015927.7376184
+  },
+  "45ed60c88056ed88": {
+   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@62.192.153.132:443?encryption=none&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 733,
+   "ts": 1791016733.4415638
   }
  },
  "geo": {
@@ -2481,7 +2463,7 @@
   "date": "2026-10-03",
   "fetched": 27,
   "healthy": 25,
-  "posted": 22,
+  "posted": 23,
   "removed": 21
  }
 }
