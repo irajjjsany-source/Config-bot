@@ -585,9 +585,18 @@
   "a7a296a706ce80ee": 1790979813.926902,
   "91c6f6b42ecffdf1": 1790982106.1663854,
   "b8ae525733cfc456": 1790982106.1663854,
-  "d337993133922e68": 1790982106.1663854
+  "d337993133922e68": 1790982106.1663854,
+  "5e63701d28f10d2f": 1790985777.3600647,
+  "88514f056ff2803b": 1790985777.3600647,
+  "7018376d2ffc10a6": 1790985777.3600647
  },
  "queue": [
+  {
+   "id": "5e63701d28f10d2f",
+   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@185.242.247.44:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
+   "ping": 541,
+   "ts": 1790985777.3600647
+  },
   {
    "id": "be7f3931039f4d46",
    "cfg": "vless://d207c6c8-a278-487c-b06e-f1fc89304e6d@subnimnet1.ir:80?mode=auto&path=%2Fws%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&host=fl.subnimnet2.ir&type=xhttp#🔵@chillguy_vpn",
@@ -1281,6 +1290,11 @@
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@2.58.66.198:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 709,
    "ts": 1790984941.069912
+  },
+  "88514f056ff2803b": {
+   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@199.68.198.13:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 711,
+   "ts": 1790985777.3600647
   }
  },
  "geo": {
@@ -2483,13 +2497,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790984944.5352657
+  },
+  "199.68.198.13": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1790985779.6889775
   }
  },
  "stats": {
-  "date": "2026-10-02",
-  "fetched": 225,
-  "healthy": 180,
-  "posted": 92,
-  "removed": 77
+  "date": "2026-10-03",
+  "fetched": 3,
+  "healthy": 2,
+  "posted": 1,
+  "removed": 0
  }
 }
