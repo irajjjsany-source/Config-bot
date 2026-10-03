@@ -1,10 +1,5 @@
 {
  "seen": {
-  "ea32d06029fbfb19": 1790762662.3466077,
-  "381dace57fb8a352": 1790762662.3466077,
-  "9bcee3304a51eff7": 1790762662.3466077,
-  "9ce3fb268838d183": 1790762662.3466077,
-  "00f1a5f4de08119f": 1790762662.3466077,
   "ae7d9b3d9514f8b4": 1790763970.7322874,
   "bc42856d4033d316": 1790763970.7322874,
   "550e3a03d4fb1554": 1790763970.7322874,
@@ -581,14 +576,23 @@
   "c04bd90bded399de": 1791021715.0521698,
   "eb8b2678669f6c9f": 1791021715.0521698,
   "7d4606b5e3029617": 1791021715.0521698,
-  "54811b63fa604fc7": 1791021715.0521698
+  "54811b63fa604fc7": 1791021715.0521698,
+  "516ed2ab4832e8c2": 1791023005.6746552,
+  "8d60836cec804fc6": 1791023005.6746552,
+  "c0a1387a389cc7eb": 1791023005.6746552
  },
  "queue": [
   {
-   "id": "eb8b2678669f6c9f",
-   "cfg": "vless://351253fd-52bd-4607-a677-c3daa623df73@195.201.252.144:8080?encryption=none&security=reality&type=tcp&headerType=none&sni=play.appstore.googlecommerce.com&fp=edge&alpn=h3%2Ch2%2Chttp%2F1.1&pbk=ux-wQqVwCGtQPfl1GgoYTd0tQJIwHAueJnbMNaytFhA&sid=e3f6e5fc638dee78#🔵@chillguy_vpn",
-   "ping": 400,
-   "ts": 1791021715.0521698
+   "id": "516ed2ab4832e8c2",
+   "cfg": "vmess://eyJhZGQiOiAiMjA2LjEuMTAzLjUxIiwgImlkIjogIjMzNWFlMTk0LWNlNzktNDAyMS05MGUyLWUwMTY3NDJiZjljOCIsICJuZXQiOiAidGNwIiwgInBvcnQiOiA0Mjg5NCwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
+   "ping": 416,
+   "ts": 1791023005.6746552
+  },
+  {
+   "id": "c0a1387a389cc7eb",
+   "cfg": "vless://75c4c6b1-dc9a-4c59-9985-df8af6e9c707@193.202.113.4:443?security=reality&encryption=none&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-uk2.mystatic-cdn.ru&sid=ee169e93d3c277a1#🔵@chillguy_vpn",
+   "ping": 455,
+   "ts": 1791023005.6746552
   },
   {
    "id": "ec62bd6876656e37",
@@ -1239,6 +1243,11 @@
    "cfg": "vless://75c4c6b1-dc9a-4c59-9985-df8af6e9c707@193.202.113.4:443?headerType=none&security=reality&type=tcp&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&sid=ee169e93d3c277a1&encryption=none&flow=xtls-rprx-vision&sni=edge-uk2.mystatic-cdn.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 739,
    "ts": 1791021715.0521698
+  },
+  "8d60836cec804fc6": {
+   "cfg": "vmess://eyJhZGQiOiAiMjA2LjEuMTAzLjUxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzMzVhZTE5NC1jZTc5LTQwMjEtOTBlMi1lMDE2NzQyYmY5YzgiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI0Mjg5NCIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "msg": 740,
+   "ts": 1791023005.6746552
   }
  },
  "geo": {
@@ -2536,13 +2545,18 @@
    "cc": "UZ",
    "name": "Uzbekistan",
    "ts": 1791021717.740497
+  },
+  "206.1.103.51": {
+   "cc": "TR",
+   "name": "Türkiye",
+   "ts": 1791023008.0984058
   }
  },
  "stats": {
   "date": "2026-10-03",
-  "fetched": 40,
-  "healthy": 36,
-  "posted": 29,
+  "fetched": 43,
+  "healthy": 39,
+  "posted": 30,
   "removed": 21
  }
 }
