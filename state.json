@@ -581,9 +581,24 @@
   "fcd393d54b71a354": 1791003115.2413638,
   "0487436b2eb57c28": 1791003115.2413638,
   "71991e50ecd31b20": 1791003115.2413638,
-  "679d3c7e8daa38a7": 1791003115.2413638
+  "679d3c7e8daa38a7": 1791003115.2413638,
+  "fada009654e3a462": 1791005567.7671053,
+  "b6a9762a59200935": 1791005567.7671053,
+  "bdf66d446c71ea7b": 1791005567.7671053
  },
  "queue": [
+  {
+   "id": "fada009654e3a462",
+   "cfg": "vless://ebaac78a-64f7-4d6a-8897-a4b420069378@ljbzb288i.paslanmaz.ir:15329?security=reality&encryption=mlkem768x25519plus.native.0rtt.JDYZ4e8_tG2z6YYKAVN4iML9xyBBVHdfNhS9TaUYZkY&pbk=SrV7pMnlp2jszuqXq90kMFVzfWHeOsXXxmvJe6CZkDE&headerType=none&type=tcp&sni=play.google.com&sid=239ef5f8f9fbb629#🔵@chillguy_vpn",
+   "ping": 657,
+   "ts": 1791005567.7671053
+  },
+  {
+   "id": "b6a9762a59200935",
+   "cfg": "vless://7078e8e7-94d0-4736-97cd-b981419a41ef@31.77.143.42:443?mode=gun&security=reality&encryption=none&pbk=AskBrLMaRGUbbKpmu3nY2-c00m0-OXjkqWZ7sxcpZF8&fp=firefox&type=grpc&serviceName=grpc&sni=rs1.fpradius.com&sid=6d06eee7f85d09f2#🔵@chillguy_vpn",
+   "ping": 663,
+   "ts": 1791005567.7671053
+  },
   {
    "id": "e49d017b9aaf8093",
    "cfg": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#🔵@chillguy_vpn",
@@ -1116,6 +1131,11 @@
    "cfg": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--app_bedal--app_bedal&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 722,
    "ts": 1791003745.358353
+  },
+  "bdf66d446c71ea7b": {
+   "cfg": "vless://7078e8e7-94d0-4736-97cd-b981419a41ef@85.137.250.138:443?security=reality&encryption=none&pbk=UBu0Zu5O-enmSN_OoK8mOb5WKHJRQEUJZcY-O9R9ZSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=b-nl1.fpradius.com&sid=3cbff992baa810cb#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 723,
+   "ts": 1791005567.7671053
   }
  },
  "geo": {
@@ -2353,13 +2373,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791003121.9830492
+  },
+  "85.137.250.138": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791005569.6300874
   }
  },
  "stats": {
   "date": "2026-10-03",
-  "fetched": 11,
-  "healthy": 10,
-  "posted": 12,
+  "fetched": 14,
+  "healthy": 13,
+  "posted": 13,
   "removed": 19
  }
 }
