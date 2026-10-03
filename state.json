@@ -577,12 +577,6 @@
  },
  "queue": [
   {
-   "id": "679d3c7e8daa38a7",
-   "cfg": "vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#🔵@chillguy_vpn",
-   "ping": 1063,
-   "ts": 1791003115.2413638
-  },
-  {
    "id": "71991e50ecd31b20",
    "cfg": "vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?security=reality&encryption=none&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=origin.vpnoodles.ru&sid=4af4102cb26e59#🔵@chillguy_vpn",
    "ping": 1203,
@@ -1170,6 +1164,11 @@
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 734,
    "ts": 1791017758.3515387
+  },
+  "679d3c7e8daa38a7": {
+   "cfg": "vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 735,
+   "ts": 1791018393.2869616
   }
  },
  "geo": {
@@ -2452,13 +2451,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791014592.4014409
+  },
+  "217.19.122.200": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791018395.2645714
   }
  },
  "stats": {
   "date": "2026-10-03",
   "fetched": 27,
   "healthy": 25,
-  "posted": 24,
+  "posted": 25,
   "removed": 21
  }
 }
