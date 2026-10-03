@@ -590,36 +590,6 @@
  },
  "queue": [
   {
-   "id": "6e6eccca1fcaf386",
-   "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@103.75.125.17:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#🔵@chillguy_vpn",
-   "ping": 3973,
-   "ts": 1790971357.1613026
-  },
-  {
-   "id": "101f13754449c1ed",
-   "cfg": "vless://a4ce8be3-7f19-488d-8930-10f050c2c673@areal4.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#🔵@chillguy_vpn",
-   "ping": 4153,
-   "ts": 1790976258.4529696
-  },
-  {
-   "id": "ce1dac2190b3c222",
-   "cfg": "vless://26becb32-3d57-4b59-9252-3b046768b1ea@151.101.215.97:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=ovd13.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=accounts.fastly.com#🔵@chillguy_vpn",
-   "ping": 4879,
-   "ts": 1790974348.8703904
-  },
-  {
-   "id": "8ae9a7e0834fd0fc",
-   "cfg": "vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?security=reality&encryption=none&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=origin.vpnoodles.ru&sid=4af4102cb26e59#🔵@chillguy_vpn",
-   "ping": 5468,
-   "ts": 1790972607.5695646
-  },
-  {
-   "id": "8383795f6a9787f7",
-   "cfg": "vless://0af6e48f-18c6-4ad9-8486-a46336cf5f84@unlku0sju.global.ssl.fastly.net:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%7D%7D&host=unlku0sju.global.ssl.fastly.net&type=xhttp#🔵@chillguy_vpn",
-   "ping": 5566,
-   "ts": 1790972607.5695646
-  },
-  {
    "id": "fba735bca423c740",
    "cfg": "vless://%58pnTeam-63@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
    "ping": 5838,
@@ -1101,6 +1071,11 @@
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@77.83.246.202:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=example.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 718,
    "ts": 1790992915.7366235
+  },
+  "ce1dac2190b3c222": {
+   "cfg": "vless://26becb32-3d57-4b59-9252-3b046768b1ea@151.101.215.97:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=ovd13.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=accounts.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 719,
+   "ts": 1790994325.1285057
   }
  },
  "geo": {
@@ -2339,7 +2314,7 @@
   "date": "2026-10-03",
   "fetched": 3,
   "healthy": 2,
-  "posted": 8,
+  "posted": 9,
   "removed": 19
  }
 }
