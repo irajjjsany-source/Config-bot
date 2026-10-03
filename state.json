@@ -590,12 +590,6 @@
  },
  "queue": [
   {
-   "id": "ff30c1ea2519759e",
-   "cfg": "vless://%58pnTeam-63@151.101.215.97:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 1944,
-   "ts": 1790974348.8703904
-  },
-  {
    "id": "22c17d63c006d243",
    "cfg": "vless://43595255-535f-504e-4c5f-d1f1c8fd3b96@chatgpt.com:8880?path=%2Fstream%2FCYRUS_PANEL%2F43595255&security=&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&host=cyrus-1.7h0kwjjo54k7gfhpands.workers.dev&type=ws#🔵@chillguy_vpn",
    "ping": 1953,
@@ -1115,6 +1109,11 @@
    "cfg": "vless://%58pnTeam-64@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 716,
    "ts": 1790991421.6639874
+  },
+  "ff30c1ea2519759e": {
+   "cfg": "vless://%58pnTeam-63@151.101.215.97:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 717,
+   "ts": 1790992226.7645032
   }
  },
  "geo": {
@@ -2342,13 +2341,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1790990617.1661177
+  },
+  "151.101.215.97": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1790992228.2931304
   }
  },
  "stats": {
   "date": "2026-10-03",
   "fetched": 3,
   "healthy": 2,
-  "posted": 6,
+  "posted": 7,
   "removed": 19
  }
 }
