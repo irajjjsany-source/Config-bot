@@ -1,9 +1,5 @@
 {
  "seen": {
-  "03a2675a69e9baa8": 1790758543.661117,
-  "f9d8a2eab4167bf5": 1790758543.661117,
-  "54d69562a5428a64": 1790758543.661117,
-  "161b9b5ed3ef1b37": 1790758543.661117,
   "d0cc3a6c495c28cc": 1790760356.0334113,
   "7f959641467baafa": 1790761208.2071555,
   "d72298d4561345d6": 1790761208.2071555,
@@ -580,12 +576,6 @@
   "e789928602df2d89": 1791015927.7376184
  },
  "queue": [
-  {
-   "id": "86b50c83e39ad2aa",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
-   "ping": 982,
-   "ts": 1791003115.2413638
-  },
   {
    "id": "679d3c7e8daa38a7",
    "cfg": "vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#🔵@chillguy_vpn",
@@ -1175,6 +1165,11 @@
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@62.192.153.132:443?encryption=none&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 733,
    "ts": 1791016733.4415638
+  },
+  "86b50c83e39ad2aa": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 734,
+   "ts": 1791017758.3515387
   }
  },
  "geo": {
@@ -2463,7 +2458,7 @@
   "date": "2026-10-03",
   "fetched": 27,
   "healthy": 25,
-  "posted": 23,
+  "posted": 24,
   "removed": 21
  }
 }
