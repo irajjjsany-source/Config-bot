@@ -583,7 +583,9 @@
   "fada009654e3a462": 1791005567.7671053,
   "b6a9762a59200935": 1791005567.7671053,
   "bdf66d446c71ea7b": 1791005567.7671053,
-  "35722415c0d12955": 1791011028.170246
+  "35722415c0d12955": 1791011028.170246,
+  "e736bfdec00ff736": 1791012358.138267,
+  "9e011507aa9d3976": 1791012358.138267
  },
  "queue": [
   {
@@ -609,6 +611,12 @@
    "cfg": "vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?security=reality&encryption=none&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=origin.vpnoodles.ru&sid=4af4102cb26e59#🔵@chillguy_vpn",
    "ping": 1203,
    "ts": 1791003115.2413638
+  },
+  {
+   "id": "e736bfdec00ff736",
+   "cfg": "vless://75c4c6b1-dc9a-4c59-9985-df8af6e9c707@103.246.248.20:443?security=reality&fp=firefox&sid=fad7e3b745b23e34&sni=pl.atlanta-api.com&spx=%2FAhmadV2ray&headerType=none&pbk=2YbfBDRn1xu5OOVvC6H7Pq0p0gRtZtvSqFS08-M-DUY&type=tcp&encryption=none&fm=AhmadV2ray&flow=xtls-rprx-vision#🔵@chillguy_vpn",
+   "ping": 2152,
+   "ts": 1791012358.138267
   },
   {
    "id": "06b7dc78dbaf6e60",
@@ -1127,6 +1135,11 @@
    "cfg": "vless://7078e8e7-94d0-4736-97cd-b981419a41ef@144.31.150.127:443?security=reality&encryption=none&pbk=mXdCqI9f5K_OU_uHSm18G3hXTBS9cglSL5GMZZENdXU&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=t-fin1.fpradius.com&sid=9e12f2df4fdd9fa3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 727,
    "ts": 1791011028.170246
+  },
+  "9e011507aa9d3976": {
+   "cfg": "vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@13.143.175.56:443?encryption=none&type=tcp&security=reality&fp=firefox&flow=xtls-rprx-vision&sni=newhollandafter.world&spx=%2FAhmadV2ray&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&headerType=none&fm=AhmadV2ray#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 728,
+   "ts": 1791012358.138267
   }
  },
  "geo": {
@@ -2389,13 +2402,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791011029.6016517
+  },
+  "13.143.175.56": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791012361.4079835
   }
  },
  "stats": {
   "date": "2026-10-03",
-  "fetched": 15,
-  "healthy": 14,
-  "posted": 17,
+  "fetched": 17,
+  "healthy": 16,
+  "posted": 18,
   "removed": 21
  }
 }
