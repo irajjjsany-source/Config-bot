@@ -588,14 +588,7 @@
   "88514f056ff2803b": 1790985777.3600647,
   "7018376d2ffc10a6": 1790985777.3600647
  },
- "queue": [
-  {
-   "id": "fba735bca423c740",
-   "cfg": "vless://%58pnTeam-63@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 5838,
-   "ts": 1790974348.8703904
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -1076,6 +1069,11 @@
    "cfg": "vless://26becb32-3d57-4b59-9252-3b046768b1ea@151.101.215.97:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=ovd13.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=accounts.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 719,
    "ts": 1790994325.1285057
+  },
+  "fba735bca423c740": {
+   "cfg": "vless://%58pnTeam-63@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 720,
+   "ts": 1790995599.6133025
   }
  },
  "geo": {
@@ -2314,7 +2312,7 @@
   "date": "2026-10-03",
   "fetched": 3,
   "healthy": 2,
-  "posted": 9,
+  "posted": 10,
   "removed": 19
  }
 }
