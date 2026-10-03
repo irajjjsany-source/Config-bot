@@ -582,7 +582,8 @@
   "679d3c7e8daa38a7": 1791003115.2413638,
   "fada009654e3a462": 1791005567.7671053,
   "b6a9762a59200935": 1791005567.7671053,
-  "bdf66d446c71ea7b": 1791005567.7671053
+  "bdf66d446c71ea7b": 1791005567.7671053,
+  "35722415c0d12955": 1791011028.170246
  },
  "queue": [
   {
@@ -1121,6 +1122,11 @@
    "cfg": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 726,
    "ts": 1791009109.2332814
+  },
+  "35722415c0d12955": {
+   "cfg": "vless://7078e8e7-94d0-4736-97cd-b981419a41ef@144.31.150.127:443?security=reality&encryption=none&pbk=mXdCqI9f5K_OU_uHSm18G3hXTBS9cglSL5GMZZENdXU&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=t-fin1.fpradius.com&sid=9e12f2df4fdd9fa3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 727,
+   "ts": 1791011028.170246
   }
  },
  "geo": {
@@ -2378,13 +2384,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791009110.8716545
+  },
+  "144.31.150.127": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791011029.6016517
   }
  },
  "stats": {
   "date": "2026-10-03",
-  "fetched": 14,
-  "healthy": 13,
-  "posted": 16,
+  "fetched": 15,
+  "healthy": 14,
+  "posted": 17,
   "removed": 21
  }
 }
