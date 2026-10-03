@@ -1,6 +1,5 @@
 {
  "seen": {
-  "2acf9268db77e09b": 1790728369.04843,
   "47ce50e36699bd07": 1790729814.764128,
   "c02e62c28304e526": 1790740350.7779143,
   "c25d26f143e426b1": 1790740350.7779143,
@@ -592,12 +591,6 @@
  },
  "queue": [
   {
-   "id": "be7f3931039f4d46",
-   "cfg": "vless://d207c6c8-a278-487c-b06e-f1fc89304e6d@subnimnet1.ir:80?mode=auto&path=%2Fws%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&host=fl.subnimnet2.ir&type=xhttp#🔵@chillguy_vpn",
-   "ping": 702,
-   "ts": 1790974995.5311165
-  },
-  {
    "id": "2991a7bc2d258b2c",
    "cfg": "vless://0af6e48f-18c6-4ad9-8486-a46336cf5f84@cu8zbugnb.global.ssl.fastly.net:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%7D%7D&host=cu8zbugnb.global.ssl.fastly.net&type=xhttp#🔵@chillguy_vpn",
    "ping": 785,
@@ -632,12 +625,6 @@
    "cfg": "vless://0af6e48f-18c6-4ad9-8486-a46336cf5f84@unmvd3z3y.global.ssl.fastly.net:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%7D%7D&host=unmvd3z3y.global.ssl.fastly.net&type=xhttp#🔵@chillguy_vpn",
    "ping": 916,
    "ts": 1790972607.5695646
-  },
-  {
-   "id": "5599b067f7939221",
-   "cfg": "vless://8e7614a9-5648-424c-9e1b-7776fed9ebb3@94.183.160.144:2082?encryption=none&fp=chrome&pbk=5t058MD4dZPpM05n2fPBvUvCdpDhgg89psrAbiq92zg&security=reality&sid=811a0b074e871f&sni=www.microsoft.com&spx=%2F2b0a82b0353dd14&type=tcp#🔵@chillguy_vpn",
-   "ping": 1083,
-   "ts": 1790966685.8987975
   },
   {
    "id": "9af558846a33c0bf",
@@ -1175,6 +1162,11 @@
    "cfg": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@185.242.247.44:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 712,
    "ts": 1790987425.598846
+  },
+  "be7f3931039f4d46": {
+   "cfg": "vless://d207c6c8-a278-487c-b06e-f1fc89304e6d@subnimnet1.ir:80?mode=auto&path=%2Fws%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&host=fl.subnimnet2.ir&type=xhttp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 713,
+   "ts": 1790988865.9732387
   }
  },
  "geo": {
@@ -2387,13 +2379,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1790987427.5931306
+  },
+  "subnimnet1.ir": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1790988867.4040313
   }
  },
  "stats": {
   "date": "2026-10-03",
   "fetched": 3,
   "healthy": 2,
-  "posted": 2,
+  "posted": 3,
   "removed": 19
  }
 }
