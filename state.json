@@ -1,7 +1,5 @@
 {
  "seen": {
-  "e31d166242cd79f6": 1790754873.7945917,
-  "41a3d074f79ee607": 1790754873.7945917,
   "6d835941925baf2d": 1790756894.959229,
   "deab0db3add1d9e0": 1790756894.959229,
   "06b54be2ad54b255": 1790756894.959229,
@@ -581,9 +579,17 @@
   "35722415c0d12955": 1791011028.170246,
   "e736bfdec00ff736": 1791012358.138267,
   "9e011507aa9d3976": 1791012358.138267,
-  "f2615fefdc87fced": 1791013225.3051467
+  "f2615fefdc87fced": 1791013225.3051467,
+  "a6be21a42e76c706": 1791014590.1938424,
+  "221a24f04e23d5f0": 1791014590.1938424
  },
  "queue": [
+  {
+   "id": "221a24f04e23d5f0",
+   "cfg": "vless://ce3dab49-42ec-4a3d-b70c-a76efafd8eba@shop.jarorobo.ir:8443?encryption=none&fp=random&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=ab5b&sni=github.com&spx=%2Fc101a442be542ef&type=tcp#🔵@chillguy_vpn",
+   "ping": 724,
+   "ts": 1791014590.1938424
+  },
   {
    "id": "86b50c83e39ad2aa",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
@@ -1140,6 +1146,11 @@
    "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 730,
    "ts": 1791013969.3717017
+  },
+  "a6be21a42e76c706": {
+   "cfg": "vmess://eyJhZGQiOiAiOTEuMTA3LjE2Mi42MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDFkNTQzMGItMDM0Zi00Y2VjLTk2M2ItYTE4YzFlMzUzNzgyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "msg": 731,
+   "ts": 1791014590.1938424
   }
  },
  "geo": {
@@ -2417,13 +2428,18 @@
    "cc": "BG",
    "name": "Bulgaria",
    "ts": 1791013971.12574
+  },
+  "91.107.162.63": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791014592.4014409
   }
  },
  "stats": {
   "date": "2026-10-03",
-  "fetched": 18,
-  "healthy": 17,
-  "posted": 20,
+  "fetched": 20,
+  "healthy": 19,
+  "posted": 21,
   "removed": 21
  }
 }
