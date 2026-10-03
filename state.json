@@ -573,9 +573,60 @@
   "d337993133922e68": 1790982106.1663854,
   "5e63701d28f10d2f": 1790985777.3600647,
   "88514f056ff2803b": 1790985777.3600647,
-  "7018376d2ffc10a6": 1790985777.3600647
+  "7018376d2ffc10a6": 1790985777.3600647,
+  "86b50c83e39ad2aa": 1791003115.2413638,
+  "06b7dc78dbaf6e60": 1791003115.2413638,
+  "e49d017b9aaf8093": 1791003115.2413638,
+  "f9322de010ce0260": 1791003115.2413638,
+  "fcd393d54b71a354": 1791003115.2413638,
+  "0487436b2eb57c28": 1791003115.2413638,
+  "71991e50ecd31b20": 1791003115.2413638,
+  "679d3c7e8daa38a7": 1791003115.2413638
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "fcd393d54b71a354",
+   "cfg": "vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--app_bedal--app_bedal&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🔵@chillguy_vpn",
+   "ping": 815,
+   "ts": 1791003115.2413638
+  },
+  {
+   "id": "e49d017b9aaf8093",
+   "cfg": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#🔵@chillguy_vpn",
+   "ping": 868,
+   "ts": 1791003115.2413638
+  },
+  {
+   "id": "f9322de010ce0260",
+   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#🔵@chillguy_vpn",
+   "ping": 976,
+   "ts": 1791003115.2413638
+  },
+  {
+   "id": "86b50c83e39ad2aa",
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
+   "ping": 982,
+   "ts": 1791003115.2413638
+  },
+  {
+   "id": "679d3c7e8daa38a7",
+   "cfg": "vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#🔵@chillguy_vpn",
+   "ping": 1063,
+   "ts": 1791003115.2413638
+  },
+  {
+   "id": "71991e50ecd31b20",
+   "cfg": "vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?security=reality&encryption=none&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=origin.vpnoodles.ru&sid=4af4102cb26e59#🔵@chillguy_vpn",
+   "ping": 1203,
+   "ts": 1791003115.2413638
+  },
+  {
+   "id": "06b7dc78dbaf6e60",
+   "cfg": "vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=2a80364e93d9#🔵@chillguy_vpn",
+   "ping": 4636,
+   "ts": 1791003115.2413638
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -1061,6 +1112,11 @@
    "cfg": "vless://%58pnTeam-63@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 720,
    "ts": 1790995599.6133025
+  },
+  "0487436b2eb57c28": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 721,
+   "ts": 1791003115.2413638
   }
  },
  "geo": {
@@ -2293,13 +2349,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1790992228.2931304
+  },
+  "169.40.42.104": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791003121.9830492
   }
  },
  "stats": {
   "date": "2026-10-03",
-  "fetched": 3,
-  "healthy": 2,
-  "posted": 10,
+  "fetched": 11,
+  "healthy": 10,
+  "posted": 11,
   "removed": 19
  }
 }
