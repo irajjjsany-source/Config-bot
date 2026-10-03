@@ -1,10 +1,5 @@
 {
  "seen": {
-  "c110886cc5cc0c4e": 1790754105.1089473,
-  "4947f1f71e596b7e": 1790754105.1089473,
-  "844e2832cbee1db0": 1790754105.1089473,
-  "27fce9329add86dd": 1790754105.1089473,
-  "904d68259ea2794f": 1790754105.1089473,
   "e31d166242cd79f6": 1790754873.7945917,
   "41a3d074f79ee607": 1790754873.7945917,
   "6d835941925baf2d": 1790756894.959229,
@@ -590,12 +585,6 @@
  },
  "queue": [
   {
-   "id": "f9322de010ce0260",
-   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#🔵@chillguy_vpn",
-   "ping": 976,
-   "ts": 1791003115.2413638
-  },
-  {
    "id": "86b50c83e39ad2aa",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
    "ping": 982,
@@ -1146,6 +1135,11 @@
    "cfg": "vless://9f15b600-ce52-447f-b388-ef70de75308e@91.107.191.165:2?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 729,
    "ts": 1791013225.3051467
+  },
+  "f9322de010ce0260": {
+   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 730,
+   "ts": 1791013969.3717017
   }
  },
  "geo": {
@@ -2418,13 +2412,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791013226.768065
+  },
+  "45.9.156.24": {
+   "cc": "BG",
+   "name": "Bulgaria",
+   "ts": 1791013971.12574
   }
  },
  "stats": {
   "date": "2026-10-03",
   "fetched": 18,
   "healthy": 17,
-  "posted": 19,
+  "posted": 20,
   "removed": 21
  }
 }
