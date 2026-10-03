@@ -573,9 +573,25 @@
   "13efe65a748a3a30": 1791015927.7376184,
   "09efca1fbe2cb4f4": 1791015927.7376184,
   "45ed60c88056ed88": 1791015927.7376184,
-  "e789928602df2d89": 1791015927.7376184
+  "e789928602df2d89": 1791015927.7376184,
+  "d1fa2b6f022cad01": 1791019504.0922854,
+  "a751bcb617b61c97": 1791019504.0922854,
+  "c04645d3a767e25b": 1791019504.0922854,
+  "4059b8fe0e10d211": 1791019504.0922854
  },
  "queue": [
+  {
+   "id": "4059b8fe0e10d211",
+   "cfg": "vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@host.taghvimtime.ir:8443?encryption=none&security=tls&sni=host.taghvimtime.ir&fp=chrome&type=xhttp&mode=auto&path=%2FMeh%3Fdi#🔵@chillguy_vpn",
+   "ping": 601,
+   "ts": 1791019504.0922854
+  },
+  {
+   "id": "d1fa2b6f022cad01",
+   "cfg": "vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
+   "ping": 653,
+   "ts": 1791019504.0922854
+  },
   {
    "id": "71991e50ecd31b20",
    "cfg": "vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?security=reality&encryption=none&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=origin.vpnoodles.ru&sid=4af4102cb26e59#🔵@chillguy_vpn",
@@ -1169,6 +1185,11 @@
    "cfg": "vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 735,
    "ts": 1791018393.2869616
+  },
+  "a751bcb617b61c97": {
+   "cfg": "vless://75c4c6b1-dc9a-4c59-9985-df8af6e9c707@103.246.248.20:443?security=reality&encryption=none&fm=AhmadV2ray&pbk=2YbfBDRn1xu5OOVvC6H7Pq0p0gRtZtvSqFS08-M-DUY&headerType=none&fp=firefox&spx=%2FAhmadV2ray&type=tcp&flow=xtls-rprx-vision&sni=pl.atlanta-api.com&sid=fad7e3b745b23e34#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 736,
+   "ts": 1791019504.0922854
   }
  },
  "geo": {
@@ -2456,13 +2477,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791018395.2645714
+  },
+  "103.246.248.20": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791019505.755861
   }
  },
  "stats": {
   "date": "2026-10-03",
-  "fetched": 27,
-  "healthy": 25,
-  "posted": 25,
+  "fetched": 31,
+  "healthy": 28,
+  "posted": 26,
   "removed": 21
  }
 }
