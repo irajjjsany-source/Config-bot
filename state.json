@@ -585,7 +585,8 @@
   "bdf66d446c71ea7b": 1791005567.7671053,
   "35722415c0d12955": 1791011028.170246,
   "e736bfdec00ff736": 1791012358.138267,
-  "9e011507aa9d3976": 1791012358.138267
+  "9e011507aa9d3976": 1791012358.138267,
+  "f2615fefdc87fced": 1791013225.3051467
  },
  "queue": [
   {
@@ -1140,6 +1141,11 @@
    "cfg": "vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@13.143.175.56:443?encryption=none&type=tcp&security=reality&fp=firefox&flow=xtls-rprx-vision&sni=newhollandafter.world&spx=%2FAhmadV2ray&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&headerType=none&fm=AhmadV2ray#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 728,
    "ts": 1791012358.138267
+  },
+  "f2615fefdc87fced": {
+   "cfg": "vless://9f15b600-ce52-447f-b388-ef70de75308e@91.107.191.165:2?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 729,
+   "ts": 1791013225.3051467
   }
  },
  "geo": {
@@ -2407,13 +2413,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791012361.4079835
+  },
+  "91.107.191.165": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791013226.768065
   }
  },
  "stats": {
   "date": "2026-10-03",
-  "fetched": 17,
-  "healthy": 16,
-  "posted": 18,
+  "fetched": 18,
+  "healthy": 17,
+  "posted": 19,
   "removed": 21
  }
 }
