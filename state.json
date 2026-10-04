@@ -595,7 +595,10 @@
   "fd2f84a7af958a74": 1791125130.4164317,
   "88e55fc20efeec2f": 1791125130.4164317,
   "6874c2551380e1a5": 1791126931.0902705,
-  "daf839286eeba1ab": 1791128732.6299033
+  "daf839286eeba1ab": 1791128732.6299033,
+  "c0d7316af7ad564c": 1791129650.483479,
+  "cdf40ab795735f18": 1791129650.483479,
+  "607f4227ba6dc10d": 1791129650.483479
  },
  "queue": [],
  "posted": {
@@ -1137,6 +1140,24 @@
    "score": 94,
    "stability": 100,
    "country": "United States"
+  },
+  "c0d7316af7ad564c": {
+   "cfg": "vless://bc2b006a-7539-4e3f-9f1e-3f31056c7e7f@94.139.180.250:4109?security=reality&encryption=none&pbk=cIT2rZEiec-gDgmnX-5l0KgIDw_Ik-qA-4pGzGoSkHY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=d38a24b31d88527f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 803,
+   "ts": 1791129695.2110167,
+   "ping": 826,
+   "score": 89,
+   "stability": 100,
+   "country": "Iran"
+  },
+  "cdf40ab795735f18": {
+   "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?security=reality&encryption=none&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=1mcfn.67resserv67.info&sid=29455a3a790acbd0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 804,
+   "ts": 1791129695.8180816,
+   "ping": 3134,
+   "score": 59,
+   "stability": 100,
+   "country": "Finland"
   }
  },
  "geo": {
@@ -2634,13 +2655,18 @@
    "cc": "TR",
    "name": "Türkiye",
    "ts": 1791126936.5154543
+  },
+  "94.139.180.250": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791129694.4675126
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 136,
-  "healthy": 109,
-  "posted": 54,
+  "fetched": 139,
+  "healthy": 111,
+  "posted": 56,
   "removed": 21,
   "published_scores": [
    89,
@@ -2652,7 +2678,9 @@
    93,
    93,
    91,
-   94
+   94,
+   89,
+   59
   ],
   "top_today": [
    {
