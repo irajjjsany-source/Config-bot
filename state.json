@@ -644,33 +644,6 @@
  },
  "queue": [
   {
-   "id": "017c557e343f2ad0",
-   "cfg": "vless://%58pnTeam-71@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 866,
-   "best": 593,
-   "score": 89,
-   "stability": 100,
-   "ts": 1791142244.0473428
-  },
-  {
-   "id": "f548978186bfc625",
-   "cfg": "vless://790910c3-9a97-4375-998a-fcc36b0a2902@88.119.165.131:443?security=reality&encryption=none&pbk=_AIb5QbjYK6iJBx6UpDqVBoFyUA_nkiHrj7gZrASDwc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=bbfe4bd7d5dd0627#🔵@chillguy_vpn",
-   "ping": 909,
-   "best": 536,
-   "score": 88,
-   "stability": 100,
-   "ts": 1791142244.0473428
-  },
-  {
-   "id": "738522021e14a9f9",
-   "cfg": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@89.125.13.202:443?security=reality&encryption=none&pbk=g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=d3-ee1.cloud-cdn.xyz&sid=ad6e08b22389abd2#🔵@chillguy_vpn",
-   "ping": 977,
-   "best": 541,
-   "score": 87,
-   "stability": 100,
-   "ts": 1791144428.9791691
-  },
-  {
    "id": "a6b9728296e087b1",
    "cfg": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?path=%2Ftyxyws%23telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#🔵@chillguy_vpn",
    "ping": 1002,
@@ -1481,6 +1454,36 @@
    "score": 94,
    "stability": 100,
    "country": "Germany",
+   "repost_count": 0
+  },
+  "017c557e343f2ad0": {
+   "cfg": "vless://%58pnTeam-71@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 848,
+   "ts": 1791147655.6747978,
+   "ping": 436,
+   "score": 94,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "f548978186bfc625": {
+   "cfg": "vless://790910c3-9a97-4375-998a-fcc36b0a2902@88.119.165.131:443?security=reality&encryption=none&pbk=_AIb5QbjYK6iJBx6UpDqVBoFyUA_nkiHrj7gZrASDwc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=bbfe4bd7d5dd0627#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 849,
+   "ts": 1791147658.836916,
+   "ping": 438,
+   "score": 94,
+   "stability": 100,
+   "country": "Lithuania",
+   "repost_count": 0
+  },
+  "738522021e14a9f9": {
+   "cfg": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@89.125.13.202:443?security=reality&encryption=none&pbk=g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=d3-ee1.cloud-cdn.xyz&sid=ad6e08b22389abd2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 850,
+   "ts": 1791147661.7484353,
+   "ping": 362,
+   "score": 95,
+   "stability": 100,
+   "country": "Estonia",
    "repost_count": 0
   }
  },
@@ -3159,13 +3162,18 @@
    "cc": "FR",
    "name": "France",
    "ts": 1791147569.9414754
+  },
+  "88.119.165.131": {
+   "cc": "LT",
+   "name": "Lithuania",
+   "ts": 1791147658.3140635
   }
  },
  "stats": {
   "date": "2026-10-04",
   "fetched": 226,
   "healthy": 168,
-  "posted": 99,
+  "posted": 102,
   "removed": 49,
   "published_scores": [
    89,
@@ -3221,7 +3229,10 @@
    70,
    97,
    86,
-   94
+   94,
+   94,
+   94,
+   95
   ],
   "top_today": [
    {
