@@ -1,13 +1,5 @@
 {
  "seen": {
-  "5358dad2eaddbac4": 1790845617.728767,
-  "c5bb9bf9b5310889": 1790845617.728767,
-  "217509ea0d187bfb": 1790845617.728767,
-  "2937f750fa1bfbf7": 1790845617.728767,
-  "7cf520caf03b3814": 1790845617.728767,
-  "2438a96b96a66564": 1790845617.728767,
-  "2fd4f84c2c6befe9": 1790845617.728767,
-  "79b5a08a58d8b000": 1790845617.728767,
   "c19f8e5f1d03f8db": 1790846874.806267,
   "ff13e4c8841cdf19": 1790846874.806267,
   "5d8cea4717f91217": 1790846874.806267,
@@ -600,7 +592,10 @@
   "137fe853105a2e43": 1791100853.9499936,
   "e129daf99c3dbe50": 1791100853.9499936,
   "a8c003835958343a": 1791100853.9499936,
-  "1aed31d236a72e56": 1791103531.4732316
+  "1aed31d236a72e56": 1791103531.4732316,
+  "6fd3ce2c95335aa6": 1791105330.192011,
+  "02d95fc574b4e045": 1791105330.192011,
+  "85ce6f4d801dce74": 1791105330.192011
  },
  "queue": [
   {
@@ -616,6 +611,12 @@
    "ts": 1791095007.547144
   },
   {
+   "id": "85ce6f4d801dce74",
+   "cfg": "vmess://eyJhZGQiOiAic3ItdmlwNy5hcndhbmRwaW5nLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOWIwODQyODctNjYxMi00ODdiLWFkZWQtZjFhNzI0ZDk2ZjNiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicGNzIjogIiIsICJwb3J0IjogIjIwMDUyIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "ping": 499,
+   "ts": 1791105330.192011
+  },
+  {
    "id": "d87f70dd8354f098",
    "cfg": "vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:8443?mode=gun&security=reality&encryption=none&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🔵@chillguy_vpn",
    "ping": 500,
@@ -626,6 +627,12 @@
    "cfg": "vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#🔵@chillguy_vpn",
    "ping": 643,
    "ts": 1791100853.9499936
+  },
+  {
+   "id": "02d95fc574b4e045",
+   "cfg": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?encryption=none&security=tls&sni=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=a.cwvps.eu.org&path=%2Fws#🔵@chillguy_vpn",
+   "ping": 734,
+   "ts": 1791105330.192011
   },
   {
    "id": "b022b890e17eeb5f",
@@ -1049,6 +1056,11 @@
    "cfg": "vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:8443?mode=gun&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=www.canon.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 761,
    "ts": 1791104451.6709573
+  },
+  "6fd3ce2c95335aa6": {
+   "cfg": "vless://1e645c10-a7d2-4eed-908a-3427bf167964@usa3.povrak.ir:28911?encryption=mlkem768x25519plus.native.0rtt.9MGtZUPtShSgVccsBGfQARMolxZo-RiDHVGinOTxiRA&security=none&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 762,
+   "ts": 1791105330.192011
   }
  },
  "geo": {
@@ -2416,13 +2428,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791103533.7215538
+  },
+  "usa3.povrak.ir": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791105331.877066
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 72,
-  "healthy": 57,
-  "posted": 15,
+  "fetched": 75,
+  "healthy": 60,
+  "posted": 16,
   "removed": 3
  }
 }
