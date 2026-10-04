@@ -1,6 +1,5 @@
 {
  "seen": {
-  "72193ace75f544a8": 1790850426.6530714,
   "2fbfe80165d25202": 1790851235.482479,
   "72b08536ee76870c": 1790851235.482479,
   "28c26ff37d083fae": 1790851235.482479,
@@ -609,15 +608,10 @@
   "188e3a16b7ceb041": 1791108936.266826,
   "16627176d01c300b": 1791108936.266826,
   "abcebc7e7b4fa030": 1791108936.266826,
-  "4d01abb83fa40f0c": 1791108936.266826
+  "4d01abb83fa40f0c": 1791108936.266826,
+  "0e8e25b01da7149b": 1791109841.065449
  },
  "queue": [
-  {
-   "id": "188e3a16b7ceb041",
-   "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?security=reality&encryption=none&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=1mcfn.67resserv67.info&sid=29455a3a790acbd0#🔵@chillguy_vpn",
-   "ping": 302,
-   "ts": 1791108936.266826
-  },
   {
    "id": "e0c9e275c39d5a5c",
    "cfg": "vless://f1ad9a8d-9931-4200-aa04-87f30f7ad2b3@186.246.12.40:443?security=reality&encryption=none&pbk=Wv7zl6se-Mk5d8VszMjsrx7Jw6x2HZaMFZI9Nln3mAo&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lk.resetnet.ru#🔵@chillguy_vpn",
@@ -641,12 +635,6 @@
    "cfg": "vmess://eyJhZGQiOiAic3ItdmlwNy5hcndhbmRwaW5nLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOWIwODQyODctNjYxMi00ODdiLWFkZWQtZjFhNzI0ZDk2ZjNiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicGNzIjogIiIsICJwb3J0IjogIjIwMDUyIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
    "ping": 499,
    "ts": 1791105330.192011
-  },
-  {
-   "id": "d87f70dd8354f098",
-   "cfg": "vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:8443?mode=gun&security=reality&encryption=none&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🔵@chillguy_vpn",
-   "ping": 500,
-   "ts": 1791087340.8925614
   },
   {
    "id": "f6361213473231d0",
@@ -731,6 +719,12 @@
    "cfg": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none&type=tcp&security=reality&headerType=none&sni=www.intel.com&fp=ios&insecure=1&allowInsecure=1&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&sid=7205d9079521832c&flow=xtls-rprx-vision#🔵@chillguy_vpn",
    "ping": 1493,
    "ts": 1791106242.4733968
+  },
+  {
+   "id": "0e8e25b01da7149b",
+   "cfg": "vmess://eyJhZGQiOiAiMjA2LjEuMTAzLjE3OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNWQ0NTZiNzAtMGM2My00ODhlLWIyNDUtMzJmNjk0ODU0MzkwIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTg0MTMiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "ping": 2000,
+   "ts": 1791109841.065449
   },
   {
    "id": "844dd945076c527d",
@@ -1190,6 +1184,11 @@
    "cfg": "vless://b812a4e0-c90a-4864-8ffb-2af71d69d4f4@172.93.122.4:8443?security=reality&encryption=none&pbk=VDZdbh_RzDDZsHpYF58yUuuvXh93XnmkvpSqb50qG2U&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nl2.reddotcorp.org&sid=1be482b8e08aa0ef#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 767,
    "ts": 1791108936.266826
+  },
+  "188e3a16b7ceb041": {
+   "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?security=reality&encryption=none&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=1mcfn.67resserv67.info&sid=29455a3a790acbd0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 768,
+   "ts": 1791109841.065449
   }
  },
  "geo": {
@@ -2582,13 +2581,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791108938.1422546
+  },
+  "131.123.13.93": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791109844.541926
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 99,
-  "healthy": 80,
-  "posted": 21,
+  "fetched": 100,
+  "healthy": 81,
+  "posted": 22,
   "removed": 3
  }
 }
