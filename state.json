@@ -607,7 +607,13 @@
   "40b171e8901be1ea": 1791135044.3488944,
   "04c4cf503cebf311": 1791135044.3488944,
   "880a05c77c7f475e": 1791135932.272661,
-  "2410071b7dd7bc4d": 1791135932.272661
+  "2410071b7dd7bc4d": 1791135932.272661,
+  "021a8af19356830f": 1791136849.3814747,
+  "5288a8538e36e423": 1791136849.3814747,
+  "f5127207e5b3f3c7": 1791136849.3814747,
+  "570e71cab99e0eeb": 1791136849.3814747,
+  "a472a30a281173f7": 1791136849.3814747,
+  "dc96762a98db69ac": 1791136849.3814747
  },
  "queue": [],
  "posted": {
@@ -1273,6 +1279,33 @@
    "ts": 1791135938.7372692,
    "ping": 835,
    "score": 89,
+   "stability": 100,
+   "country": "United States"
+  },
+  "021a8af19356830f": {
+   "cfg": "vless://b0185964-e2a2-4f0a-a33b-e775f7f46b52@199.232.78.159:80?path=%2F&security=none&encryption=none&host=FastSvn.global.ssl.fastly.net&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 817,
+   "ts": 1791136898.2763867,
+   "ping": 473,
+   "score": 94,
+   "stability": 100,
+   "country": "United States"
+  },
+  "f5127207e5b3f3c7": {
+   "cfg": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@89.125.13.202:443?security=reality&encryption=none&pbk=g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=d3-ee1.cloud-cdn.xyz&sid=ad6e08b22389abd2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 818,
+   "ts": 1791136898.9491699,
+   "ping": 496,
+   "score": 94,
+   "stability": 100,
+   "country": "Estonia"
+  },
+  "5288a8538e36e423": {
+   "cfg": "vless://b0185964-e2a2-4f0a-a33b-e775f7f46b52@199.232.78.159:80?path=%2F&security=none&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 819,
+   "ts": 1791136899.5384705,
+   "ping": 503,
+   "score": 93,
    "stability": 100,
    "country": "United States"
   }
@@ -2827,13 +2860,18 @@
    "cc": "SE",
    "name": "Sweden",
    "ts": 1791135056.1190684
+  },
+  "89.125.13.202": {
+   "cc": "EE",
+   "name": "Estonia",
+   "ts": 1791136898.276511
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 162,
-  "healthy": 126,
-  "posted": 68,
+  "fetched": 168,
+  "healthy": 129,
+  "posted": 71,
   "removed": 21,
   "published_scores": [
    89,
@@ -2859,7 +2897,10 @@
    94,
    93,
    93,
-   89
+   89,
+   94,
+   94,
+   93
   ],
   "top_today": [
    {
