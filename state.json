@@ -638,33 +638,6 @@
  },
  "queue": [
   {
-   "id": "064ddd20ead250c4",
-   "cfg": "vless://a45dbb94-2b77-4193-86d5-ddd173764c79@159.195.111.4:443?security=reality&encryption=none&pbk=Hi65KlEMOINShU8Mj32PcwE1SHDGps9ef_pAkNbFwGc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cabinet.appstop.link&sid=8515c24c400f8fb5#🔵@chillguy_vpn",
-   "ping": 472,
-   "best": 460,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791156641.579364
-  },
-  {
-   "id": "2ca14a3922c12f6c",
-   "cfg": "vless://a45dbb94-2b77-4193-86d5-ddd173764c79@159.195.111.4:443?security=reality&encryption=none&pbk=Hi65KlEMOINShU8Mj32PcwE1SHDGps9ef_pAkNbFwGc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cabinet.appstop.link&sid=8515c24c400f8fb5#🔵@chillguy_vpn",
-   "ping": 474,
-   "best": 469,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791156641.579364
-  },
-  {
-   "id": "8a78456915723a5a",
-   "cfg": "vless://790910c3-9a97-4375-998a-fcc36b0a2902@212.237.216.55:443?security=reality&encryption=none&pbk=QsXrvjhVX6Kwp5Gn9dMx8F9p3wUzXAp7ETkbPodmdC8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=af0c601348f39d8a#🔵@chillguy_vpn",
-   "ping": 483,
-   "best": 481,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791156641.579364
-  },
-  {
    "id": "8d4b0c0b22366b74",
    "cfg": "vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@138.124.104.2:443?mode=gun&security=reality&encryption=none&pbk=tKAYeVSM4yLXiOdKLMFP751fhII6YyqfbMXy_MSuejI&fp=firefox&type=grpc&serviceName=vless-grpc&sni=samsung.com#🔵@chillguy_vpn",
    "ping": 629,
@@ -1629,6 +1602,36 @@
    "score": 95,
    "stability": 100,
    "country": "United States",
+   "repost_count": 0
+  },
+  "064ddd20ead250c4": {
+   "cfg": "vless://a45dbb94-2b77-4193-86d5-ddd173764c79@159.195.111.4:443?security=reality&encryption=none&pbk=Hi65KlEMOINShU8Mj32PcwE1SHDGps9ef_pAkNbFwGc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cabinet.appstop.link&sid=8515c24c400f8fb5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 867,
+   "ts": 1791157009.0322506,
+   "ping": 521,
+   "score": 93,
+   "stability": 100,
+   "country": "Austria",
+   "repost_count": 0
+  },
+  "2ca14a3922c12f6c": {
+   "cfg": "vless://a45dbb94-2b77-4193-86d5-ddd173764c79@159.195.111.4:443?security=reality&encryption=none&pbk=Hi65KlEMOINShU8Mj32PcwE1SHDGps9ef_pAkNbFwGc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cabinet.appstop.link&sid=8515c24c400f8fb5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 868,
+   "ts": 1791157012.5588975,
+   "ping": 521,
+   "score": 93,
+   "stability": 100,
+   "country": "Austria",
+   "repost_count": 0
+  },
+  "8a78456915723a5a": {
+   "cfg": "vless://790910c3-9a97-4375-998a-fcc36b0a2902@212.237.216.55:443?security=reality&encryption=none&pbk=QsXrvjhVX6Kwp5Gn9dMx8F9p3wUzXAp7ETkbPodmdC8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=af0c601348f39d8a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 869,
+   "ts": 1791157016.1578572,
+   "ping": 525,
+   "score": 93,
+   "stability": 100,
+   "country": "Finland",
    "repost_count": 0
   }
  },
@@ -3358,7 +3361,7 @@
   "date": "2026-10-04",
   "fetched": 243,
   "healthy": 182,
-  "posted": 118,
+  "posted": 121,
   "removed": 49,
   "published_scores": [
    89,
@@ -3433,7 +3436,10 @@
    99,
    97,
    95,
-   95
+   95,
+   93,
+   93,
+   93
   ],
   "top_today": [
    {
