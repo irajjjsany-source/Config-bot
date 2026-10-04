@@ -608,7 +608,9 @@
   "0e8e25b01da7149b": 1791109841.065449,
   "35c46315ff256fd1": 1791110733.3718352,
   "0246853da738c1b7": 1791111656.9670312,
-  "c12821b2f5d03e59": 1791111656.9670312
+  "c12821b2f5d03e59": 1791111656.9670312,
+  "6248fdaec5e01df7": 1791112536.5474885,
+  "fc70b75317377118": 1791112536.5474885
  },
  "queue": [
   {
@@ -1174,6 +1176,11 @@
    "cfg": "vless://%58pnTeam-69@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 770,
    "ts": 1791111656.9670312
+  },
+  "6248fdaec5e01df7": {
+   "cfg": "vless://8ceac6dc-a369-4283-8b36-3bcd15615334@91.224.75.253:35737?path=%2F&security=&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 771,
+   "ts": 1791112536.5474885
   }
  },
  "geo": {
@@ -2580,9 +2587,9 @@
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 103,
-  "healthy": 83,
-  "posted": 24,
+  "fetched": 105,
+  "healthy": 84,
+  "posted": 25,
   "removed": 3
  }
 }
