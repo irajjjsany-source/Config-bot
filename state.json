@@ -1,8 +1,5 @@
 {
  "seen": {
-  "be71f7a6c4b51ffc": 1790861437.9695823,
-  "f414847243d67b40": 1790861437.9695823,
-  "f54ee3d1522fb9de": 1790861437.9695823,
   "ac2a84ec313d0449": 1790862835.3054125,
   "ac46958c92061881": 1790862835.3054125,
   "bd59affcc5025a0e": 1790862835.3054125,
@@ -614,18 +611,6 @@
  },
  "queue": [
   {
-   "id": "6e074938492f6de2",
-   "cfg": "vless://de50063f-23c3-4743-aa2e-b5402bd4316f@usf.tavrin-technology-services.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=aap.store.play.google.com&fp=chrome&pbk=I0R6Yxg1ld2F8kjztZ-7jl7aTm8KlmKSw0lB8CdZWlk&sid=6fad46c1b9d60600#🔵@chillguy_vpn",
-   "ping": 641,
-   "ts": 1791106242.4733968
-  },
-  {
-   "id": "e129daf99c3dbe50",
-   "cfg": "vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#🔵@chillguy_vpn",
-   "ping": 643,
-   "ts": 1791100853.9499936
-  },
-  {
    "id": "4d01abb83fa40f0c",
    "cfg": "vless://914a332b-8a4e-423f-bedd-e272ea033ecd@206.1.103.179:13054?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
    "ping": 644,
@@ -1125,6 +1110,11 @@
    "cfg": "vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?security=reality&encryption=none&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&host=%2F&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 780,
    "ts": 1791119735.9594524
+  },
+  "e129daf99c3dbe50": {
+   "cfg": "vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 781,
+   "ts": 1791120664.7130775
   }
  },
  "geo": {
@@ -2558,7 +2548,7 @@
   "date": "2026-10-04",
   "fetched": 119,
   "healthy": 95,
-  "posted": 33,
+  "posted": 34,
   "removed": 21
  }
 }
