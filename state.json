@@ -626,7 +626,8 @@
   "4c7d13d3338d91c5": 1791152131.7649927,
   "e364ad1d4f4b90e6": 1791154847.3503907,
   "074afa960d48f488": 1791154847.3503907,
-  "68c7adcf7fb77a9e": 1791154847.3503907
+  "68c7adcf7fb77a9e": 1791154847.3503907,
+  "9f4b15fd699c8c53": 1791155731.514027
  },
  "queue": [],
  "posted": {
@@ -1535,6 +1536,16 @@
    "score": 90,
    "stability": 100,
    "country": "Canada",
+   "repost_count": 0
+  },
+  "9f4b15fd699c8c53": {
+   "cfg": "vless://67a544a2-bfc6-11f1-9c3e-52540030ba36@172.86.105.222:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.nvidia.com&fp=safari&pbk=n25FmewpAEsvLl9Vr0bRFcz044f4IE7orWeWOzu8rwk&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 863,
+   "ts": 1791155734.5138202,
+   "ping": 67,
+   "score": 99,
+   "stability": 100,
+   "country": "United States",
    "repost_count": 0
   }
  },
@@ -3243,13 +3254,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791154858.6415021
+  },
+  "172.86.105.222": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791155734.015055
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 234,
-  "healthy": 173,
-  "posted": 114,
+  "fetched": 235,
+  "healthy": 174,
+  "posted": 115,
   "removed": 49,
   "published_scores": [
    89,
@@ -3320,7 +3336,8 @@
    94,
    97,
    95,
-   90
+   90,
+   99
   ],
   "top_today": [
    {
