@@ -1,7 +1,5 @@
 {
  "seen": {
-  "5538d29dcf2f444a": 1790875552.5298402,
-  "2d47bdb25c0d55dc": 1790875552.5298402,
   "11e7d9aa4ca45877": 1790876333.3503878,
   "f895852dcaf5f0cc": 1790876333.3503878,
   "17128d5168c0c401": 1790876333.3503878,
@@ -606,7 +604,11 @@
   "c6d7f4ae71c6eaec": 1791132368.9573224,
   "480ac32851a0b3e1": 1791132368.9573224,
   "e5a4ee9e02022b53": 1791132368.9573224,
-  "16f4eb0c76ab4620": 1791132368.9573224
+  "16f4eb0c76ab4620": 1791132368.9573224,
+  "b9933227d4ff8d40": 1791135044.3488944,
+  "7e0822885ae4dc6d": 1791135044.3488944,
+  "40b171e8901be1ea": 1791135044.3488944,
+  "04c4cf503cebf311": 1791135044.3488944
  },
  "queue": [],
  "posted": {
@@ -1238,6 +1240,33 @@
    "score": 92,
    "stability": 100,
    "country": "Finland"
+  },
+  "40b171e8901be1ea": {
+   "cfg": "vless://687dd754-3633-4d2b-8a50-b4fa58a09002@167.233.96.254:1280?encryption=none&security=none&type=ws&host=is1-ssl.mzstatic.com&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 813,
+   "ts": 1791135055.4439473,
+   "ping": 471,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany"
+  },
+  "7e0822885ae4dc6d": {
+   "cfg": "vless://4c03eb79-dc87-4bb6-942d-9cd238ad852e@46.8.69.45:8443?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 814,
+   "ts": 1791135056.118956,
+   "ping": 533,
+   "score": 93,
+   "stability": 100,
+   "country": "The Netherlands"
+  },
+  "04c4cf503cebf311": {
+   "cfg": "vless://e22df7bd-3282-4b37-8360-a1e423c38752@13.143.174.144:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swself2.yandex-api.com&fp=safari&pbk=HXFe_cPryw01zqXchAFjZciDAS4UJg1-xScx6vjgjjY&sid=7f2e9c4b1a8d6e25&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 815,
+   "ts": 1791135056.8275485,
+   "ping": 535,
+   "score": 93,
+   "stability": 100,
+   "country": "Sweden"
   }
  },
  "geo": {
@@ -2780,13 +2809,23 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791132417.736817
+  },
+  "46.8.69.45": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791135055.4440422
+  },
+  "13.143.174.144": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791135056.1190684
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 156,
-  "healthy": 122,
-  "posted": 64,
+  "fetched": 160,
+  "healthy": 125,
+  "posted": 67,
   "removed": 21,
   "published_scores": [
    89,
@@ -2808,7 +2847,10 @@
    94,
    93,
    93,
-   92
+   92,
+   94,
+   93,
+   93
   ],
   "top_today": [
    {
