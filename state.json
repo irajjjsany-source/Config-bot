@@ -621,12 +621,6 @@
  },
  "queue": [
   {
-   "id": "5497217f853d2aee",
-   "cfg": "vless://8546bcef-8456-41a2-82bc-d2231b42b769@104.21.88.129:8880?security=none&type=ws&path=/&host=small-tree-9ec0.84-971.workers.dev&packetEncoding=xudp&sni=small-tree-9ec0.84-971.workers.dev#🔵@chillguy_vpn",
-   "ping": 34,
-   "ts": 1791095007.547144
-  },
-  {
    "id": "a4baa5922b78ab88",
    "cfg": "vless://e081da45-9fae-4687-9376-f9a6a0dbbe83@104.20.28.233:80?type=ws&headerType=none&host=e33xr.qzz.io&path=%2Fid-amz#🔵@chillguy_vpn",
    "ping": 43,
@@ -1216,6 +1210,11 @@
    "cfg": "vless://723c410e-5789-4b21-abb9-d6ec05547ba9@104.26.13.40:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=blue-sky-e65b.221-553.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 749,
    "ts": 1791095007.547144
+  },
+  "5497217f853d2aee": {
+   "cfg": "vless://8546bcef-8456-41a2-82bc-d2231b42b769@104.21.88.129:8880?security=none&type=ws&path=/&host=small-tree-9ec0.84-971.workers.dev&packetEncoding=xudp&sni=small-tree-9ec0.84-971.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 750,
+   "ts": 1791095061.2798061
   }
  },
  "geo": {
@@ -2548,13 +2547,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791095013.6117017
+  },
+  "104.21.88.129": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791095062.3268623
   }
  },
  "stats": {
   "date": "2026-10-04",
   "fetched": 61,
   "healthy": 48,
-  "posted": 3,
+  "posted": 4,
   "removed": 3
  }
 }
