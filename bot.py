@@ -37,6 +37,11 @@ MIN_VIEWS = 100         # حداقل بازدید برای پست‌های کا�
 VIEW_GRACE = 6 * 3600   # پست کانفیگ تا ۶ ساعت فرصت جمع‌کردن بازدید دارد
 REPOST_MAX = 1          # هر کانفیگ کم‌بازدید حداکثر یک بار بازنشر می‌شود
 REPOST_MARK = "♻️"
+MAX_PING = 5000
+MAX_POSTS_PER_RUN = 3
+STABILITY_TESTS = 3
+STABILITY_GAP = 0.35
+MIN_STABILITY = 0.67
 GEO_TTL = 7 * 86400      # کشور هر سرور تا ۷ روز دوباره لوکیشن‌یابی نمی‌شه
 STATE_FILE = "state.json"
 # ========================================================
@@ -312,8 +317,36 @@ def test_config(cfg):
 
 
 def test_many(cfgs):
-    with ThreadPoolExecutor(WORKERS) as ex:
+    if not cfgs:
+        return []
+    workers = min(WORKERS, len(cfgs))
+    with ThreadPoolExecutor(workers) as ex:
         return list(ex.map(test_config, cfgs))
+
+
+def stability_test(cfg):
+    results = []
+    for n in range(STABILITY_TESTS):
+        p = test_config(cfg)
+        if p:
+            results.append(p)
+        if n + 1 < STABILITY_TESTS:
+            time.sleep(STABILITY_GAP)
+    if len(results) / float(STABILITY_TESTS) < MIN_STABILITY:
+        return None
+    return {
+        "avg": int(sum(results) / len(results)),
+        "best": min(results),
+        "success": len(results),
+        "tests": STABILITY_TESTS,
+    }
+
+
+def quality_score(avg, success, tests):
+    speed = max(0, min(100, 100 - (avg / float(MAX_PING)) * 100))
+    stability = (success / float(tests)) * 100
+    score = round(speed * 0.65 + stability * 0.35)
+    return max(1, min(100, score))
 
 
 # ---------------- تلگرام ----------------
@@ -333,21 +366,24 @@ def tg(method, **params):
         return {"ok": False, "description": type(e).__name__}
 
 
-def build_text(cfg, ping, flag, country, repost=False):
+def build_text(cfg, ping, flag, country, score=0, stability=0, repost=False):
     online_line = "🔵 Online   %s %s\n" % (flag, country) if flag else "🔵 Online\n"
+    score_line = "🏆 Quality: %d/100\n" % score if score else ""
+    stable_line = "🟢 Stability: %d%%\n" % stability if stability else ""
+    repost_line = (REPOST_MARK + "\n") if repost else ""
     return (
         "<blockquote expandable><code>%s</code></blockquote>\n"
-        "☝🏻ضربه بزن تا کپی بشه ☝🏻\n"
-        "🛜 کانفیگ ویتوری | V2Ray Configs \n"
-        "%s\n\n"
-        "🟢 تست شده، مناسب همه اپراتور‌ها \n"
-        "بهترین اپ مورد استفاده V2BOX \n\n"
+        "☝🏻 ضربه بزن تا کپی بشه ☝🏻\n"
+        "🛜 کانفیگ ویتوری | V2Ray Configs\n\n"
         "%s"
-        "🛜 Ping: %dms\n"
-        "#V2RAY\n"
-        "#رایگان\n\n"
-        "♒ تهیه اشتراک اختصاصی تک لوکیشن و مولتی لوکیشن با ضمانت تا آخرین مگابایت"
-    ) % (html.escape(cfg, quote=False), (REPOST_MARK if repost else ""), online_line, ping)
+        "%s"
+        "%s"
+        "%s"
+        "⚡ Response: %dms\n"
+        "📱 بهترین اپ: V2BOX\n\n"
+        "#V2RAY #رایگان\n\n"
+        "♒ تهیه اشتراک اختصاصی تک‌لوکیشن و مولتی‌لوکیشن با ضمانت تا آخرین مگابایت"
+    ) % (html.escape(cfg, quote=False), repost_line, online_line, score_line, stable_line, ping)
 
 
 BUTTON_TEXTS = [
@@ -434,20 +470,35 @@ def mode_post():
         items = list(new.items())
         for (i, c), ping in zip(items, test_many([c for _, c in items])):
             seen[i] = now
-            if ping:
-                queue.append({"id": i, "cfg": c, "ping": ping, "ts": now})
-                stats["healthy"] += 1
-        print("healthy in queue:", len(queue))
+            if ping and ping <= MAX_PING:
+                stest = stability_test(c)
+                if stest:
+                    score = quality_score(stest["avg"], stest["success"], stest["tests"])
+                    queue.append({"id": i, "cfg": c, "ping": stest["avg"],
+                                  "best": stest["best"], "score": score,
+                                  "stability": round(100 * stest["success"] / stest["tests"]),
+                                  "ts": now})
+                    stats["healthy"] += 1
+        print("stable configs in queue:", len(queue))
 
-    queue.sort(key=lambda x: x["ping"])
-    while queue:
+    queue.sort(key=lambda x: (-x.get("score", 0), x.get("ping", 999999), -x["ts"]))
+    posted_this_run = 0
+    while queue and posted_this_run < MAX_POSTS_PER_RUN:
         item = queue.pop(0)
         if time.time() - item["ts"] < 120:
             ping = item["ping"]
+            score = item.get("score", 0)
+            stability = item.get("stability", 0)
         else:
-            ping = test_config(item["cfg"])  # قبل از انتشار دوباره تست
-        if not ping:
-            print("queued config died, dropped")
+            stest = stability_test(item["cfg"])
+            if not stest:
+                print("queued config lost stability, dropped")
+                continue
+            ping = stest["avg"]
+            score = quality_score(ping, stest["success"], stest["tests"])
+            stability = round(100 * stest["success"] / stest["tests"])
+        if not ping or ping > MAX_PING:
+            print("queued config too slow, dropped")
             continue
         try:
             host = outbound_host(build_outbound(item["cfg"]))
@@ -459,23 +510,26 @@ def mode_post():
             cc, country = "", ""
         named = rename(item["cfg"], REMARK)
         r = tg("sendMessage", chat_id=TARGET_CHANNEL,
-               text=build_text(named, ping, country_flag(cc), country),
+               text=build_text(named, ping, country_flag(cc), country, score, stability),
                parse_mode="HTML", disable_web_page_preview="true",
                reply_markup=buy_button())
         if r.get("ok"):
-            posted[item["id"]] = {"cfg": named, "msg": r["result"]["message_id"], "ts": now}
+            posted[item["id"]] = {"cfg": named, "msg": r["result"]["message_id"],
+                                    "ts": time.time(), "ping": ping, "score": score,
+                                    "stability": stability, "country": country, "repost_count": 0}
             stats["posted"] += 1
-            print("posted, ping", ping)
+            posted_this_run += 1
+            stats.setdefault("published_scores", []).append(score)
+            print("posted, score", score, "response", ping)
         else:
             print("send failed:", r.get("description"))
             queue.insert(0, item)
-        break
-    else:
+            break
+    if posted_this_run == 0:
         print("no healthy config this round, nothing posted")
+    else:
+        print("posted this run:", posted_this_run)
 
-    if len(posted) > MAX_POSTED:
-        for k in sorted(posted, key=lambda k: posted[k]["ts"])[:len(posted) - MAX_POSTED]:
-            del posted[k]
     save_state(st)
 
 
@@ -635,7 +689,9 @@ def mode_clean():
 
             rpost = tg(
                 "sendMessage", chat_id=TARGET_CHANNEL,
-                text=build_text(v["cfg"], ping, country_flag(cc), country, repost=True),
+                text=build_text(v["cfg"], ping, country_flag(cc), country,
+                                 v.get("score") or quality_score(ping, 100, 100),
+                                 v.get("stability") or 100, repost=True),
                 parse_mode="HTML", disable_web_page_preview="true",
                 reply_markup=buy_button()
             )
