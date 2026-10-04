@@ -608,9 +608,18 @@
   "878355e357e2bb7f": 1791115316.1707685,
   "dcec7fdd1cdcb9a2": 1791115316.1707685,
   "fbd6b2bd358799df": 1791115316.1707685,
-  "83bbd09b13435afb": 1791115316.1707685
+  "83bbd09b13435afb": 1791115316.1707685,
+  "9823233e375a6d24": 1791116132.419685,
+  "16163d3f8a73a054": 1791116132.419685,
+  "a53948ccc6681b0e": 1791116132.419685
  },
  "queue": [
+  {
+   "id": "a53948ccc6681b0e",
+   "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=1mcfn.67resserv67.info&fp=safari&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&sid=29455a3a790acbd0&spx=%2F&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 318,
+   "ts": 1791116132.419685
+  },
   {
    "id": "fbd6b2bd358799df",
    "cfg": "vless://d084b76c-da6c-4cfb-a3fc-5a76bdd6c0a3@2.28.138.229:36161?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yt.be&fp=chrome&pbk=KXSpnwf7y_HDbtQgMo51t2hJDns73AuUlR6LEjK4Ah0&sid=73fea0f1b66b52&spx=%2Fc65ac6c31d4db4a&type=tcp&headerType=none#🔵@chillguy_vpn",
@@ -688,6 +697,12 @@
    "cfg": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none&type=tcp&security=reality&headerType=none&sni=www.intel.com&fp=ios&insecure=1&allowInsecure=1&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&sid=7205d9079521832c&flow=xtls-rprx-vision#🔵@chillguy_vpn",
    "ping": 1493,
    "ts": 1791106242.4733968
+  },
+  {
+   "id": "9823233e375a6d24",
+   "cfg": "vless://35a02274-97de-4799-9e25-fb1a287b959f@tun22.videobazi.com:8700?encryption=mlkem768x25519plus.native.0rtt.lf7RGaNMgbxzgCSNFaTbEjRGecpamczYdrjdUlQDq30&security=none&type=ws&headerType=none&path=%2F&host=arvancloud.ir#🔵@chillguy_vpn",
+   "ping": 1501,
+   "ts": 1791116132.419685
   },
   {
    "id": "0e8e25b01da7149b",
@@ -1110,6 +1125,11 @@
    "cfg": "vless://10a46e2e-c05e-46c8-c0a6-f55b716d1f1d@94.237.43.11:443?encryption=none&security=reality&sni=ajax.googleapis.com&fp=safari&pbk=y4EAK3C7BjrAhd2eneXeoBHxA2iATHQ7BmkwWFF6v0E&spx=%2F&type=tcp&headerType=http&host=ajax.googleapis.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 774,
    "ts": 1791115316.1707685
+  },
+  "16163d3f8a73a054": {
+   "cfg": "vless://b812a4e0-c90a-4864-8ffb-2af71d69d4f4@172.93.122.4:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl2.reddotcorp.org&fp=safari&pbk=VDZdbh_RzDDZsHpYF58yUuuvXh93XnmkvpSqb50qG2U&sid=1be482b8e08aa0ef&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 775,
+   "ts": 1791116132.419685
   }
  },
  "geo": {
@@ -2526,9 +2546,9 @@
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 112,
-  "healthy": 88,
-  "posted": 28,
+  "fetched": 115,
+  "healthy": 91,
+  "posted": 29,
   "removed": 21
  }
 }
