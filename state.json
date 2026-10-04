@@ -1,8 +1,5 @@
 {
  "seen": {
-  "a604f88e4e11be2f": 1790865840.0266702,
-  "f5dfdbacc281ec9f": 1790865840.0266702,
-  "d44d23c5ca7b5b19": 1790865840.0266702,
   "ed3e54c08cb08b71": 1790868434.3965638,
   "1568956580f38ec0": 1790868434.3965638,
   "434e5382287b6b54": 1790868434.3965638,
@@ -602,22 +599,12 @@
   "7dc69877dbaf6ff9": 1791124241.063553,
   "56845fd36d338c5e": 1791124241.063553,
   "66c490aa66d10d66": 1791124241.063553,
-  "56d1679498c9bc6f": 1791124241.063553
+  "56d1679498c9bc6f": 1791124241.063553,
+  "54b63ce48795ac22": 1791125130.4164317,
+  "fd2f84a7af958a74": 1791125130.4164317,
+  "88e55fc20efeec2f": 1791125130.4164317
  },
- "queue": [
-  {
-   "id": "dc1ed731e1dd5c7d",
-   "cfg": "vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.75:2053?encryption=none&type=ws&security=tls&path=%2Fvpn-wss%2Ffluxor%2F59011%2F%3Fed%3D2088&host=wss.zazazuza.ru.&sni=wss.zazazuza.ru.&fp=chrome&insecure=0&allowInsecure=0#🔵@chillguy_vpn",
-   "ping": 3815,
-   "ts": 1791106242.4733968
-  },
-  {
-   "id": "4eaec73de9ed568a",
-   "cfg": "vless://71e9e770-bfc6-11f1-8b5c-54db13ea7d40@172.86.105.224:443?security=reality&encryption=none&pbk=n25FmewpAEsvLl9Vr0bRFcz044f4IE7orWeWOzu8rwk&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com#🔵@chillguy_vpn",
-   "ping": 4961,
-   "ts": 1791121534.3707705
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -1121,6 +1108,24 @@
    "score": 88,
    "stability": 100,
    "country": "United States"
+  },
+  "88e55fc20efeec2f": {
+   "cfg": "vless://fdc1206a-9d2e-42b7-b615-9ccea8cf70ee@farad.color-shop.ir:443?security=reality&pqv=xRtS5QJuQKp4kDzWvHQ7ad-5qIT3t3xiEd-TMG0digbqQorpUscHOWqyIeAlUUBrDUpJ3_dKjnvSR-gS_SFRR2QAHnWNyUQm0GP-SgNIMWEK7cqS0z4nIcxOjoWYrZiszhOSF0xJvy3Y8BP6mpCtNgI6E8bo96dElad7SrD8jQ3hsf-YWh2agMwWLCa2uh4wot7v6Ohsxu60tqzoGxa02Y7JSfujVTJ59p-clWihUZhPthKcZr2h5G4ZEns0-nTpM3wukEc0FZIIP0x0hmLfxJEHm4l7HnO1D-vLXIlufeLMexs3xC5oC_AOsQ_DEUuEtJZ23TfVAv58XMVulLLtT8SNq3UFD_GqJwy5342nDYTaY8dRNF-QI1cYLPYhhntCxhpsTYtESDz0tJIyr4GrUDnfadbh4ThIi27AphW1Y5IixUyyfv1pkkBcp0bjEjEARUAmO8oYSEmUpXylOSDoxwdbGqKFLUr048nyVty8vdSNtSA1aB2sHZh3Yhh3YvDoSzpBk1iTAxd-DsNOMXoL2Axdh3FsU4PUUjIfwuvW-Wp-Qd3z6R_4ur3LrE0a76to53pU3BjKraaLrvlxXZlNpnPX3bgPOh8TBOO8MxLW69a92UUCPTlOz4LpDAOUlX0U7pcTPlMp-oFi_sYKL1y7cROb2JyQUbO_KwqoYRycPRrTNpVe6k6sP8CSR8ptRyTHATmyI2t2NFWxx8qr_WVYpOvzR3hVTWifkBtOwsM9SmFWmTCzIpThHTJ7UFRoDzh1yyt97QELySe1tdlHhjpH98Itl6p44JEjLryvgOIvXH5VOjS6_O3cV4nqNqSBiyTt_HMJnO2J2UwkS7Rven6NuungtzxkZ_b9qs_SvL5SaoZethKhvoHp91ad7MeuIlkKcz20DGtDQS6J5yzKKIn1ObHAnOLKWRXMEmuss8XGc3AhJ8vRq1iTJTG7EAUHOtye4VtPSBj9Fi_Y1Fgr0oz46SCQ3YCwKNiZUVLGcg50SpBfWv_sReOXXXkT3PFcIVnKq-yRAKGwX9U6VsfedC6QsOeduxVPIKbr7wCHiUOx8TBp688N0KU_6VTx7F5IvUveRr99IZ5sxYCwmn8dVeCpjLlzmZIT7fVXeyKEH-w--pMAxK57K54fImFtTX0FXRLsk7jbSoxVgh1LQgYjYN16jB045skIWSBnoaniwIhQqCMTe7zUEfJGHBm3dKwYflf5W7swEiCBGox4h-EGrgiHYL5LZiDAg6xqbTs8A2Tdsll7gzGt4ORnLxctCElfRG2toqzp8QtRrQvNx2CIQAhekzZeLxkhtiqqIy6E6a-u7u5owIlPuM9KND-0wdRe3fwuAmv8byWVIM7wgYLIX3r8zQnJNxOv61DXttcdNexkZy3kgp_lS5WeDO5iC8Cq5q8fosy6Kj7CpGTV-xjjpnkbrKVK_lnAzWuiDkQQ2yk8NjK-YMjCay-XWYYENJw0-a8Cv_U-mrvoeNnz5q8F5QktHtaVujQrc_UcQCKQs7pCJejSCukfrwUjmRrKBikl6kNVj8Zz9nqdQH3suLLgrEwzU9nnlVXi7_c1Sv7Qq-NXWB8bN93i9et0tX3JhQcuhoyCG0RWteMbfZ6BdaCEcFykVzWTyK-HY8g0qRe3s3-11S5o0s5Sx5PfR-NjXYgBheFo0TyojVLgpt3QnI7xDqD3kXlfJQHf7qIOBB5ClNhvC5hEuW_w4o3_J-PkwAtn141xtp2dSBHrCo6Y1BUGn-LZdBgILVV10toS36KFr1IdWCFVLSD1DF4vceDQ17-_BJk5dyo376iS4LcyaYAOCY9iSZLQdhJjakLMJhCCWHTWVsDDedsJTqCEJh97HITRZvtBH3zedIO-m9vy3e3WEphan7lckwH35FDCTeIwqBNogPN0gjZovL23pNTH47YYuXx-CEfrhSOO2-yIH10WyWC5aN3l3POxRtUDRrhov-g5E1qStZCHPHm_Qlfig7_KpPE8QyV5cGlOh_ipvdOfg29gENSH0CQOioahsBMuGtKZh10aL4chD09_wv5FYx6TLDb0_4JSUaWqXIypSbD66Z2zE4FIaFmuQjECifDw_kMSmLkPZ9MBf8BfzYYovqawlOVT1kN6ghIq_gpiVxWkRFjLskPNbic5IaDKVwMg0uFv0pr-dgmYfkvhWyDab0gQB-VAqTcJfl-5oVEADjsxtfwNqJcExeteNqKbsFDrTtgUZ-j5DLkub9wQETHt8Is4mYC_lE5w64y3ZpphRxVc3Ot0jaSauiMncb2eUVuKoCi5_G5REIlSotfCoW6UNwk0k8OvF4LILIW4j8nBdTkEuV80auFq_FXyQlUHTUXSeCm6La_PaPSKvYQKN3Yc5NMWhXDyRtC646ApGI5taON5MlMTcKvVrkpxfeDlThisHm2ceuZaShkElvHz_ENC3pFJ6OP9G4GbO6u84TaLPafvtwjQlCdcNlxLW6hQw0K2dZ3nCbh_HiRtEAXgfd4Vjs0skd2o6HuzBs96ni5mw2naGWA_tgF1470fEFS6Ep7bxos0zDwiJPMf-Ui7IUtRXxwvCcEVzQCpVaOLKavfiBXf2r3PXKG7_4WNkhGXZeuLfjHlf30&encryption=none&pbk=9Wh7M-tz9D_1WBaQhz2wIJian960Ffcx66NH8HAidDI&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=61a0eb582ed4f2b5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 799,
+   "ts": 1791125146.0780337,
+   "ping": 511,
+   "score": 93,
+   "stability": 100,
+   "country": "Finland"
+  },
+  "54b63ce48795ac22": {
+   "cfg": "vless://fdc1206a-9d2e-42b7-b615-9ccea8cf70ee@gozar.color-shop.ir:443?security=reality&pqv=xnwXSSakOsrmyewDBMv2AT_uIe1KOqWQf8e9xyuikoD_JsBs2y-vKEcIW-01O11QYmZeOwfx5g7xU3Z58aT1-JYpq_CZPv6BktqyvMssJo3DYGHuLVxGcAt99cJNNeuHOQctUf2RrdAjLmS8vSijKMcKpWwsxN1AnackqmKCyZ4g11GH73HZntf2TO-ERSTCBHlhNV-ee744wgXvTh6ZBFPeHXda7NAHohWEbcJYVD2M7PIWhdpgGrBEvL6MEWFPA8e_M7TxV06mZ_g2splcXlU8nweybts4IennSxv0ECOH4hFqdDhdbLw21sGxa8wQFQJzE0xyid_WA8bH0BAUR9gYxUuUXUIDj-Tfjg-jqay-atLHKWa_MpymvAcQQmHAg8ZIePWk0LkkHtr4KDH1_HAnlXQ6OtAKMg9XAVLF809P4lkhpHmPYsuuk2kJCpYEBWADlPX3j6v6C_ripcoYsJqjecfiEyXt9jfGh5Y78IZe4BETdocNbncCKWlPrK6FVJbt7qpBsuLLU_gGMMfQ-sz824j04veIHbrbhgq3e2-oouS-yu1dNueU2fG6mE3oXiiuvKNs_NapDeT9gMCHjqnCdcREOQ_CDObEdBlXnMiPpfv3hsB0u2lGVxmLYl44VBDCTV9O4zvmvImi0w7nlliFX0cAzr7PR0acNbdnL7Oo45dm2WAzIt9xpDhLnbPxBrzbzHwMiiwFn0uZOfGHrqm_kqSL7Ud1CmtKMvAZJ89vQ0nmNCN2DZI_GIn7qqDXxqAJ7qEOQQB-fYG07A5z1xMzwlyEmR12Q0wDvNpZSk72sGI5xT6yB0icyslpvlbOj-SplERRzntIZ8thwiyShAcmn9-l9ujELXOsgz5hKE6wM3T2eyc-0eFYmvAvkHFkUU0Vht3_i3LTl9ahxObpi4YeynZT5jJMdj2Glk3IIuOIiY58OdKQM7hg8sd9_Mh-Gn70mwKgOsRk369W4acgqyj7i9aQFMpbHF6zw8q83pxKNEMBKxo5gu-wIbTUNPYqVhufD6X9wx3qZJjj0HdGfU67PWt4euTpR35YaqNZaJl-3eK2O3f1DMVTnzczD8FafUmdt2CgL0Yj-auK97Y1W7EDP02UNP3iMoBsubBYfIpnoWBQKRbQnQ9f7YSfHPoHko3R9dYTaKzuD1bx-8k1mn3RN1PVQe-ikyg78Qe2J-Wua3yjtxa7i9o9ruhXARDgEaUfLnRESYxNj3VhZxzLTPFNRKkPFLTMO2pXHsbLh1Eh83U0RDuRH77r-3eJ3dVfLKI-IiIUXafYG0XwzW1x854dv_RUlhEzRJX9HCQ4NlTlfgikpqxBzCk08LCr2bfuhO0ZzqMhfKHyt3snAGVondL_dVUGrKZfyZb0CQXN8dX5kLYeo1Eccl5j9OcfVy3bcuUNRICMuMIXH14VfALpUWe8gnBx1lqEC02f2rfmswd92N5GFITHEhBcGBshb4CDr_guJ945bdOZpeo7NJV67JG4Qst_h5bb5XHBk8sSw4R1V0qhCiXeRkLQeoqcbRz2jsxu2_edyx79Nya4CaxhhjB6bseQaRc1tyn7Yl9GLqLHp1AIA1wU7SzmrZAhoncEQY_3NeG6zDn06rF5mP7mMovfBZDTHP6gT_ysA-tdW3Q91WnslVxsE8iQxbTnXfu65vsAnuBR1pcBRfEBM-nZeUvMKuZup_s0pbbWJvwPc4oa1OHgXyoeVMEmVFjI925BZZ5zoPrKljCvOkSpUQbVQqqvMsVUt59vR6HfHt24_e_e5wMSEYkckjD7BVtZiqdy75GdNvQm_GZn9VQYkvQZisNY89wTU0wcLBeMXpMm5pyPlAOLb4qPACQgUCdO9sRl9HM7x_9ipl3ifetJdlHiuVODQK5wzZe9haYQpTv59MeHw5RsI3axFAnvYCwKKb_kzoTZkMXp63XfhTfkq0LvN1NoOSiEwdWeJlGpEwtvUl_YEZvfITLtxq69wrncdYbI55lqSRPpidzBMnSV2uoSSq_AwWouSmnLzQHiGDGSgpsKrAGc_ar8YfNBupZGP1sHPBHz4UCkr4j-zp5TTkOhu8f6UT8PPMsxM2D44nRoQR6GWtkOLfPMSiRAm8CaFxWyVbzk-safbbi7ErFRFwXoXYfKEKXm8ERr70YRLoDJe_H7GtwDbrBH0oXWoFM6N-JaWDl_98dltnQ4Mi4Hmv0NifWmI4NJAAXMZB4ptttaPzVJa_BigD0v861AgCqMfkjNh5v1EjynwKfQqRUnI-AtWdrbjlmLQPfoyGiINTIQI9Pk-LfHqkM0_Cpn4JUl0MV8dPuqgfNBq2Ul50SqXfVr2uQ8dxbZ2c22ho-6ALPHElr8CE2xp_kWcXd72b1ualrSHbYujKthV536JkBfl8RaBLymtDjGTX74eiR0LVdsu4m755i-182C1ZKLm094Oh7vkCI0FLfjySJSdyl9jlxSplDdGsmTNHB1sC_i0APJunHhJTJq679sOVQNshdWlMnLLPlF5efD13pMbd2RzJJaQWLz6OoH70dlznYzsvkmDN44gdPuKIAGonW9Z0yUnvFrmoOtHYERWJzB4RA-FxmwLvelrA4r8_rCU4uAU3gEDQ0&encryption=none&pbk=PeS4xF85yQ_eE-gqFBQnq2ylysTtQIx5D6HZNyQJS1w&headerType=none&fp=chrome&type=tcp&sni=vox-cdn.com&sid=9f5a01a37505cf29#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 800,
+   "ts": 1791125147.078714,
+   "ping": 531,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany"
   }
  },
  "geo": {
@@ -2603,13 +2608,23 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791124263.9435544
+  },
+  "farad.color-shop.ir": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791125145.2496395
+  },
+  "gozar.color-shop.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791125146.0781488
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 131,
-  "healthy": 105,
-  "posted": 50,
+  "fetched": 134,
+  "healthy": 107,
+  "posted": 52,
   "removed": 21,
   "published_scores": [
    89,
@@ -2617,7 +2632,9 @@
    84,
    96,
    92,
-   88
+   88,
+   93,
+   93
   ],
   "top_today": [
    {
@@ -2626,14 +2643,14 @@
     "country": "United States"
    },
    {
-    "score": 92,
-    "ping": 577,
-    "country": "Germany"
+    "score": 93,
+    "ping": 511,
+    "country": "Finland"
    },
    {
-    "score": 89,
-    "ping": 816,
-    "country": "Singapore"
+    "score": 93,
+    "ping": 531,
+    "country": "Germany"
    }
   ],
   "report_sent_date": "2026-10-04"
