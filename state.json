@@ -1,7 +1,5 @@
 {
  "seen": {
-  "00d598ad00a48fc9": 1790869280.3516536,
-  "3f73f938582091ba": 1790869280.3516536,
   "01d3b5ee083ae192": 1790870627.9153278,
   "049992e4977816fe": 1790870627.9153278,
   "f9db734bd06c45a1": 1790870627.9153278,
@@ -596,7 +594,8 @@
   "54b63ce48795ac22": 1791125130.4164317,
   "fd2f84a7af958a74": 1791125130.4164317,
   "88e55fc20efeec2f": 1791125130.4164317,
-  "6874c2551380e1a5": 1791126931.0902705
+  "6874c2551380e1a5": 1791126931.0902705,
+  "daf839286eeba1ab": 1791128732.6299033
  },
  "queue": [],
  "posted": {
@@ -1129,6 +1128,15 @@
    "score": 91,
    "stability": 100,
    "country": "Türkiye"
+  },
+  "daf839286eeba1ab": {
+   "cfg": "vless://b812a4e0-c90a-4864-8ffb-2af71d69d4f4@172.93.122.4:8443?security=reality&encryption=none&pbk=VDZdbh_RzDDZsHpYF58yUuuvXh93XnmkvpSqb50qG2U&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nl2.reddotcorp.org&sid=1be482b8e08aa0ef#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 802,
+   "ts": 1791128737.8075616,
+   "ping": 451,
+   "score": 94,
+   "stability": 100,
+   "country": "United States"
   }
  },
  "geo": {
@@ -2630,9 +2638,9 @@
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 135,
-  "healthy": 108,
-  "posted": 53,
+  "fetched": 136,
+  "healthy": 109,
+  "posted": 54,
   "removed": 21,
   "published_scores": [
    89,
@@ -2643,7 +2651,8 @@
    88,
    93,
    93,
-   91
+   91,
+   94
   ],
   "top_today": [
    {
@@ -2652,14 +2661,14 @@
     "country": "United States"
    },
    {
-    "score": 93,
-    "ping": 511,
-    "country": "Finland"
+    "score": 94,
+    "ping": 451,
+    "country": "United States"
    },
    {
     "score": 93,
-    "ping": 531,
-    "country": "Germany"
+    "ping": 511,
+    "country": "Finland"
    }
   ],
   "report_sent_date": "2026-10-04"
