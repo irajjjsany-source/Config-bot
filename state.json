@@ -606,35 +606,30 @@
   "0803190052d44293": 1791131443.879268,
   "0311d3e03a969e51": 1791131443.879268,
   "90c781dee4c79dbe": 1791131443.879268,
-  "858f6b3ca1452f95": 1791131443.879268
+  "858f6b3ca1452f95": 1791131443.879268,
+  "c6d7f4ae71c6eaec": 1791132368.9573224,
+  "480ac32851a0b3e1": 1791132368.9573224,
+  "e5a4ee9e02022b53": 1791132368.9573224,
+  "16f4eb0c76ab4620": 1791132368.9573224
  },
  "queue": [
   {
-   "id": "bc55c2b32954b919",
-   "cfg": "vless://790910c3-9a97-4375-998a-fcc36b0a2902@212.237.216.55:443?security=reality&encryption=none&pbk=QsXrvjhVX6Kwp5Gn9dMx8F9p3wUzXAp7ETkbPodmdC8&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=af0c601348f39d8a#🔵@chillguy_vpn",
-   "ping": 490,
-   "best": 483,
-   "score": 94,
+   "id": "e5a4ee9e02022b53",
+   "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=1mcfn.67resserv67.info&fp=safari&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&sid=29455a3a790acbd0&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 1256,
+   "best": 532,
+   "score": 84,
    "stability": 100,
-   "ts": 1791131443.879268
+   "ts": 1791132368.9573224
   },
   {
-   "id": "90c781dee4c79dbe",
-   "cfg": "vless://d03fb9ca-f440-4438-a260-4009f68373ec@62.133.63.30:443?security=reality&encryption=none&pbk=xqt0b1_ba443CO1qaud_IMUpomN7APsjPxp9_wh7Iz4&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=tr-03.shadowfiend.org&sid=1f0f5578969d2da7#🔵@chillguy_vpn",
-   "ping": 537,
-   "best": 523,
-   "score": 93,
+   "id": "c6d7f4ae71c6eaec",
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.43:21263?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us1p1.xn--ghq880n3na965a.com&fp=firefox&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&sid=3d31326f95&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 2550,
+   "best": 1630,
+   "score": 67,
    "stability": 100,
-   "ts": 1791131443.879268
-  },
-  {
-   "id": "ce53d718498eabe4",
-   "cfg": "vless://c5626335-54fd-4567-8841-0fc9d3bb7a4d@144.31.182.244:443?security=reality&encryption=none&pbk=CDeCxSoBLrRTkNtmtaUTJv9J1ym6WxU08xOro-qmJjE&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.swift.com&sid=19630e492b86c420#🔵@chillguy_vpn",
-   "ping": 595,
-   "best": 562,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791131443.879268
+   "ts": 1791132368.9573224
   }
  ],
  "posted": {
@@ -1239,6 +1234,33 @@
    "score": 94,
    "stability": 100,
    "country": "Germany"
+  },
+  "bc55c2b32954b919": {
+   "cfg": "vless://790910c3-9a97-4375-998a-fcc36b0a2902@212.237.216.55:443?security=reality&encryption=none&pbk=QsXrvjhVX6Kwp5Gn9dMx8F9p3wUzXAp7ETkbPodmdC8&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=af0c601348f39d8a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 810,
+   "ts": 1791132395.9623063,
+   "ping": 527,
+   "score": 93,
+   "stability": 100,
+   "country": "Finland"
+  },
+  "480ac32851a0b3e1": {
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@de2.srv.vbuste.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de2.srv.vbuste.ru&fp=randomized&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 811,
+   "ts": 1791132396.6861274,
+   "ping": 529,
+   "score": 93,
+   "stability": 100,
+   "country": "Sweden"
+  },
+  "ce53d718498eabe4": {
+   "cfg": "vless://c5626335-54fd-4567-8841-0fc9d3bb7a4d@144.31.182.244:443?security=reality&encryption=none&pbk=CDeCxSoBLrRTkNtmtaUTJv9J1ym6WxU08xOro-qmJjE&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.swift.com&sid=19630e492b86c420#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 812,
+   "ts": 1791132418.4516044,
+   "ping": 600,
+   "score": 92,
+   "stability": 100,
+   "country": "Finland"
   }
  },
  "geo": {
@@ -2766,13 +2788,28 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791131480.3180244
+  },
+  "212.237.216.55": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791132395.1742277
+  },
+  "de2.srv.vbuste.ru": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791132395.962438
+  },
+  "144.31.182.244": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791132417.736817
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 152,
-  "healthy": 119,
-  "posted": 61,
+  "fetched": 156,
+  "healthy": 122,
+  "posted": 64,
   "removed": 21,
   "published_scores": [
    89,
@@ -2791,7 +2828,10 @@
    96,
    95,
    95,
-   94
+   94,
+   93,
+   93,
+   92
   ],
   "top_today": [
    {
