@@ -637,20 +637,7 @@
   "d43dc0ff07890c04": 1791149442.534208,
   "b591ca54625e1a7a": 1791149442.534208
  },
- "queue": [
-  {
-   "id": "02d1430a7f65d4bd",
-   "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.157:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=zAmNLsLPizp96b55zNe2kJ3zXBdpuNY0olnRaOpluks&sid=34e797af&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 673,
-   "ts": 1791144052.5154784
-  },
-  {
-   "id": "a9f2c87c4a832630",
-   "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.128.59:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws&sid=06e00e7c&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🔵@chillguy_vpn",
-   "ping": 5050,
-   "ts": 1791144052.5154784
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -1497,6 +1484,26 @@
    "score": 93,
    "stability": 100,
    "country": "Germany",
+   "repost_count": 0
+  },
+  "02d1430a7f65d4bd": {
+   "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.157:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=zAmNLsLPizp96b55zNe2kJ3zXBdpuNY0olnRaOpluks&sid=34e797af&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 857,
+   "ts": 1791149563.648914,
+   "ping": 334,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "a9f2c87c4a832630": {
+   "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.128.59:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws&sid=06e00e7c&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 858,
+   "ts": 1791149574.062377,
+   "ping": 2874,
+   "score": 63,
+   "stability": 100,
+   "country": "Finland",
    "repost_count": 0
   }
  },
@@ -3196,7 +3203,7 @@
   "date": "2026-10-04",
   "fetched": 228,
   "healthy": 169,
-  "posted": 108,
+  "posted": 110,
   "removed": 49,
   "published_scores": [
    89,
@@ -3261,7 +3268,9 @@
    60,
    65,
    74,
-   93
+   93,
+   96,
+   63
   ],
   "top_today": [
    {
