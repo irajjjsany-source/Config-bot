@@ -602,7 +602,8 @@
   "56d1679498c9bc6f": 1791124241.063553,
   "54b63ce48795ac22": 1791125130.4164317,
   "fd2f84a7af958a74": 1791125130.4164317,
-  "88e55fc20efeec2f": 1791125130.4164317
+  "88e55fc20efeec2f": 1791125130.4164317,
+  "6874c2551380e1a5": 1791126931.0902705
  },
  "queue": [],
  "posted": {
@@ -1126,6 +1127,15 @@
    "score": 93,
    "stability": 100,
    "country": "Germany"
+  },
+  "6874c2551380e1a5": {
+   "cfg": "vless://6c4f02f4-7d67-4eb3-8ee0-5bb8a998d5d2@skyup.vexsilve.ir:8080?encryption=none&fp=chrome&pbk=QjY0crvGJwivMECnIuJL1S0u1NPvNsSiJvu-myFMUEI&security=reality&sid=e0&sni=www.speedtest.net&spx=%2Ff42f7cf57789943&support-x25519mlkem768=true&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 801,
+   "ts": 1791126937.3253334,
+   "ping": 727,
+   "score": 91,
+   "stability": 100,
+   "country": "Türkiye"
   }
  },
  "geo": {
@@ -2618,13 +2628,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791125146.0781488
+  },
+  "skyup.vexsilve.ir": {
+   "cc": "TR",
+   "name": "Türkiye",
+   "ts": 1791126936.5154543
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 134,
-  "healthy": 107,
-  "posted": 52,
+  "fetched": 135,
+  "healthy": 108,
+  "posted": 53,
   "removed": 21,
   "published_scores": [
    89,
@@ -2634,7 +2649,8 @@
    92,
    88,
    93,
-   93
+   93,
+   91
   ],
   "top_today": [
    {
