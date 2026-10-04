@@ -609,12 +609,6 @@
  },
  "queue": [
   {
-   "id": "96bd26cdb1a2b992",
-   "cfg": "vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:8443?mode=gun&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#🔵@chillguy_vpn",
-   "ping": 483,
-   "ts": 1791087340.8925614
-  },
-  {
    "id": "9a3307a3a88550de",
    "cfg": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@132.243.231.12:443?security=reality&encryption=none&pbk=zWDvtTWK-cWWwHDMHMXcOpQy4k3EKp7yw-5e0wTZAUM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=d3-se1.cloud-cdn.xyz&sid=5efa80b939612291#🔵@chillguy_vpn",
    "ping": 493,
@@ -1158,6 +1152,11 @@
    "cfg": "vless://8ceac6dc-a369-4283-8b36-3bcd15615334@91.224.75.253:35737?path=%2F&security=none&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 765,
    "ts": 1791107742.5146775
+  },
+  "96bd26cdb1a2b992": {
+   "cfg": "vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:8443?mode=gun&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 766,
+   "ts": 1791108051.0331402
   }
  },
  "geo": {
@@ -2551,7 +2550,7 @@
   "date": "2026-10-04",
   "fetched": 92,
   "healthy": 75,
-  "posted": 19,
+  "posted": 20,
   "removed": 3
  }
 }
