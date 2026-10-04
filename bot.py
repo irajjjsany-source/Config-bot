@@ -31,8 +31,12 @@ TEST_URL = "http://www.gstatic.com/generate_204"
 TEST_TIMEOUT = 8         # ثانیه
 WORKERS = 8              # تست‌های همزمان
 MAX_POSTED = 400         # تعداد پست‌هایی که برای حذف پیگیری می‌شن
-MAX_POSTS_PER_RUN = 3    # حداکثر تعداد کانفیگ سالم برای انتشار در هر اجرای post
 MAX_PING = 5000           # کانفیگ کندتر از این منتشر نمی‌شود
+MAX_POSTS_PER_RUN = 3     # حداکثر انتشار در هر اجرای post
+STABILITY_TESTS = 3        # تعداد تست برای سنجش پایداری
+STABILITY_GAP = 0.35       # فاصله تست‌های پایداری (ثانیه)
+MIN_STABILITY = 0.67        # حداقل نسبت تست موفق
+TOP_LIMIT = 3               # تعداد کانفیگ‌های برتر روز
 SEEN_TTL = 3 * 86400     # کانفیگ دیده‌شده تا ۳ روز دوباره تست نمی‌شه
 QUEUE_TTL = 6 * 3600     # کانفیگ سالمِ منتشرنشده تا ۶ ساعت تو صف می‌مونه
 GEO_TTL = 7 * 86400      # کشور هر سرور تا ۷ روز دوباره لوکیشن‌یابی نمی‌شه
@@ -319,6 +323,33 @@ def test_many(cfgs):
         return list(ex.map(test_config, cfgs))
 
 
+def stability_test(cfg):
+    """چند بار تست می‌کند تا کانفیگ صرفاً به‌خاطر یک پاسخ لحظه‌ای وارد کانال نشود."""
+    results = []
+    for n in range(STABILITY_TESTS):
+        p = test_config(cfg)
+        if p:
+            results.append(p)
+        if n + 1 < STABILITY_TESTS:
+            time.sleep(STABILITY_GAP)
+    if len(results) / float(STABILITY_TESTS) < MIN_STABILITY:
+        return None
+    return {
+        "avg": int(sum(results) / len(results)),
+        "best": min(results),
+        "success": len(results),
+        "tests": STABILITY_TESTS,
+    }
+
+
+def quality_score(avg, success, tests):
+    """امتیاز 0 تا 100؛ سرعت و پایداری هر دو اثر دارند."""
+    speed = max(0, min(100, 100 - (avg / float(MAX_PING)) * 100))
+    stability = (success / float(tests)) * 100
+    score = round(speed * 0.65 + stability * 0.35)
+    return max(1, min(100, score))
+
+
 # ---------------- تلگرام ----------------
 def tg(method, **params):
     data = urllib.parse.urlencode(params).encode()
@@ -336,20 +367,22 @@ def tg(method, **params):
         return {"ok": False, "description": type(e).__name__}
 
 
-def build_text(cfg, ping, flag, country):
+def build_text(cfg, ping, flag, country, score=0, stability=0):
     online_line = "🔵 Online   %s %s\n" % (flag, country) if flag else "🔵 Online\n"
+    score_line = "🏆 Quality: %d/100\n" % score if score else ""
+    stable_line = "🟢 Stability: %d%%\n" % stability if stability else ""
     return (
         "<blockquote expandable><code>%s</code></blockquote>\n"
-        "☝🏻ضربه بزن تا کپی بشه ☝🏻\n"
-        "🛜 کانفیگ ویتوری | V2Ray Configs \n\n"
-        "🟢 تست شده، مناسب همه اپراتور‌ها \n"
-        "بهترین اپ مورد استفاده V2BOX \n\n"
+        "☝🏻 ضربه بزن تا کپی بشه ☝🏻\n"
+        "🛜 کانفیگ ویتوری | V2Ray Configs\n\n"
         "%s"
-        "🛜 Ping: %dms\n"
-        "#V2RAY\n"
-        "#رایگان\n\n"
-        "♒ تهیه اشتراک اختصاصی تک لوکیشن و مولتی لوکیشن با ضمانت تا آخرین مگابایت"
-    ) % (html.escape(cfg, quote=False), online_line, ping)
+        "%s"
+        "%s"
+        "⚡ Response: %dms\n"
+        "📱 بهترین اپ: V2BOX\n\n"
+        "#V2RAY #رایگان\n\n"
+        "♒ تهیه اشتراک اختصاصی تک‌لوکیشن و مولتی‌لوکیشن با ضمانت تا آخرین مگابایت"
+    ) % (html.escape(cfg, quote=False), online_line, score_line, stable_line, ping)
 
 
 BUTTON_TEXTS = [
@@ -398,7 +431,7 @@ def today_str():
 def roll_stats(st):
     """اگه روز عوض شده باشه، آمار دیروز رو پست می‌کنه و شمارنده‌ها رو صفر می‌کنه"""
     stats = st.setdefault(
-        "stats", {"date": today_str(), "fetched": 0, "healthy": 0, "posted": 0, "removed": 0})
+        "stats", {"date": today_str(), "fetched": 0, "healthy": 0, "posted": 0, "removed": 0, "published_scores": [], "top_today": []})
     today = today_str()
     if stats["date"] != today:
         if stats["fetched"] or stats["posted"] or stats["removed"]:
@@ -407,16 +440,45 @@ def roll_stats(st):
                 "🔎 کانفیگ بررسی‌شده: %d\n"
                 "🟢 سالم شناسایی‌شده: %d\n"
                 "📮 پست‌شده: %d\n"
-                "🗑 حذف‌شده (خراب شده بودن): %d"
+                "🗑 حذف‌شده (خراب شده بودن): %d\n"
+                "🏆 میانگین امتیاز انتشار: %d/100"
             ) % (stats["date"], stats["fetched"], stats["healthy"],
-                 stats["posted"], stats["removed"])
+                 stats["posted"], stats["removed"],
+                 round(sum(stats.get("published_scores", [])) / max(1, len(stats.get("published_scores", [])))))
             tg("sendMessage", chat_id=TARGET_CHANNEL, text=text)
-        stats = {"date": today, "fetched": 0, "healthy": 0, "posted": 0, "removed": 0}
+        stats = {"date": today, "fetched": 0, "healthy": 0, "posted": 0, "removed": 0, "published_scores": [], "top_today": [], "report_sent_date": ""}
         st["stats"] = stats
     return stats
 
 
 # ---------------- حالت‌ها ----------------
+def publish_daily_report(st):
+    stats = st.get("stats", {})
+    if stats.get("report_sent_date") == stats.get("date"):
+        return
+    scores = stats.get("published_scores", [])
+    avg_score = round(sum(scores) / max(1, len(scores)))
+    top = stats.get("top_today", [])[:TOP_LIMIT]
+    lines = [
+        "📊 <b>K2GUARD DAILY REPORT</b>",
+        "",
+        "🔎 بررسی‌شده: %d" % stats.get("fetched", 0),
+        "🟢 سالم و پایدار: %d" % stats.get("healthy", 0),
+        "📮 منتشرشده: %d" % stats.get("posted", 0),
+        "🗑 حذف‌شده: %d" % stats.get("removed", 0),
+        "🏆 میانگین کیفیت: %d/100" % avg_score,
+    ]
+    if top:
+        lines += ["", "🏆 <b>TOP CONFIGS</b>"]
+        for n, x in enumerate(top, 1):
+            country = x.get("country") or "Unknown"
+            lines.append("%d) %s — %d/100 — %dms" % (n, country, x.get("score", 0), x.get("ping", 0)))
+    r = tg("sendMessage", chat_id=TARGET_CHANNEL, text="\n".join(lines),
+             parse_mode="HTML", disable_web_page_preview="true")
+    if r.get("ok"):
+        stats["report_sent_date"] = stats.get("date")
+
+
 def mode_post():
     st = load_state()
     now = time.time()
@@ -442,20 +504,36 @@ def mode_post():
         for (i, c), ping in zip(items, test_many([c for _, c in items])):
             seen[i] = now
             if ping:
-                queue.append({"id": i, "cfg": c, "ping": ping, "ts": now})
-                stats["healthy"] += 1
-        print("healthy in queue:", len(queue))
+                # پایداری فقط برای کاندیداهای سریع بررسی می‌شود تا مصرف منابع کنترل شود.
+                stest = stability_test(c) if ping <= MAX_PING else None
+                if stest:
+                    score = quality_score(stest["avg"], stest["success"], stest["tests"])
+                    queue.append({"id": i, "cfg": c, "ping": stest["avg"],
+                                  "best": stest["best"], "score": score,
+                                  "stability": round(100 * stest["success"] / stest["tests"]),
+                                  "ts": now})
+                    stats["healthy"] += 1
+        print("stable configs in queue:", len(queue))
 
-    queue.sort(key=lambda x: (x["ping"], -x["ts"]))
+    queue.sort(key=lambda x: (-x.get("score", 0), x.get("ping", 999999), -x["ts"]))
     posted_this_run = 0
     while queue and posted_this_run < MAX_POSTS_PER_RUN:
         item = queue.pop(0)
+        # پیش از انتشار یک تست نهایی؛ کانفیگ‌های قدیمی دوباره تست پایداری می‌شوند.
         if time.time() - item["ts"] < 120:
             ping = item["ping"]
+            score = item.get("score", 0)
+            stability = item.get("stability", 0)
         else:
-            ping = test_config(item["cfg"])
-        if not ping:
-            print("queued config died, dropped")
+            stest = stability_test(item["cfg"])
+            if not stest:
+                print("queued config lost stability, dropped")
+                continue
+            ping = stest["avg"]
+            score = quality_score(ping, stest["success"], stest["tests"])
+            stability = round(100 * stest["success"] / stest["tests"])
+        if not ping or ping > MAX_PING:
+            print("queued config too slow, dropped")
             continue
         try:
             host = outbound_host(build_outbound(item["cfg"]))
@@ -467,14 +545,17 @@ def mode_post():
             cc, country = "", ""
         named = rename(item["cfg"], REMARK)
         r = tg("sendMessage", chat_id=TARGET_CHANNEL,
-               text=build_text(named, ping, country_flag(cc), country),
+               text=build_text(named, ping, country_flag(cc), country, score, stability),
                parse_mode="HTML", disable_web_page_preview="true",
                reply_markup=buy_button())
         if r.get("ok"):
-            posted[item["id"]] = {"cfg": named, "msg": r["result"]["message_id"], "ts": time.time(), "ping": ping}
+            posted[item["id"]] = {"cfg": named, "msg": r["result"]["message_id"],
+                                    "ts": time.time(), "ping": ping, "score": score,
+                                    "stability": stability, "country": country}
             stats["posted"] += 1
             posted_this_run += 1
-            print("posted, ping", ping)
+            stats.setdefault("published_scores", []).append(score)
+            print("posted, score", score, "response", ping)
         else:
             print("send failed:", r.get("description"))
             queue.insert(0, item)
@@ -483,6 +564,12 @@ def mode_post():
         print("no healthy config this round, nothing posted")
     else:
         print("posted this run:", posted_this_run)
+
+    # گزارش TOP روز: فقط بهترین‌ها، بدون ارسال مکرر در هر اجرا.
+    top = sorted(posted.values(), key=lambda x: (-x.get("score", 0), x.get("ping", 999999)))[:TOP_LIMIT]
+    stats["top_today"] = [{"score": x.get("score", 0), "ping": x.get("ping", 0),
+                            "country": x.get("country", "")} for x in top]
+    publish_daily_report(st)
 
     if len(posted) > MAX_POSTED:
         for k in sorted(posted, key=lambda k: posted[k]["ts"])[:len(posted) - MAX_POSTED]:
