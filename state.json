@@ -1,8 +1,5 @@
 {
  "seen": {
-  "a115e4829517f72e": 1790857930.7021594,
-  "0bcd2045f6c7fd6f": 1790857930.7021594,
-  "cef5f97bbfbd13fe": 1790857930.7021594,
   "91c5424daffdc4eb": 1790859449.338861,
   "e4ea238c983ddeb7": 1790859449.338861,
   "be71f7a6c4b51ffc": 1790861437.9695823,
@@ -615,12 +612,6 @@
  },
  "queue": [
   {
-   "id": "fbd6b2bd358799df",
-   "cfg": "vless://d084b76c-da6c-4cfb-a3fc-5a76bdd6c0a3@2.28.138.229:36161?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yt.be&fp=chrome&pbk=KXSpnwf7y_HDbtQgMo51t2hJDns73AuUlR6LEjK4Ah0&sid=73fea0f1b66b52&spx=%2Fc65ac6c31d4db4a&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 348,
-   "ts": 1791115316.1707685
-  },
-  {
    "id": "6e074938492f6de2",
    "cfg": "vless://de50063f-23c3-4743-aa2e-b5402bd4316f@usf.tavrin-technology-services.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=aap.store.play.google.com&fp=chrome&pbk=I0R6Yxg1ld2F8kjztZ-7jl7aTm8KlmKSw0lB8CdZWlk&sid=6fad46c1b9d60600#🔵@chillguy_vpn",
    "ping": 641,
@@ -1105,6 +1096,11 @@
    "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=1mcfn.67resserv67.info&fp=safari&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&sid=29455a3a790acbd0&spx=%2F&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 777,
    "ts": 1791117079.442764
+  },
+  "fbd6b2bd358799df": {
+   "cfg": "vless://d084b76c-da6c-4cfb-a3fc-5a76bdd6c0a3@2.28.138.229:36161?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yt.be&fp=chrome&pbk=KXSpnwf7y_HDbtQgMo51t2hJDns73AuUlR6LEjK4Ah0&sid=73fea0f1b66b52&spx=%2Fc65ac6c31d4db4a&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 778,
+   "ts": 1791117930.8205302
   }
  },
  "geo": {
@@ -2517,13 +2513,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791114333.5856185
+  },
+  "2.28.138.229": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791117932.0788155
   }
  },
  "stats": {
   "date": "2026-10-04",
   "fetched": 115,
   "healthy": 91,
-  "posted": 30,
+  "posted": 31,
   "removed": 21
  }
 }
