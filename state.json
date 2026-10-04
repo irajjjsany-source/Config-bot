@@ -1,8 +1,5 @@
 {
  "seen": {
-  "e3e96b126de462de": 1790838572.02622,
-  "63b27a13258ba24a": 1790838572.02622,
-  "6da7ff18ed300722": 1790838572.02622,
   "ce20a0b4f94b7f1e": 1790839700.5494568,
   "8d1231528a4d15fa": 1790841258.033011,
   "d9c8fdbb86f8c62d": 1790841882.5381656,
@@ -609,15 +606,10 @@
   "fd42d6c54856cfdc": 1791096332.1871562,
   "c93c60bab6ea4080": 1791096332.1871562,
   "af9c6084ab4b9cd6": 1791096332.1871562,
-  "36276e95440e818a": 1791096332.1871562
+  "36276e95440e818a": 1791096332.1871562,
+  "e0431c43e073ec11": 1791098134.427463
  },
  "queue": [
-  {
-   "id": "af9c6084ab4b9cd6",
-   "cfg": "vless://deee4a60-e8c3-456f-846f-aa2c2b7fae24@188.114.97.6:8080?security=none&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=broad-bush-c2c8.37-9a0.workers.dev&packetEncoding=xudp#🔵@chillguy_vpn",
-   "ping": 33,
-   "ts": 1791096332.1871562
-  },
   {
    "id": "cf9fda25827d9f30",
    "cfg": "vless://875d3876-ab9a-4dd6-8a8d-bf57f03403aa@104.26.13.40:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=square-sea-01d1.339-be3.workers.dev&type=ws#🔵@chillguy_vpn",
@@ -647,6 +639,12 @@
    "cfg": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.149:443?security=reality&encryption=none&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-ro.cloud-cdn.xyz&sid=87709fed663228e5#🔵@chillguy_vpn",
    "ping": 365,
    "ts": 1791087340.8925614
+  },
+  {
+   "id": "e0431c43e073ec11",
+   "cfg": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@us-2.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us-2.srv.dvzh.net&sid=d30f9d846a7c8cba#🔵@chillguy_vpn",
+   "ping": 371,
+   "ts": 1791098134.427463
   },
   {
    "id": "e1e735158ea5a620",
@@ -1228,6 +1226,11 @@
    "cfg": "vless://b3a5f201-eeaf-40c8-909c-72f4860cefc8@172.67.176.31:8080?encryption=none&security=none&type=ws&host=orange-bonus-abd9.dalvandimohammadmahdi.workers.dev&path=/eyJqdW5rIjoiUWtMSnFJZFM2S3JnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6W119#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 753,
    "ts": 1791097252.2179
+  },
+  "af9c6084ab4b9cd6": {
+   "cfg": "vless://deee4a60-e8c3-456f-846f-aa2c2b7fae24@188.114.97.6:8080?security=none&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=broad-bush-c2c8.37-9a0.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 754,
+   "ts": 1791098134.427463
   }
  },
  "geo": {
@@ -2579,9 +2582,9 @@
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 65,
-  "healthy": 52,
-  "posted": 7,
+  "fetched": 66,
+  "healthy": 53,
+  "posted": 8,
   "removed": 3
  }
 }
