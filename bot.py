@@ -31,14 +31,12 @@ TEST_URL = "http://www.gstatic.com/generate_204"
 TEST_TIMEOUT = 8         # ثانیه
 WORKERS = 8              # تست‌های همزمان
 MAX_POSTED = 400         # تعداد پست‌هایی که برای حذف پیگیری می‌شن
-MAX_PING = 5000           # کانفیگ کندتر از این منتشر نمی‌شود
-MAX_POSTS_PER_RUN = 3     # حداکثر انتشار در هر اجرای post
-STABILITY_TESTS = 3        # تعداد تست برای سنجش پایداری
-STABILITY_GAP = 0.35       # فاصله تست‌های پایداری (ثانیه)
-MIN_STABILITY = 0.67        # حداقل نسبت تست موفق
-TOP_LIMIT = 3               # تعداد کانفیگ‌های برتر روز
 SEEN_TTL = 3 * 86400     # کانفیگ دیده‌شده تا ۳ روز دوباره تست نمی‌شه
 QUEUE_TTL = 6 * 3600     # کانفیگ سالمِ منتشرنشده تا ۶ ساعت تو صف می‌مونه
+MIN_VIEWS = 100         # حداقل بازدید برای پست‌های کانفیگ
+VIEW_GRACE = 6 * 3600   # پست کانفیگ تا ۶ ساعت فرصت جمع‌کردن بازدید دارد
+REPOST_MAX = 1          # هر کانفیگ کم‌بازدید حداکثر یک بار بازنشر می‌شود
+REPOST_MARK = "♻️"
 GEO_TTL = 7 * 86400      # کشور هر سرور تا ۷ روز دوباره لوکیشن‌یابی نمی‌شه
 STATE_FILE = "state.json"
 # ========================================================
@@ -300,8 +298,7 @@ def test_config(cfg):
             capture_output=True, text=True)
         code, _, tm = r.stdout.strip().partition(" ")
         if code in ("200", "204"):
-            ms = max(1, int(float(tm) * 1000))
-            return ms if ms <= MAX_PING else None
+            return max(1, int(float(tm) * 1000))
         return None
     except Exception:
         return None
@@ -315,39 +312,8 @@ def test_config(cfg):
 
 
 def test_many(cfgs):
-    # تست موازی؛ اگر تعداد کانفیگ زیاد باشد، تعداد worker از اندازه لیست بیشتر نمی‌شود.
-    if not cfgs:
-        return []
-    workers = min(WORKERS, len(cfgs))
-    with ThreadPoolExecutor(workers) as ex:
+    with ThreadPoolExecutor(WORKERS) as ex:
         return list(ex.map(test_config, cfgs))
-
-
-def stability_test(cfg):
-    """چند بار تست می‌کند تا کانفیگ صرفاً به‌خاطر یک پاسخ لحظه‌ای وارد کانال نشود."""
-    results = []
-    for n in range(STABILITY_TESTS):
-        p = test_config(cfg)
-        if p:
-            results.append(p)
-        if n + 1 < STABILITY_TESTS:
-            time.sleep(STABILITY_GAP)
-    if len(results) / float(STABILITY_TESTS) < MIN_STABILITY:
-        return None
-    return {
-        "avg": int(sum(results) / len(results)),
-        "best": min(results),
-        "success": len(results),
-        "tests": STABILITY_TESTS,
-    }
-
-
-def quality_score(avg, success, tests):
-    """امتیاز 0 تا 100؛ سرعت و پایداری هر دو اثر دارند."""
-    speed = max(0, min(100, 100 - (avg / float(MAX_PING)) * 100))
-    stability = (success / float(tests)) * 100
-    score = round(speed * 0.65 + stability * 0.35)
-    return max(1, min(100, score))
 
 
 # ---------------- تلگرام ----------------
@@ -367,22 +333,21 @@ def tg(method, **params):
         return {"ok": False, "description": type(e).__name__}
 
 
-def build_text(cfg, ping, flag, country, score=0, stability=0):
+def build_text(cfg, ping, flag, country, repost=False):
     online_line = "🔵 Online   %s %s\n" % (flag, country) if flag else "🔵 Online\n"
-    score_line = "🏆 Quality: %d/100\n" % score if score else ""
-    stable_line = "🟢 Stability: %d%%\n" % stability if stability else ""
     return (
         "<blockquote expandable><code>%s</code></blockquote>\n"
-        "☝🏻 ضربه بزن تا کپی بشه ☝🏻\n"
-        "🛜 کانفیگ ویتوری | V2Ray Configs\n\n"
+        "☝🏻ضربه بزن تا کپی بشه ☝🏻\n"
+        "🛜 کانفیگ ویتوری | V2Ray Configs \n"
+        "%s\n\n"
+        "🟢 تست شده، مناسب همه اپراتور‌ها \n"
+        "بهترین اپ مورد استفاده V2BOX \n\n"
         "%s"
-        "%s"
-        "%s"
-        "⚡ Response: %dms\n"
-        "📱 بهترین اپ: V2BOX\n\n"
-        "#V2RAY #رایگان\n\n"
-        "♒ تهیه اشتراک اختصاصی تک‌لوکیشن و مولتی‌لوکیشن با ضمانت تا آخرین مگابایت"
-    ) % (html.escape(cfg, quote=False), online_line, score_line, stable_line, ping)
+        "🛜 Ping: %dms\n"
+        "#V2RAY\n"
+        "#رایگان\n\n"
+        "♒ تهیه اشتراک اختصاصی تک لوکیشن و مولتی لوکیشن با ضمانت تا آخرین مگابایت"
+    ) % (html.escape(cfg, quote=False), (REPOST_MARK if repost else ""), online_line, ping)
 
 
 BUTTON_TEXTS = [
@@ -415,13 +380,8 @@ def load_state():
 
 
 def save_state(st):
-    # ذخیره اتمیک تا قطع شدن ربات وسط نوشتن، state.json را خراب نکند.
-    tmp = STATE_FILE + ".tmp"
-    with open(tmp, "w", encoding="utf-8") as f:
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(st, f, ensure_ascii=False, indent=1)
-        f.flush()
-        os.fsync(f.fileno())
-    os.replace(tmp, STATE_FILE)
 
 
 def today_str():
@@ -431,7 +391,7 @@ def today_str():
 def roll_stats(st):
     """اگه روز عوض شده باشه، آمار دیروز رو پست می‌کنه و شمارنده‌ها رو صفر می‌کنه"""
     stats = st.setdefault(
-        "stats", {"date": today_str(), "fetched": 0, "healthy": 0, "posted": 0, "removed": 0, "published_scores": [], "top_today": []})
+        "stats", {"date": today_str(), "fetched": 0, "healthy": 0, "posted": 0, "removed": 0})
     today = today_str()
     if stats["date"] != today:
         if stats["fetched"] or stats["posted"] or stats["removed"]:
@@ -440,45 +400,16 @@ def roll_stats(st):
                 "🔎 کانفیگ بررسی‌شده: %d\n"
                 "🟢 سالم شناسایی‌شده: %d\n"
                 "📮 پست‌شده: %d\n"
-                "🗑 حذف‌شده (خراب شده بودن): %d\n"
-                "🏆 میانگین امتیاز انتشار: %d/100"
+                "🗑 حذف‌شده (خراب شده بودن): %d"
             ) % (stats["date"], stats["fetched"], stats["healthy"],
-                 stats["posted"], stats["removed"],
-                 round(sum(stats.get("published_scores", [])) / max(1, len(stats.get("published_scores", [])))))
+                 stats["posted"], stats["removed"])
             tg("sendMessage", chat_id=TARGET_CHANNEL, text=text)
-        stats = {"date": today, "fetched": 0, "healthy": 0, "posted": 0, "removed": 0, "published_scores": [], "top_today": [], "report_sent_date": ""}
+        stats = {"date": today, "fetched": 0, "healthy": 0, "posted": 0, "removed": 0}
         st["stats"] = stats
     return stats
 
 
 # ---------------- حالت‌ها ----------------
-def publish_daily_report(st):
-    stats = st.get("stats", {})
-    if stats.get("report_sent_date") == stats.get("date"):
-        return
-    scores = stats.get("published_scores", [])
-    avg_score = round(sum(scores) / max(1, len(scores)))
-    top = stats.get("top_today", [])[:TOP_LIMIT]
-    lines = [
-        "📊 <b>K2GUARD DAILY REPORT</b>",
-        "",
-        "🔎 بررسی‌شده: %d" % stats.get("fetched", 0),
-        "🟢 سالم و پایدار: %d" % stats.get("healthy", 0),
-        "📮 منتشرشده: %d" % stats.get("posted", 0),
-        "🗑 حذف‌شده: %d" % stats.get("removed", 0),
-        "🏆 میانگین کیفیت: %d/100" % avg_score,
-    ]
-    if top:
-        lines += ["", "🏆 <b>TOP CONFIGS</b>"]
-        for n, x in enumerate(top, 1):
-            country = x.get("country") or "Unknown"
-            lines.append("%d) %s — %d/100 — %dms" % (n, country, x.get("score", 0), x.get("ping", 0)))
-    r = tg("sendMessage", chat_id=TARGET_CHANNEL, text="\n".join(lines),
-             parse_mode="HTML", disable_web_page_preview="true")
-    if r.get("ok"):
-        stats["report_sent_date"] = stats.get("date")
-
-
 def mode_post():
     st = load_state()
     now = time.time()
@@ -504,36 +435,19 @@ def mode_post():
         for (i, c), ping in zip(items, test_many([c for _, c in items])):
             seen[i] = now
             if ping:
-                # پایداری فقط برای کاندیداهای سریع بررسی می‌شود تا مصرف منابع کنترل شود.
-                stest = stability_test(c) if ping <= MAX_PING else None
-                if stest:
-                    score = quality_score(stest["avg"], stest["success"], stest["tests"])
-                    queue.append({"id": i, "cfg": c, "ping": stest["avg"],
-                                  "best": stest["best"], "score": score,
-                                  "stability": round(100 * stest["success"] / stest["tests"]),
-                                  "ts": now})
-                    stats["healthy"] += 1
-        print("stable configs in queue:", len(queue))
+                queue.append({"id": i, "cfg": c, "ping": ping, "ts": now})
+                stats["healthy"] += 1
+        print("healthy in queue:", len(queue))
 
-    queue.sort(key=lambda x: (-x.get("score", 0), x.get("ping", 999999), -x["ts"]))
-    posted_this_run = 0
-    while queue and posted_this_run < MAX_POSTS_PER_RUN:
+    queue.sort(key=lambda x: x["ping"])
+    while queue:
         item = queue.pop(0)
-        # پیش از انتشار یک تست نهایی؛ کانفیگ‌های قدیمی دوباره تست پایداری می‌شوند.
         if time.time() - item["ts"] < 120:
             ping = item["ping"]
-            score = item.get("score", 0)
-            stability = item.get("stability", 0)
         else:
-            stest = stability_test(item["cfg"])
-            if not stest:
-                print("queued config lost stability, dropped")
-                continue
-            ping = stest["avg"]
-            score = quality_score(ping, stest["success"], stest["tests"])
-            stability = round(100 * stest["success"] / stest["tests"])
-        if not ping or ping > MAX_PING:
-            print("queued config too slow, dropped")
+            ping = test_config(item["cfg"])  # قبل از انتشار دوباره تست
+        if not ping:
+            print("queued config died, dropped")
             continue
         try:
             host = outbound_host(build_outbound(item["cfg"]))
@@ -545,36 +459,57 @@ def mode_post():
             cc, country = "", ""
         named = rename(item["cfg"], REMARK)
         r = tg("sendMessage", chat_id=TARGET_CHANNEL,
-               text=build_text(named, ping, country_flag(cc), country, score, stability),
+               text=build_text(named, ping, country_flag(cc), country),
                parse_mode="HTML", disable_web_page_preview="true",
                reply_markup=buy_button())
         if r.get("ok"):
-            posted[item["id"]] = {"cfg": named, "msg": r["result"]["message_id"],
-                                    "ts": time.time(), "ping": ping, "score": score,
-                                    "stability": stability, "country": country}
+            posted[item["id"]] = {"cfg": named, "msg": r["result"]["message_id"], "ts": now}
             stats["posted"] += 1
-            posted_this_run += 1
-            stats.setdefault("published_scores", []).append(score)
-            print("posted, score", score, "response", ping)
+            print("posted, ping", ping)
         else:
             print("send failed:", r.get("description"))
             queue.insert(0, item)
-            break
-    if posted_this_run == 0:
-        print("no healthy config this round, nothing posted")
+        break
     else:
-        print("posted this run:", posted_this_run)
-
-    # گزارش TOP روز: فقط بهترین‌ها، بدون ارسال مکرر در هر اجرا.
-    top = sorted(posted.values(), key=lambda x: (-x.get("score", 0), x.get("ping", 999999)))[:TOP_LIMIT]
-    stats["top_today"] = [{"score": x.get("score", 0), "ping": x.get("ping", 0),
-                            "country": x.get("country", "")} for x in top]
-    publish_daily_report(st)
+        print("no healthy config this round, nothing posted")
 
     if len(posted) > MAX_POSTED:
         for k in sorted(posted, key=lambda k: posted[k]["ts"])[:len(posted) - MAX_POSTED]:
             del posted[k]
     save_state(st)
+
+
+def channel_post_views(message_id):
+    """بازدید یک پست کانال عمومی را از صفحه t.me/s می‌خواند.
+    فقط وقتی پست واقعاً شامل کانفیگ باشد view برمی‌گرداند؛ پست‌های تبلیغاتی/متنی نادیده گرفته می‌شوند.
+    """
+    try:
+        html_text = http_get("https://t.me/s/" + TARGET_CHANNEL.lstrip("@"))
+        marker = 'data-post="%s/%s"' % (TARGET_CHANNEL.lstrip("@"), message_id)
+        pos = html_text.find(marker)
+        if pos < 0:
+            return None, False
+        start = html_text.rfind('<div class="tgme_widget_message_wrap', 0, pos)
+        end = html_text.find('<div class="tgme_widget_message_wrap', pos + len(marker))
+        block = html_text[start:end if end >= 0 else len(html_text)]
+        if not CFG_RE.search(html.unescape(block)):
+            return None, False
+        m = re.search(r'class="tgme_widget_message_views"[^>]*>([^<]+)<', block)
+        if not m:
+            m = re.search(r'tgme_widget_message_views[^>]*>([^<]+)<', block)
+        if not m:
+            return None, True
+        raw = m.group(1).strip().replace(' ', '').replace(',', '')
+        mult = 1
+        if raw.endswith('K'):
+            mult = 1000; raw = raw[:-1]
+        elif raw.endswith('M'):
+            mult = 1000000; raw = raw[:-1]
+        views = int(float(raw) * mult)
+        return views, True
+    except Exception as e:
+        print("views lookup failed:", type(e).__name__)
+        return None, False
 
 
 def mode_clean():
@@ -586,37 +521,146 @@ def mode_clean():
         print("nothing to check")
         save_state(st)
         return
-    res = test_many([v["cfg"] for _, v in items])
-    bad = [i for (i, _), p in zip(items, res) if not p]
-    print("failed %d of %d" % (len(bad), len(items)))
-    # اگه تقریباً همه خراب بودن، احتمالاً مشکل از خود تست بوده؛ چیزی پاک نکن
-    if len(items) >= 5 and len(bad) > 0.8 * len(items):
-        print("too many failures, test environment suspected; skipping deletion")
+
+    now = time.time()
+    low_view = set()
+    config_items = []
+
+    # فقط پست‌هایی که واقعاً کانفیگ هستند وارد این چرخه می‌شوند.
+    for i, v in items:
+        age = now - v.get("ts", now)
+        if age < VIEW_GRACE:
+            continue
+        views, is_config = channel_post_views(v["msg"])
+        if not is_config:
+            print("non-config post ignored:", i)
+            continue
+        config_items.append((i, v, views))
+        if views is not None and views < MIN_VIEWS:
+            low_view.add(i)
+            print("low views candidate:", i, views)
+
+    # تست اول سلامت همه کانفیگ‌های تحت مدیریت ربات
+    test_items = [(i, v) for i, v, _ in config_items]
+    res = test_many([v["cfg"] for _, v in test_items]) if test_items else []
+    first_bad = {i for (i, _), p in zip(test_items, res) if not p}
+    print("failed first test %d of %d" % (len(first_bad), len(test_items)))
+
+    if test_items and len(test_items) >= 5 and len(first_bad) > 0.8 * len(test_items):
+        print("too many failures, test environment suspected; skipping deletion/repost")
         save_state(st)
         return
-    if bad:
-        time.sleep(120)  # تست دوم برای اطمینان
-        res2 = test_many([posted[i]["cfg"] for i in bad])
-        bad = [i for i, p in zip(bad, res2) if not p]
-    for i in bad:
-        msg = posted[i]["msg"]
-        r = tg("deleteMessage", chat_id=TARGET_CHANNEL, message_id=msg)
-        if not r.get("ok"):
-            print("delete failed:", r.get("description"))
-            r = tg("editMessageText", chat_id=TARGET_CHANNEL, message_id=msg,
-                   text="⛔️ این کانفیگ منقضی شد")
-        if r.get("ok"):
-            del posted[i]
-            stats["removed"] += 1
-        time.sleep(0.5)
-    print("removed", len(bad))
+
+    # کانفیگ خراب با هر تعداد بازدید باید تست دوم شود؛
+    # کانفیگ کم‌بازدید سالم هم حتماً یک تست تازه می‌گیرد تا بعد از تأیید دوباره بازنشر شود.
+    need_second = first_bad | low_view
+    second_bad = set()
+    if need_second:
+        second_items = [(i, posted[i]) for i in need_second if i in posted]
+        time.sleep(2)
+        res2 = test_many([v["cfg"] for _, v in second_items])
+        second_bad = {i for (i, _), p in zip(second_items, res2) if not p}
+
+    # وضعیت نهایی سلامت: اگر تست دوم انجام شده، نتیجه تست دوم ملاک است؛
+    # در غیر این صورت نتیجه تست اول.
+    final_bad = set()
+    for i, _ in test_items:
+        final_bad.add(i) if ((i in second_bad) if i in need_second else (i in first_bad)) else None
+
+    removed = 0
+    reposted = 0
+
+    for i, v, views in config_items:
+        if i not in posted:
+            continue
+
+        # خراب باشد، بدون توجه به تعداد بازدید حذف می‌شود.
+        if i in final_bad:
+            msg = posted[i]["msg"]
+            r = tg("deleteMessage", chat_id=TARGET_CHANNEL, message_id=msg)
+            if not r.get("ok"):
+                print("delete failed:", r.get("description"))
+                r = tg("editMessageText", chat_id=TARGET_CHANNEL, message_id=msg,
+                       text="⛔️ این کانفیگ منقضی شد")
+            if r.get("ok"):
+                del posted[i]
+                stats["removed"] += 1
+                removed += 1
+            time.sleep(0.5)
+            continue
+
+        # کم‌بازدید + سالم در تست مجدد => یک بار بازنشر شود.
+        if i in low_view:
+            repost_count = int(v.get("repost_count", 0))
+            if repost_count >= REPOST_MAX:
+                msg = posted[i]["msg"]
+                r = tg("deleteMessage", chat_id=TARGET_CHANNEL, message_id=msg)
+                if not r.get("ok"):
+                    r = tg("editMessageText", chat_id=TARGET_CHANNEL, message_id=msg,
+                           text="⛔️ این کانفیگ بازدید کافی نگرفت")
+                if r.get("ok"):
+                    del posted[i]
+                    stats["removed"] += 1
+                    removed += 1
+                time.sleep(0.5)
+                continue
+
+            # Ping تست دوم را برای بازنشر دوباره به دست می‌آوریم.
+            ping = test_config(v["cfg"])
+            if not ping:
+                # احتیاط مضاعف؛ اگر اینجا هم خراب شد، حذفش کن.
+                msg = posted[i]["msg"]
+                r = tg("deleteMessage", chat_id=TARGET_CHANNEL, message_id=msg)
+                if r.get("ok"):
+                    del posted[i]
+                    stats["removed"] += 1
+                    removed += 1
+                continue
+
+            # اول پست قبلی را حذف می‌کنیم تا بازنشر باعث دو نسخه همزمان نشود.
+            old_msg = v["msg"]
+            rdel = tg("deleteMessage", chat_id=TARGET_CHANNEL, message_id=old_msg)
+            if not rdel.get("ok"):
+                print("repost skipped; old message could not be deleted:", rdel.get("description"))
+                continue
+
+            try:
+                host = outbound_host(build_outbound(v["cfg"]))
+                if host and not is_cdn_edge(host):
+                    cc, country = lookup_geo(host, st.setdefault("geo", {}))
+                else:
+                    cc, country = "", ""
+            except Exception:
+                cc, country = "", ""
+
+            rpost = tg(
+                "sendMessage", chat_id=TARGET_CHANNEL,
+                text=build_text(v["cfg"], ping, country_flag(cc), country, repost=True),
+                parse_mode="HTML", disable_web_page_preview="true",
+                reply_markup=buy_button()
+            )
+            if rpost.get("ok"):
+                posted[i] = {
+                    "cfg": v["cfg"],
+                    "msg": rpost["result"]["message_id"],
+                    "ts": time.time(),
+                    "repost_count": repost_count + 1,
+                }
+                reposted += 1
+                stats["posted"] += 1
+                print("reposted low-view healthy config:", i, "ping", ping)
+            else:
+                # اگر ارسال جدید شکست خورد، رکورد قبلی را نگه نمی‌داریم چون پیام قبلی حذف شده.
+                posted.pop(i, None)
+                print("repost send failed:", rpost.get("description"))
+            time.sleep(0.5)
+
+    print("removed", removed, "reposted", reposted)
     save_state(st)
 
 
 if __name__ == "__main__":
     if not BOT_TOKEN:
         sys.exit("BOT_TOKEN is missing (add it in repo Settings > Secrets)")
-    if not os.path.isfile(XRAY) or not os.access(XRAY, os.X_OK):
-        sys.exit("xray executable not found or not executable: %s" % XRAY)
     mode = sys.argv[1] if len(sys.argv) > 1 else "post"
     (mode_clean if mode == "clean" else mode_post)()
