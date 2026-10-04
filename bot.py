@@ -5,9 +5,11 @@
 import base64
 import hashlib
 import html
+import ipaddress
 import itertools
 import json
 import os
+import random
 import re
 import socket
 import subprocess
@@ -92,6 +94,24 @@ def outbound_host(out):
     if "servers" in s:
         return s["servers"][0]["address"]
     return ""
+
+
+# رنج‌های شناخته‌شده‌ی CDN/anycast (مثل Cloudflare)؛ برای این آی‌پی‌ها کشور نمایش‌داده‌شده
+# واقعی نیست (چون IP بین کاربرهای مختلف دنیا مشترکه)، پس پرچم نشون داده نمی‌شه
+CDN_NETWORKS = [ipaddress.ip_network(n) for n in (
+    "104.16.0.0/13", "172.64.0.0/13", "188.114.96.0/20", "162.158.0.0/15",
+    "198.41.128.0/17", "141.101.64.0/18", "108.162.192.0/18", "190.93.240.0/20",
+    "197.234.240.0/22", "199.27.128.0/21", "103.21.244.0/22", "103.22.200.0/22",
+    "103.31.4.0/22", "131.0.72.0/22",
+)]
+
+
+def is_cdn_edge(host):
+    try:
+        ip = ipaddress.ip_address(host)
+    except ValueError:
+        return False
+    return any(ip in net for net in CDN_NETWORKS)
 
 
 def country_flag(cc):
@@ -325,9 +345,20 @@ def build_text(cfg, ping, flag, country):
     ) % (html.escape(cfg, quote=False), online_line, ping)
 
 
+BUTTON_TEXTS = [
+    "دریافت اکانت تست رایگان 🛡️ 🇨🇦🇮🇷🇱🇷🇵🇸🇹🇷🇺🇸 🛡️",
+    "⚡️ همین الان اشتراک بگیر، قبل از تموم شدن ظرفیت",
+    "🎁 تست ۲۴ ساعته رایگان، بدون نیاز به کارت",
+    "🔥 پرسرعت‌ترین لوکیشن‌ها اینجان، کلیک کن",
+    "✅ تضمین بازگشت وجه تا آخرین مگابایت، ثبت‌نام",
+    "🚀 ارتقا به اشتراک VIP با تخفیف ویژه اعضا",
+    "💬 سوال داری؟ پشتیبانی ۲۴ ساعته همین‌جاست",
+]
+
+
 def buy_button():
-    return json.dumps({"inline_keyboard": [[
-        {"text": "دریافت اکانت تست رایگان 🛡️ 🇨🇦🇮🇷🇱🇷🇵🇸🇹🇷🇺🇸 🛡️", "url": BUY_LINK}]]})
+    text = random.choice(BUTTON_TEXTS)
+    return json.dumps({"inline_keyboard": [[{"text": text, "url": BUY_LINK}]]})
 
 
 # ---------------- وضعیت ----------------
@@ -415,7 +446,10 @@ def mode_post():
             continue
         try:
             host = outbound_host(build_outbound(item["cfg"]))
-            cc, country = lookup_geo(host, geo) if host else ("", "")
+            if host and not is_cdn_edge(host):
+                cc, country = lookup_geo(host, geo)
+            else:
+                cc, country = "", ""
         except Exception:
             cc, country = "", ""
         named = rename(item["cfg"], REMARK)
