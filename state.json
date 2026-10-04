@@ -606,36 +606,6 @@
  },
  "queue": [
   {
-   "id": "f33011bc5cae1fc9",
-   "cfg": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none&type=tcp&security=reality&headerType=none&sni=www.intel.com&fp=ios&insecure=1&allowInsecure=1&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&sid=7205d9079521832c&flow=xtls-rprx-vision#🔵@chillguy_vpn",
-   "ping": 1493,
-   "ts": 1791106242.4733968
-  },
-  {
-   "id": "06cfea61fa2febe7",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.214.173.39:21263?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#🔵@chillguy_vpn",
-   "ping": 1496,
-   "ts": 1791118851.0534532
-  },
-  {
-   "id": "9823233e375a6d24",
-   "cfg": "vless://35a02274-97de-4799-9e25-fb1a287b959f@tun22.videobazi.com:8700?encryption=mlkem768x25519plus.native.0rtt.lf7RGaNMgbxzgCSNFaTbEjRGecpamczYdrjdUlQDq30&security=none&type=ws&headerType=none&path=%2F&host=arvancloud.ir#🔵@chillguy_vpn",
-   "ping": 1501,
-   "ts": 1791116132.419685
-  },
-  {
-   "id": "0e8e25b01da7149b",
-   "cfg": "vmess://eyJhZGQiOiAiMjA2LjEuMTAzLjE3OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNWQ0NTZiNzAtMGM2My00ODhlLWIyNDUtMzJmNjk0ODU0MzkwIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTg0MTMiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
-   "ping": 2000,
-   "ts": 1791109841.065449
-  },
-  {
-   "id": "844dd945076c527d",
-   "cfg": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@www.speedtest.org:8443?encryption=none&type=ws&security=tls&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&sni=speed.dulacloud.store&fp=chrome&insecure=0&allowInsecure=0#🔵@chillguy_vpn",
-   "ping": 2103,
-   "ts": 1791106242.4733968
-  },
-  {
    "id": "16adb3211fcfbdce",
    "cfg": "vless://f75b14d4-561a-4565-8814-6726a01e41e6@176.96.131.251:1280?path=%2F&security=none&encryption=none&type=ws#🔵@chillguy_vpn",
    "ping": 2879,
@@ -1109,6 +1079,33 @@
    "msg": 791,
    "ts": 1791123340.1952424,
    "ping": 1582
+  },
+  "f33011bc5cae1fc9": {
+   "cfg": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none&type=tcp&security=reality&headerType=none&sni=www.intel.com&fp=ios&insecure=1&allowInsecure=1&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&sid=7205d9079521832c&flow=xtls-rprx-vision#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 792,
+   "ts": 1791123609.6482027,
+   "ping": 816,
+   "score": 89,
+   "stability": 100,
+   "country": "Singapore"
+  },
+  "06cfea61fa2febe7": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.214.173.39:21263?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 793,
+   "ts": 1791123617.800247,
+   "ping": 2037,
+   "score": 74,
+   "stability": 100,
+   "country": "Hong Kong"
+  },
+  "844dd945076c527d": {
+   "cfg": "vless://7967bf59-57e3-4cde-9898-527b0fe60022@www.speedtest.org:8443?encryption=none&type=ws&security=tls&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&sni=speed.dulacloud.store&fp=chrome&insecure=0&allowInsecure=0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 794,
+   "ts": 1791123656.029763,
+   "ping": 1235,
+   "score": 84,
+   "stability": 100,
+   "country": "Canada"
   }
  },
  "geo": {
@@ -2571,13 +2568,51 @@
    "cc": "HK",
    "name": "Hong Kong",
    "ts": 1791123339.119692
+  },
+  "54.251.9.130": {
+   "cc": "SG",
+   "name": "Singapore",
+   "ts": 1791123608.8228836
+  },
+  "103.214.173.39": {
+   "cc": "HK",
+   "name": "Hong Kong",
+   "ts": 1791123617.086071
+  },
+  "www.speedtest.org": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791123655.194888
   }
  },
  "stats": {
   "date": "2026-10-04",
   "fetched": 127,
   "healthy": 103,
-  "posted": 44,
-  "removed": 21
+  "posted": 47,
+  "removed": 21,
+  "published_scores": [
+   89,
+   74,
+   84
+  ],
+  "top_today": [
+   {
+    "score": 89,
+    "ping": 816,
+    "country": "Singapore"
+   },
+   {
+    "score": 84,
+    "ping": 1235,
+    "country": "Canada"
+   },
+   {
+    "score": 74,
+    "ping": 2037,
+    "country": "Hong Kong"
+   }
+  ],
+  "report_sent_date": "2026-10-04"
  }
 }
