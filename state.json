@@ -1,14 +1,5 @@
 {
  "seen": {
-  "17b794f36c0b6e39": 1790887941.9500542,
-  "dffc260dfdbe29d3": 1790887941.9500542,
-  "9a4be4c1f0d47a9a": 1790887941.9500542,
-  "c403b903216278df": 1790887941.9500542,
-  "b5f1d083a5003ed1": 1790887941.9500542,
-  "b3d4c52264d3d320": 1790887941.9500542,
-  "89a8d7f62d5d7edc": 1790887941.9500542,
-  "51da85bb7bd82c2c": 1790887941.9500542,
-  "94303dd5565102cc": 1790887941.9500542,
   "a9dccd8489014814": 1790888532.01673,
   "d7735ebbd4ead57d": 1790888532.01673,
   "dcd7c1bc2dab5f5f": 1790889864.8120947,
@@ -647,27 +638,11 @@
   "738522021e14a9f9": 1791144428.9791691,
   "d0a34f15ab773029": 1791145842.7640765,
   "a6b9728296e087b1": 1791145842.7640765,
-  "14136466118a1301": 1791145842.7640765
+  "14136466118a1301": 1791145842.7640765,
+  "c26d8bc0bfc72e98": 1791147545.277209,
+  "2d498b82f73a3909": 1791147545.277209
  },
  "queue": [
-  {
-   "id": "a04237af6ba17cd3",
-   "cfg": "vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?mode=gun&security=reality&encryption=none&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&fp=chrome&type=grpc&serviceName=grpc_common3&sni=www.sony.com&sid=2fed44d8c59f7e71#🔵@chillguy_vpn",
-   "ping": 757,
-   "best": 667,
-   "score": 90,
-   "stability": 100,
-   "ts": 1791140453.1183398
-  },
-  {
-   "id": "e18d6dc563708b15",
-   "cfg": "vless://a45dbb94-2b77-4193-86d5-ddd173764c79@88.218.42.194:443?security=reality&encryption=none&pbk=x_vD8zQpGWnZPOVr5ku4-jKdf0n-CEN73a1DdgaHUGs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=shop.appstop.link&sid=92dd24b2286678d2#🔵@chillguy_vpn",
-   "ping": 759,
-   "best": 645,
-   "score": 90,
-   "stability": 100,
-   "ts": 1791143168.4470809
-  },
   {
    "id": "017c557e343f2ad0",
    "cfg": "vless://%58pnTeam-71@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
@@ -721,6 +696,15 @@
    "score": 62,
    "stability": 100,
    "ts": 1791143168.4470809
+  },
+  {
+   "id": "2d498b82f73a3909",
+   "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?security=reality&encryption=none&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=1mcfn.67resserv67.info&sid=29455a3a790acbd0#🔵@chillguy_vpn",
+   "ping": 4078,
+   "best": 2554,
+   "score": 47,
+   "stability": 100,
+   "ts": 1791147545.277209
   },
   {
    "id": "0e4206ee6685cd2f",
@@ -1467,6 +1451,36 @@
    "score": 70,
    "stability": 100,
    "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "c26d8bc0bfc72e98": {
+   "cfg": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@195.88.57.96:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&sid=e4e77e76e6e49da7&sni=us-1.srv.dvzh.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 845,
+   "ts": 1791147565.385921,
+   "ping": 204,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "a04237af6ba17cd3": {
+   "cfg": "vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?mode=gun&security=reality&encryption=none&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&fp=chrome&type=grpc&serviceName=grpc_common3&sni=www.sony.com&sid=2fed44d8c59f7e71#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 846,
+   "ts": 1791147570.7144265,
+   "ping": 1076,
+   "score": 86,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
+  },
+  "e18d6dc563708b15": {
+   "cfg": "vless://a45dbb94-2b77-4193-86d5-ddd173764c79@88.218.42.194:443?security=reality&encryption=none&pbk=x_vD8zQpGWnZPOVr5ku4-jKdf0n-CEN73a1DdgaHUGs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=shop.appstop.link&sid=92dd24b2286678d2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 847,
+   "ts": 1791147574.1533577,
+   "ping": 476,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
    "repost_count": 0
   }
  },
@@ -3135,13 +3149,23 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791146748.0959947
+  },
+  "195.88.57.96": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791147564.6300077
+  },
+  "152.228.139.33": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1791147569.9414754
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 224,
-  "healthy": 166,
-  "posted": 96,
+  "fetched": 226,
+  "healthy": 168,
+  "posted": 99,
   "removed": 49,
   "published_scores": [
    89,
@@ -3194,7 +3218,10 @@
    95,
    93,
    87,
-   70
+   70,
+   97,
+   86,
+   94
   ],
   "top_today": [
    {
