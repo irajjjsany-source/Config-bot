@@ -1,16 +1,5 @@
 {
  "seen": {
-  "ac2a84ec313d0449": 1790862835.3054125,
-  "ac46958c92061881": 1790862835.3054125,
-  "bd59affcc5025a0e": 1790862835.3054125,
-  "793e7033907a4e64": 1790862835.3054125,
-  "6182b76182eb7bff": 1790862835.3054125,
-  "fc32617543e9e29b": 1790862835.3054125,
-  "af054637f0154d97": 1790862835.3054125,
-  "ff6c19c89b500806": 1790862835.3054125,
-  "73af9fab08c47318": 1790862835.3054125,
-  "c7e007bb2304a6ac": 1790862835.3054125,
-  "c64e5d76c77a46d4": 1790862835.3054125,
   "ecf9fd0d026b0d40": 1790863540.5199797,
   "e6c201af61732ca2": 1790863540.5199797,
   "07756d1d64ad2eeb": 1790864912.708549,
@@ -611,20 +600,17 @@
   "ead88d86711bae63": 1791121534.3707705,
   "52c8d2b30c9eb8af": 1791121534.3707705,
   "4eaec73de9ed568a": 1791121534.3707705,
-  "ba44e0080d0caa1f": 1791121534.3707705
+  "ba44e0080d0caa1f": 1791121534.3707705,
+  "a5c581b374ce74e6": 1791122372.8389482,
+  "5d214f05afe24d75": 1791122372.8389482,
+  "c7849654e0ff7b61": 1791122372.8389482
  },
  "queue": [
   {
-   "id": "52c8d2b30c9eb8af",
-   "cfg": "vless://31ecabd6-5b4c-4022-c7f5-e03b6d287407@188.245.22.162:443?security=reality&encryption=none&pbk=Q_D0iXMq3ZCfezatYL8PLAM1u0sdi3GGlMoYC3DP0A4&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play.google.com#🔵@chillguy_vpn",
-   "ping": 480,
-   "ts": 1791121534.3707705
-  },
-  {
-   "id": "4d01abb83fa40f0c",
-   "cfg": "vless://914a332b-8a4e-423f-bedd-e272ea033ecd@206.1.103.179:13054?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 644,
-   "ts": 1791108936.266826
+   "id": "a5c581b374ce74e6",
+   "cfg": "vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@89.144.32.247:25895?security=reality&encryption=none&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=a73f0410d728c823#🔵@chillguy_vpn",
+   "ping": 676,
+   "ts": 1791122372.8389482
   },
   {
    "id": "9ed8ff8df2ca17f6",
@@ -1142,6 +1128,24 @@
    "cfg": "vless://c916acaa-c87e-4c18-b8b6-5b2966cdb52a@198.13.142.208:443?security=reality&encryption=none&pbk=JDUHaCWFryv7gFDYFcjcbdZiMJ7ympfTJGB8JXDwEnU&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=36911.lumariqis.com&sid=798467fa#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 782,
    "ts": 1791121534.3707705
+  },
+  "c7849654e0ff7b61": {
+   "cfg": "vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@usjsjsj2.povrak.ir:21210?security=none&encryption=mlkem768x25519plus.native.0rtt.YzsyZtOFQcIkgw6XhUKWkLrRRkNW8UkJKoIC-bljz1A&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 783,
+   "ts": 1791122375.5094116,
+   "ping": 88
+  },
+  "5d214f05afe24d75": {
+   "cfg": "vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@finl3.povrak.ir:26474?security=none&encryption=mlkem768x25519plus.native.0rtt.BOvEnh5jCDxg6tnJyW1sTZStVYBuVMUvzME-VBm6CEI&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 784,
+   "ts": 1791122377.9559731,
+   "ping": 528
+  },
+  "4d01abb83fa40f0c": {
+   "cfg": "vless://914a332b-8a4e-423f-bedd-e272ea033ecd@206.1.103.179:13054?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 785,
+   "ts": 1791122379.47117,
+   "ping": 664
   }
  },
  "geo": {
@@ -2574,13 +2578,28 @@
    "cc": "IE",
    "name": "Ireland",
    "ts": 1791121540.6025407
+  },
+  "usjsjsj2.povrak.ir": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791122374.6008847
+  },
+  "finl3.povrak.ir": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791122377.113064
+  },
+  "206.1.103.179": {
+   "cc": "TR",
+   "name": "Türkiye",
+   "ts": 1791122378.8297167
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 123,
-  "healthy": 99,
-  "posted": 35,
+  "fetched": 126,
+  "healthy": 102,
+  "posted": 38,
   "removed": 21
  }
 }
