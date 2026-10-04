@@ -595,7 +595,9 @@
   "daf839286eeba1ab": 1791128732.6299033,
   "c0d7316af7ad564c": 1791129650.483479,
   "cdf40ab795735f18": 1791129650.483479,
-  "607f4227ba6dc10d": 1791129650.483479
+  "607f4227ba6dc10d": 1791129650.483479,
+  "d7e5d0a20d5d26ff": 1791130531.1965475,
+  "6a80d7e68fe7b55d": 1791130531.1965475
  },
  "queue": [],
  "posted": {
@@ -1155,6 +1157,24 @@
    "score": 59,
    "stability": 100,
    "country": "Finland"
+  },
+  "6a80d7e68fe7b55d": {
+   "cfg": "vless://225a12e8-1349-4db3-b33a-f300ff5825a0@104.234.138.246:2084?encryption=none&host=&path=%2F&security=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 805,
+   "ts": 1791130537.2950597,
+   "ping": 280,
+   "score": 96,
+   "stability": 100,
+   "country": "Canada"
+  },
+  "d7e5d0a20d5d26ff": {
+   "cfg": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.77.168.192:443?security=reality&encryption=none&pbk=SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-de1.cloud-cdn.xyz&sid=494afdc75f8c2fa8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 806,
+   "ts": 1791130537.7677472,
+   "ping": 288,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany"
   }
  },
  "geo": {
@@ -2657,13 +2677,23 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791129694.4675126
+  },
+  "104.234.138.246": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791130536.7802448
+  },
+  "31.77.168.192": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791130537.2952101
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 139,
-  "healthy": 111,
-  "posted": 56,
+  "fetched": 141,
+  "healthy": 113,
+  "posted": 58,
   "removed": 21,
   "published_scores": [
    89,
@@ -2677,7 +2707,9 @@
    91,
    94,
    89,
-   59
+   59,
+   96,
+   96
   ],
   "top_today": [
    {
@@ -2686,14 +2718,14 @@
     "country": "United States"
    },
    {
-    "score": 94,
-    "ping": 451,
-    "country": "United States"
+    "score": 96,
+    "ping": 280,
+    "country": "Canada"
    },
    {
-    "score": 93,
-    "ping": 511,
-    "country": "Finland"
+    "score": 96,
+    "ping": 288,
+    "country": "Germany"
    }
   ],
   "report_sent_date": "2026-10-04"
