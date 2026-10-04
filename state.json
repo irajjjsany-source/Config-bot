@@ -641,36 +641,13 @@
   "5972677ea3d6a129": 1791142244.0473428,
   "32bd8b7356edfb71": 1791142244.0473428,
   "f548978186bfc625": 1791142244.0473428,
-  "017c557e343f2ad0": 1791142244.0473428
+  "017c557e343f2ad0": 1791142244.0473428,
+  "66e84fad58f36cfb": 1791143168.4470809,
+  "e18d6dc563708b15": 1791143168.4470809,
+  "c032ea3dfc3f93d8": 1791143168.4470809,
+  "f6f70d3d7ca12bc3": 1791143168.4470809
  },
  "queue": [
-  {
-   "id": "de750e88f05b6d35",
-   "cfg": "vless://a6709987-268d-4525-959e-e066ad286407@138.124.39.205:443?security=reality&encryption=none&pbk=0yLpK5kkIBSMY9hCOmAbcQMcEZAyAgFE9uhpDDNayXc&headerType=none&fp=safari&spx=%2FIyNaUWkJ1s9NaJ3&type=tcp&flow=xtls-rprx-vision&sni=clewgermany.ru&sid=ab293e86f3b62a#🔵@chillguy_vpn",
-   "ping": 505,
-   "best": 495,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791140453.1183398
-  },
-  {
-   "id": "0c7bc525f13770ab",
-   "cfg": "vless://9a1b2785-6baf-455c-9f75-80157ee7f7c5@150.241.64.105:443?security=reality&encryption=none&pbk=PK5kinwngrsb3QKJwwpeMcL4Iqj4r-ck7EwZDl62Sng&headerType=none&fp=safari&spx=%2Fb96QExcv9dD3NQe&type=tcp&flow=xtls-rprx-vision&sni=conv.unit-digital.com&sid=7d286a1f#🔵@chillguy_vpn",
-   "ping": 506,
-   "best": 460,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791140453.1183398
-  },
-  {
-   "id": "7c8bc109e60dbc01",
-   "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.157:443?security=reality&encryption=none&pbk=zAmNLsLPizp96b55zNe2kJ3zXBdpuNY0olnRaOpluks&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=34e797af#🔵@chillguy_vpn",
-   "ping": 520,
-   "best": 514,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791141333.7606416
-  },
   {
    "id": "68e33e239d690dd2",
    "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.71.48:443?security=reality&encryption=none&pbk=FTB4bvTP-3JAbScj_vvkIOPFGjtN2TaNTUfeY-Ew8EU&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=4d767145#🔵@chillguy_vpn",
@@ -735,6 +712,15 @@
    "ts": 1791141333.7606416
   },
   {
+   "id": "c032ea3dfc3f93d8",
+   "cfg": "vless://635ac0f9-5e30-4f1d-a74b-604cbbfcf05c@195.19.166.71:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=viva.keeneticdocs.ru&fp=firefox&pbk=b3gpqoUVf1RKKAVOE20jxNwx72bT3PwgWG-_LO-R0Sc&sid=ee911749edaad12c&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🔵@chillguy_vpn",
+   "ping": 631,
+   "best": 593,
+   "score": 92,
+   "stability": 100,
+   "ts": 1791143168.4470809
+  },
+  {
    "id": "f6b890183a7a75a4",
    "cfg": "vless://e90759b7-6454-4b3a-8453-279e6f496f3a@nl1.jetservaki.fit:443?mode=gun&security=reality&encryption=none&pbk=qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg&fp=firefox&type=grpc&serviceName=grpc&sni=nl1.jetservaki.fit&sid=884b938083b628d2#🔵@chillguy_vpn",
    "ping": 657,
@@ -771,6 +757,15 @@
    "ts": 1791140453.1183398
   },
   {
+   "id": "e18d6dc563708b15",
+   "cfg": "vless://a45dbb94-2b77-4193-86d5-ddd173764c79@88.218.42.194:443?security=reality&encryption=none&pbk=x_vD8zQpGWnZPOVr5ku4-jKdf0n-CEN73a1DdgaHUGs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=shop.appstop.link&sid=92dd24b2286678d2#🔵@chillguy_vpn",
+   "ping": 759,
+   "best": 645,
+   "score": 90,
+   "stability": 100,
+   "ts": 1791143168.4470809
+  },
+  {
    "id": "017c557e343f2ad0",
    "cfg": "vless://%58pnTeam-71@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
    "ping": 866,
@@ -796,6 +791,15 @@
    "score": 85,
    "stability": 100,
    "ts": 1791140453.1183398
+  },
+  {
+   "id": "66e84fad58f36cfb",
+   "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.128.59:443?security=reality&encryption=none&pbk=QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=06e00e7c#🔵@chillguy_vpn",
+   "ping": 2906,
+   "best": 598,
+   "score": 62,
+   "stability": 100,
+   "ts": 1791143168.4470809
   }
  ],
  "posted": {
@@ -1371,6 +1375,33 @@
    "ts": 1791142287.1030965,
    "ping": 457,
    "score": 94,
+   "stability": 100,
+   "country": "Germany"
+  },
+  "de750e88f05b6d35": {
+   "cfg": "vless://a6709987-268d-4525-959e-e066ad286407@138.124.39.205:443?security=reality&encryption=none&pbk=0yLpK5kkIBSMY9hCOmAbcQMcEZAyAgFE9uhpDDNayXc&headerType=none&fp=safari&spx=%2FIyNaUWkJ1s9NaJ3&type=tcp&flow=xtls-rprx-vision&sni=clewgermany.ru&sid=ab293e86f3b62a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 829,
+   "ts": 1791143214.91804,
+   "ping": 490,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany"
+  },
+  "0c7bc525f13770ab": {
+   "cfg": "vless://9a1b2785-6baf-455c-9f75-80157ee7f7c5@150.241.64.105:443?security=reality&encryption=none&pbk=PK5kinwngrsb3QKJwwpeMcL4Iqj4r-ck7EwZDl62Sng&headerType=none&fp=safari&spx=%2Fb96QExcv9dD3NQe&type=tcp&flow=xtls-rprx-vision&sni=conv.unit-digital.com&sid=7d286a1f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 830,
+   "ts": 1791143218.666021,
+   "ping": 583,
+   "score": 92,
+   "stability": 100,
+   "country": "Germany"
+  },
+  "7c8bc109e60dbc01": {
+   "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.157:443?security=reality&encryption=none&pbk=zAmNLsLPizp96b55zNe2kJ3zXBdpuNY0olnRaOpluks&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=34e797af#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 831,
+   "ts": 1791143222.2627351,
+   "ping": 526,
+   "score": 93,
    "stability": 100,
    "country": "Germany"
   }
@@ -2975,13 +3006,28 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791142286.4611378
+  },
+  "138.124.39.205": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791143214.1122894
+  },
+  "150.241.64.105": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791143217.9964783
+  },
+  "2.27.69.157": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791143221.5738087
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 211,
-  "healthy": 156,
-  "posted": 80,
+  "fetched": 215,
+  "healthy": 159,
+  "posted": 83,
   "removed": 49,
   "published_scores": [
    89,
@@ -3019,7 +3065,10 @@
    97,
    95,
    94,
-   94
+   94,
+   94,
+   92,
+   93
   ],
   "top_today": [
    {
