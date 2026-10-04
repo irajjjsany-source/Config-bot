@@ -1,9 +1,5 @@
 {
  "seen": {
-  "07756d1d64ad2eeb": 1790864912.708549,
-  "759f06e03355415b": 1790864912.708549,
-  "3b41e8475e6d2261": 1790864912.708549,
-  "dd7403c0ea5a5e80": 1790864912.708549,
   "a604f88e4e11be2f": 1790865840.0266702,
   "f5dfdbacc281ec9f": 1790865840.0266702,
   "d44d23c5ca7b5b19": 1790865840.0266702,
@@ -602,21 +598,13 @@
   "a5c581b374ce74e6": 1791122372.8389482,
   "5d214f05afe24d75": 1791122372.8389482,
   "c7849654e0ff7b61": 1791122372.8389482,
-  "461338a8cd153680": 1791122451.6904995
+  "461338a8cd153680": 1791122451.6904995,
+  "7dc69877dbaf6ff9": 1791124241.063553,
+  "56845fd36d338c5e": 1791124241.063553,
+  "66c490aa66d10d66": 1791124241.063553,
+  "56d1679498c9bc6f": 1791124241.063553
  },
  "queue": [
-  {
-   "id": "16adb3211fcfbdce",
-   "cfg": "vless://f75b14d4-561a-4565-8814-6726a01e41e6@176.96.131.251:1280?path=%2F&security=none&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 2879,
-   "ts": 1791113479.7173922
-  },
-  {
-   "id": "ad5173fb48dc205b",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
-   "ping": 3002,
-   "ts": 1791113479.7173922
-  },
   {
    "id": "dc1ed731e1dd5c7d",
    "cfg": "vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.75:2053?encryption=none&type=ws&security=tls&path=%2Fvpn-wss%2Ffluxor%2F59011%2F%3Fed%3D2088&host=wss.zazazuza.ru.&sni=wss.zazazuza.ru.&fp=chrome&insecure=0&allowInsecure=0#🔵@chillguy_vpn",
@@ -1106,6 +1094,33 @@
    "score": 84,
    "stability": 100,
    "country": "Canada"
+  },
+  "7dc69877dbaf6ff9": {
+   "cfg": "vless://b812a4e0-c90a-4864-8ffb-2af71d69d4f4@172.93.122.4:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl2.reddotcorp.org&fp=safari&pbk=VDZdbh_RzDDZsHpYF58yUuuvXh93XnmkvpSqb50qG2U&sid=1be482b8e08aa0ef&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 796,
+   "ts": 1791124255.73317,
+   "ping": 272,
+   "score": 96,
+   "stability": 100,
+   "country": "United States"
+  },
+  "56d1679498c9bc6f": {
+   "cfg": "vless://81ac00c6-dfba-4bd4-9729-cb3defb15bb8@sub.skyshopnet.ir:80?mode=auto&path=%2Fsky&security=reality&encryption=mlkem768x25519plus.native.0rtt.LkWPSIfsDWtJMYMInME1hyNGJ4fA6qT9qPshjgYrT3c&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hWQNka_B_4CBdrU608qJ0ukLPsxVoR9pCBnmy35EGX0&host=panel.skyshopnet.ir&fp=chrome&spx=%2F0c6387055c49b4f&type=xhttp&sni=www.gpuopen.com&sid=40be0a1893bc95#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 797,
+   "ts": 1791124256.3185174,
+   "ping": 577,
+   "score": 92,
+   "stability": 100,
+   "country": "Germany"
+  },
+  "ad5173fb48dc205b": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 798,
+   "ts": 1791124264.4425168,
+   "ping": 892,
+   "score": 88,
+   "stability": 100,
+   "country": "United States"
   }
  },
  "geo": {
@@ -2583,34 +2598,42 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791123655.194888
+  },
+  "169.40.42.35": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791124263.9435544
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 127,
-  "healthy": 103,
-  "posted": 47,
+  "fetched": 131,
+  "healthy": 105,
+  "posted": 50,
   "removed": 21,
   "published_scores": [
    89,
    74,
-   84
+   84,
+   96,
+   92,
+   88
   ],
   "top_today": [
+   {
+    "score": 96,
+    "ping": 272,
+    "country": "United States"
+   },
+   {
+    "score": 92,
+    "ping": 577,
+    "country": "Germany"
+   },
    {
     "score": 89,
     "ping": 816,
     "country": "Singapore"
-   },
-   {
-    "score": 84,
-    "ping": 1235,
-    "country": "Canada"
-   },
-   {
-    "score": 74,
-    "ping": 2037,
-    "country": "Hong Kong"
    }
   ],
   "report_sent_date": "2026-10-04"
