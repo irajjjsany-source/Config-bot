@@ -1,12 +1,5 @@
 {
  "seen": {
-  "1482b921bc1b41b4": 1790837848.802974,
-  "c76c6a1d99b6d807": 1790837848.802974,
-  "afadfeb249881465": 1790837848.802974,
-  "9a7ccb1f430b60d7": 1790837848.802974,
-  "5ed11112fe89b024": 1790837848.802974,
-  "d276e1c709755ccf": 1790837848.802974,
-  "edd21ed867b40d7f": 1790837848.802974,
   "e3e96b126de462de": 1790838572.02622,
   "63b27a13258ba24a": 1790838572.02622,
   "6da7ff18ed300722": 1790838572.02622,
@@ -620,12 +613,6 @@
  },
  "queue": [
   {
-   "id": "36276e95440e818a",
-   "cfg": "vless://b3a5f201-eeaf-40c8-909c-72f4860cefc8@172.67.176.31:8080?encryption=none&security=none&type=ws&host=orange-bonus-abd9.dalvandimohammadmahdi.workers.dev&path=/eyJqdW5rIjoiUWtMSnFJZFM2S3JnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6W119#🔵@chillguy_vpn",
-   "ping": 31,
-   "ts": 1791096332.1871562
-  },
-  {
    "id": "af9c6084ab4b9cd6",
    "cfg": "vless://deee4a60-e8c3-456f-846f-aa2c2b7fae24@188.114.97.6:8080?security=none&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=broad-bush-c2c8.37-9a0.workers.dev&packetEncoding=xudp#🔵@chillguy_vpn",
    "ping": 33,
@@ -1236,6 +1223,11 @@
    "cfg": "vless://f3d7ebbc-03a1-40f9-a911-ae8628d3927a@172.64.153.11:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=dawn-waterfall-6052.360-001.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 752,
    "ts": 1791096332.1871562
+  },
+  "36276e95440e818a": {
+   "cfg": "vless://b3a5f201-eeaf-40c8-909c-72f4860cefc8@172.67.176.31:8080?encryption=none&security=none&type=ws&host=orange-bonus-abd9.dalvandimohammadmahdi.workers.dev&path=/eyJqdW5rIjoiUWtMSnFJZFM2S3JnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6W119#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 753,
+   "ts": 1791097252.2179
   }
  },
  "geo": {
@@ -2578,13 +2570,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791096333.2263582
+  },
+  "172.67.176.31": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791097253.368814
   }
  },
  "stats": {
   "date": "2026-10-04",
   "fetched": 65,
   "healthy": 52,
-  "posted": 6,
+  "posted": 7,
   "removed": 3
  }
 }
