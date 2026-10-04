@@ -1,6 +1,5 @@
 {
  "seen": {
-  "8495653cf6ec43c0": 1790847701.6052418,
   "467b682cc52df90d": 1790848504.0390837,
   "fb45c5ee7c97f099": 1790848504.0390837,
   "3e81d4cb1872bab9": 1790849118.1800134,
@@ -604,15 +603,10 @@
   "f764d9abaf818dc5": 1791106242.4733968,
   "f3aa0b1063cac8cd": 1791106242.4733968,
   "cad2367d9c7a1892": 1791106242.4733968,
-  "f6361213473231d0": 1791106242.4733968
+  "f6361213473231d0": 1791106242.4733968,
+  "03a2675a69e9baa8": 1791107130.9692547
  },
  "queue": [
-  {
-   "id": "6aa0d528b0cfee53",
-   "cfg": "vless://67a171fb-a31d-49f3-a9d6-98de350763e8@107.189.18.145:443?encryption=none&type=tcp&security=tls&headerType=none&sni=restnet.duckdns.org&fp=firefox&insecure=0&allowInsecure=0#🔵@chillguy_vpn",
-   "ping": 443,
-   "ts": 1791106242.4733968
-  },
   {
    "id": "96bd26cdb1a2b992",
    "cfg": "vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:8443?mode=gun&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#🔵@chillguy_vpn",
@@ -1147,6 +1141,11 @@
    "cfg": "vless://de50063f-23c3-4743-aa2e-b5402bd4316f@usf.tavrin-technology-services.ir:8443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.gmail.com&fp=edge&pbk=e7B0sqjebSG-vm4VrvHOYDlXHv7yaCvPzjXTTZJ_Tyc&sid=7c74a8b3ecd4ab41&pqv=cnjxeKwxtkiAprk43JqqFbIe6rZmxTv1ZzZsEh5yPJeFak86IorCqNUkMkZR_nBiFZncU5BRCUqxcqsMEuPFhXc6YLwFr-hyH496es8-3DoGazP_E83IIdnam5FVRYbc10iASkz0Ls7KkJaug1GtTS2cuL9Xxgiaosg5V2jp0wEw_2ZyjP-gTFpkutS_mGPhQqwZAU75ay4fXZ9k7eC6EGJcY9tK-kDUfR_wJUtQlaGKyM2tSg5y1Y8l3tsOXU5hYhSXECX4kp4eCa-42pAWYqWxO0nDLI-NIJpvv5Cp7smtXE_hFxC9dZHqTGYy5nj9tjo4vhM8foF5W_GLB9J-nEh4StauaUc474ZsThXl09Xah49orvDPiJzTO-NCut-Ue_uM_9s9kRUgZ-lpCBmwPJYJJ6y9ATu1LJKX50MUmrzhEUtpHCAhY4r_FJCImrWjnxeH5Nq9iDaJQZapDRmpKgFmKN62YwDK3FBkVo96KJS3WY0O_pArXHA1vWMfy8ptsAMWMinc-81OpO84LordP6FwqxD4leeFbxuO-UgXU-s_3HrZjH6Fmaf_aDybktC-rp_8FXRnXtzbwgNNP48F1mEdVI4jFZCPcJsqsOV2J75isGJgzQ00pJiyFuW8qzxB9T1PIVi353MTOEc7pptPJHEn0rKMh_xxJCJbx4Dm_fElu1Cnb6bJYrY3rXhc_rgADboMRn2fPc2EglcbIGcUweBLYbzCWJyWvUHhom_sl3uZOQiPl82EWt_4QpoZ2LKymRT6L1_vswsSc5aka4CrgvlJfn2m5DKzUZs2A6eceJtOdEpfzOHVedAu_eBbTnuMNtP8Bhamp0LbJwmS9J7tuLmH0a5O_6cAvdmoG-fTbAZKBgje3fnSsE1_Ox3h5G24MUEzJoV1hrFE-kX19bLqGBR-TTva4ZSk_8Adapx-prVHaOk8gjDw8UAq-ios99tSt9VelzU9pOVcs3YpHvODLbWxo0_FkhOfIOsodgNbvcUVkxsyu4lxtoEgI5huUdz-Gi8IwHahG8B8YwFpyo2gXINNL3I-WE78w9Hw9DyKcMaEFDGy-4Jv7tGSC_U-fNwZsALcMtpmOcJdoguvqW3zd58r-s7ZaoRxHZwOXBq8hKOp1IBj2OADJ6vA0gvUC1zBRaxOz8R-OrFuMLj0ntRSzIf7hwLmYEN26dUX0W33i5ER8MmLNgtoV97GL1u-DCAZBGmFZUPT7gh8LODnvWcFtuPuUHUGwNY-OUPBrtJYoveoAAyVf6XAhqM-qWwrLZ6u-eovfbFSdgYFfObz6ocjRohYX3geSKvMONswRRGx2DL31hnHkmlcFkS9wukDY0cK6ZTsofw5matqUtlaildfh7-qtMzqwwZ19HL1kO7D7iznHaiQw5Uj6rAxAFFkSm7cud2GiYZ7bV4bzJx2OKMfJl1M5SCfH3BhC9J4Oivx-bUZjJt9VVQro4V6kFOEQFgvqVl2r8Rbet7vITpGzzGwy0NTnn6yPq73bc-mClbjH7Eqf_wuBBI1k1x5NBz8eKTpMqOvZ3ER-xyvM3us1GKoLWji71nJkkMIBOIt1MLZOT7Swy25j0tYd0URhI8ZfWVOdHfio5daDLBXMjO-sv6gno_FDTu9TqAjWlbftt12_yFikjgtD_ONuwChR2a3igHe78CiEd5ppYNKjxzSwzoPohmfn8HIRc0Cqiavnv7sJ2qkHnsBf6fTXM5xSO-Xkxq4eUgO7F_guc1tbzlnZPxdRCzzqOEOS1G4B0idVQU3Ytt3fyzceT7GBoo1gCPbxsetk0L9S5t6R72MeOOipMcFLFo4pUtbc3xZZD_nOi7RWMR2TVHtk0TQdljKqlyWaIMOzje5IF_O-hixyeokyin5Gef8dD2YuDe4zSvUArxW485xtcD7dwYaIYN08kAUQtLGHW404NNBbn9VvH2mDuBE8h0FSYchW0SriVD7Q0Gh8kXnX0qgk80qWpoXdvWZzz3NFZi3AD6HGlotGgF4pvJp0nAjkkOOyuPA-Qs5wgUn0_Kzf9xbxkFd36ZOfjLcVXVIWKTtphwHKjXbKN3h2W8pic2rzBGPmegbVxd6b169GhALzWPObFuoDRDvZT5kwbkziE-ZW68gITfO3JKMB9mu2ZzDfA-p0ABTCWwd9z_oqsG4L-BAJnFag6UbDTD5zmLb8HKmiYR7uOfrZa80_L75C_t1PaLLoPpu7cCW3rIyKFpS-rvZrLSi3h0juGHE0Y4JDyHw9AFUC7zz_QjsBjnWG1onHq_n4wgGXmEElEc81l_rGOso82FkRnZisGos9eN6KuMe7UdiG-4__QEuooO2BR8bMhTaS4yZEc5hjYNgryK3gRzdwAbSIjN1YX7l7JUuiU3EcuHPntCRoWuqluR_ZJYHM0g19ZL9Ou4sv2Pmk73KNqTHqgF6_iKe7LxgDyiqDRDjITYck2-iuibTnjqo7-xJ2ZCWbZZWX-QSGuNGFteWRw2FsZ0Q2mifXRPVLRnXUK0BqdLbYd-bQGWYqUIH2VzfyfzPtsutFUaV9qo0q5iIIQw5chIROFbvxOAvlk6WlNeEIxq0ZUC1KI3p5jYqYIeYjU9kD4pq0CXKQYY6pyQ#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 763,
    "ts": 1791106242.4733968
+  },
+  "6aa0d528b0cfee53": {
+   "cfg": "vless://67a171fb-a31d-49f3-a9d6-98de350763e8@107.189.18.145:443?encryption=none&type=tcp&security=tls&headerType=none&sni=restnet.duckdns.org&fp=firefox&insecure=0&allowInsecure=0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 764,
+   "ts": 1791107130.9692547
   }
  },
  "geo": {
@@ -2524,13 +2523,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791106247.7104652
+  },
+  "107.189.18.145": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791107133.3831298
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 88,
+  "fetched": 89,
   "healthy": 73,
-  "posted": 17,
+  "posted": 18,
   "removed": 3
  }
 }
