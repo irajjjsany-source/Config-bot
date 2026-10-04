@@ -606,15 +606,10 @@
   "c93c60bab6ea4080": 1791096332.1871562,
   "af9c6084ab4b9cd6": 1791096332.1871562,
   "36276e95440e818a": 1791096332.1871562,
-  "e0431c43e073ec11": 1791098134.427463
+  "e0431c43e073ec11": 1791098134.427463,
+  "eec1bad5864f4437": 1791099931.7158613
  },
  "queue": [
-  {
-   "id": "5bc8e2adc2f6c55a",
-   "cfg": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.149:443?security=reality&encryption=none&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-ro.cloud-cdn.xyz&sid=87709fed663228e5#🔵@chillguy_vpn",
-   "ping": 365,
-   "ts": 1791087340.8925614
-  },
   {
    "id": "e0431c43e073ec11",
    "cfg": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@us-2.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us-2.srv.dvzh.net&sid=d30f9d846a7c8cba#🔵@chillguy_vpn",
@@ -1211,6 +1206,11 @@
    "cfg": "vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:443?path=%2F&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=xhttp&sni=www.canon.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 755,
    "ts": 1791099041.250231
+  },
+  "5bc8e2adc2f6c55a": {
+   "cfg": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.149:443?security=reality&encryption=none&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-ro.cloud-cdn.xyz&sid=87709fed663228e5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 756,
+   "ts": 1791099931.7158613
   }
  },
  "geo": {
@@ -2563,13 +2563,18 @@
    "cc": "CN",
    "name": "China",
    "ts": 1791099049.9852293
+  },
+  "109.104.106.149": {
+   "cc": "RO",
+   "name": "Romania",
+   "ts": 1791099933.4184558
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 66,
+  "fetched": 67,
   "healthy": 53,
-  "posted": 9,
+  "posted": 10,
   "removed": 3
  }
 }
