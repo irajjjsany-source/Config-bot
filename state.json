@@ -1,8 +1,5 @@
 {
  "seen": {
-  "33061c4c3bec26c2": 1790895059.2651978,
-  "c070ad96b0fde240": 1790895059.2651978,
-  "3f00cd3bfd0fb427": 1790895059.2651978,
   "f1ed00ca3e34f46a": 1790896906.5202854,
   "75129b501f377742": 1790899358.5648818,
   "1a500de747e3b6e1": 1790899358.5648818,
@@ -626,7 +623,10 @@
   "b591ca54625e1a7a": 1791149442.534208,
   "3452f2cbf65c9b17": 1791150333.567347,
   "b17e795168341202": 1791150841.933334,
-  "4c7d13d3338d91c5": 1791152131.7649927
+  "4c7d13d3338d91c5": 1791152131.7649927,
+  "e364ad1d4f4b90e6": 1791154847.3503907,
+  "074afa960d48f488": 1791154847.3503907,
+  "68c7adcf7fb77a9e": 1791154847.3503907
  },
  "queue": [],
  "posted": {
@@ -1505,6 +1505,36 @@
    "score": 94,
    "stability": 100,
    "country": "Germany",
+   "repost_count": 0
+  },
+  "e364ad1d4f4b90e6": {
+   "cfg": "vmess://eyJhZGQiOiAiNS43NS4yMDEuMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzQ0YzRlZTAtNjI5NC00NWI1LThhMzQtOThlMTlmOTJlOTJhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "msg": 860,
+   "ts": 1791154858.1607742,
+   "ping": 201,
+   "score": 97,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "68c7adcf7fb77a9e": {
+   "cfg": "vless://635ac0f9-5e30-4f1d-a74b-604cbbfcf05c@195.19.166.71:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=viva.keeneticdocs.ru&fp=firefox&pbk=b3gpqoUVf1RKKAVOE20jxNwx72bT3PwgWG-_LO-R0Sc&sid=ee911749edaad12c&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 861,
+   "ts": 1791154858.6413724,
+   "ping": 408,
+   "score": 95,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "074afa960d48f488": {
+   "cfg": "vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@iiproxy888.iiproxy.com:8443?encryption=none&security=tls&sni=iiproxy888.iiproxy.com&alpn=h2%2C%20http%2F1.1&fp=chrome&type=ws&host=iiproxy888.iiproxy.com&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 862,
+   "ts": 1791154859.122344,
+   "ping": 796,
+   "score": 90,
+   "stability": 100,
+   "country": "Canada",
    "repost_count": 0
   }
  },
@@ -3203,13 +3233,23 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791152135.9373183
+  },
+  "5.75.201.2": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791154857.2730749
+  },
+  "iiproxy888.iiproxy.com": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791154858.6415021
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 231,
-  "healthy": 170,
-  "posted": 111,
+  "fetched": 234,
+  "healthy": 173,
+  "posted": 114,
   "removed": 49,
   "published_scores": [
    89,
@@ -3277,7 +3317,10 @@
    93,
    96,
    63,
-   94
+   94,
+   97,
+   95,
+   90
   ],
   "top_today": [
    {
