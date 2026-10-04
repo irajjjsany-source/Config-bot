@@ -31,6 +31,8 @@ TEST_URL = "http://www.gstatic.com/generate_204"
 TEST_TIMEOUT = 8         # ثانیه
 WORKERS = 8              # تست‌های همزمان
 MAX_POSTED = 400         # تعداد پست‌هایی که برای حذف پیگیری می‌شن
+MAX_POSTS_PER_RUN = 3    # حداکثر تعداد کانفیگ سالم برای انتشار در هر اجرای post
+MAX_PING = 5000           # کانفیگ کندتر از این منتشر نمی‌شود
 SEEN_TTL = 3 * 86400     # کانفیگ دیده‌شده تا ۳ روز دوباره تست نمی‌شه
 QUEUE_TTL = 6 * 3600     # کانفیگ سالمِ منتشرنشده تا ۶ ساعت تو صف می‌مونه
 GEO_TTL = 7 * 86400      # کشور هر سرور تا ۷ روز دوباره لوکیشن‌یابی نمی‌شه
@@ -294,7 +296,8 @@ def test_config(cfg):
             capture_output=True, text=True)
         code, _, tm = r.stdout.strip().partition(" ")
         if code in ("200", "204"):
-            return max(1, int(float(tm) * 1000))
+            ms = max(1, int(float(tm) * 1000))
+            return ms if ms <= MAX_PING else None
         return None
     except Exception:
         return None
@@ -308,7 +311,11 @@ def test_config(cfg):
 
 
 def test_many(cfgs):
-    with ThreadPoolExecutor(WORKERS) as ex:
+    # تست موازی؛ اگر تعداد کانفیگ زیاد باشد، تعداد worker از اندازه لیست بیشتر نمی‌شود.
+    if not cfgs:
+        return []
+    workers = min(WORKERS, len(cfgs))
+    with ThreadPoolExecutor(workers) as ex:
         return list(ex.map(test_config, cfgs))
 
 
@@ -375,8 +382,13 @@ def load_state():
 
 
 def save_state(st):
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
+    # ذخیره اتمیک تا قطع شدن ربات وسط نوشتن، state.json را خراب نکند.
+    tmp = STATE_FILE + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
         json.dump(st, f, ensure_ascii=False, indent=1)
+        f.flush()
+        os.fsync(f.fileno())
+    os.replace(tmp, STATE_FILE)
 
 
 def today_str():
@@ -434,13 +446,14 @@ def mode_post():
                 stats["healthy"] += 1
         print("healthy in queue:", len(queue))
 
-    queue.sort(key=lambda x: x["ping"])
-    while queue:
+    queue.sort(key=lambda x: (x["ping"], -x["ts"]))
+    posted_this_run = 0
+    while queue and posted_this_run < MAX_POSTS_PER_RUN:
         item = queue.pop(0)
         if time.time() - item["ts"] < 120:
             ping = item["ping"]
         else:
-            ping = test_config(item["cfg"])  # قبل از انتشار دوباره تست
+            ping = test_config(item["cfg"])
         if not ping:
             print("queued config died, dropped")
             continue
@@ -458,15 +471,18 @@ def mode_post():
                parse_mode="HTML", disable_web_page_preview="true",
                reply_markup=buy_button())
         if r.get("ok"):
-            posted[item["id"]] = {"cfg": named, "msg": r["result"]["message_id"], "ts": now}
+            posted[item["id"]] = {"cfg": named, "msg": r["result"]["message_id"], "ts": time.time(), "ping": ping}
             stats["posted"] += 1
+            posted_this_run += 1
             print("posted, ping", ping)
         else:
             print("send failed:", r.get("description"))
             queue.insert(0, item)
-        break
-    else:
+            break
+    if posted_this_run == 0:
         print("no healthy config this round, nothing posted")
+    else:
+        print("posted this run:", posted_this_run)
 
     if len(posted) > MAX_POSTED:
         for k in sorted(posted, key=lambda k: posted[k]["ts"])[:len(posted) - MAX_POSTED]:
@@ -513,5 +529,7 @@ def mode_clean():
 if __name__ == "__main__":
     if not BOT_TOKEN:
         sys.exit("BOT_TOKEN is missing (add it in repo Settings > Secrets)")
+    if not os.path.isfile(XRAY) or not os.access(XRAY, os.X_OK):
+        sys.exit("xray executable not found or not executable: %s" % XRAY)
     mode = sys.argv[1] if len(sys.argv) > 1 else "post"
     (mode_clean if mode == "clean" else mode_post)()
