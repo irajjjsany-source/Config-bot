@@ -626,7 +626,8 @@
   "d43dc0ff07890c04": 1791149442.534208,
   "b591ca54625e1a7a": 1791149442.534208,
   "3452f2cbf65c9b17": 1791150333.567347,
-  "b17e795168341202": 1791150841.933334
+  "b17e795168341202": 1791150841.933334,
+  "4c7d13d3338d91c5": 1791152131.7649927
  },
  "queue": [],
  "posted": {
@@ -1495,6 +1496,16 @@
    "score": 63,
    "stability": 100,
    "country": "Finland",
+   "repost_count": 0
+  },
+  "4c7d13d3338d91c5": {
+   "cfg": "vless://436fa4be-430f-4f59-8d01-8492926b2501@88.99.225.79:46647?security=reality&encryption=none&pbk=QNO9iBFY6Rh0POOWFNtMWd46jagrc6t-gPbA9eqEeUw&headerType=none&fp=chrome&spx=%2Fc9a81d0a0b1a4b8&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=68d3f0df3f577938#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 859,
+   "ts": 1791152136.679078,
+   "ping": 435,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
    "repost_count": 0
   }
  },
@@ -3188,13 +3199,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791148557.2207253
+  },
+  "88.99.225.79": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791152135.9373183
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 230,
-  "healthy": 169,
-  "posted": 110,
+  "fetched": 231,
+  "healthy": 170,
+  "posted": 111,
   "removed": 49,
   "published_scores": [
    89,
@@ -3261,7 +3277,8 @@
    74,
    93,
    96,
-   63
+   63,
+   94
   ],
   "top_today": [
    {
