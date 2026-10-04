@@ -1,6 +1,5 @@
 {
  "seen": {
-  "d9c8fdbb86f8c62d": 1790841882.5381656,
   "f53e43819c669ab0": 1790843318.6732955,
   "68a02450ecb0736d": 1790843318.6732955,
   "32038caa4e808eda": 1790843318.6732955,
@@ -613,12 +612,6 @@
   "a8c003835958343a": 1791100853.9499936
  },
  "queue": [
-  {
-   "id": "e1e735158ea5a620",
-   "cfg": "vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:443?path=%2F&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#🔵@chillguy_vpn",
-   "ping": 384,
-   "ts": 1791087340.8925614
-  },
   {
    "id": "607d9bfe91be4c27",
    "cfg": "vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:443?path=%2F&security=reality&encryption=none&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&fp=chrome&type=xhttp&sni=download.nvidia.com#🔵@chillguy_vpn",
@@ -1237,6 +1230,11 @@
    "cfg": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@us-2.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us-2.srv.dvzh.net&sid=d30f9d846a7c8cba#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 757,
    "ts": 1791100853.9499936
+  },
+  "e1e735158ea5a620": {
+   "cfg": "vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:443?path=%2F&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 758,
+   "ts": 1791101732.0686407
   }
  },
  "geo": {
@@ -2605,7 +2603,7 @@
   "date": "2026-10-04",
   "fetched": 71,
   "healthy": 57,
-  "posted": 11,
+  "posted": 12,
   "removed": 3
  }
 }
