@@ -603,51 +603,10 @@
   "ba44e0080d0caa1f": 1791121534.3707705,
   "a5c581b374ce74e6": 1791122372.8389482,
   "5d214f05afe24d75": 1791122372.8389482,
-  "c7849654e0ff7b61": 1791122372.8389482
+  "c7849654e0ff7b61": 1791122372.8389482,
+  "461338a8cd153680": 1791122451.6904995
  },
  "queue": [
-  {
-   "id": "a5c581b374ce74e6",
-   "cfg": "vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@89.144.32.247:25895?security=reality&encryption=none&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=a73f0410d728c823#🔵@chillguy_vpn",
-   "ping": 676,
-   "ts": 1791122372.8389482
-  },
-  {
-   "id": "9ed8ff8df2ca17f6",
-   "cfg": "vless://de50063f-23c3-4743-aa2e-b5402bd4316f@fde.tavrin-technology-services.ir:8443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=edge&pbk=lj9J-OK2PmyBUbvKCPDx6olIiE4TH_g95VubcbgtRSQ&sid=a3711da1f0a7b481#🔵@chillguy_vpn",
-   "ping": 726,
-   "ts": 1791106242.4733968
-  },
-  {
-   "id": "02d95fc574b4e045",
-   "cfg": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?encryption=none&security=tls&sni=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=a.cwvps.eu.org&path=%2Fws#🔵@chillguy_vpn",
-   "ping": 734,
-   "ts": 1791105330.192011
-  },
-  {
-   "id": "548610e02eb5ba53",
-   "cfg": "vless://de50063f-23c3-4743-aa2e-b5402bd4316f@fde.tavrin-technology-services.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=miro.com&fp=edge&pbk=5doK8raEs3TOJKvp7TlBBp-1LSwvRCcedAAv0BMcYww&sid=3ac462a2f3646bc8&spx=%2F125&pqv=EBukE0S3j40tFRx2F7UlqREtICIpXoSLvgKhg8fABzcFc46KardD1avK9mPgSxmO5JwTjC9_wFXgqhBuekBXDivEAsuOZs8ywWds4ZFH9IWKf6pZqQ8i469N0IJYbN4A5faIZSPXQJYIWV4dL-IszKHZTu8Wi0PHrQyUWs5Oe0Lnd589x7qcFC6ZtF3x-HnlR_R5eCaJo5-31LdhqAC3XoSKtPZNi0aBn0-5Uku4AtxZs3Tytvp_QMz3phgma5qzCUjb9UBEIBrwU95L4e_5VeQ88L_ED6ZxqP08BiAvITDW8C5-5o9gPXP6yuqU5UQ5hxX8dppT8hXa8yAK2U8OyKSgNIUmRgwzDXguQEZ3_4pCC9X7TutWIDUcHHPwnh1zS6xU7rfjqJzai7utVp11j-XNFLoihTe9RkHEbaW930pecJeUuwJsL_DCos-RRfmGa4wzafUTRP2Z1nYGwK3puQHsTbt5TGPfBYQlzqM_cTxT81TD3XNcxwlzxgdEjE-g8ZSOR07u50jk4HWnOQHJ0anrdVIhMFSOfRJTh04RZtjNhgDqvVvfRAUBV4_lKaDlqkA0ZC2MLXS2R44cLoeyCL_Qph5t_IhzovA2_4jahNS_kZYthlGEwENpEws1V3iN6EIxu4_bdn8qD31noQY_cImLlIsfbXXLL5ODZLwsFah1zopvhSthSvZQjqoxpLLQsnMRzYw6atDm_iS6m-kYWG3gZXCELnX6UDPtIGkJ-2Uo9PFaFc54CEegI4LsKZ0AHe9fufRcEWbASnMkss0GTn4Wlu5GJxZLKgyVpw7sIhu_4JFb-XwE--LJ2FEtZYeiykQEBNrvK3KXrdsDjztbyb2wvr0ghfZ_xcwKcM80nP2-C9H3vURyaAJfiFuGNfDwrjKXtU3QdqG_a8GPdmLEK1ORqgTWwD0LkjzmANlG1WyTm14w7JQmrbcOA06WEWRDclMpFvjslLWNAVkLwAOp60ySK3SP5LQFarDQioDOvlyPczR3S1xiOU8ulQQbVj1OffIYA9HjRe18DXSDrCv_mCM8g0w42c1G1fd6Vcsu_ONG4DNos85zzAi5Sgcm-LfPw-zQnoiwfslrC-12FuOc9BduobBL-K9RnKIPEpdUoEgLOZLfvdAPnr1Gh2d9W762nRihcNgz3HLNBX2g-xybiAAgOXBcWlOUdIJKiaENGp8AnIhQRi3avguUJXQp1TGE2c3E_4KvpVG8LpfaH6X0VN3zxrilqfzKuhKZ8rHBisxwUVyL5oYiCKnYHqhlxC2_usOAfo6ldLVddOOrmzFz70PsNm50GgLiBqPd-D0dZ_LMRs0-i9-_FJxbqIp30hsSrLRkEp8I8dNfP1xEYt47M1wauRWwh5SLbsR5pqIIn6YE2Xr52x8C5HC7mKkuIDpqnPYbYxRJUPue32JkLVaXt0QWzUvrXBboTT3qodMDUUmIKZS7DIvtgp9LVt18rlVKE_Ixa4g1HqTXtpnzj7K3jjPQs-DSLTc2cvWB47tdfgPEw590aFLwwBYoRe-B38kVRiM0Yjy2pJKrZBs4jPiKOR8zZVl3m0QGBjzt26s7l_YhWQqB4Qcy3UedqbGAbavhpwmnfWt2MsvQFiJ9UWGvNc-F9C4Z9I5L-1n9DK8qgZkCJZZJAnvDY24Qb5TNCXlBPLqq96JlC2vpjhawqw26YwzQgmLk6VcZ5yl0bIW1DrfqZBw0QZX2QpqwQ9lJcltSrQGN_TePJfx_bd2IHKLgtn9h03evjDPEFmCSbXQLQfBv0pyR9Ey8wDx6NaE79Kb9_uO4LuAXok3haV5jwpEdwD5cLGnYAbLSxZP3LKD4MIWnPAaP8r5SCXHyvFKXNUn-v53RhM-XKXvVhL5zBu83oejDJS3F8za19mBST6pFBjdgllUnwE9v5u2jVCcxQXy0UP7YY1IwsA_vGZ6McUipXVxAX0CbrBaKTpMZraBX21g73_Yc-vaLFdKhVa8paQGoVcz63AfpqshXtCh52w_ZQb6-g1ja2QoOADxIUu4Mqwmpbw4AefA_EXHhH0e22hoclhZ9h-1w8lPcgIjKbjXpJQdnYryWLwL5wIwAihPk1HJ9B4vzgZu19WAbBCw9tHPhEPSxzjPhVsI8qOiEDwmVd-HOQNtxJRUKONDtDkIcdoNrjAK_7gsH6IhjMEpbEN-HJWZ7Uhw5ltJQ0xtygzY4h9s03NIGkFFWLII76w9rRHEpE48oaaH_fat9us_KZNQZRhbQUySPvtZ-UHV1l-lh1aZtkEvTrM4Ors_fJyBFi8uTvPDYjbFJoyGkoA-xQkfqV-NPobAq7d7d-YUT_qta4wwXPaUChzk2H2-hvPEFXULr3Up5Hh_xfgus-cPV40Cl1h569WibOcJEQ5BdJAZH89lHXsqg36JM972upcH9ps5ze_OW4MoXZWCZhtEtssG16RvmLMNTITrmXoVcC1vbMydp-tYjU9okmEziuFIN7kILFRH5N0QvyDUUWR8BzjDXHhCrXDz90mBT8Ipgac6_Z0tOtNyaNxVOIz6UzEmgN-uiR-Fuz1DWz4pHUbNnkEzZJ59TElMs5FYQegTGjSAlCwOxi0YQfD5F6yx8_TzQjcI#🔵@chillguy_vpn",
-   "ping": 737,
-   "ts": 1791106242.4733968
-  },
-  {
-   "id": "cad2367d9c7a1892",
-   "cfg": "vless://de50063f-23c3-4743-aa2e-b5402bd4316f@wfi.novarairam.ir:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=edge.com&fp=edge&pbk=8GrkCQEmv_lH2kMvPC5khXxijkVk8DN21DCMh2Yi238&sid=6c492e06ea531fcf#🔵@chillguy_vpn",
-   "ping": 781,
-   "ts": 1791106242.4733968
-  },
-  {
-   "id": "eda986fd4321de64",
-   "cfg": "vmess://eyJhZGQiOiAiMjA2LjEuMTAzLjE3OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTk0NTI0OWEtYTJmOC00MmI1LTkwMDItMzlmNWE2ZDhlNzJhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNDM5ODAiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
-   "ping": 832,
-   "ts": 1791106242.4733968
-  },
-  {
-   "id": "16627176d01c300b",
-   "cfg": "vless://f1ad9a8d-9931-4200-aa04-87f30f7ad2b3@77.67.8.131:443?security=reality&encryption=none&pbk=yt3hv0UEBAm78kPbMlrb72mQgwsXUDf018_7xysKhWc&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=go.resetnet.ru#🔵@chillguy_vpn",
-   "ping": 873,
-   "ts": 1791108936.266826
-  },
   {
    "id": "ead88d86711bae63",
    "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?security=reality&encryption=none&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=1mcfn.67resserv67.info&sid=29455a3a790acbd0#🔵@chillguy_vpn",
@@ -1146,6 +1105,24 @@
    "msg": 785,
    "ts": 1791122379.47117,
    "ping": 664
+  },
+  "a5c581b374ce74e6": {
+   "cfg": "vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@89.144.32.247:25895?security=reality&encryption=none&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=a73f0410d728c823#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 786,
+   "ts": 1791122454.37274,
+   "ping": 676
+  },
+  "02d95fc574b4e045": {
+   "cfg": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?encryption=none&security=tls&sni=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=a.cwvps.eu.org&path=%2Fws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 787,
+   "ts": 1791122456.5018117,
+   "ping": 728
+  },
+  "461338a8cd153680": {
+   "cfg": "vless://9eb6abc0-8423-4ff6-efb3-7603ddfb9636@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 788,
+   "ts": 1791122468.7001805,
+   "ping": 941
   }
  },
  "geo": {
@@ -2593,13 +2570,18 @@
    "cc": "TR",
    "name": "Türkiye",
    "ts": 1791122378.8297167
+  },
+  "89.144.32.247": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1791122453.5462742
   }
  },
  "stats": {
   "date": "2026-10-04",
-  "fetched": 126,
-  "healthy": 102,
-  "posted": 38,
+  "fetched": 127,
+  "healthy": 103,
+  "posted": 41,
   "removed": 21
  }
 }
