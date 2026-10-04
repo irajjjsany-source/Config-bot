@@ -621,12 +621,6 @@
  },
  "queue": [
   {
-   "id": "a4baa5922b78ab88",
-   "cfg": "vless://e081da45-9fae-4687-9376-f9a6a0dbbe83@104.20.28.233:80?type=ws&headerType=none&host=e33xr.qzz.io&path=%2Fid-amz#🔵@chillguy_vpn",
-   "ping": 43,
-   "ts": 1791095007.547144
-  },
-  {
    "id": "cf9fda25827d9f30",
    "cfg": "vless://875d3876-ab9a-4dd6-8a8d-bf57f03403aa@104.26.13.40:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=square-sea-01d1.339-be3.workers.dev&type=ws#🔵@chillguy_vpn",
    "ping": 59,
@@ -1215,6 +1209,11 @@
    "cfg": "vless://8546bcef-8456-41a2-82bc-d2231b42b769@104.21.88.129:8880?security=none&type=ws&path=/&host=small-tree-9ec0.84-971.workers.dev&packetEncoding=xudp&sni=small-tree-9ec0.84-971.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 750,
    "ts": 1791095061.2798061
+  },
+  "a4baa5922b78ab88": {
+   "cfg": "vless://e081da45-9fae-4687-9376-f9a6a0dbbe83@104.20.28.233:80?type=ws&headerType=none&host=e33xr.qzz.io&path=%2Fid-amz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 751,
+   "ts": 1791095443.078194
   }
  },
  "geo": {
@@ -2558,7 +2557,7 @@
   "date": "2026-10-04",
   "fetched": 61,
   "healthy": 48,
-  "posted": 4,
+  "posted": 5,
   "removed": 3
  }
 }
