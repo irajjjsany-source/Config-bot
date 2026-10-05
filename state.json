@@ -619,7 +619,12 @@
   "b487a89f04a5bd43": 1791219650.4952462,
   "77f04203de6b746b": 1791219650.4952462,
   "e0b31f3d45c3b904": 1791220537.5864131,
-  "f7c5d87f40d1af4d": 1791220537.5864131
+  "f7c5d87f40d1af4d": 1791220537.5864131,
+  "9cf388137dc8b621": 1791221112.8970344,
+  "e2dd14f04ac3291f": 1791221112.8970344,
+  "11341c3a8c4d6565": 1791221112.8970344,
+  "165cde700b6a4ed0": 1791221112.8970344,
+  "e3b604e596004af3": 1791221112.8970344
  },
  "queue": [],
  "posted": {
@@ -2528,6 +2533,36 @@
    "score": 93,
    "stability": 100,
    "country": "Finland",
+   "repost_count": 0
+  },
+  "9cf388137dc8b621": {
+   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@67.159.6.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.mediagavan.cc&fp=chrome&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 965,
+   "ts": 1791221130.5864935,
+   "ping": 361,
+   "score": 95,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "11341c3a8c4d6565": {
+   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@67.159.6.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.mediagavan.cc&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 966,
+   "ts": 1791221131.148143,
+   "ping": 366,
+   "score": 95,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "e3b604e596004af3": {
+   "cfg": "vless://30141a8e-1b78-4f4b-88d3-1b0c90042256@104.245.103.36:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 967,
+   "ts": 1791221131.755768,
+   "ping": 645,
+   "score": 92,
+   "stability": 100,
+   "country": "Netherlands",
    "repost_count": 0
   }
  },
@@ -4481,13 +4516,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791219661.0668492
+  },
+  "104.245.103.36": {
+   "cc": "NL",
+   "name": "Netherlands",
+   "ts": 1791221131.1482575
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 128,
-  "healthy": 92,
-  "posted": 91,
+  "fetched": 133,
+  "healthy": 95,
+  "posted": 94,
   "removed": 0,
   "published_scores": [
    95,
@@ -4580,7 +4620,10 @@
    67,
    96,
    94,
-   93
+   93,
+   95,
+   95,
+   92
   ]
  }
 }
