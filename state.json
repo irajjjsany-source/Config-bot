@@ -591,9 +591,23 @@
   "1a500de747e3b6e1": 1791159330.7461133,
   "c0c2db7e736f61b5": 1791166531.0431416,
   "a610b73ada7e0255": 1791174465.2695882,
-  "be175d543a6b4e8c": 1791176415.52095
+  "be175d543a6b4e8c": 1791176415.52095,
+  "2b181e7f929bd966": 1791177336.0760255,
+  "f7035b87667d3e28": 1791177336.0760255,
+  "e496118c9f86274b": 1791177336.0760255,
+  "52f528404693e621": 1791177336.0760255
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "52f528404693e621",
+   "cfg": "vless://8cde6cd0-7903-4aef-8ce8-528fa9677d7b@172.67.152.71:8880?&type=ws&headerType=none&host=steep-glitter-7c3c.367-5c9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🔵@chillguy_vpn",
+   "ping": 85,
+   "best": 78,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791177336.0760255
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -1610,6 +1624,36 @@
    "score": 99,
    "stability": 100,
    "country": "Canada",
+   "repost_count": 0
+  },
+  "2b181e7f929bd966": {
+   "cfg": "vless://f1e5d738-2e83-4e2f-b6d6-a9013b3e7e48@172.67.134.7:2052?security=none&type=ws&path=/vl/u3oMYZoYUAozPFEA8UhR?ed=2560&host=a6o58qfpwvgrwmz0crtha0r24uyiu2l.x7-f5jb95s0ocjt-0.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 875,
+   "ts": 1791177344.3518472,
+   "ping": 72,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "f7035b87667d3e28": {
+   "cfg": "vless://5990e0a5-fc5f-43c6-8fdc-39612c60a9cd@104.21.56.202:8880?encryption=none&type=ws&host=jolly-butterfly-24e0.212-cb3.workers.dev&path=%2Fpyip&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 876,
+   "ts": 1791177344.9563522,
+   "ping": 78,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "e496118c9f86274b": {
+   "cfg": "vless://94977b19-6720-48a6-92fd-00238757ea30@188.114.97.6:8880?&type=ws&headerType=none&host=fragrant-credit-c4cf.148-e68.workers.dev&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 877,
+   "ts": 1791177345.5593352,
+   "ping": 84,
+   "score": 99,
+   "stability": 100,
+   "country": "",
    "repost_count": 0
   }
  },
@@ -3357,12 +3401,15 @@
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 4,
-  "healthy": 2,
-  "posted": 2,
+  "fetched": 8,
+  "healthy": 6,
+  "posted": 5,
   "removed": 0,
   "published_scores": [
    95,
+   99,
+   99,
+   99,
    99
   ]
  }
