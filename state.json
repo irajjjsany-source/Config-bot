@@ -1,7 +1,5 @@
 {
  "seen": {
-  "a8199bf271aff011": 1790915123.7034318,
-  "29ea66779c7bf71d": 1790915123.7034318,
   "0bc74e6322e11822": 1790915960.113764,
   "0dd941688537803d": 1790915960.113764,
   "d9c1808b72692466": 1790915960.113764,
@@ -601,7 +599,8 @@
   "8a78456915723a5a": 1791156641.579364,
   "f6da55c28e585852": 1791156641.579364,
   "1a500de747e3b6e1": 1791159330.7461133,
-  "c0c2db7e736f61b5": 1791166531.0431416
+  "c0c2db7e736f61b5": 1791166531.0431416,
+  "a610b73ada7e0255": 1791174465.2695882
  },
  "queue": [],
  "posted": {
@@ -1610,6 +1609,16 @@
    "score": 95,
    "stability": 100,
    "country": "United States",
+   "repost_count": 0
+  },
+  "a610b73ada7e0255": {
+   "cfg": "vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?path=/&security=none&encryption=none&host=icy-wildflower-2590.lihuifeng595.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 874,
+   "ts": 1791174468.6325815,
+   "ping": 51,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
    "repost_count": 0
   }
  },
@@ -3348,16 +3357,22 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791166534.8381054
+  },
+  "104.26.3.125": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791174467.7385442
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 2,
-  "healthy": 1,
-  "posted": 1,
+  "fetched": 3,
+  "healthy": 2,
+  "posted": 2,
   "removed": 0,
   "published_scores": [
-   95
+   95,
+   99
   ]
  }
 }
