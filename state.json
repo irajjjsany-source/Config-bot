@@ -1,7 +1,5 @@
 {
  "seen": {
-  "4d4f2e4e2b843e75": 1790923762.333685,
-  "7f0d58e715da5910": 1790923762.333685,
   "9d672616034b00c1": 1790924731.1143694,
   "7b22a55a6db15890": 1790924731.1143694,
   "c3f611fac3877663": 1790924731.1143694,
@@ -608,19 +606,10 @@
   "d33557250b27c62f": 1791182732.6669712,
   "af388bec29f64795": 1791182732.6669712,
   "79fb82dac86eb9e8": 1791182732.6669712,
-  "18649dca3d01f56a": 1791182732.6669712
+  "18649dca3d01f56a": 1791182732.6669712,
+  "b22a38b602d1be17": 1791183651.4218016
  },
- "queue": [
-  {
-   "id": "af388bec29f64795",
-   "cfg": "vmess://eyJhZGQiOiAidmlwNi5lejA1MzUuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkNzA0NTE1YS04NDY2LTQwZDItYjkwMi1jYzhmZWFmYzAxYTQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
-   "ping": 904,
-   "best": 861,
-   "score": 88,
-   "stability": 100,
-   "ts": 1791182732.6669712
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -1837,6 +1826,26 @@
    "score": 97,
    "stability": 100,
    "country": "Russia",
+   "repost_count": 0
+  },
+  "b22a38b602d1be17": {
+   "cfg": "vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@188.114.99.0:8880?encryption=none&type=ws&host=young-wind-3c58.240-2ce.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 895,
+   "ts": 1791183654.3397171,
+   "ping": 45,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "af388bec29f64795": {
+   "cfg": "vmess://eyJhZGQiOiAidmlwNi5lejA1MzUuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkNzA0NTE1YS04NDY2LTQwZDItYjkwMi1jYzhmZWFmYzAxYTQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "msg": 896,
+   "ts": 1791183663.8142478,
+   "ping": 2533,
+   "score": 67,
+   "stability": 100,
+   "country": "Iran",
    "repost_count": 0
   }
  },
@@ -3605,13 +3614,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1791182744.9262278
+  },
+  "vip6.ez0535.com": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791183663.2776847
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 27,
-  "healthy": 23,
-  "posted": 22,
+  "fetched": 28,
+  "healthy": 24,
+  "posted": 24,
   "removed": 0,
   "published_scores": [
    95,
@@ -3635,7 +3649,9 @@
    93,
    100,
    98,
-   97
+   97,
+   99,
+   67
   ]
  }
 }
