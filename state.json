@@ -597,7 +597,9 @@
   "7244d074ebf8c69c": 1791207046.9749143,
   "2c2926b2ca265bbc": 1791207046.9749143,
   "04befe7b4bea002e": 1791207046.9749143,
-  "7e4f1ae9fed59e6d": 1791207046.9749143
+  "7e4f1ae9fed59e6d": 1791207046.9749143,
+  "719324badbdf14e8": 1791209695.7901716,
+  "8fbbdb66685dff69": 1791209695.7901716
  },
  "queue": [],
  "posted": {
@@ -2196,6 +2198,26 @@
    "score": 91,
    "stability": 100,
    "country": "France",
+   "repost_count": 0
+  },
+  "719324badbdf14e8": {
+   "cfg": "vless://8ee2927b-1be9-404d-9b96-61dcc51bbd37@185.90.61.12:443?mode=stream-one&path=%2Fapi%2Fv1%2F292b54c0&security=reality&encryption=none&pbk=PlP5L4lWEh_9h53_U-5kqwzl4C-eCrJoA6BF74cdfk8&host=vk.com&fp=safari&spx=%2F&type=xhttp&sni=sberbank.ru&sid=4164bb3d830b817f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 933,
+   "ts": 1791209704.3160496,
+   "ping": 568,
+   "score": 93,
+   "stability": 100,
+   "country": "Norway",
+   "repost_count": 0
+  },
+  "8fbbdb66685dff69": {
+   "cfg": "vless://cccb2d1e-cefe-4239-93e4-b71faa1b8c31@31.57.185.106:443?encryption=mlkem768x25519plus.native.0rtt.w6cvTIli4T7BaygN-9zzY9oEaZf1Ji4dU25yT1pYQ3k&security=reality&sni=aparat.com&fp=chrome&pbk=NG8_o4zR0rx8iSZ1hsT_NYxBZIIj7WPNs0-QMj_76So&sid=267aab2f7f23&spx=%2F342a546399f3ce1&type=xhttp&mode=auto&host=31.57.185.106&path=%2F&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 934,
+   "ts": 1791209704.93881,
+   "ping": 642,
+   "score": 92,
+   "stability": 100,
+   "country": "United States",
    "repost_count": 0
   }
  },
@@ -4064,13 +4086,23 @@
    "cc": "FR",
    "name": "France",
    "ts": 1791204359.448846
+  },
+  "185.90.61.12": {
+   "cc": "NO",
+   "name": "Norway",
+   "ts": 1791209703.688446
+  },
+  "31.57.185.106": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791209704.3162103
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 84,
-  "healthy": 60,
-  "posted": 60,
+  "fetched": 86,
+  "healthy": 62,
+  "posted": 62,
   "removed": 0,
   "published_scores": [
    95,
@@ -4132,7 +4164,9 @@
    39,
    97,
    94,
-   91
+   91,
+   93,
+   92
   ]
  }
 }
