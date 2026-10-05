@@ -1,9 +1,5 @@
 {
  "seen": {
-  "5f4c9748f09c566a": 1790926035.4191236,
-  "534d5d90775b9fe2": 1790926035.4191236,
-  "0232f58f134ae96a": 1790926035.4191236,
-  "f6870fd77451cd76": 1790926035.4191236,
   "8d513446fcde903a": 1790927590.6485853,
   "3fea1a7898be5b64": 1790929655.5863686,
   "5b661c1ecc747fb1": 1790930433.7185585,
@@ -607,19 +603,10 @@
   "2e754691f9f028cd": 1791184532.904944,
   "1901a98a25afc9eb": 1791184532.904944,
   "fcb6c2bf2c772805": 1791184532.904944,
-  "4b61c20cdfbcceee": 1791184532.904944
+  "4b61c20cdfbcceee": 1791184532.904944,
+  "b9bcf9bafcb323c5": 1791185325.7902153
  },
- "queue": [
-  {
-   "id": "1901a98a25afc9eb",
-   "cfg": "vless://f354744d-21d9-4836-9934-4989e1c4d877@bgroup.sg1.ilovegairport.com:443?security=reality&encryption=none&pbk=3QQxF4eV_tdOD8Z5lU4PBIWFmU-pRZBvBxNTNCZBpEU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ap-southeast-1.console.aws.amazon.com&sid=aaf565ccdea967#🔵@chillguy_vpn",
-   "ping": 699,
-   "best": 664,
-   "score": 91,
-   "stability": 100,
-   "ts": 1791184532.904944
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -1886,6 +1873,16 @@
    "score": 92,
    "stability": 100,
    "country": "Hong Kong",
+   "repost_count": 0
+  },
+  "1901a98a25afc9eb": {
+   "cfg": "vless://f354744d-21d9-4836-9934-4989e1c4d877@bgroup.sg1.ilovegairport.com:443?security=reality&encryption=none&pbk=3QQxF4eV_tdOD8Z5lU4PBIWFmU-pRZBvBxNTNCZBpEU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ap-southeast-1.console.aws.amazon.com&sid=aaf565ccdea967#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 900,
+   "ts": 1791185336.1701293,
+   "ping": 1071,
+   "score": 86,
+   "stability": 100,
+   "country": "Singapore",
    "repost_count": 0
   }
  },
@@ -3669,13 +3666,18 @@
    "cc": "HK",
    "name": "Hong Kong",
    "ts": 1791184547.1077988
+  },
+  "bgroup.sg1.ilovegairport.com": {
+   "cc": "SG",
+   "name": "Singapore",
+   "ts": 1791185335.6183047
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 32,
+  "fetched": 33,
   "healthy": 28,
-  "posted": 27,
+  "posted": 28,
   "removed": 0,
   "published_scores": [
    95,
@@ -3704,7 +3706,8 @@
    67,
    100,
    92,
-   92
+   92,
+   86
   ]
  }
 }
