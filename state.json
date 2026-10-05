@@ -618,36 +618,10 @@
   "c7c017aa81af8875": 1791218626.2586973,
   "cd81bbc460d60b13": 1791218626.2586973,
   "b14a3c61c5a4fedd": 1791218626.2586973,
-  "6f146546ea204b22": 1791218626.2586973
+  "6f146546ea204b22": 1791218626.2586973,
+  "74b45106e61d75a5": 1791218733.2711282
  },
  "queue": [
-  {
-   "id": "b14a3c61c5a4fedd",
-   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@189.74.114.148:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#🔵@chillguy_vpn",
-   "ping": 440,
-   "best": 433,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791218626.2586973
-  },
-  {
-   "id": "902d729900264931",
-   "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.35.74:443?security=reality&encryption=none&pbk=zAmNLsLPizp96b55zNe2kJ3zXBdpuNY0olnRaOpluks&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=34e797af#🔵@chillguy_vpn",
-   "ping": 496,
-   "best": 478,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791217649.7533004
-  },
-  {
-   "id": "113994147bd5c784",
-   "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@13.143.129.45:443?security=reality&encryption=none&pbk=CsoM3VUYii1XxgxnrT4VEe-EALgn60k6BaKMJVP9qAM&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=7dd08043#🔵@chillguy_vpn",
-   "ping": 715,
-   "best": 692,
-   "score": 91,
-   "stability": 100,
-   "ts": 1791217649.7533004
-  },
   {
    "id": "31cf171d9a11556f",
    "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.117:443?security=reality&encryption=none&pbk=-bn-69fLm8-ZIN4AWcFJTvliohVXnevdOK6E0HJF90Y&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=123c2bff#🔵@chillguy_vpn",
@@ -665,6 +639,15 @@
    "score": 79,
    "stability": 100,
    "ts": 1791218626.2586973
+  },
+  {
+   "id": "74b45106e61d75a5",
+   "cfg": "vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pan2e.global.ssl.fastly.net&path=%2F#🔵@chillguy_vpn",
+   "ping": 1700,
+   "best": 560,
+   "score": 78,
+   "stability": 100,
+   "ts": 1791218733.2711282
   }
  ],
  "posted": {
@@ -2493,6 +2476,36 @@
    "score": 94,
    "stability": 100,
    "country": "Russia",
+   "repost_count": 0
+  },
+  "b14a3c61c5a4fedd": {
+   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@189.74.114.148:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 957,
+   "ts": 1791218745.1393282,
+   "ping": 440,
+   "score": 94,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "902d729900264931": {
+   "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.35.74:443?security=reality&encryption=none&pbk=zAmNLsLPizp96b55zNe2kJ3zXBdpuNY0olnRaOpluks&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=34e797af#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 958,
+   "ts": 1791218748.8827834,
+   "ping": 574,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "113994147bd5c784": {
+   "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@13.143.129.45:443?security=reality&encryption=none&pbk=CsoM3VUYii1XxgxnrT4VEe-EALgn60k6BaKMJVP9qAM&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=7dd08043#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 959,
+   "ts": 1791218753.7846234,
+   "ping": 962,
+   "score": 87,
+   "stability": 100,
+   "country": "Finland",
    "repost_count": 0
   }
  },
@@ -4421,13 +4434,23 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791217671.2308857
+  },
+  "2.27.35.74": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791218748.191355
+  },
+  "13.143.129.45": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791218753.1005225
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 122,
-  "healthy": 88,
-  "posted": 83,
+  "fetched": 123,
+  "healthy": 89,
+  "posted": 86,
   "removed": 0,
   "published_scores": [
    95,
@@ -4512,7 +4535,10 @@
    95,
    94,
    94,
-   94
+   94,
+   94,
+   93,
+   87
   ]
  }
 }
