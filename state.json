@@ -1,9 +1,5 @@
 {
  "seen": {
-  "5b661c1ecc747fb1": 1790930433.7185585,
-  "f8d0308bdebe3ce4": 1790930433.7185585,
-  "1ccd7b85e1636786": 1790930433.7185585,
-  "2237bb76a76f668f": 1790930433.7185585,
   "a18c63ac3ce85d5a": 1790931856.3862321,
   "13ffa1f142bb2de6": 1790931856.3862321,
   "81f3d0e8ca6be44c": 1790933206.3678408,
@@ -612,7 +608,8 @@
   "963ccfcc36537560": 1791188974.5637395,
   "f3425fa8a772ed56": 1791188974.5637395,
   "6c1961a95b7c207e": 1791188974.5637395,
-  "ce8b0bd02798ac19": 1791188974.5637395
+  "ce8b0bd02798ac19": 1791188974.5637395,
+  "6a00846ddcd50bfb": 1791189935.6722214
  },
  "queue": [],
  "posted": {
@@ -1971,6 +1968,16 @@
    "score": 35,
    "stability": 100,
    "country": "Germany",
+   "repost_count": 0
+  },
+  "6a00846ddcd50bfb": {
+   "cfg": "vless://43034217-fbfd-4ddf-9c5b-b00fedb25c54@31.77.105.201:443?security=reality&encryption=none&pbk=yfQMWDUFaQVYkdeLaj6W5OlJL4VhC2bCUWdgovCUKUc&headerType=&fp=safari&spx=%2FGbXAcAkyZvFm9zg&type=tcp&flow=xtls-rprx-vision&sni=conv-fi2.unit-digital.com&sid=3a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 909,
+   "ts": 1791189939.8008904,
+   "ping": 306,
+   "score": 96,
+   "stability": 100,
+   "country": "Finland",
    "repost_count": 0
   }
  },
@@ -3789,13 +3796,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791189044.964044
+  },
+  "31.77.105.201": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791189939.2671885
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 43,
-  "healthy": 36,
-  "posted": 36,
+  "fetched": 44,
+  "healthy": 37,
+  "posted": 37,
   "removed": 0,
   "published_scores": [
    95,
@@ -3833,7 +3845,8 @@
    96,
    94,
    93,
-   35
+   35,
+   96
   ]
  }
 }
