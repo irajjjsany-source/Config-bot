@@ -618,7 +618,9 @@
   "d0e1346cb5ada7c6": 1791192614.377644,
   "d715b7b684b385cc": 1791192614.377644,
   "dfb8716c057c0f5b": 1791192614.377644,
-  "cfcb626d71a15dbc": 1791193539.0068517
+  "cfcb626d71a15dbc": 1791193539.0068517,
+  "a1d55889dd8b34fd": 1791195335.9356484,
+  "fa31d6d3cd18fdd0": 1791195335.9356484
  },
  "queue": [],
  "posted": {
@@ -2057,6 +2059,26 @@
    "score": 93,
    "stability": 100,
    "country": "Germany",
+   "repost_count": 0
+  },
+  "fa31d6d3cd18fdd0": {
+   "cfg": "vless://%58pnTeam-74@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 917,
+   "ts": 1791195345.56133,
+   "ping": 699,
+   "score": 91,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "a1d55889dd8b34fd": {
+   "cfg": "vless://%58pnTeam-73@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 918,
+   "ts": 1791195346.146955,
+   "ping": 719,
+   "score": 91,
+   "stability": 100,
+   "country": "United States",
    "repost_count": 0
   }
  },
@@ -3889,9 +3911,9 @@
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 56,
-  "healthy": 44,
-  "posted": 44,
+  "fetched": 58,
+  "healthy": 46,
+  "posted": 46,
   "removed": 0,
   "published_scores": [
    95,
@@ -3937,7 +3959,9 @@
    98,
    95,
    99,
-   93
+   93,
+   91,
+   91
   ]
  }
 }
