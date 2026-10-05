@@ -600,7 +600,9 @@
   "42664f68bc46e774": 1791210645.8846989,
   "fcde7957f55bef7e": 1791212143.9653146,
   "410d2ea4abf64429": 1791212143.9653146,
-  "0b0dfcbff25daf85": 1791212453.1872506
+  "0b0dfcbff25daf85": 1791212453.1872506,
+  "affd1416af1aedb7": 1791212833.9085336,
+  "a3767b869178eedb": 1791212833.9085336
  },
  "queue": [],
  "posted": {
@@ -2237,6 +2239,16 @@
    "ts": 1791212154.4614508,
    "ping": 802,
    "score": 90,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "affd1416af1aedb7": {
+   "cfg": "vless://1ef3cfdd-a0b7-4584-87b4-2b217d8a4581@64.188.115.219:443?security=reality&encryption=none&pbk=2tjr1gP8eecWi9xlKFB1SmPKOzRgDt40NBQcxhjaKCA&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.swift.com&sid=270b5417f8ecb723#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 937,
+   "ts": 1791212872.3756301,
+   "ping": 1982,
+   "score": 74,
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
@@ -4127,13 +4139,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791212153.7747283
+  },
+  "64.188.115.219": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791212871.7727172
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 90,
-  "healthy": 64,
-  "posted": 64,
+  "fetched": 92,
+  "healthy": 65,
+  "posted": 65,
   "removed": 0,
   "published_scores": [
    95,
@@ -4199,7 +4216,8 @@
    93,
    92,
    91,
-   90
+   90,
+   74
   ]
  }
 }
