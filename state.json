@@ -1,7 +1,5 @@
 {
  "seen": {
-  "5bb33e768e8a8b6c": 1790965734.6932037,
-  "55a96214458e6156": 1790965734.6932037,
   "0144dea8eb518b8a": 1790966685.8987975,
   "c143bd662cb5067e": 1790966685.8987975,
   "f477959c8783117b": 1790966685.8987975,
@@ -628,7 +626,13 @@
   "350ce4ea8aabe326": 1791224135.329721,
   "885bcc393a116a80": 1791224135.329721,
   "d5f65d1e6a082215": 1791224135.329721,
-  "f899f47ddb028d89": 1791224135.329721
+  "f899f47ddb028d89": 1791224135.329721,
+  "41da5892ba9a68dc": 1791225045.0275073,
+  "3ef6609e27c94ee6": 1791225045.0275073,
+  "d5410db899a733d0": 1791225045.0275073,
+  "440186869fd04f2a": 1791225045.0275073,
+  "ef0f4f607e3afdbf": 1791225045.0275073,
+  "3989ae5bd4218230": 1791225045.0275073
  },
  "queue": [
   {
@@ -2735,6 +2739,36 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "41da5892ba9a68dc": {
+   "cfg": "vless://596086c9-3167-0004-97a1-c04311039e06@195.252.179.1:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 981,
+   "ts": 1791225064.7655551,
+   "ping": 279,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "d5410db899a733d0": {
+   "cfg": "vless://a21d693d-f866-4c12-94dd-5b30d4e5c40b@cdn4.wildiran.com:443?path=%2F219fd9877b1d&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=https%3A%2F%2F8.8.8.8%2Fdns-query&type=ws&allowInsecure=0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 982,
+   "ts": 1791225065.2763965,
+   "ping": 755,
+   "score": 90,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "3989ae5bd4218230": {
+   "cfg": "vless://8decb53d-a198-4b9b-8dfc-814a7715a062@fs.koomeh.net:443?mode=auto&path=%2Frmnwv&security=tls&encryption=none&insecure=0&host=Amiiiiiiirfjjjvgf0097.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 983,
+   "ts": 1791225065.8337815,
+   "ping": 1042,
+   "score": 86,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -4742,13 +4776,28 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791224192.0081604
+  },
+  "195.252.179.1": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791225064.163092
+  },
+  "cdn4.wildiran.com": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791225064.7656891
+  },
+  "fs.koomeh.net": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791225065.2765493
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 155,
-  "healthy": 113,
-  "posted": 107,
+  "fetched": 161,
+  "healthy": 116,
+  "posted": 110,
   "removed": 0,
   "published_scores": [
    95,
@@ -4857,7 +4906,10 @@
    88,
    64,
    63,
-   73
+   73,
+   96,
+   90,
+   86
   ]
  }
 }
