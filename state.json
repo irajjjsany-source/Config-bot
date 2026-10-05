@@ -602,26 +602,7 @@
   "8d76a645ad81f609": 1791179136.180896,
   "3d34051127e305e7": 1791179136.180896
  },
- "queue": [
-  {
-   "id": "94b374778e74babd",
-   "cfg": "vless://38986695-66de-4878-a535-8fc679a70e64@136.243.216.75:20009?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 407,
-   "best": 350,
-   "score": 95,
-   "stability": 100,
-   "ts": 1791179136.180896
-  },
-  {
-   "id": "dea7dd071706fa05",
-   "cfg": "vless://38986695-66de-4878-a535-8fc679a70e64@136.243.216.75:20010?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 2122,
-   "best": 345,
-   "score": 72,
-   "stability": 100,
-   "ts": 1791179136.180896
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -1728,6 +1709,26 @@
    "score": 95,
    "stability": 100,
    "country": "United Kingdom",
+   "repost_count": 0
+  },
+  "94b374778e74babd": {
+   "cfg": "vless://38986695-66de-4878-a535-8fc679a70e64@136.243.216.75:20009?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 884,
+   "ts": 1791179221.7928588,
+   "ping": 407,
+   "score": 95,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "dea7dd071706fa05": {
+   "cfg": "vless://38986695-66de-4878-a535-8fc679a70e64@136.243.216.75:20010?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 885,
+   "ts": 1791179222.2384098,
+   "ping": 2122,
+   "score": 72,
+   "stability": 100,
+   "country": "Germany",
    "repost_count": 0
   }
  },
@@ -3476,13 +3477,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1791179155.1291592
+  },
+  "136.243.216.75": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791179221.3038046
   }
  },
  "stats": {
   "date": "2026-10-05",
   "fetched": 16,
   "healthy": 13,
-  "posted": 11,
+  "posted": 13,
   "removed": 0,
   "published_scores": [
    95,
@@ -3495,7 +3501,9 @@
    94,
    100,
    95,
-   95
+   95,
+   95,
+   72
   ]
  }
 }
