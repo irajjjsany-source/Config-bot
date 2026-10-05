@@ -606,7 +606,8 @@
   "b9bcf9bafcb323c5": 1791185325.7902153,
   "458a52397c8dd59f": 1791187252.1228788,
   "361220f133e43e8a": 1791187252.1228788,
-  "b8feaccc625569de": 1791187252.1228788
+  "b8feaccc625569de": 1791187252.1228788,
+  "8f654cd10682c29c": 1791188134.6406078
  },
  "queue": [],
  "posted": {
@@ -1905,6 +1906,16 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
+   "repost_count": 0
+  },
+  "8f654cd10682c29c": {
+   "cfg": "vless://725c66a2-2bce-4a24-ba52-b4e2e7047076@www.gov.ua:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=rapid-base-6c9e.45-d79.workers.dev&packetEncoding=xudp&sni=www.gov.ua#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 903,
+   "ts": 1791188137.5971634,
+   "ping": 33,
+   "score": 100,
+   "stability": 100,
+   "country": "Canada",
    "repost_count": 0
   }
  },
@@ -3702,9 +3713,9 @@
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 36,
-  "healthy": 30,
-  "posted": 30,
+  "fetched": 37,
+  "healthy": 31,
+  "posted": 31,
   "removed": 0,
   "published_scores": [
    95,
@@ -3736,7 +3747,8 @@
    92,
    86,
    99,
-   98
+   98,
+   100
   ]
  }
 }
