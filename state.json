@@ -619,36 +619,10 @@
   "81c7a870a6f40151": 1791236352.1896415,
   "89fe25a011ce91e2": 1791236352.1896415,
   "d82e65cec81ea613": 1791236352.1896415,
-  "1bdfe3946b65d62b": 1791236352.1896415
+  "1bdfe3946b65d62b": 1791236352.1896415,
+  "1a3bd9cd7c466e6b": 1791237040.5003495
  },
  "queue": [
-  {
-   "id": "69af5055695b6a81",
-   "cfg": "vless://596086c9-3167-0004-97a1-c04311039e06@195.252.179.1:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=diffoscope.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🔵@chillguy_vpn",
-   "ping": 278,
-   "best": 270,
-   "score": 96,
-   "stability": 100,
-   "ts": 1791235933.3582056
-  },
-  {
-   "id": "b42413545b4568aa",
-   "cfg": "vless://596086c9-3167-0004-97a1-c04311039e06@195.252.179.1:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=diffoscope.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 284,
-   "best": 284,
-   "score": 96,
-   "stability": 100,
-   "ts": 1791235933.3582056
-  },
-  {
-   "id": "d90c4b2fe36a05d8",
-   "cfg": "vless://596086c9-3167-0004-97a1-c04311039e06@195.252.179.1:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3F&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#🔵@chillguy_vpn",
-   "ping": 338,
-   "best": 276,
-   "score": 96,
-   "stability": 100,
-   "ts": 1791235933.3582056
-  },
   {
    "id": "96931e1b84fa20e8",
    "cfg": "vless://%58pnTeam-75@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
@@ -684,6 +658,15 @@
    "score": 92,
    "stability": 100,
    "ts": 1791235933.3582056
+  },
+  {
+   "id": "1a3bd9cd7c466e6b",
+   "cfg": "vless://b94841c3-171f-4bf8-90d5-886f1bafeaea@212.64.201.206:443?security=reality&encryption=none&pbk=VJk1hXMawx9hys25DMS1YEaF1hEeohQK_TgzUtaAYXQ&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkce.langio.online&sid=12f3337c21e95265#🔵@chillguy_vpn",
+   "ping": 591,
+   "best": 585,
+   "score": 92,
+   "stability": 100,
+   "ts": 1791237040.5003495
   },
   {
    "id": "9563548536863e58",
@@ -3002,6 +2985,36 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "69af5055695b6a81": {
+   "cfg": "vless://596086c9-3167-0004-97a1-c04311039e06@195.252.179.1:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=diffoscope.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 999,
+   "ts": 1791237049.021122,
+   "ping": 470,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "b42413545b4568aa": {
+   "cfg": "vless://596086c9-3167-0004-97a1-c04311039e06@195.252.179.1:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=diffoscope.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1000,
+   "ts": 1791237052.4405186,
+   "ping": 462,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "d90c4b2fe36a05d8": {
+   "cfg": "vless://596086c9-3167-0004-97a1-c04311039e06@195.252.179.1:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3F&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1001,
+   "ts": 1791237055.8318267,
+   "ping": 466,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5058,9 +5071,9 @@
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 201,
-  "healthy": 142,
-  "posted": 122,
+  "fetched": 202,
+  "healthy": 143,
+  "posted": 125,
   "removed": 0,
   "published_scores": [
    95,
@@ -5184,7 +5197,10 @@
    96,
    100,
    97,
-   96
+   96,
+   94,
+   94,
+   94
   ]
  }
 }
