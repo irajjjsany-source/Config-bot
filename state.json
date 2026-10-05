@@ -1,8 +1,5 @@
 {
  "seen": {
-  "58152232ee891048": 1790979813.926902,
-  "92f72ead64515346": 1790979813.926902,
-  "a7a296a706ce80ee": 1790979813.926902,
   "91c6f6b42ecffdf1": 1790982106.1663854,
   "b8ae525733cfc456": 1790982106.1663854,
   "d337993133922e68": 1790982106.1663854,
@@ -628,33 +625,6 @@
   "acaced2aa03e9015": 1791237686.4363005
  },
  "queue": [
-  {
-   "id": "1ac342f2c4a898e4",
-   "cfg": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#🔵@chillguy_vpn",
-   "ping": 1301,
-   "best": 1016,
-   "score": 83,
-   "stability": 100,
-   "ts": 1791236352.1896415
-  },
-  {
-   "id": "89fe25a011ce91e2",
-   "cfg": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#🔵@chillguy_vpn",
-   "ping": 1468,
-   "best": 1125,
-   "score": 81,
-   "stability": 100,
-   "ts": 1791236352.1896415
-  },
-  {
-   "id": "97ff56d8977e48e9",
-   "cfg": "vless://6acbfd38-2332-4ef5-a09b-fdd74508ef76@tun7.radvin1.ir:11777?mode=auto&path=%2F&security=reality&encryption=none&pbk=qCb9RZqV7zP8Hf2_8IlbKfLY5cuUJYl4_Jffhn1gKE0&fp=chrome&type=xhttp&sni=www.amazon.com&sid=1e7864e097dcbeb9#🔵@chillguy_vpn",
-   "ping": 1649,
-   "best": 1119,
-   "score": 79,
-   "stability": 100,
-   "ts": 1791235933.3582056
-  },
   {
    "id": "ebb66e082249a89e",
    "cfg": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@p2real4.greewebservices.ir:1340?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#🔵@chillguy_vpn",
@@ -3068,6 +3038,36 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "1ac342f2c4a898e4": {
+   "cfg": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1014,
+   "ts": 1791239051.7580838,
+   "ping": 1169,
+   "score": 85,
+   "stability": 100,
+   "country": "Switzerland",
+   "repost_count": 0
+  },
+  "89fe25a011ce91e2": {
+   "cfg": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1015,
+   "ts": 1791239057.5644484,
+   "ping": 1180,
+   "score": 85,
+   "stability": 100,
+   "country": "Switzerland",
+   "repost_count": 0
+  },
+  "97ff56d8977e48e9": {
+   "cfg": "vless://6acbfd38-2332-4ef5-a09b-fdd74508ef76@tun7.radvin1.ir:11777?mode=auto&path=%2F&security=reality&encryption=none&pbk=qCb9RZqV7zP8Hf2_8IlbKfLY5cuUJYl4_Jffhn1gKE0&fp=chrome&type=xhttp&sni=www.amazon.com&sid=1e7864e097dcbeb9#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1016,
+   "ts": 1791239063.7734897,
+   "ping": 1342,
+   "score": 83,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5170,13 +5170,28 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791238555.0426424
+  },
+  "p2real5.greewebservices.ir": {
+   "cc": "CH",
+   "name": "Switzerland",
+   "ts": 1791239050.8646061
+  },
+  "areal5.greewebservices.ir": {
+   "cc": "CH",
+   "name": "Switzerland",
+   "ts": 1791239056.628604
+  },
+  "tun7.radvin1.ir": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791239062.917477
   }
  },
  "stats": {
   "date": "2026-10-05",
   "fetched": 210,
   "healthy": 147,
-  "posted": 137,
+  "posted": 140,
   "removed": 0,
   "published_scores": [
    95,
@@ -5315,7 +5330,10 @@
    86,
    54,
    83,
-   85
+   85,
+   85,
+   85,
+   83
   ]
  }
 }
