@@ -612,9 +612,32 @@
   "5d3ce5e0752c169a": 1791217649.7533004,
   "902d729900264931": 1791217649.7533004,
   "04c75e6bf355cb1d": 1791217649.7533004,
-  "2e4e6b8f545629aa": 1791217649.7533004
+  "2e4e6b8f545629aa": 1791217649.7533004,
+  "f2afbae4503f6769": 1791217844.2541978,
+  "b69e9fdf5e035c20": 1791217844.2541978,
+  "efa1ccc5d0a2d818": 1791217844.2541978,
+  "5845f68df7f95807": 1791217844.2541978,
+  "ae6a50d977eb8c6f": 1791217844.2541978
  },
  "queue": [
+  {
+   "id": "b69e9fdf5e035c20",
+   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@67.159.6.181:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#🔵@chillguy_vpn",
+   "ping": 363,
+   "best": 359,
+   "score": 95,
+   "stability": 100,
+   "ts": 1791217844.2541978
+  },
+  {
+   "id": "5845f68df7f95807",
+   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@67.159.6.181:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#🔵@chillguy_vpn",
+   "ping": 369,
+   "best": 340,
+   "score": 95,
+   "stability": 100,
+   "ts": 1791217844.2541978
+  },
   {
    "id": "902d729900264931",
    "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.35.74:443?security=reality&encryption=none&pbk=zAmNLsLPizp96b55zNe2kJ3zXBdpuNY0olnRaOpluks&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=34e797af#🔵@chillguy_vpn",
@@ -2409,6 +2432,36 @@
    "score": 94,
    "stability": 100,
    "country": "Germany",
+   "repost_count": 0
+  },
+  "efa1ccc5d0a2d818": {
+   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@189.74.114.148:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 951,
+   "ts": 1791217858.2490838,
+   "ping": 346,
+   "score": 96,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "ae6a50d977eb8c6f": {
+   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@189.74.114.123:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 952,
+   "ts": 1791217858.8691585,
+   "ping": 354,
+   "score": 95,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "f2afbae4503f6769": {
+   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@189.74.114.123:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 953,
+   "ts": 1791217859.8092048,
+   "ping": 355,
+   "score": 95,
+   "stability": 100,
+   "country": "Russia",
    "repost_count": 0
   }
  },
@@ -4341,9 +4394,9 @@
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 113,
-  "healthy": 80,
-  "posted": 77,
+  "fetched": 118,
+  "healthy": 85,
+  "posted": 80,
   "removed": 0,
   "published_scores": [
    95,
@@ -4422,7 +4475,10 @@
    96,
    95,
    94,
-   94
+   94,
+   96,
+   95,
+   95
   ]
  }
 }
