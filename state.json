@@ -1,6 +1,5 @@
 {
  "seen": {
-  "8d513446fcde903a": 1790927590.6485853,
   "3fea1a7898be5b64": 1790929655.5863686,
   "5b661c1ecc747fb1": 1790930433.7185585,
   "f8d0308bdebe3ce4": 1790930433.7185585,
@@ -604,7 +603,10 @@
   "1901a98a25afc9eb": 1791184532.904944,
   "fcb6c2bf2c772805": 1791184532.904944,
   "4b61c20cdfbcceee": 1791184532.904944,
-  "b9bcf9bafcb323c5": 1791185325.7902153
+  "b9bcf9bafcb323c5": 1791185325.7902153,
+  "458a52397c8dd59f": 1791187252.1228788,
+  "361220f133e43e8a": 1791187252.1228788,
+  "b8feaccc625569de": 1791187252.1228788
  },
  "queue": [],
  "posted": {
@@ -1883,6 +1885,26 @@
    "score": 86,
    "stability": 100,
    "country": "Singapore",
+   "repost_count": 0
+  },
+  "361220f133e43e8a": {
+   "cfg": "vless://8be64379-08a5-4362-b8cf-234a65409bda@172.67.148.41:80?path=%2FeyJqdW5rIjoiOW56N0hTRm9IS252IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ&security=none&encryption=none&host=telegram4.freepersianland8.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 901,
+   "ts": 1791187265.0269742,
+   "ping": 61,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "b8feaccc625569de": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 902,
+   "ts": 1791187265.6150918,
+   "ping": 134,
+   "score": 98,
+   "stability": 100,
+   "country": "United States",
    "repost_count": 0
   }
  },
@@ -3671,13 +3693,18 @@
    "cc": "SG",
    "name": "Singapore",
    "ts": 1791185335.6183047
+  },
+  "169.40.42.173": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791187265.0271003
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 33,
-  "healthy": 28,
-  "posted": 28,
+  "fetched": 36,
+  "healthy": 30,
+  "posted": 30,
   "removed": 0,
   "published_scores": [
    95,
@@ -3707,7 +3734,9 @@
    100,
    92,
    92,
-   86
+   86,
+   99,
+   98
   ]
  }
 }
