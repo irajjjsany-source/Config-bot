@@ -1,8 +1,5 @@
 {
  "seen": {
-  "5567d7f2f651608a": 1790959261.0508494,
-  "4d1ecad921303deb": 1790959261.0508494,
-  "4df0029c27a8a7e3": 1790959261.0508494,
   "67ef0905b8bca971": 1790960610.4041178,
   "da81bf431a3fba4c": 1790960610.4041178,
   "f8dd078652474e97": 1790960610.4041178,
@@ -617,26 +614,21 @@
   "b69e9fdf5e035c20": 1791217844.2541978,
   "efa1ccc5d0a2d818": 1791217844.2541978,
   "5845f68df7f95807": 1791217844.2541978,
-  "ae6a50d977eb8c6f": 1791217844.2541978
+  "ae6a50d977eb8c6f": 1791217844.2541978,
+  "c7c017aa81af8875": 1791218626.2586973,
+  "cd81bbc460d60b13": 1791218626.2586973,
+  "b14a3c61c5a4fedd": 1791218626.2586973,
+  "6f146546ea204b22": 1791218626.2586973
  },
  "queue": [
   {
-   "id": "b69e9fdf5e035c20",
-   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@67.159.6.181:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#🔵@chillguy_vpn",
-   "ping": 363,
-   "best": 359,
-   "score": 95,
+   "id": "b14a3c61c5a4fedd",
+   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@189.74.114.148:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#🔵@chillguy_vpn",
+   "ping": 440,
+   "best": 433,
+   "score": 94,
    "stability": 100,
-   "ts": 1791217844.2541978
-  },
-  {
-   "id": "5845f68df7f95807",
-   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@67.159.6.181:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#🔵@chillguy_vpn",
-   "ping": 369,
-   "best": 340,
-   "score": 95,
-   "stability": 100,
-   "ts": 1791217844.2541978
+   "ts": 1791218626.2586973
   },
   {
    "id": "902d729900264931",
@@ -664,6 +656,15 @@
    "score": 89,
    "stability": 100,
    "ts": 1791217649.7533004
+  },
+  {
+   "id": "6f146546ea204b22",
+   "cfg": "vless://1ef3cfdd-a0b7-4584-87b4-2b217d8a4581@64.188.115.219:443?security=reality&encryption=none&pbk=2tjr1gP8eecWi9xlKFB1SmPKOzRgDt40NBQcxhjaKCA&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.swift.com&sid=270b5417f8ecb723#🔵@chillguy_vpn",
+   "ping": 1616,
+   "best": 473,
+   "score": 79,
+   "stability": 100,
+   "ts": 1791218626.2586973
   }
  ],
  "posted": {
@@ -2460,6 +2461,36 @@
    "ts": 1791217859.8092048,
    "ping": 355,
    "score": 95,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "b69e9fdf5e035c20": {
+   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@67.159.6.181:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 954,
+   "ts": 1791218647.8718112,
+   "ping": 446,
+   "score": 94,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "5845f68df7f95807": {
+   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@67.159.6.181:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 955,
+   "ts": 1791218651.0897079,
+   "ping": 431,
+   "score": 94,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "cd81bbc460d60b13": {
+   "cfg": "vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@189.74.114.123:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 956,
+   "ts": 1791218651.7063928,
+   "ping": 439,
+   "score": 94,
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
@@ -4394,9 +4425,9 @@
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 118,
-  "healthy": 85,
-  "posted": 80,
+  "fetched": 122,
+  "healthy": 88,
+  "posted": 83,
   "removed": 0,
   "published_scores": [
    95,
@@ -4478,7 +4509,10 @@
    94,
    96,
    95,
-   95
+   95,
+   94,
+   94,
+   94
   ]
  }
 }
