@@ -598,7 +598,9 @@
   "7e4f1ae9fed59e6d": 1791207046.9749143,
   "719324badbdf14e8": 1791209695.7901716,
   "8fbbdb66685dff69": 1791209695.7901716,
-  "42664f68bc46e774": 1791210645.8846989
+  "42664f68bc46e774": 1791210645.8846989,
+  "fcde7957f55bef7e": 1791212143.9653146,
+  "410d2ea4abf64429": 1791212143.9653146
  },
  "queue": [],
  "posted": {
@@ -2217,6 +2219,26 @@
    "score": 92,
    "stability": 100,
    "country": "United States",
+   "repost_count": 0
+  },
+  "fcde7957f55bef7e": {
+   "cfg": "vless://d18c7dfb-94c9-4caa-9d0d-da0e563a71ea@87.239.135.112:443?security=reality&encryption=none&pbk=DpCRsmgaFW54dSpiAKYGnN6cNayu9prjZTYGAyiP_jo&fp=safari&type=grpc&sni=tel.free-run.club&sid=025f065c#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 935,
+   "ts": 1791212153.7746313,
+   "ping": 667,
+   "score": 91,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
+  },
+  "410d2ea4abf64429": {
+   "cfg": "vless://9d104f8c-923f-474f-b0ab-a269beb195f1@109.176.202.125:3209?security=reality&encryption=mlkem768x25519plus.native.0rtt.GYiy4_-ek895AMg0wlFHzUuw23Z3xbn39lAc9F8Ahxs&pbk=kP_iKAkVlybFC_xrllTNHYovUyxwg2gWvZyil_ZGy3M&headerType=none&fp=chrome&type=tcp&sni=www.technolife.com&sid=1eb802fe77e287dd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 936,
+   "ts": 1791212154.4614508,
+   "ping": 802,
+   "score": 90,
+   "stability": 100,
+   "country": "Germany",
    "repost_count": 0
   }
  },
@@ -4095,13 +4117,23 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791209704.3162103
+  },
+  "87.239.135.112": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1791212153.064466
+  },
+  "109.176.202.125": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791212153.7747283
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 87,
-  "healthy": 62,
-  "posted": 62,
+  "fetched": 89,
+  "healthy": 64,
+  "posted": 64,
   "removed": 0,
   "published_scores": [
    95,
@@ -4165,7 +4197,9 @@
    94,
    91,
    93,
-   92
+   92,
+   91,
+   90
   ]
  }
 }
