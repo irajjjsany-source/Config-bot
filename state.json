@@ -609,7 +609,9 @@
   "f3425fa8a772ed56": 1791188974.5637395,
   "6c1961a95b7c207e": 1791188974.5637395,
   "ce8b0bd02798ac19": 1791188974.5637395,
-  "6a00846ddcd50bfb": 1791189935.6722214
+  "6a00846ddcd50bfb": 1791189935.6722214,
+  "ac3d26cd29b47ce3": 1791190855.7682946,
+  "a34344bdd0a1b747": 1791190855.7682946
  },
  "queue": [],
  "posted": {
@@ -1978,6 +1980,16 @@
    "score": 96,
    "stability": 100,
    "country": "Finland",
+   "repost_count": 0
+  },
+  "ac3d26cd29b47ce3": {
+   "cfg": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@195.88.57.96:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&sid=e4e77e76e6e49da7&sni=us-1.srv.dvzh.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 910,
+   "ts": 1791190862.4976065,
+   "ping": 141,
+   "score": 98,
+   "stability": 100,
+   "country": "United States",
    "repost_count": 0
   }
  },
@@ -3805,9 +3817,9 @@
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 44,
-  "healthy": 37,
-  "posted": 37,
+  "fetched": 46,
+  "healthy": 38,
+  "posted": 38,
   "removed": 0,
   "published_scores": [
    95,
@@ -3846,7 +3858,8 @@
    94,
    93,
    35,
-   96
+   96,
+   98
   ]
  }
 }
