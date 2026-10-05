@@ -608,26 +608,7 @@
   "48a55c3f7e82b4cf": 1791180049.787376,
   "a839a29916541cc5": 1791180049.787376
  },
- "queue": [
-  {
-   "id": "48a55c3f7e82b4cf",
-   "cfg": "vless://142d1453-9cfe-4045-8e54-f3fb33342185@104.18.32.47:8880?encryption=none&type=ws&host=lively-scene-744f.107-47a.workers.dev&path=%2Fpyip&security=none#🔵@chillguy_vpn",
-   "ping": 72,
-   "best": 69,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791180049.787376
-  },
-  {
-   "id": "aad31e1f09c84dd9",
-   "cfg": "vless://e5583623-53ef-4177-8070-8c553f70bcfa@172.67.214.193:2086?encryption=none&type=ws&host=fvfb8xac5j0nthxzqf.dr5945ov0z598kfft573isahdj3fmmv4.workers.dev&path=%2Fvl%2FNnAT20AqcYOuOLe1r%3Fed%3D2560&security=none#🔵@chillguy_vpn",
-   "ping": 73,
-   "best": 50,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791180049.787376
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -1781,6 +1762,26 @@
    "msg": 888,
    "ts": 1791180062.3164263,
    "ping": 71,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "48a55c3f7e82b4cf": {
+   "cfg": "vless://142d1453-9cfe-4045-8e54-f3fb33342185@104.18.32.47:8880?encryption=none&type=ws&host=lively-scene-744f.107-47a.workers.dev&path=%2Fpyip&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 889,
+   "ts": 1791180420.8126302,
+   "ping": 35,
+   "score": 100,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "aad31e1f09c84dd9": {
+   "cfg": "vless://e5583623-53ef-4177-8070-8c553f70bcfa@172.67.214.193:2086?encryption=none&type=ws&host=fvfb8xac5j0nthxzqf.dr5945ov0z598kfft573isahdj3fmmv4.workers.dev&path=%2Fvl%2FNnAT20AqcYOuOLe1r%3Fed%3D2560&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 890,
+   "ts": 1791180422.9643338,
+   "ping": 49,
    "score": 99,
    "stability": 100,
    "country": "",
@@ -3543,7 +3544,7 @@
   "date": "2026-10-05",
   "fetched": 22,
   "healthy": 18,
-  "posted": 16,
+  "posted": 18,
   "removed": 0,
   "published_scores": [
    95,
@@ -3561,6 +3562,8 @@
    72,
    99,
    99,
+   99,
+   100,
    99
   ]
  }
