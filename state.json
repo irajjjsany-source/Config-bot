@@ -609,7 +609,10 @@
   "c77efd61144382f6": 1791202533.0514913,
   "cec064c54d46ee69": 1791202533.0514913,
   "72edae20c9b1fd5e": 1791202533.0514913,
-  "49a14f6e623733a3": 1791203562.0842874
+  "49a14f6e623733a3": 1791203562.0842874,
+  "9e0a25d03e2bb180": 1791204333.024582,
+  "f03be6f5e18601fb": 1791204333.024582,
+  "6f2e6e6fe1134dec": 1791204333.024582
  },
  "queue": [],
  "posted": {
@@ -2188,6 +2191,26 @@
    "score": 97,
    "stability": 100,
    "country": "United States",
+   "repost_count": 0
+  },
+  "6f2e6e6fe1134dec": {
+   "cfg": "vless://2c4c513c-5422-4daf-80ce-62b3dde5da54@172.67.91.87:8080?path=%2Fws&security=none&encryption=none&host=jolly-voice-eed5.prisonvpn34.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 931,
+   "ts": 1791204359.4487464,
+   "ping": 445,
+   "score": 94,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "9e0a25d03e2bb180": {
+   "cfg": "vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@31.185.105.22:443?mode=gun&security=reality&encryption=none&pbk=0V_2rGeVoX0_zwtgNG2XJBVNiu0j_b6s89tP2AfxFhw&fp=firefox&type=grpc&serviceName=vless-grpc&sni=samsung.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 932,
+   "ts": 1791204360.0948198,
+   "ping": 664,
+   "score": 91,
+   "stability": 100,
+   "country": "France",
    "repost_count": 0
   }
  },
@@ -4051,13 +4074,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1791201659.0533638
+  },
+  "31.185.105.22": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1791204359.448846
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 77,
-  "healthy": 58,
-  "posted": 58,
+  "fetched": 80,
+  "healthy": 60,
+  "posted": 60,
   "removed": 0,
   "published_scores": [
    95,
@@ -4117,7 +4145,9 @@
    92,
    53,
    39,
-   97
+   97,
+   94,
+   91
   ]
  }
 }
