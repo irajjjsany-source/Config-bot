@@ -617,7 +617,15 @@
   "89fe25a011ce91e2": 1791236352.1896415,
   "d82e65cec81ea613": 1791236352.1896415,
   "1bdfe3946b65d62b": 1791236352.1896415,
-  "1a3bd9cd7c466e6b": 1791237040.5003495
+  "1a3bd9cd7c466e6b": 1791237040.5003495,
+  "4647ae40573291d3": 1791237686.4363005,
+  "5422f93d9aa2bbda": 1791237686.4363005,
+  "875a5811d78d28f4": 1791237686.4363005,
+  "172941b98048a3cb": 1791237686.4363005,
+  "7a506b18bcee6bea": 1791237686.4363005,
+  "e11a4d0c0052d3f1": 1791237686.4363005,
+  "72c0ca195e0177b1": 1791237686.4363005,
+  "acaced2aa03e9015": 1791237686.4363005
  },
  "queue": [
   {
@@ -709,6 +717,15 @@
    "score": 74,
    "stability": 100,
    "ts": 1791236352.1896415
+  },
+  {
+   "id": "875a5811d78d28f4",
+   "cfg": "vless://a19335f2-5c93-46c0-94c1-ccb356df0d2a@142.228.52.44:443?security=reality&encryption=none&pbk=97PwTn-dM13EOcl1TXD5baN6jCNR36SxHQdulYf_gWQ&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fi4.cloud-static.org&sid=65cf4ad7f11c52ed#🔵@chillguy_vpn",
+   "ping": 2169,
+   "best": 773,
+   "score": 72,
+   "stability": 100,
+   "ts": 1791237686.4363005
   },
   {
    "id": "bb4fbacc2f9678de",
@@ -3015,6 +3032,36 @@
    "stability": 100,
    "country": "Norway",
    "repost_count": 0
+  },
+  "172941b98048a3cb": {
+   "cfg": "vless://1576a05a-d632-47fd-a00c-ea14ff382162@194.59.9.29:443?security=reality&encryption=none&pbk=YcVdYV6VTyAYBWd-CnCa1L0PMIqjLWmcdh-A5gvVGDo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=cdn.cloudflare.steamstatic.com&sid=dbf156f058f98611#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1005,
+   "ts": 1791237710.831506,
+   "ping": 277,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "e11a4d0c0052d3f1": {
+   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.112.59.210:443?security=reality&encryption=none&pbk=MTYXgxLIK9PzmQGAjuCmhI1FikCNlvU66NKgQ5g14Bc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nl2.nztvpn.com&sid=0b135481ea1283fc#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1006,
+   "ts": 1791237711.3464274,
+   "ping": 288,
+   "score": 96,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "72c0ca195e0177b1": {
+   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@217.26.25.250:8443?security=reality&encryption=none&pbk=asfnItYJIxiQpAEBiqeGI-CtbeVQt83jz8EY44wHvFQ&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=it.nztvpn.com&sid=5aab0b0401044801#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1007,
+   "ts": 1791237711.8475628,
+   "ping": 426,
+   "score": 94,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5077,13 +5124,28 @@
    "cc": "NO",
    "name": "Norway",
    "ts": 1791237193.8715682
+  },
+  "194.59.9.29": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791237710.2109723
+  },
+  "185.112.59.210": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791237710.8316572
+  },
+  "217.26.25.250": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791237711.3465285
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 202,
-  "healthy": 143,
-  "posted": 128,
+  "fetched": 210,
+  "healthy": 147,
+  "posted": 131,
   "removed": 0,
   "published_scores": [
    95,
@@ -5213,7 +5275,10 @@
    94,
    92,
    87,
-   78
+   78,
+   96,
+   96,
+   94
   ]
  }
 }
