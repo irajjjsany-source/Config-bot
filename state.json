@@ -1,9 +1,5 @@
 {
  "seen": {
-  "9d672616034b00c1": 1790924731.1143694,
-  "7b22a55a6db15890": 1790924731.1143694,
-  "c3f611fac3877663": 1790924731.1143694,
-  "ebc7ce6b60fba9cf": 1790924731.1143694,
   "5f4c9748f09c566a": 1790926035.4191236,
   "534d5d90775b9fe2": 1790926035.4191236,
   "0232f58f134ae96a": 1790926035.4191236,
@@ -607,9 +603,23 @@
   "af388bec29f64795": 1791182732.6669712,
   "79fb82dac86eb9e8": 1791182732.6669712,
   "18649dca3d01f56a": 1791182732.6669712,
-  "b22a38b602d1be17": 1791183651.4218016
+  "b22a38b602d1be17": 1791183651.4218016,
+  "2e754691f9f028cd": 1791184532.904944,
+  "1901a98a25afc9eb": 1791184532.904944,
+  "fcb6c2bf2c772805": 1791184532.904944,
+  "4b61c20cdfbcceee": 1791184532.904944
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "1901a98a25afc9eb",
+   "cfg": "vless://f354744d-21d9-4836-9934-4989e1c4d877@bgroup.sg1.ilovegairport.com:443?security=reality&encryption=none&pbk=3QQxF4eV_tdOD8Z5lU4PBIWFmU-pRZBvBxNTNCZBpEU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ap-southeast-1.console.aws.amazon.com&sid=aaf565ccdea967#🔵@chillguy_vpn",
+   "ping": 699,
+   "best": 664,
+   "score": 91,
+   "stability": 100,
+   "ts": 1791184532.904944
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -1846,6 +1856,36 @@
    "score": 67,
    "stability": 100,
    "country": "Iran",
+   "repost_count": 0
+  },
+  "4b61c20cdfbcceee": {
+   "cfg": "vless://fe467f51-b2cc-4b16-b50b-a78865ed3dd9@188.114.97.6:8880?path=%2F&security=none&encryption=none&host=crimson-wind-71bc.19-5fd.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 897,
+   "ts": 1791184546.3528116,
+   "ping": 31,
+   "score": 100,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "fcb6c2bf2c772805": {
+   "cfg": "vless://f354744d-21d9-4836-9934-4989e1c4d877@bgroup.jp3.ilovegairport.com:443?security=reality&encryption=none&pbk=TDbVu9oeQc6rjrsBcHuMs0tybjKy2EQQdZalmLvwSk0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ap-northeast-1.console.aws.amazon.com&sid=8ea105393d#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 898,
+   "ts": 1791184547.1076741,
+   "ping": 602,
+   "score": 92,
+   "stability": 100,
+   "country": "Japan",
+   "repost_count": 0
+  },
+  "2e754691f9f028cd": {
+   "cfg": "vless://f354744d-21d9-4836-9934-4989e1c4d877@bgroup.hk1.ilovegairport.com:443?security=reality&encryption=none&pbk=Z0sxSuzxnWYa5FNTZ-W4ImxQd674VG4KfmOBqlcudjU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ap-east-1.console.aws.amazon.com&sid=fb6e21d0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 899,
+   "ts": 1791184547.8247116,
+   "ping": 607,
+   "score": 92,
+   "stability": 100,
+   "country": "Hong Kong",
    "repost_count": 0
   }
  },
@@ -3619,13 +3659,23 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791183663.2776847
+  },
+  "bgroup.jp3.ilovegairport.com": {
+   "cc": "JP",
+   "name": "Japan",
+   "ts": 1791184546.3529377
+  },
+  "bgroup.hk1.ilovegairport.com": {
+   "cc": "HK",
+   "name": "Hong Kong",
+   "ts": 1791184547.1077988
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 28,
-  "healthy": 24,
-  "posted": 24,
+  "fetched": 32,
+  "healthy": 28,
+  "posted": 27,
   "removed": 0,
   "published_scores": [
    95,
@@ -3651,7 +3701,10 @@
    98,
    97,
    99,
-   67
+   67,
+   100,
+   92,
+   92
   ]
  }
 }
