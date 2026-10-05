@@ -608,7 +608,9 @@
   "7102fcf0aa1876b9": 1791197789.478581,
   "59c1b7d6a59670f2": 1791197789.478581,
   "e87220c223b90813": 1791197789.478581,
-  "6f2b70e53cd3f24c": 1791197789.478581
+  "6f2b70e53cd3f24c": 1791197789.478581,
+  "d6f04b0cb0635f19": 1791198931.185864,
+  "f73cd116c7022ebe": 1791198931.185864
  },
  "queue": [],
  "posted": {
@@ -2107,6 +2109,26 @@
    "score": 44,
    "stability": 100,
    "country": "Iran",
+   "repost_count": 0
+  },
+  "d6f04b0cb0635f19": {
+   "cfg": "vless://8dd8af16-cae0-4431-b04c-a637b4d7645b@104.21.23.72:8880?encryption=none&type=ws&host=wild-frog-c709.403-6ff.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 923,
+   "ts": 1791198937.5085742,
+   "ping": 26,
+   "score": 100,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "f73cd116c7022ebe": {
+   "cfg": "vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?security=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 924,
+   "ts": 1791198937.966288,
+   "ping": 574,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
    "repost_count": 0
   }
  },
@@ -3955,13 +3977,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791197832.237741
+  },
+  "142.132.140.143": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791198937.5086718
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 64,
-  "healthy": 50,
-  "posted": 50,
+  "fetched": 66,
+  "healthy": 52,
+  "posted": 52,
   "removed": 0,
   "published_scores": [
    95,
@@ -4013,7 +4040,9 @@
    66,
    77,
    52,
-   44
+   44,
+   100,
+   93
   ]
  }
 }
