@@ -603,7 +603,13 @@
   "c5e0f3ada55d5527": 1791199583.9030957,
   "f3641f343e0ff1ac": 1791200733.1276362,
   "3d1155870fc3cd31": 1791201651.5532053,
-  "a6e6e52b048595ce": 1791201651.5532053
+  "a6e6e52b048595ce": 1791201651.5532053,
+  "64e1e388ed7a6193": 1791202533.0514913,
+  "079bba2d7983cf2c": 1791202533.0514913,
+  "910e571b4b2e0dd3": 1791202533.0514913,
+  "c77efd61144382f6": 1791202533.0514913,
+  "cec064c54d46ee69": 1791202533.0514913,
+  "72edae20c9b1fd5e": 1791202533.0514913
  },
  "queue": [],
  "posted": {
@@ -2142,6 +2148,36 @@
    "score": 93,
    "stability": 100,
    "country": "United Kingdom",
+   "repost_count": 0
+  },
+  "079bba2d7983cf2c": {
+   "cfg": "vless://24915228-8387-48e5-875e-ad1c934ec937@areal2.greewebservices.ir:3435?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=MnPGY1Vo4ZbYdpLRTYHoolv5s_pwO41karyJfnQ0F3o&sid=e3085d4fc679ba12#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 927,
+   "ts": 1791202586.861939,
+   "ping": 590,
+   "score": 92,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "910e571b4b2e0dd3": {
+   "cfg": "vless://cd1e9edc-e98c-4105-983d-501cb644dd52@p2tun0.greewebservices.ir:28820?fp=ios&headerType=none&security=reality&type=tcp&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&sni=play.google.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 928,
+   "ts": 1791202587.3341177,
+   "ping": 3578,
+   "score": 53,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
+  },
+  "64e1e388ed7a6193": {
+   "cfg": "vless://24915228-8387-48e5-875e-ad1c934ec937@p2tun0.greewebservices.ir:28820?type=tcp&headerType=none&security=reality&fp=ios&sni=play.google.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 929,
+   "ts": 1791202587.8044147,
+   "ping": 4658,
+   "score": 39,
+   "stability": 100,
+   "country": "Iran",
    "repost_count": 0
   }
  },
@@ -4009,9 +4045,9 @@
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 70,
-  "healthy": 54,
-  "posted": 54,
+  "fetched": 76,
+  "healthy": 57,
+  "posted": 57,
   "removed": 0,
   "published_scores": [
    95,
@@ -4067,7 +4103,10 @@
    100,
    93,
    95,
-   93
+   93,
+   92,
+   53,
+   39
   ]
  }
 }
