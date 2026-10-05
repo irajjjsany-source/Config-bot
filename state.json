@@ -617,7 +617,8 @@
   "b591b2212b908ed0": 1791191732.349102,
   "d0e1346cb5ada7c6": 1791192614.377644,
   "d715b7b684b385cc": 1791192614.377644,
-  "dfb8716c057c0f5b": 1791192614.377644
+  "dfb8716c057c0f5b": 1791192614.377644,
+  "cfcb626d71a15dbc": 1791193539.0068517
  },
  "queue": [],
  "posted": {
@@ -2046,6 +2047,16 @@
    "score": 99,
    "stability": 100,
    "country": "",
+   "repost_count": 0
+  },
+  "cfcb626d71a15dbc": {
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.170:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=de2.srv.vbuste.ru&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 916,
+   "ts": 1791193544.6264253,
+   "ping": 567,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
    "repost_count": 0
   }
  },
@@ -3869,13 +3880,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791189939.2671885
+  },
+  "144.31.62.170": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791193543.8485932
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 55,
-  "healthy": 43,
-  "posted": 43,
+  "fetched": 56,
+  "healthy": 44,
+  "posted": 44,
   "removed": 0,
   "published_scores": [
    95,
@@ -3920,7 +3936,8 @@
    89,
    98,
    95,
-   99
+   99,
+   93
   ]
  }
 }
