@@ -619,7 +619,10 @@
   "cd81bbc460d60b13": 1791218626.2586973,
   "b14a3c61c5a4fedd": 1791218626.2586973,
   "6f146546ea204b22": 1791218626.2586973,
-  "74b45106e61d75a5": 1791218733.2711282
+  "74b45106e61d75a5": 1791218733.2711282,
+  "bc6371c1ce1954b8": 1791219650.4952462,
+  "b487a89f04a5bd43": 1791219650.4952462,
+  "77f04203de6b746b": 1791219650.4952462
  },
  "queue": [],
  "posted": {
@@ -2498,6 +2501,26 @@
    "score": 67,
    "stability": 100,
    "country": "United States",
+   "repost_count": 0
+  },
+  "bc6371c1ce1954b8": {
+   "cfg": "vmess://eyJhZGQiOiAidXNoc2ZzLnBvdnJhay5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjg0MGQ2MjMtNGM0Ni00ZDQ3LTgxMmQtZDBmY2Q0MThiMmFjIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzNzM4NyIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
+   "msg": 962,
+   "ts": 1791219661.0667694,
+   "ping": 270,
+   "score": 96,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "b487a89f04a5bd43": {
+   "cfg": "vmess://eyJhZGQiOiAid3d3LmZpbmxhbmQxLmhlbmxvLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmNWYwMDMwYS0wYWMxLTRmZTktYWMzYS1kNWYzNWEzY2FhMmYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
+   "msg": 963,
+   "ts": 1791219661.9155023,
+   "ping": 464,
+   "score": 94,
+   "stability": 100,
+   "country": "Finland",
    "repost_count": 0
   }
  },
@@ -4441,13 +4464,23 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791219424.8271308
+  },
+  "ushsfs.povrak.ir": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791219660.3089714
+  },
+  "www.finland1.henlo.ir": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791219661.0668492
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 123,
-  "healthy": 89,
-  "posted": 88,
+  "fetched": 126,
+  "healthy": 91,
+  "posted": 90,
   "removed": 0,
   "published_scores": [
    95,
@@ -4537,7 +4570,9 @@
    93,
    87,
    94,
-   67
+   67,
+   96,
+   94
   ]
  }
 }
