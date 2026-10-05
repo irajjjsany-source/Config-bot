@@ -1,6 +1,5 @@
 {
  "seen": {
-  "49a14f6e623733a3": 1790944246.8555682,
   "32e6d1781801d890": 1790946396.795913,
   "7244d074ebf8c69c": 1790946396.795913,
   "513c9c68b69ea12b": 1790946396.795913,
@@ -609,7 +608,8 @@
   "910e571b4b2e0dd3": 1791202533.0514913,
   "c77efd61144382f6": 1791202533.0514913,
   "cec064c54d46ee69": 1791202533.0514913,
-  "72edae20c9b1fd5e": 1791202533.0514913
+  "72edae20c9b1fd5e": 1791202533.0514913,
+  "49a14f6e623733a3": 1791203562.0842874
  },
  "queue": [],
  "posted": {
@@ -2178,6 +2178,16 @@
    "score": 39,
    "stability": 100,
    "country": "Iran",
+   "repost_count": 0
+  },
+  "49a14f6e623733a3": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 930,
+   "ts": 1791203567.330855,
+   "ping": 236,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
    "repost_count": 0
   }
  },
@@ -4045,9 +4055,9 @@
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 76,
-  "healthy": 57,
-  "posted": 57,
+  "fetched": 77,
+  "healthy": 58,
+  "posted": 58,
   "removed": 0,
   "published_scores": [
    95,
@@ -4106,7 +4116,8 @@
    93,
    92,
    53,
-   39
+   39,
+   97
   ]
  }
 }
