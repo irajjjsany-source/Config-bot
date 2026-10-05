@@ -1,15 +1,5 @@
 {
  "seen": {
-  "aca3eecc6c6cc42c": 1790937473.052119,
-  "6b9b43420d861e8e": 1790937473.052119,
-  "03044c300850e11b": 1790937473.052119,
-  "72590dc10367095e": 1790937473.052119,
-  "bac1f5ef20840425": 1790937473.052119,
-  "3c59ec2cc1b479bc": 1790937473.052119,
-  "7bfe8e79bf604b5d": 1790937473.052119,
-  "d5b18d0b71006160": 1790937473.052119,
-  "48c22752ee55b5cd": 1790937473.052119,
-  "d3bfea746fec9e8f": 1790937473.052119,
   "27f5b6ff7645cb0c": 1790938347.9280498,
   "c0844bbf06646483": 1790938347.9280498,
   "0f2b5a2515a9f59c": 1790938347.9280498,
@@ -618,7 +608,9 @@
   "dfb8716c057c0f5b": 1791192614.377644,
   "cfcb626d71a15dbc": 1791193539.0068517,
   "a1d55889dd8b34fd": 1791195335.9356484,
-  "fa31d6d3cd18fdd0": 1791195335.9356484
+  "fa31d6d3cd18fdd0": 1791195335.9356484,
+  "aca3eecc6c6cc42c": 1791197000.5165498,
+  "6037455479352850": 1791197000.5165498
  },
  "queue": [],
  "posted": {
@@ -2075,6 +2067,16 @@
    "ts": 1791195346.146955,
    "ping": 719,
    "score": 91,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "aca3eecc6c6cc42c": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 919,
+   "ts": 1791197019.7306573,
+   "ping": 2627,
+   "score": 66,
    "stability": 100,
    "country": "United States",
    "repost_count": 0
@@ -3905,13 +3907,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791193543.8485932
+  },
+  "169.40.42.235": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791197018.95658
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 58,
-  "healthy": 46,
-  "posted": 46,
+  "fetched": 60,
+  "healthy": 47,
+  "posted": 47,
   "removed": 0,
   "published_scores": [
    95,
@@ -3959,7 +3966,8 @@
    99,
    93,
    91,
-   91
+   91,
+   66
   ]
  }
 }
