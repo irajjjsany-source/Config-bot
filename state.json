@@ -1,10 +1,5 @@
 {
  "seen": {
-  "a0cef7303f36e243": 1790961929.703601,
-  "aaa27db3d369d0c0": 1790961929.703601,
-  "05f48d989943ac4e": 1790961929.703601,
-  "93ad08a55487cd7d": 1790961929.703601,
-  "3203e7b84dc24f08": 1790961929.703601,
   "47156fbeb620c8ab": 1790962708.2758293,
   "f3c3ad806f1dc829": 1790962708.2758293,
   "c8c1309de29a9acd": 1790962708.2758293,
@@ -624,9 +619,33 @@
   "e2dd14f04ac3291f": 1791221112.8970344,
   "11341c3a8c4d6565": 1791221112.8970344,
   "165cde700b6a4ed0": 1791221112.8970344,
-  "e3b604e596004af3": 1791221112.8970344
+  "e3b604e596004af3": 1791221112.8970344,
+  "fc431a2a1f931eac": 1791221444.908254,
+  "6d9fe04dbba71dd3": 1791221444.908254,
+  "45734cc2119f2aed": 1791221444.908254,
+  "aad65967752f8ebb": 1791221444.908254,
+  "17d023a222a66ed5": 1791221444.908254
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "fc431a2a1f931eac",
+   "cfg": "vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aig.keeneticdocs.ru&fp=chrome&pbk=fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs&sid=a7268acdcfef5862&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🔵@chillguy_vpn",
+   "ping": 3803,
+   "best": 2809,
+   "score": 51,
+   "stability": 100,
+   "ts": 1791221444.908254
+  },
+  {
+   "id": "6d9fe04dbba71dd3",
+   "cfg": "vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
+   "ping": 4797,
+   "best": 4545,
+   "score": 38,
+   "stability": 100,
+   "ts": 1791221444.908254
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -2563,6 +2582,36 @@
    "score": 92,
    "stability": 100,
    "country": "Netherlands",
+   "repost_count": 0
+  },
+  "45734cc2119f2aed": {
+   "cfg": "vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?security=reality&encryption=none&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=c85d029f5e8eb393#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 968,
+   "ts": 1791221492.9985704,
+   "ping": 300,
+   "score": 96,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "17d023a222a66ed5": {
+   "cfg": "vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?security=reality&encryption=none&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 969,
+   "ts": 1791221493.6605625,
+   "ping": 802,
+   "score": 90,
+   "stability": 100,
+   "country": "Indonesia",
+   "repost_count": 0
+  },
+  "aad65967752f8ebb": {
+   "cfg": "vless://5e3f974b-06fc-4555-907a-6681391b7c17@private.netraidly.ru:40443?security=reality&encryption=none&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2bc0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 970,
+   "ts": 1791221494.900306,
+   "ping": 1939,
+   "score": 75,
+   "stability": 100,
+   "country": "United States",
    "repost_count": 0
   }
  },
@@ -4521,13 +4570,23 @@
    "cc": "NL",
    "name": "Netherlands",
    "ts": 1791221131.1482575
+  },
+  "195.123.235.177": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791221492.274829
+  },
+  "private.netraidly.ru": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791221493.6606505
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 133,
-  "healthy": 95,
-  "posted": 94,
+  "fetched": 138,
+  "healthy": 100,
+  "posted": 97,
   "removed": 0,
   "published_scores": [
    95,
@@ -4623,7 +4682,10 @@
    93,
    95,
    95,
-   92
+   92,
+   96,
+   90,
+   75
   ]
  }
 }
