@@ -614,7 +614,8 @@
   "cf440b7e60aa7269": 1791215132.141537,
   "b78665e05cd794b8": 1791215132.141537,
   "3d1ee3a92d0201ee": 1791215132.141537,
-  "089d74e462b12abf": 1791215132.141537
+  "089d74e462b12abf": 1791215132.141537,
+  "a7496bf6913a15b1": 1791216235.6967354
  },
  "queue": [],
  "posted": {
@@ -2341,6 +2342,16 @@
    "ts": 1791216058.328513,
    "ping": 603,
    "score": 92,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "a7496bf6913a15b1": {
+   "cfg": "vless://1ef3cfdd-a0b7-4584-87b4-2b217d8a4581@64.188.115.219:443?security=reality&encryption=none&pbk=2tjr1gP8eecWi9xlKFB1SmPKOzRgDt40NBQcxhjaKCA&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.swift.com&sid=270b5417f8ecb723#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 947,
+   "ts": 1791216239.8617854,
+   "ping": 315,
+   "score": 96,
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
@@ -4260,9 +4271,9 @@
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 106,
-  "healthy": 73,
-  "posted": 73,
+  "fetched": 107,
+  "healthy": 74,
+  "posted": 74,
   "removed": 0,
   "published_scores": [
    95,
@@ -4337,7 +4348,8 @@
    89,
    82,
    52,
-   92
+   92,
+   96
   ]
  }
 }
