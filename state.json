@@ -624,36 +624,13 @@
   "bd5ba665d4a9c254": 1791223518.4643993,
   "e26ecf79fdb4ef3a": 1791223518.4643993,
   "2ce39ebb189b7626": 1791223518.4643993,
-  "926d666530da4616": 1791223518.4643993
+  "926d666530da4616": 1791223518.4643993,
+  "350ce4ea8aabe326": 1791224135.329721,
+  "885bcc393a116a80": 1791224135.329721,
+  "d5f65d1e6a082215": 1791224135.329721,
+  "f899f47ddb028d89": 1791224135.329721
  },
  "queue": [
-  {
-   "id": "30dff00ad5669174",
-   "cfg": "vless://1a719388-c98d-4199-a915-bf66c7e0910a@ewki.varqino.ir:32211?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#🔵@chillguy_vpn",
-   "ping": 947,
-   "best": 933,
-   "score": 88,
-   "stability": 100,
-   "ts": 1791223518.4643993
-  },
-  {
-   "id": "bd5ba665d4a9c254",
-   "cfg": "vless://1a719388-c98d-4199-a915-bf66c7e0910a@noir.varqino.ir:43311?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#🔵@chillguy_vpn",
-   "ping": 1062,
-   "best": 1038,
-   "score": 86,
-   "stability": 100,
-   "ts": 1791223518.4643993
-  },
-  {
-   "id": "3c0af4279e9f3cf7",
-   "cfg": "vless://1a719388-c98d-4199-a915-bf66c7e0910a@iehrb.wingerdt.org:52233?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#🔵@chillguy_vpn",
-   "ping": 1277,
-   "best": 903,
-   "score": 83,
-   "stability": 100,
-   "ts": 1791223518.4643993
-  },
   {
    "id": "2ce39ebb189b7626",
    "cfg": "vless://1a719388-c98d-4199-a915-bf66c7e0910a@gr.wingerdt.com:11221?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#🔵@chillguy_vpn",
@@ -680,6 +657,15 @@
    "score": 50,
    "stability": 100,
    "ts": 1791223518.4643993
+  },
+  {
+   "id": "885bcc393a116a80",
+   "cfg": "vless://1a719388-c98d-4199-a915-bf66c7e0910a@crazya.wingerdt.org:32948?mode=auto&path=%2F&security=reality&encryption=none&pbk=59Fl4mMEYwB2pOcBZzX4Bdd0OA4xG8BXjd73RtER_QQ&fp=chrome&type=xhttp&sni=aparat.com&sid=16fbfc284dcf4954#🔵@chillguy_vpn",
+   "ping": 5641,
+   "best": 5324,
+   "score": 35,
+   "stability": 100,
+   "ts": 1791224135.329721
   }
  ],
  "posted": {
@@ -2719,6 +2705,36 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "30dff00ad5669174": {
+   "cfg": "vless://1a719388-c98d-4199-a915-bf66c7e0910a@ewki.varqino.ir:32211?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 978,
+   "ts": 1791224173.6715004,
+   "ping": 2784,
+   "score": 64,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
+  },
+  "bd5ba665d4a9c254": {
+   "cfg": "vless://1a719388-c98d-4199-a915-bf66c7e0910a@noir.varqino.ir:43311?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 979,
+   "ts": 1791224184.4373324,
+   "ping": 2841,
+   "score": 63,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
+  },
+  "3c0af4279e9f3cf7": {
+   "cfg": "vless://1a719388-c98d-4199-a915-bf66c7e0910a@iehrb.wingerdt.org:52233?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 980,
+   "ts": 1791224193.0533915,
+   "ping": 2082,
+   "score": 73,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -4711,13 +4727,28 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791223573.674818
+  },
+  "ewki.varqino.ir": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791224172.733215
+  },
+  "noir.varqino.ir": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791224183.520371
+  },
+  "iehrb.wingerdt.org": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791224192.0081604
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 151,
-  "healthy": 112,
-  "posted": 104,
+  "fetched": 155,
+  "healthy": 113,
+  "posted": 107,
   "removed": 0,
   "published_scores": [
    95,
@@ -4823,7 +4854,10 @@
    38,
    95,
    91,
-   88
+   88,
+   64,
+   63,
+   73
   ]
  }
 }
