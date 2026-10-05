@@ -604,9 +604,23 @@
   "aad31e1f09c84dd9": 1791180049.787376,
   "48a55c3f7e82b4cf": 1791180049.787376,
   "a839a29916541cc5": 1791180049.787376,
-  "83c3f45a0eadb8ad": 1791181952.3689485
+  "83c3f45a0eadb8ad": 1791181952.3689485,
+  "d33557250b27c62f": 1791182732.6669712,
+  "af388bec29f64795": 1791182732.6669712,
+  "79fb82dac86eb9e8": 1791182732.6669712,
+  "18649dca3d01f56a": 1791182732.6669712
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "af388bec29f64795",
+   "cfg": "vmess://eyJhZGQiOiAidmlwNi5lejA1MzUuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkNzA0NTE1YS04NDY2LTQwZDItYjkwMi1jYzhmZWFmYzAxYTQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "ping": 904,
+   "best": 861,
+   "score": 88,
+   "stability": 100,
+   "ts": 1791182732.6669712
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -1793,6 +1807,36 @@
    "score": 93,
    "stability": 100,
    "country": "Netherlands",
+   "repost_count": 0
+  },
+  "79fb82dac86eb9e8": {
+   "cfg": "vless://e5583623-53ef-4177-8070-8c553f70bcfa@172.67.214.193:2086?path=%2Fvl%2FNnAT20AqcYOuOLe1r%3Fed%3D2560&security=none&encryption=none&host=fvfb8xac5j0nthxzqf.dr5945ov0z598kfft573isahdj3fmmv4.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 892,
+   "ts": 1791182744.4139156,
+   "ping": 32,
+   "score": 100,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "d33557250b27c62f": {
+   "cfg": "vless://2f322254-c1e3-4ec1-80ac-822d44a2238a@185.87.24.179:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 893,
+   "ts": 1791182744.9260993,
+   "ping": 126,
+   "score": 98,
+   "stability": 100,
+   "country": "Türkiye",
+   "repost_count": 0
+  },
+  "18649dca3d01f56a": {
+   "cfg": "vless://2624c4b0-99a8-413c-9a3b-dcd98483cf5d@189.74.114.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediapriboy.cc&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 894,
+   "ts": 1791182745.3886466,
+   "ping": 251,
+   "score": 97,
+   "stability": 100,
+   "country": "Russia",
    "repost_count": 0
   }
  },
@@ -3551,13 +3595,23 @@
    "cc": "NL",
    "name": "Netherlands",
    "ts": 1791181956.8839395
+  },
+  "185.87.24.179": {
+   "cc": "TR",
+   "name": "Türkiye",
+   "ts": 1791182744.41402
+  },
+  "189.74.114.118": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791182744.9262278
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 23,
-  "healthy": 19,
-  "posted": 19,
+  "fetched": 27,
+  "healthy": 23,
+  "posted": 22,
   "removed": 0,
   "published_scores": [
    95,
@@ -3578,7 +3632,10 @@
    99,
    100,
    99,
-   93
+   93,
+   100,
+   98,
+   97
   ]
  }
 }
