@@ -1,6 +1,5 @@
 {
  "seen": {
-  "81f3d0e8ca6be44c": 1790933206.3678408,
   "8c5060cd4e07377a": 1790936686.8837645,
   "e52fdae12fa68333": 1790936686.8837645,
   "aca3eecc6c6cc42c": 1790937473.052119,
@@ -615,7 +614,10 @@
   "1cc2c6821b566e52": 1791191124.2377954,
   "d4ed5fe27773992d": 1791191732.349102,
   "5fb296372da58780": 1791191732.349102,
-  "b591b2212b908ed0": 1791191732.349102
+  "b591b2212b908ed0": 1791191732.349102,
+  "d0e1346cb5ada7c6": 1791192614.377644,
+  "d715b7b684b385cc": 1791192614.377644,
+  "dfb8716c057c0f5b": 1791192614.377644
  },
  "queue": [],
  "posted": {
@@ -2034,6 +2036,16 @@
    "score": 95,
    "stability": 100,
    "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "d715b7b684b385cc": {
+   "cfg": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 915,
+   "ts": 1791192620.6730196,
+   "ping": 60,
+   "score": 99,
+   "stability": 100,
+   "country": "",
    "repost_count": 0
   }
  },
@@ -3861,9 +3873,9 @@
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 52,
-  "healthy": 42,
-  "posted": 42,
+  "fetched": 55,
+  "healthy": 43,
+  "posted": 43,
   "removed": 0,
   "published_scores": [
    95,
@@ -3907,7 +3919,8 @@
    92,
    89,
    98,
-   95
+   95,
+   99
   ]
  }
 }
