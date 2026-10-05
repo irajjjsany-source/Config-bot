@@ -602,7 +602,9 @@
   "d6f04b0cb0635f19": 1791198931.185864,
   "f73cd116c7022ebe": 1791198931.185864,
   "c5e0f3ada55d5527": 1791199583.9030957,
-  "f3641f343e0ff1ac": 1791200733.1276362
+  "f3641f343e0ff1ac": 1791200733.1276362,
+  "3d1155870fc3cd31": 1791201651.5532053,
+  "a6e6e52b048595ce": 1791201651.5532053
  },
  "queue": [],
  "posted": {
@@ -2121,6 +2123,26 @@
    "score": 93,
    "stability": 100,
    "country": "Germany",
+   "repost_count": 0
+  },
+  "3d1155870fc3cd31": {
+   "cfg": "vless://372c587c-ca5f-467e-aaf2-07e0fd0ab7bf@31.56.189.89:443?mode=auto&path=%2Fstandart%2F&security=tls&encryption=none&insecure=0&host=de3s.beautysalon1122.online&fp=safari&type=xhttp&allowInsecure=0&sni=de3s.beautysalon1122.online#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 925,
+   "ts": 1791201659.0532649,
+   "ping": 370,
+   "score": 95,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "a6e6e52b048595ce": {
+   "cfg": "vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 926,
+   "ts": 1791201659.6293497,
+   "ping": 553,
+   "score": 93,
+   "stability": 100,
+   "country": "United Kingdom",
    "repost_count": 0
   }
  },
@@ -3974,13 +3996,23 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791198937.5086718
+  },
+  "31.56.189.89": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791201658.3988864
+  },
+  "51.89.194.151": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791201659.0533638
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 68,
-  "healthy": 52,
-  "posted": 52,
+  "fetched": 70,
+  "healthy": 54,
+  "posted": 54,
   "removed": 0,
   "published_scores": [
    95,
@@ -4034,6 +4066,8 @@
    52,
    44,
    100,
+   93,
+   95,
    93
   ]
  }
