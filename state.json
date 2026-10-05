@@ -626,42 +626,6 @@
  },
  "queue": [
   {
-   "id": "ebb66e082249a89e",
-   "cfg": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@p2real4.greewebservices.ir:1340?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#🔵@chillguy_vpn",
-   "ping": 1987,
-   "best": 809,
-   "score": 74,
-   "stability": 100,
-   "ts": 1791236352.1896415
-  },
-  {
-   "id": "875a5811d78d28f4",
-   "cfg": "vless://a19335f2-5c93-46c0-94c1-ccb356df0d2a@142.228.52.44:443?security=reality&encryption=none&pbk=97PwTn-dM13EOcl1TXD5baN6jCNR36SxHQdulYf_gWQ&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fi4.cloud-static.org&sid=65cf4ad7f11c52ed#🔵@chillguy_vpn",
-   "ping": 2169,
-   "best": 773,
-   "score": 72,
-   "stability": 100,
-   "ts": 1791237686.4363005
-  },
-  {
-   "id": "bb4fbacc2f9678de",
-   "cfg": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@195.88.57.96:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us-1.srv.dvzh.net&fp=firefox&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&sid=e4e77e76e6e49da7&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 2272,
-   "best": 1642,
-   "score": 70,
-   "stability": 100,
-   "ts": 1791235933.3582056
-  },
-  {
-   "id": "d82e65cec81ea613",
-   "cfg": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@p2tun0.greewebservices.ir:28820?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.google.com&sid=e3085d4fc679ba12#🔵@chillguy_vpn",
-   "ping": 3448,
-   "best": 3174,
-   "score": 55,
-   "stability": 100,
-   "ts": 1791236352.1896415
-  },
-  {
    "id": "95dfc6a478721025",
    "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.155.185:443?security=reality&encryption=none&pbk=4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=5ea112e8#🔵@chillguy_vpn",
    "ping": 4930,
@@ -3068,6 +3032,36 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "ebb66e082249a89e": {
+   "cfg": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@p2real4.greewebservices.ir:1340?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1017,
+   "ts": 1791239448.0317752,
+   "ping": 913,
+   "score": 88,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
+  },
+  "875a5811d78d28f4": {
+   "cfg": "vless://a19335f2-5c93-46c0-94c1-ccb356df0d2a@142.228.52.44:443?security=reality&encryption=none&pbk=97PwTn-dM13EOcl1TXD5baN6jCNR36SxHQdulYf_gWQ&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fi4.cloud-static.org&sid=65cf4ad7f11c52ed#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1018,
+   "ts": 1791239451.3878736,
+   "ping": 516,
+   "score": 93,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
+  },
+  "d82e65cec81ea613": {
+   "cfg": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@p2tun0.greewebservices.ir:28820?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.google.com&sid=e3085d4fc679ba12#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1019,
+   "ts": 1791239459.551105,
+   "ping": 1525,
+   "score": 80,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5185,13 +5179,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791239062.917477
+  },
+  "142.228.52.44": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791239450.9053974
   }
  },
  "stats": {
   "date": "2026-10-05",
   "fetched": 210,
   "healthy": 147,
-  "posted": 140,
+  "posted": 143,
   "removed": 0,
   "published_scores": [
    95,
@@ -5333,7 +5332,10 @@
    85,
    85,
    85,
-   83
+   83,
+   88,
+   93,
+   80
   ]
  }
 }
