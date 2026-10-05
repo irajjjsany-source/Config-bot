@@ -1,8 +1,5 @@
 {
  "seen": {
-  "19d7954cb1d1a797": 1790922604.6775463,
-  "a0b8f9ca0782b443": 1790922604.6775463,
-  "13e35d1b3e1cc1be": 1790922604.6775463,
   "4d4f2e4e2b843e75": 1790923762.333685,
   "7f0d58e715da5910": 1790923762.333685,
   "9d672616034b00c1": 1790924731.1143694,
@@ -606,7 +603,8 @@
   "ebdbc3e18688d0c2": 1791180049.787376,
   "aad31e1f09c84dd9": 1791180049.787376,
   "48a55c3f7e82b4cf": 1791180049.787376,
-  "a839a29916541cc5": 1791180049.787376
+  "a839a29916541cc5": 1791180049.787376,
+  "83c3f45a0eadb8ad": 1791181952.3689485
  },
  "queue": [],
  "posted": {
@@ -1785,6 +1783,16 @@
    "score": 99,
    "stability": 100,
    "country": "",
+   "repost_count": 0
+  },
+  "83c3f45a0eadb8ad": {
+   "cfg": "vless://86037609-3790-4901-bd2f-c698092fb1fc@2.27.211.38:443?security=reality&encryption=none&pbk=9Pg_ecqFPMfzOvJrmxE05FmLUDXbY9Mo1r2MgxFzYEQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=po.skfv-mirror.ru&sid=cd57a927f6b72d81#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 891,
+   "ts": 1791181957.5616703,
+   "ping": 518,
+   "score": 93,
+   "stability": 100,
+   "country": "Netherlands",
    "repost_count": 0
   }
  },
@@ -3538,13 +3546,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791179221.3038046
+  },
+  "2.27.211.38": {
+   "cc": "NL",
+   "name": "Netherlands",
+   "ts": 1791181956.8839395
   }
  },
  "stats": {
   "date": "2026-10-05",
-  "fetched": 22,
-  "healthy": 18,
-  "posted": 18,
+  "fetched": 23,
+  "healthy": 19,
+  "posted": 19,
   "removed": 0,
   "published_scores": [
    95,
@@ -3564,7 +3577,8 @@
    99,
    99,
    100,
-   99
+   99,
+   93
   ]
  }
 }
