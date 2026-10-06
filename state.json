@@ -566,7 +566,9 @@
   "6a5157fbd28b1edd": 1791307848.9393818,
   "57f6921ce9d0f43b": 1791307848.9393818,
   "f3b871757a481fb7": 1791307848.9393818,
-  "beae08d73d8ff2f4": 1791307848.9393818
+  "beae08d73d8ff2f4": 1791307848.9393818,
+  "4968a43a883f55c8": 1791311633.3717842,
+  "a9894b3e0ec41e4d": 1791311633.3717842
  },
  "queue": [],
  "posted": {
@@ -3546,6 +3548,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "a9894b3e0ec41e4d": {
+   "cfg": "vless://05310823-da02-4b79-9d80-a940e264017d@myeloperoxidase.azurophilic.workers.dev:443?encryption=none&security=tls&sni=myeloperoxidase.azurophilic.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=myeloperoxidase.azurophilic.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1077,
+   "ts": 1791311645.2094498,
+   "ping": 210,
+   "score": 97,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5823,13 +5835,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791307862.7930763
+  },
+  "myeloperoxidase.azurophilic.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791311644.5003579
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 82,
-  "healthy": 52,
-  "posted": 47,
+  "fetched": 84,
+  "healthy": 53,
+  "posted": 48,
   "removed": 0,
   "published_scores": [
    96,
@@ -5878,7 +5895,8 @@
    94,
    92,
    96,
-   94
+   94,
+   97
   ]
  }
 }
