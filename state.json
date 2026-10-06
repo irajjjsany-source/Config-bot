@@ -541,9 +541,34 @@
   "b49cb9c862ba0525": 1791296135.266349,
   "25cae484484d1e5e": 1791297758.8523195,
   "010871709e37971d": 1791297758.8523195,
-  "d83dbd1f54c4ddd2": 1791297934.803351
+  "d83dbd1f54c4ddd2": 1791297934.803351,
+  "1166733ee86cd700": 1791299410.5905137,
+  "30f3563d8b1fe287": 1791299410.5905137,
+  "0f79d47fc034d219": 1791299410.5905137,
+  "1a0e078210e561fc": 1791299410.5905137,
+  "6ca9dbb2a5f1ec2d": 1791299410.5905137,
+  "ecda74327ef5e53c": 1791299410.5905137
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "0f79d47fc034d219",
+   "cfg": "vless://1d5f8e81-2db4-4bcf-8428-ce1ad40b665b@nl1.truenetvpn.ru:443?security=reality&encryption=none&pbk=-Kjxd5RAdwiNmiv5uuDcV7AyF9UwnXTLn-PoLavGdk4&headerType=none&fp=firefox&type=tcp&sni=nl1.truenetvpn.ru&sid=023da8c6a8c1d2c0#🔵@chillguy_vpn",
+   "ping": 554,
+   "best": 493,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791299410.5905137
+  },
+  {
+   "id": "6ca9dbb2a5f1ec2d",
+   "cfg": "vless://1d5f8e81-2db4-4bcf-8428-ce1ad40b665b@nl1.truenetvpn.ru:2096?path=%2Ftnhu&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=httpupgrade&allowInsecure=0&sni=nl1.truenetvpn.ru#🔵@chillguy_vpn",
+   "ping": 649,
+   "best": 551,
+   "score": 92,
+   "stability": 100,
+   "ts": 1791299410.5905137
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3351,6 +3376,36 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "ecda74327ef5e53c": {
+   "cfg": "vless://5bf33a5a-f590-4a1b-ab65-f1a5ca545065@301e691ddf574883302fdd4e5cb4308ab93cbafcfc4f4723dc5aa3672.d3ffe73feaf16aa06299b0e32cfb230db65ac53341176e9aea23c99302acdbb.workers.dev:443?encryption=none&security=tls&sni=301e691ddf574883302fdd4e5cb4308ab93cbafcfc4f4723dc5aa3672.d3ffe73feaf16aa06299b0e32cfb230db65ac53341176e9aea23c99302acdbb.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=301e691ddf574883302fdd4e5cb4308ab93cbafcfc4f4723dc5aa3672.d3ffe73feaf16aa06299b0e32cfb230db65ac53341176e9aea23c99302acdbb.workers.dev&path=%2Fazarandoozvpnbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1060,
+   "ts": 1791299434.3732908,
+   "ping": 210,
+   "score": 97,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "30f3563d8b1fe287": {
+   "cfg": "vless://1d5f8e81-2db4-4bcf-8428-ce1ad40b665b@de1.truenetvpn.ru:443?security=reality&encryption=none&pbk=-Kjxd5RAdwiNmiv5uuDcV7AyF9UwnXTLn-PoLavGdk4&headerType=none&fp=firefox&type=tcp&sni=de1.truenetvpn.ru&sid=023da8c6a8c1d2c0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1061,
+   "ts": 1791299435.2490664,
+   "ping": 468,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "1a0e078210e561fc": {
+   "cfg": "vless://1d5f8e81-2db4-4bcf-8428-ce1ad40b665b@de1.truenetvpn.ru:2096?path=%2Ftnhu&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=httpupgrade&allowInsecure=0&sni=de1.truenetvpn.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1062,
+   "ts": 1791299435.8270345,
+   "ping": 518,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5563,13 +5618,23 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791297937.6569357
+  },
+  "301e691ddf574883302fdd4e5cb4308ab93cbafcfc4f4723dc5aa3672.d3ffe73feaf16aa06299b0e32cfb230db65ac53341176e9aea23c99302acdbb.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791299433.6594613
+  },
+  "de1.truenetvpn.ru": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791299434.37343
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 57,
-  "healthy": 32,
-  "posted": 30,
+  "fetched": 63,
+  "healthy": 37,
+  "posted": 33,
   "removed": 0,
   "published_scores": [
    96,
@@ -5601,7 +5666,10 @@
    92,
    84,
    91,
-   98
+   98,
+   97,
+   94,
+   93
   ]
  }
 }
