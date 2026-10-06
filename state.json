@@ -1,19 +1,5 @@
 {
  "seen": {
-  "658c60e35102440a": 1791038727.4277403,
-  "ccfe80ab409f68ee": 1791038727.4277403,
-  "a583b0cae1282a2c": 1791038727.4277403,
-  "5eef027cad7a4bf9": 1791038727.4277403,
-  "40b7e786318fe488": 1791038727.4277403,
-  "72e90901fa90460d": 1791038727.4277403,
-  "e14056e0738e511f": 1791038727.4277403,
-  "a19005324a3496ab": 1791038727.4277403,
-  "311d29484188ceec": 1791038727.4277403,
-  "4f6d2bd84b818cef": 1791038727.4277403,
-  "66f21c63da64b77e": 1791038727.4277403,
-  "de6ee2237a9fed79": 1791038727.4277403,
-  "52e28f85f96d56a4": 1791038727.4277403,
-  "0bf36bda99be7d7c": 1791038727.4277403,
   "4a500e907d6a3265": 1791053252.1644464,
   "00bb82bd193a6eef": 1791053252.1644464,
   "8b12c3bdd59aa264": 1791053252.1644464,
@@ -554,7 +540,8 @@
   "a5f58fb62b6d7175": 1791296135.266349,
   "b49cb9c862ba0525": 1791296135.266349,
   "25cae484484d1e5e": 1791297758.8523195,
-  "010871709e37971d": 1791297758.8523195
+  "010871709e37971d": 1791297758.8523195,
+  "d83dbd1f54c4ddd2": 1791297934.803351
  },
  "queue": [],
  "posted": {
@@ -3354,6 +3341,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "d83dbd1f54c4ddd2": {
+   "cfg": "vless://586afbd0-c818-4271-a845-c84790677587@31cd88e5719c63162e653888ded8ba02561eb365ffabfa327802c3.d3ffe73feaf16aa06299b0e32cfb230db65ac53341176e9aea23c99302acdbb.workers.dev:443?encryption=none&security=tls&sni=31cd88e5719c63162e653888ded8ba02561eb365ffabfa327802c3.d3ffe73feaf16aa06299b0e32cfb230db65ac53341176e9aea23c99302acdbb.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=31cd88e5719c63162e653888ded8ba02561eb365ffabfa327802c3.d3ffe73feaf16aa06299b0e32cfb230db65ac53341176e9aea23c99302acdbb.workers.dev&path=%2Fazarandoozvpnbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1059,
+   "ts": 1791297938.1765382,
+   "ping": 121,
+   "score": 98,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5561,13 +5558,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1791297059.740209
+  },
+  "31cd88e5719c63162e653888ded8ba02561eb365ffabfa327802c3.d3ffe73feaf16aa06299b0e32cfb230db65ac53341176e9aea23c99302acdbb.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791297937.6569357
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 56,
-  "healthy": 31,
-  "posted": 29,
+  "fetched": 57,
+  "healthy": 32,
+  "posted": 30,
   "removed": 0,
   "published_scores": [
    96,
@@ -5598,7 +5600,8 @@
    92,
    92,
    84,
-   91
+   91,
+   98
   ]
  }
 }
