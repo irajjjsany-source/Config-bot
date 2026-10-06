@@ -590,7 +590,8 @@
   "a751bcb617b61c97": 1791291008.0697289,
   "d9189ac9bf41ce27": 1791291008.0697289,
   "3fb78d8b296a685d": 1791291008.0697289,
-  "d593357ffbd0c387": 1791291008.0697289
+  "d593357ffbd0c387": 1791291008.0697289,
+  "0308393bcba8446f": 1791293296.3324804
  },
  "queue": [],
  "posted": {
@@ -3280,6 +3281,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "0308393bcba8446f": {
+   "cfg": "vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@fi3.h1cloud.net:25090?security=reality&encryption=none&pbk=biCk-kVr64zr2Vm6PRkrt3egFtuVXdJF5buWaG4wA1Y&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=36e15949603e0e6e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1048,
+   "ts": 1791293303.5902405,
+   "ping": 975,
+   "score": 87,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5452,13 +5463,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791291044.9130101
+  },
+  "fi3.h1cloud.net": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791293302.826205
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 36,
-  "healthy": 20,
-  "posted": 18,
+  "fetched": 37,
+  "healthy": 21,
+  "posted": 19,
   "removed": 0,
   "published_scores": [
    96,
@@ -5478,7 +5494,8 @@
    100,
    96,
    93,
-   94
+   94,
+   87
   ]
  }
 }
