@@ -549,9 +549,24 @@
   "6ca9dbb2a5f1ec2d": 1791299410.5905137,
   "ecda74327ef5e53c": 1791299410.5905137,
   "e148b2729d0f94e5": 1791301227.1484013,
-  "1f5edf79f04e4051": 1791303338.7445986
+  "1f5edf79f04e4051": 1791303338.7445986,
+  "a81c00d2d738ff54": 1791305050.7556915,
+  "3560de59e005e9ff": 1791305050.7556915,
+  "17ac0da953628bd1": 1791305050.7556915,
+  "9d72c240b96c116c": 1791305050.7556915,
+  "f425ed3c35cf1bc3": 1791305050.7556915
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "3560de59e005e9ff",
+   "cfg": "vless://6b342fc8-ab13-4777-b97a-28c0b88d26fd@87.107.169.115:3143?security=reality&encryption=none&pbk=vV-2PCr-5vRmTKEYAMpJtbLLQ2RVlxlYrhb48e_2viE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e9ace586b5e2d038#🔵@chillguy_vpn",
+   "ping": 2236,
+   "best": 1230,
+   "score": 71,
+   "stability": 100,
+   "ts": 1791305050.7556915
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3409,6 +3424,36 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "f425ed3c35cf1bc3": {
+   "cfg": "vless://c380e3bb-41aa-4f66-aca4-ac71cd7f4174@inv16.11q23.workers.dev:443?encryption=none&security=tls&sni=inv16.11q23.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=inv16.11q23.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1065,
+   "ts": 1791305073.3310049,
+   "ping": 193,
+   "score": 97,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "a81c00d2d738ff54": {
+   "cfg": "vless://70ad3e9c-89e6-4ee3-91c3-7cb10a4e483a@165.231.177.50:443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&type=xhttp&allowInsecure=0&sni=cab-6ac3cf79.ferrin.uk#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1066,
+   "ts": 1791305073.9429715,
+   "ping": 569,
+   "score": 93,
+   "stability": 100,
+   "country": "Estonia",
+   "repost_count": 0
+  },
+  "9d72c240b96c116c": {
+   "cfg": "vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=vusr-6ac431f4.adhil.uk#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1067,
+   "ts": 1791305074.5256925,
+   "ping": 1564,
+   "score": 80,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5641,13 +5686,28 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791303342.141619
+  },
+  "inv16.11q23.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791305072.6758862
+  },
+  "165.231.177.50": {
+   "cc": "EE",
+   "name": "Estonia",
+   "ts": 1791305073.3311524
+  },
+  "196.240.125.3": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791305073.9430747
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 65,
-  "healthy": 39,
-  "posted": 35,
+  "fetched": 70,
+  "healthy": 43,
+  "posted": 38,
   "removed": 0,
   "published_scores": [
    96,
@@ -5684,7 +5744,10 @@
    94,
    93,
    99,
-   98
+   98,
+   97,
+   93,
+   80
   ]
  }
 }
