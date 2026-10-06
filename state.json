@@ -1,13 +1,5 @@
 {
  "seen": {
-  "86b50c83e39ad2aa": 1791003115.2413638,
-  "06b7dc78dbaf6e60": 1791003115.2413638,
-  "e49d017b9aaf8093": 1791003115.2413638,
-  "f9322de010ce0260": 1791003115.2413638,
-  "fcd393d54b71a354": 1791003115.2413638,
-  "0487436b2eb57c28": 1791003115.2413638,
-  "71991e50ecd31b20": 1791003115.2413638,
-  "679d3c7e8daa38a7": 1791003115.2413638,
   "fada009654e3a462": 1791005567.7671053,
   "b6a9762a59200935": 1791005567.7671053,
   "bdf66d446c71ea7b": 1791005567.7671053,
@@ -634,7 +626,10 @@
   "18d29025299883e5": 1791261653.3032389,
   "3521ecdcf3aa0df5": 1791261932.7691565,
   "f1af9eff36095a4c": 1791261932.7691565,
-  "d78067e7033d7ab8": 1791261932.7691565
+  "d78067e7033d7ab8": 1791261932.7691565,
+  "06b7dc78dbaf6e60": 1791262425.4704015,
+  "e49d017b9aaf8093": 1791262425.4704015,
+  "71991e50ecd31b20": 1791262425.4704015
  },
  "queue": [],
  "posted": {
@@ -3214,6 +3209,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "e49d017b9aaf8093": {
+   "cfg": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1036,
+   "ts": 1791262443.8693922,
+   "ping": 768,
+   "score": 90,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "71991e50ecd31b20": {
+   "cfg": "vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?security=reality&encryption=none&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=origin.vpnoodles.ru&sid=4af4102cb26e59#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1037,
+   "ts": 1791262444.5922925,
+   "ping": 981,
+   "score": 87,
+   "stability": 100,
+   "country": "Czechia",
+   "repost_count": 0
+  },
+  "06b7dc78dbaf6e60": {
+   "cfg": "vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=2a80364e93d9#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1038,
+   "ts": 1791262445.4862857,
+   "ping": 1796,
+   "score": 77,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5366,13 +5391,23 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1791261663.5046146
+  },
+  "31.76.7.227": {
+   "cc": "CZ",
+   "name": "Czechia",
+   "ts": 1791262443.8695028
+  },
+  "staging.lastilhame.monster": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791262444.5924015
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 10,
-  "healthy": 7,
-  "posted": 7,
+  "fetched": 13,
+  "healthy": 10,
+  "posted": 10,
   "removed": 0,
   "published_scores": [
    96,
@@ -5381,7 +5416,10 @@
    96,
    82,
    99,
-   99
+   99,
+   90,
+   87,
+   77
   ]
  }
 }
