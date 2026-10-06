@@ -580,7 +580,8 @@
   "cb496bb194003567": 1791317734.0491023,
   "d4cdce1b96232cb6": 1791317734.0491023,
   "7dda7c93b55335bb": 1791318386.111466,
-  "60437f829e52daf4": 1791318386.111466
+  "60437f829e52daf4": 1791318386.111466,
+  "a2a2799ec6f16ae0": 1791318645.702553
  },
  "queue": [],
  "posted": {
@@ -3700,6 +3701,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "a2a2799ec6f16ae0": {
+   "cfg": "vless://e60a2499-c5bf-4ad6-86b0-8af0bd3c0bbf@2.27.39.233:443?security=reality&encryption=none&pbk=5tMM2VdgddmxOKhdNa3b7i_aXno1g-_61SzkppS2UXQ&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=f3c023cc#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1094,
+   "ts": 1791318650.2944186,
+   "ping": 412,
+   "score": 95,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6032,13 +6043,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791315502.301771
+  },
+  "2.27.39.233": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791318649.6645558
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 120,
-  "healthy": 67,
-  "posted": 61,
+  "fetched": 121,
+  "healthy": 68,
+  "posted": 62,
   "removed": 0,
   "published_scores": [
    96,
@@ -6101,7 +6117,8 @@
    73,
    98,
    94,
-   93
+   93,
+   95
   ]
  }
 }
