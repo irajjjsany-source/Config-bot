@@ -568,9 +568,35 @@
   "f3b871757a481fb7": 1791307848.9393818,
   "beae08d73d8ff2f4": 1791307848.9393818,
   "4968a43a883f55c8": 1791311633.3717842,
-  "a9894b3e0ec41e4d": 1791311633.3717842
+  "a9894b3e0ec41e4d": 1791311633.3717842,
+  "0355da132091355d": 1791312332.6477602,
+  "6c5b16a646395115": 1791312332.6477602,
+  "20a2ed38a9261a1c": 1791312332.6477602,
+  "ea4f6f855b5fd264": 1791312332.6477602,
+  "f26cb0e89f4c6ca0": 1791312332.6477602,
+  "efb1e292add1f0de": 1791312332.6477602,
+  "3b5c05775c81229a": 1791312332.6477602
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "f26cb0e89f4c6ca0",
+   "cfg": "vless://8fc806fa-350b-4548-937a-2bf35f7fe7eb@91.228.227.9:443?security=reality&encryption=none&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=tr1.sky-vault.top&sid=ae64c9b46bff174a#🔵@chillguy_vpn",
+   "ping": 1889,
+   "best": 1063,
+   "score": 75,
+   "stability": 100,
+   "ts": 1791312332.6477602
+  },
+  {
+   "id": "efb1e292add1f0de",
+   "cfg": "vless://3cf5b062-214c-440b-afc6-d151e5fbecf9@150.241.73.119:443?security=reality&encryption=none&pbk=ZPCvZ35GG6s9XAIIbF2Xj9zRWHntn3Ystcus_0TF3n8&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=node-04.koshsky.ru#🔵@chillguy_vpn",
+   "ping": 5185,
+   "best": 4263,
+   "score": 35,
+   "stability": 100,
+   "ts": 1791312332.6477602
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3558,6 +3584,36 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "ea4f6f855b5fd264": {
+   "cfg": "vless://088fc987-98d3-4469-a304-caf7a2ecd35c@179.237.69.149:443?security=reality&encryption=none&pbk=rsWf4l7DQq91i1PW7iMW3d3no5F_i0ZIR9KYYGozdUE&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=ec#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1078,
+   "ts": 1791312388.4565225,
+   "ping": 412,
+   "score": 95,
+   "stability": 100,
+   "country": "Switzerland",
+   "repost_count": 0
+  },
+  "20a2ed38a9261a1c": {
+   "cfg": "vless://c3369c07-f0d2-4a2c-97ab-0d3d47803912@193.168.172.32:8443?security=reality&encryption=none&pbk=1KY_jqa2yPLBEBa-3TG77zs4ak2zQLGul4eexxCueyI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=github.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1079,
+   "ts": 1791312389.090476,
+   "ping": 529,
+   "score": 93,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
+  },
+  "6c5b16a646395115": {
+   "cfg": "vless://ebc5ac2d-413f-4619-a278-8eafc539d993@50.7.21.189:8443?security=reality&encryption=none&pbk=_GHTMXA8jLs-7K3sfwifHjAQRkZ9BFDcWtyb0LHADQA&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sing.streis.ru&sid=b2c3d4e5f6071829#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1080,
+   "ts": 1791312389.6996138,
+   "ping": 628,
+   "score": 92,
+   "stability": 100,
+   "country": "Singapore",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5840,13 +5896,28 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791311644.5003579
+  },
+  "179.237.69.149": {
+   "cc": "CH",
+   "name": "Switzerland",
+   "ts": 1791312387.8020911
+  },
+  "193.168.172.32": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791312388.4566283
+  },
+  "50.7.21.189": {
+   "cc": "SG",
+   "name": "Singapore",
+   "ts": 1791312389.0905776
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 84,
-  "healthy": 53,
-  "posted": 48,
+  "fetched": 91,
+  "healthy": 58,
+  "posted": 51,
   "removed": 0,
   "published_scores": [
    96,
@@ -5896,7 +5967,10 @@
    92,
    96,
    94,
-   97
+   97,
+   95,
+   93,
+   92
   ]
  }
 }
