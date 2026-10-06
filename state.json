@@ -554,26 +554,7 @@
   "a5f58fb62b6d7175": 1791296135.266349,
   "b49cb9c862ba0525": 1791296135.266349
  },
- "queue": [
-  {
-   "id": "d0c04f1d82ed4611",
-   "cfg": "vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#🔵@chillguy_vpn",
-   "ping": 643,
-   "best": 332,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791296135.266349
-  },
-  {
-   "id": "3a7e6aa26f4c8c02",
-   "cfg": "vless://953358cb-82ba-4296-960d-6d2ec3468f4c@31.76.6.4:8443?security=reality&encryption=none&pbk=dhu6bLcaJC9Dp8YPsVWWjeoswiPWkaw_OmX0-n0jAF4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=olivepress.gazette.help&sid=f3bd8a54f8fd990f#🔵@chillguy_vpn",
-   "ping": 756,
-   "best": 692,
-   "score": 90,
-   "stability": 100,
-   "ts": 1791296135.266349
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3351,6 +3332,26 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "d0c04f1d82ed4611": {
+   "cfg": "vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1057,
+   "ts": 1791297056.2638288,
+   "ping": 1211,
+   "score": 84,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
+  },
+  "3a7e6aa26f4c8c02": {
+   "cfg": "vless://953358cb-82ba-4296-960d-6d2ec3468f4c@31.76.6.4:8443?security=reality&encryption=none&pbk=dhu6bLcaJC9Dp8YPsVWWjeoswiPWkaw_OmX0-n0jAF4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=olivepress.gazette.help&sid=f3bd8a54f8fd990f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1058,
+   "ts": 1791297060.271474,
+   "ping": 716,
+   "score": 91,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5553,13 +5554,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1791296909.9961777
+  },
+  "31.76.6.4": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791297059.740209
   }
  },
  "stats": {
   "date": "2026-10-06",
   "fetched": 54,
   "healthy": 31,
-  "posted": 27,
+  "posted": 29,
   "removed": 0,
   "published_scores": [
    96,
@@ -5588,7 +5594,9 @@
    94,
    93,
    92,
-   92
+   92,
+   84,
+   91
   ]
  }
 }
