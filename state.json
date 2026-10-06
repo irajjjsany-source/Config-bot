@@ -624,7 +624,9 @@
   "cd393fc50128d9a7": 1791242130.368409,
   "31b46f824e2a3dd7": 1791242130.368409,
   "7a73b77eb3472e74": 1791242130.368409,
-  "4c2c37df586c810d": 1791243041.9319575
+  "4c2c37df586c810d": 1791243041.9319575,
+  "faf2df78dc491700": 1791248956.399748,
+  "aa0425b153fbfc23": 1791248956.399748
  },
  "queue": [],
  "posted": {
@@ -3134,6 +3136,26 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "aa0425b153fbfc23": {
+   "cfg": "vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.155.185:443?security=reality&encryption=none&pbk=4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=5ea112e8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1029,
+   "ts": 1791248963.3908272,
+   "ping": 334,
+   "score": 96,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
+  },
+  "faf2df78dc491700": {
+   "cfg": "vless://6a16c4df-2b18-4767-a246-510ef203cbb6@198.105.123.145:29486?security=&encryption=mlkem768x25519plus.native.0rtt.jV-s6flj3WF-8dG6XyWOna0r232RpAKFl7sGb4Kx6Eo&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1030,
+   "ts": 1791248963.8839598,
+   "ping": 454,
+   "score": 94,
+   "stability": 100,
+   "country": "Türkiye",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5285,9 +5307,13 @@
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 0,
-  "healthy": 0,
-  "posted": 0,
-  "removed": 0
+  "fetched": 2,
+  "healthy": 2,
+  "posted": 2,
+  "removed": 0,
+  "published_scores": [
+   96,
+   94
+  ]
  }
 }
