@@ -1,29 +1,5 @@
 {
  "seen": {
-  "4a500e907d6a3265": 1791053252.1644464,
-  "00bb82bd193a6eef": 1791053252.1644464,
-  "8b12c3bdd59aa264": 1791053252.1644464,
-  "0f837d07e88ac242": 1791053252.1644464,
-  "85f50c3ed1ce4790": 1791053252.1644464,
-  "2a89f0642c594afa": 1791053252.1644464,
-  "ac5b0bdb4333f24d": 1791053252.1644464,
-  "f5f15275e6eddcf3": 1791053252.1644464,
-  "711e20f2cbbe49a9": 1791053252.1644464,
-  "f022bef5f1e89472": 1791053252.1644464,
-  "2972b9810ae80d10": 1791053252.1644464,
-  "c696497d0a35a3d8": 1791053252.1644464,
-  "6b5f36552f673bbd": 1791053252.1644464,
-  "7783823ef3a761cd": 1791053252.1644464,
-  "d0eb8b6503117a8e": 1791053252.1644464,
-  "8e5715229b7f74d1": 1791053252.1644464,
-  "c1ab68a2082d2411": 1791053252.1644464,
-  "82fa19df524d155c": 1791053252.1644464,
-  "6879d8fc21a5db98": 1791053252.1644464,
-  "bf671fa6f4d64afb": 1791053252.1644464,
-  "daa6242e48275b4e": 1791053252.1644464,
-  "1440b4c117c8ef23": 1791053252.1644464,
-  "8e94f659c50dbedc": 1791053252.1644464,
-  "470b3506af5e4e69": 1791053252.1644464,
   "eb24cfc50d74d070": 1791080621.5430548,
   "456eadae0cba8c9d": 1791080621.5430548,
   "6987873487683612": 1791080621.5430548,
@@ -575,28 +551,12 @@
   "ea4f6f855b5fd264": 1791312332.6477602,
   "f26cb0e89f4c6ca0": 1791312332.6477602,
   "efb1e292add1f0de": 1791312332.6477602,
-  "3b5c05775c81229a": 1791312332.6477602
+  "3b5c05775c81229a": 1791312332.6477602,
+  "2a89f0642c594afa": 1791313253.6227818,
+  "467037c09bc8080b": 1791313253.6227818,
+  "d6ffe64771174094": 1791313253.6227818
  },
- "queue": [
-  {
-   "id": "f26cb0e89f4c6ca0",
-   "cfg": "vless://8fc806fa-350b-4548-937a-2bf35f7fe7eb@91.228.227.9:443?security=reality&encryption=none&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=tr1.sky-vault.top&sid=ae64c9b46bff174a#🔵@chillguy_vpn",
-   "ping": 1889,
-   "best": 1063,
-   "score": 75,
-   "stability": 100,
-   "ts": 1791312332.6477602
-  },
-  {
-   "id": "efb1e292add1f0de",
-   "cfg": "vless://3cf5b062-214c-440b-afc6-d151e5fbecf9@150.241.73.119:443?security=reality&encryption=none&pbk=ZPCvZ35GG6s9XAIIbF2Xj9zRWHntn3Ystcus_0TF3n8&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=node-04.koshsky.ru#🔵@chillguy_vpn",
-   "ping": 5185,
-   "best": 4263,
-   "score": 35,
-   "stability": 100,
-   "ts": 1791312332.6477602
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3614,6 +3574,36 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "f26cb0e89f4c6ca0": {
+   "cfg": "vless://8fc806fa-350b-4548-937a-2bf35f7fe7eb@91.228.227.9:443?security=reality&encryption=none&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=tr1.sky-vault.top&sid=ae64c9b46bff174a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1084,
+   "ts": 1791313276.2460694,
+   "ping": 703,
+   "score": 91,
+   "stability": 100,
+   "country": "Turkey",
+   "repost_count": 0
+  },
+  "2a89f0642c594afa": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=yahoo.com&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1085,
+   "ts": 1791313276.7050474,
+   "ping": 2780,
+   "score": 64,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "efb1e292add1f0de": {
+   "cfg": "vless://3cf5b062-214c-440b-afc6-d151e5fbecf9@150.241.73.119:443?security=reality&encryption=none&pbk=ZPCvZ35GG6s9XAIIbF2Xj9zRWHntn3Ystcus_0TF3n8&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=node-04.koshsky.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1086,
+   "ts": 1791313292.9868546,
+   "ping": 4815,
+   "score": 37,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5911,13 +5901,23 @@
    "cc": "SG",
    "name": "Singapore",
    "ts": 1791312389.0905776
+  },
+  "91.228.227.9": {
+   "cc": "TR",
+   "name": "Turkey",
+   "ts": 1791313275.6373563
+  },
+  "150.241.73.119": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791313292.481611
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 91,
-  "healthy": 58,
-  "posted": 51,
+  "fetched": 94,
+  "healthy": 59,
+  "posted": 54,
   "removed": 0,
   "published_scores": [
    96,
@@ -5970,7 +5970,10 @@
    97,
    95,
    93,
-   92
+   92,
+   91,
+   64,
+   37
   ]
  }
 }
