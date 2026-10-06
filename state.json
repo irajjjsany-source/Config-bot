@@ -626,7 +626,10 @@
   "7a73b77eb3472e74": 1791242130.368409,
   "4c2c37df586c810d": 1791243041.9319575,
   "faf2df78dc491700": 1791248956.399748,
-  "aa0425b153fbfc23": 1791248956.399748
+  "aa0425b153fbfc23": 1791248956.399748,
+  "49344eac84365e18": 1791254730.098353,
+  "07908c051f1ab6b0": 1791254730.098353,
+  "6345878800b5a7f7": 1791254730.098353
  },
  "queue": [],
  "posted": {
@@ -3156,6 +3159,26 @@
    "stability": 100,
    "country": "Türkiye",
    "repost_count": 0
+  },
+  "07908c051f1ab6b0": {
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.170:443?type=tcp&security=reality&sni=de2.srv.vbuste.ru&flow=xtls-rprx-vision&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1031,
+   "ts": 1791254736.323142,
+   "ping": 289,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "49344eac84365e18": {
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.170:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&sid=4be4110078ebed4a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1032,
+   "ts": 1791254736.7907405,
+   "ping": 296,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5307,13 +5330,15 @@
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 2,
-  "healthy": 2,
-  "posted": 2,
+  "fetched": 5,
+  "healthy": 4,
+  "posted": 4,
   "removed": 0,
   "published_scores": [
    96,
-   94
+   94,
+   96,
+   96
   ]
  }
 }
