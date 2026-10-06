@@ -554,7 +554,8 @@
   "3560de59e005e9ff": 1791305050.7556915,
   "17ac0da953628bd1": 1791305050.7556915,
   "9d72c240b96c116c": 1791305050.7556915,
-  "f425ed3c35cf1bc3": 1791305050.7556915
+  "f425ed3c35cf1bc3": 1791305050.7556915,
+  "4c10134e8df556b6": 1791305864.4843493
  },
  "queue": [],
  "posted": {
@@ -3454,6 +3455,16 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "4c10134e8df556b6": {
+   "cfg": "vless://a44768a4-f613-4083-a76d-0df966efdd7e@194.62.105.40:37387?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1069,
+   "ts": 1791305868.0519454,
+   "ping": 195,
+   "score": 97,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5706,13 +5717,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791305137.2752516
+  },
+  "194.62.105.40": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791305867.5764751
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 70,
-  "healthy": 43,
-  "posted": 39,
+  "fetched": 71,
+  "healthy": 44,
+  "posted": 40,
   "removed": 0,
   "published_scores": [
    96,
@@ -5753,7 +5769,8 @@
    97,
    93,
    80,
-   71
+   71,
+   97
   ]
  }
 }
