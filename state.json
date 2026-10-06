@@ -592,35 +592,7 @@
   "3fb78d8b296a685d": 1791291008.0697289,
   "d593357ffbd0c387": 1791291008.0697289
  },
- "queue": [
-  {
-   "id": "4059b8fe0e10d211",
-   "cfg": "vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@host.taghvimtime.ir:8443?encryption=none&security=tls&sni=host.taghvimtime.ir&fp=chrome&type=xhttp&mode=auto&path=%2FMeh%3Fdi#🔵@chillguy_vpn",
-   "ping": 608,
-   "best": 522,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791291008.0697289
-  },
-  {
-   "id": "09efca1fbe2cb4f4",
-   "cfg": "vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn",
-   "ping": 664,
-   "best": 490,
-   "score": 91,
-   "stability": 100,
-   "ts": 1791291008.0697289
-  },
-  {
-   "id": "e94bb59554385a70",
-   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@144.31.99.252:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🔵@chillguy_vpn",
-   "ping": 3633,
-   "best": 2988,
-   "score": 53,
-   "stability": 100,
-   "ts": 1791291008.0697289
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3298,6 +3270,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "09efca1fbe2cb4f4": {
+   "cfg": "vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1047,
+   "ts": 1791291677.5152433,
+   "ping": 489,
+   "score": 94,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5476,7 +5458,7 @@
   "date": "2026-10-06",
   "fetched": 36,
   "healthy": 20,
-  "posted": 17,
+  "posted": 18,
   "removed": 0,
   "published_scores": [
    96,
@@ -5495,7 +5477,8 @@
    96,
    100,
    96,
-   93
+   93,
+   94
   ]
  }
 }
