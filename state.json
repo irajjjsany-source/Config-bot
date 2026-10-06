@@ -548,7 +548,8 @@
   "1a0e078210e561fc": 1791299410.5905137,
   "6ca9dbb2a5f1ec2d": 1791299410.5905137,
   "ecda74327ef5e53c": 1791299410.5905137,
-  "e148b2729d0f94e5": 1791301227.1484013
+  "e148b2729d0f94e5": 1791301227.1484013,
+  "1f5edf79f04e4051": 1791303338.7445986
  },
  "queue": [],
  "posted": {
@@ -3398,6 +3399,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "1f5edf79f04e4051": {
+   "cfg": "vless://459e039d-014a-468d-9249-eed43fafac16@chemicals.zraz.workers.dev:443?encryption=none&security=tls&sni=chemicals.zraz.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=chemicals.zraz.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1064,
+   "ts": 1791303343.0924268,
+   "ping": 143,
+   "score": 98,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5625,13 +5636,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791301230.245707
+  },
+  "chemicals.zraz.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791303342.141619
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 64,
-  "healthy": 38,
-  "posted": 34,
+  "fetched": 65,
+  "healthy": 39,
+  "posted": 35,
   "removed": 0,
   "published_scores": [
    96,
@@ -5667,7 +5683,8 @@
    97,
    94,
    93,
-   99
+   99,
+   98
   ]
  }
 }
