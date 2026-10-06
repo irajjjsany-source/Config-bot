@@ -631,7 +631,10 @@
   "07908c051f1ab6b0": 1791254730.098353,
   "6345878800b5a7f7": 1791254730.098353,
   "96fb4141cefe82a2": 1791261653.3032389,
-  "18d29025299883e5": 1791261653.3032389
+  "18d29025299883e5": 1791261653.3032389,
+  "3521ecdcf3aa0df5": 1791261932.7691565,
+  "f1af9eff36095a4c": 1791261932.7691565,
+  "d78067e7033d7ab8": 1791261932.7691565
  },
  "queue": [],
  "posted": {
@@ -3191,6 +3194,26 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "f1af9eff36095a4c": {
+   "cfg": "vless://c6c5ad2f-b4d5-450f-862f-341cebb7f9b5@172.67.152.71:8880?&type=ws&headerType=none&host=empty-rain-1df4.332-633.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1034,
+   "ts": 1791261943.3075716,
+   "ping": 42,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "3521ecdcf3aa0df5": {
+   "cfg": "vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.67.190.141:8880?&type=ws&headerType=none&host=delicate-base-12ed.287-133.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1035,
+   "ts": 1791261943.980708,
+   "ping": 70,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5347,16 +5370,18 @@
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 7,
-  "healthy": 5,
-  "posted": 5,
+  "fetched": 10,
+  "healthy": 7,
+  "posted": 7,
   "removed": 0,
   "published_scores": [
    96,
    94,
    96,
    96,
-   82
+   82,
+   99,
+   99
   ]
  }
 }
