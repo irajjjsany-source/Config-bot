@@ -556,33 +556,6 @@
  },
  "queue": [
   {
-   "id": "c4462b0eb8722a3b",
-   "cfg": "vless://70ad3e9c-89e6-4ee3-91c3-7cb10a4e483a@165.231.177.114:443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&host=ice.noooo.win&fp=safari&type=xhttp&allowInsecure=0&sni=cab-6ac48f09.ferrin.uk#🔵@chillguy_vpn",
-   "ping": 546,
-   "best": 534,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791296135.266349
-  },
-  {
-   "id": "1195c2294771db6d",
-   "cfg": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.36.143.187:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#🔵@chillguy_vpn",
-   "ping": 563,
-   "best": 554,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791296135.266349
-  },
-  {
-   "id": "a5f58fb62b6d7175",
-   "cfg": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@2.56.172.107:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#🔵@chillguy_vpn",
-   "ping": 599,
-   "best": 576,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791296135.266349
-  },
-  {
    "id": "d0c04f1d82ed4611",
    "cfg": "vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#🔵@chillguy_vpn",
    "ping": 643,
@@ -3348,6 +3321,36 @@
    "stability": 100,
    "country": "Estonia",
    "repost_count": 0
+  },
+  "c4462b0eb8722a3b": {
+   "cfg": "vless://70ad3e9c-89e6-4ee3-91c3-7cb10a4e483a@165.231.177.114:443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&host=ice.noooo.win&fp=safari&type=xhttp&allowInsecure=0&sni=cab-6ac48f09.ferrin.uk#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1054,
+   "ts": 1791296903.058936,
+   "ping": 551,
+   "score": 93,
+   "stability": 100,
+   "country": "Estonia",
+   "repost_count": 0
+  },
+  "1195c2294771db6d": {
+   "cfg": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.36.143.187:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1055,
+   "ts": 1791296906.7531517,
+   "ping": 586,
+   "score": 92,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "a5f58fb62b6d7175": {
+   "cfg": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@2.56.172.107:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1056,
+   "ts": 1791296910.6015759,
+   "ping": 639,
+   "score": 92,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5535,13 +5538,28 @@
    "cc": "EE",
    "name": "Estonia",
    "ts": 1791296169.3109682
+  },
+  "165.231.177.114": {
+   "cc": "EE",
+   "name": "Estonia",
+   "ts": 1791296902.4511378
+  },
+  "185.36.143.187": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791296906.1397057
+  },
+  "2.56.172.107": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1791296909.9961777
   }
  },
  "stats": {
   "date": "2026-10-06",
   "fetched": 54,
   "healthy": 31,
-  "posted": 24,
+  "posted": 27,
   "removed": 0,
   "published_scores": [
    96,
@@ -5567,7 +5585,10 @@
    81,
    95,
    94,
-   94
+   94,
+   93,
+   92,
+   92
   ]
  }
 }
