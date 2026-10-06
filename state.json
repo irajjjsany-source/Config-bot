@@ -629,7 +629,9 @@
   "aa0425b153fbfc23": 1791248956.399748,
   "49344eac84365e18": 1791254730.098353,
   "07908c051f1ab6b0": 1791254730.098353,
-  "6345878800b5a7f7": 1791254730.098353
+  "6345878800b5a7f7": 1791254730.098353,
+  "96fb4141cefe82a2": 1791261653.3032389,
+  "18d29025299883e5": 1791261653.3032389
  },
  "queue": [],
  "posted": {
@@ -3179,6 +3181,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "96fb4141cefe82a2": {
+   "cfg": "vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?security=reality&encryption=none&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=377645738e782155#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1033,
+   "ts": 1791261664.018358,
+   "ping": 1355,
+   "score": 82,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5326,19 +5338,25 @@
    "cc": "TR",
    "name": "Türkiye",
    "ts": 1791242539.9792829
+  },
+  "185.91.54.67": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791261663.5046146
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 5,
-  "healthy": 4,
-  "posted": 4,
+  "fetched": 7,
+  "healthy": 5,
+  "posted": 5,
   "removed": 0,
   "published_scores": [
    96,
    94,
    96,
-   96
+   96,
+   82
   ]
  }
 }
