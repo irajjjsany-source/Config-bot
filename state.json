@@ -561,7 +561,12 @@
   "6b9b43420d861e8e": 1791306935.0413382,
   "0738b0129939d563": 1791306935.0413382,
   "10c35f916791cb26": 1791306935.0413382,
-  "b1b66ef6d96ffaff": 1791306935.0413382
+  "b1b66ef6d96ffaff": 1791306935.0413382,
+  "9965a7d527dda7c7": 1791307848.9393818,
+  "6a5157fbd28b1edd": 1791307848.9393818,
+  "57f6921ce9d0f43b": 1791307848.9393818,
+  "f3b871757a481fb7": 1791307848.9393818,
+  "beae08d73d8ff2f4": 1791307848.9393818
  },
  "queue": [],
  "posted": {
@@ -3521,6 +3526,26 @@
    "stability": 100,
    "country": "Switzerland",
    "repost_count": 0
+  },
+  "6a5157fbd28b1edd": {
+   "cfg": "vless://7f273ee6-21ac-4ff1-aa5b-140f0eee2093@172.67.142.99:443?path=%2Fvl%2FGJA7C3DrCU5zX3QNtUsiogyzH27BONbM%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=core-391492-501aaa.thatsmes-7b13.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=cOrE-391492-501Aaa.THatSmeS-7B13.WOrKERS.deV#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1075,
+   "ts": 1791307862.7929325,
+   "ping": 283,
+   "score": 96,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "beae08d73d8ff2f4": {
+   "cfg": "vless://7f273ee6-21ac-4ff1-aa5b-140f0eee2093@core-391492-501aaa.thatsmes-7b13.workers.dev:443?path=%2Fvl%2FyWBDtW05LnoRPAG2XKw63Hanwe9%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=core-391492-501aaa.thatsmes-7b13.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=COrE-391492-501AAa.THAtsMes-7b13.WoRKerS.Dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1076,
+   "ts": 1791307863.4413695,
+   "ping": 496,
+   "score": 94,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5793,13 +5818,18 @@
    "cc": "CH",
    "name": "Switzerland",
    "ts": 1791307457.3099403
+  },
+  "core-391492-501aaa.thatsmes-7b13.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791307862.7930763
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 77,
-  "healthy": 50,
-  "posted": 45,
+  "fetched": 82,
+  "healthy": 52,
+  "posted": 47,
   "removed": 0,
   "published_scores": [
    96,
@@ -5846,7 +5876,9 @@
    94,
    94,
    94,
-   92
+   92,
+   96,
+   94
   ]
  }
 }
