@@ -555,9 +555,37 @@
   "2a89f0642c594afa": 1791313253.6227818,
   "467037c09bc8080b": 1791313253.6227818,
   "d6ffe64771174094": 1791313253.6227818,
-  "6cc7e1437400f7f1": 1791313417.3970068
+  "6cc7e1437400f7f1": 1791313417.3970068,
+  "14aea1ab8a74ac3d": 1791314677.052152,
+  "ebb9740490ce64cf": 1791314677.052152,
+  "d3791ddec834d9f5": 1791314677.052152,
+  "b5f814014f467b2d": 1791314677.052152,
+  "eb64d0d9b0419ba8": 1791314677.052152,
+  "0e336b5637d6a5f9": 1791314677.052152,
+  "e0f0906a55f62b8b": 1791314677.052152,
+  "3b0fc6ab4d5f6437": 1791314677.052152,
+  "9560310ab9faf386": 1791314677.052152
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "3b0fc6ab4d5f6437",
+   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@193.233.232.96:443?security=reality&encryption=none&pbk=uC4W93YTVI5kbpN5ih2WZfQjikpNBn61-AhljO8ExFg&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=fa764ccf#🔵@chillguy_vpn",
+   "ping": 3113,
+   "best": 510,
+   "score": 60,
+   "stability": 100,
+   "ts": 1791314677.052152
+  },
+  {
+   "id": "b5f814014f467b2d",
+   "cfg": "vless://03c753b6-dd59-4937-b84f-dfd47dd92316@noiriweu.varqino.ir:43311?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#🔵@chillguy_vpn",
+   "ping": 6019,
+   "best": 5213,
+   "score": 35,
+   "stability": 100,
+   "ts": 1791314677.052152
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3605,6 +3633,36 @@
    "stability": 100,
    "country": "Sweden",
    "repost_count": 0
+  },
+  "9560310ab9faf386": {
+   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1087,
+   "ts": 1791314725.6296682,
+   "ping": 493,
+   "score": 94,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
+  },
+  "e0f0906a55f62b8b": {
+   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?security=reality&encryption=none&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=46455ff0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1088,
+   "ts": 1791314726.2831726,
+   "ping": 526,
+   "score": 93,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
+  },
+  "0e336b5637d6a5f9": {
+   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?security=reality&encryption=none&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=b76a6309#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1089,
+   "ts": 1791314727.0189316,
+   "ping": 552,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5912,13 +5970,28 @@
    "cc": "SE",
    "name": "Sweden",
    "ts": 1791313292.481611
+  },
+  "177.1.192.74": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1791314724.913033
+  },
+  "177.1.192.72": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1791314725.629778
+  },
+  "31.76.35.27": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791314726.283274
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 95,
-  "healthy": 59,
-  "posted": 54,
+  "fetched": 104,
+  "healthy": 64,
+  "posted": 57,
   "removed": 0,
   "published_scores": [
    96,
@@ -5974,7 +6047,10 @@
    92,
    91,
    64,
-   37
+   37,
+   94,
+   93,
+   93
   ]
  }
 }
