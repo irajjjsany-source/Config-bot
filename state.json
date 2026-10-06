@@ -578,7 +578,9 @@
   "9c829ab9b585c926": 1791317734.0491023,
   "60d7e94541be348a": 1791317734.0491023,
   "cb496bb194003567": 1791317734.0491023,
-  "d4cdce1b96232cb6": 1791317734.0491023
+  "d4cdce1b96232cb6": 1791317734.0491023,
+  "7dda7c93b55335bb": 1791318386.111466,
+  "60437f829e52daf4": 1791318386.111466
  },
  "queue": [],
  "posted": {
@@ -3678,6 +3680,26 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "7dda7c93b55335bb": {
+   "cfg": "vless://%58pnTeam-79@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1092,
+   "ts": 1791318394.3569567,
+   "ping": 497,
+   "score": 94,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "60437f829e52daf4": {
+   "cfg": "vless://%58pnTeam-80@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1093,
+   "ts": 1791318395.084119,
+   "ping": 530,
+   "score": 93,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -3774,7 +3796,7 @@
   "199.232.78.160": {
    "cc": "US",
    "name": "United States",
-   "ts": 1790681795.6607957
+   "ts": 1791318393.619074
   },
   "5.78.45.230": {
    "cc": "US",
@@ -3829,7 +3851,7 @@
   "199.232.78.170": {
    "cc": "US",
    "name": "United States",
-   "ts": 1790697924.3454897
+   "ts": 1791318394.3570793
   },
   "89.125.65.110": {
    "cc": "NL",
@@ -6014,9 +6036,9 @@
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 118,
-  "healthy": 65,
-  "posted": 59,
+  "fetched": 120,
+  "healthy": 67,
+  "posted": 61,
   "removed": 0,
   "published_scores": [
    96,
@@ -6077,7 +6099,9 @@
    93,
    93,
    73,
-   98
+   98,
+   94,
+   93
   ]
  }
 }
