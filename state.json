@@ -566,26 +566,7 @@
   "3b0fc6ab4d5f6437": 1791314677.052152,
   "9560310ab9faf386": 1791314677.052152
  },
- "queue": [
-  {
-   "id": "3b0fc6ab4d5f6437",
-   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@193.233.232.96:443?security=reality&encryption=none&pbk=uC4W93YTVI5kbpN5ih2WZfQjikpNBn61-AhljO8ExFg&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=fa764ccf#🔵@chillguy_vpn",
-   "ping": 3113,
-   "best": 510,
-   "score": 60,
-   "stability": 100,
-   "ts": 1791314677.052152
-  },
-  {
-   "id": "b5f814014f467b2d",
-   "cfg": "vless://03c753b6-dd59-4937-b84f-dfd47dd92316@noiriweu.varqino.ir:43311?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#🔵@chillguy_vpn",
-   "ping": 6019,
-   "best": 5213,
-   "score": 35,
-   "stability": 100,
-   "ts": 1791314677.052152
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3663,6 +3644,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "3b0fc6ab4d5f6437": {
+   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@193.233.232.96:443?security=reality&encryption=none&pbk=uC4W93YTVI5kbpN5ih2WZfQjikpNBn61-AhljO8ExFg&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=fa764ccf#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1090,
+   "ts": 1791315055.7396898,
+   "ping": 2051,
+   "score": 73,
+   "stability": 100,
+   "country": "Austria",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5985,13 +5976,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791314726.283274
+  },
+  "193.233.232.96": {
+   "cc": "AT",
+   "name": "Austria",
+   "ts": 1791315055.113978
   }
  },
  "stats": {
   "date": "2026-10-06",
   "fetched": 104,
   "healthy": 64,
-  "posted": 57,
+  "posted": 58,
   "removed": 0,
   "published_scores": [
    96,
@@ -6050,7 +6046,8 @@
    37,
    94,
    93,
-   93
+   93,
+   73
   ]
  }
 }
