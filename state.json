@@ -632,7 +632,9 @@
   "71991e50ecd31b20": 1791262425.4704015,
   "ae855dc3410f754d": 1791263731.0849636,
   "a7cc997a434e13a0": 1791263731.0849636,
-  "afc75e49cc41df32": 1791263731.0849636
+  "afc75e49cc41df32": 1791263731.0849636,
+  "cc56499e515e4caf": 1791264642.4699712,
+  "80cd29178286312b": 1791264642.4699712
  },
  "queue": [],
  "posted": {
@@ -3262,6 +3264,26 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "80cd29178286312b": {
+   "cfg": "vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.67.190.141:8880?encryption=none&security=none&type=ws&host=delicate-base-12ed.287-133.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1041,
+   "ts": 1791264647.9385734,
+   "ping": 25,
+   "score": 100,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "cc56499e515e4caf": {
+   "cfg": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@83.229.61.218:443?pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&spx=%2FAhmadV2ray&encryption=none&fm=AhmadV2ray&sni=zsit.eu-cdn294.com&fp=firefox&security=reality&headerType=none&flow=xtls-rprx-vision&sid=cd2d53510b4df2a8&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1042,
+   "ts": 1791264648.4133928,
+   "ping": 324,
+   "score": 96,
+   "stability": 100,
+   "country": "Italy",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -5424,13 +5446,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791262444.5924015
+  },
+  "83.229.61.218": {
+   "cc": "IT",
+   "name": "Italy",
+   "ts": 1791264647.93872
   }
  },
  "stats": {
   "date": "2026-10-06",
-  "fetched": 16,
-  "healthy": 12,
-  "posted": 12,
+  "fetched": 18,
+  "healthy": 14,
+  "posted": 14,
   "removed": 0,
   "published_scores": [
    96,
@@ -5444,7 +5471,9 @@
    87,
    77,
    99,
-   99
+   99,
+   100,
+   96
   ]
  }
 }
