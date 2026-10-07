@@ -569,18 +569,12 @@
   "9add02f4136fbb61": 1791351047.6702037,
   "0e40d1012cd8db1b": 1791352629.9296207,
   "e3f360377cbdb55d": 1791352629.9296207,
-  "4a056aa4f394e1f2": 1791352629.9296207
+  "4a056aa4f394e1f2": 1791352629.9296207,
+  "72bb74a9decb9c03": 1791353734.7047634,
+  "9f7f03bb1b383403": 1791353734.7047634,
+  "959eff5f237aa7cb": 1791353734.7047634
  },
  "queue": [
-  {
-   "id": "d1ca2b1292e6a6dc",
-   "cfg": "vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@g2de.velnix-services.ir:1080?security=reality&encryption=none&pbk=qmCIBP5Y6Pu7oxY--0sOXglNvHV9byxo2cyVsfAqUiI&host=www6.gameservice-iramn3.com&headerType=none&fp=chrome&type=tcp&sni=www6.gameservice-iramn3.com&sid=307eb35dbf3a5385#🔵@chillguy_vpn",
-   "ping": 942,
-   "best": 484,
-   "score": 88,
-   "stability": 100,
-   "ts": 1791351047.6702037
-  },
   {
    "id": "9add02f4136fbb61",
    "cfg": "vless://689b65e0-57a8-41ba-804d-10c079c2b393@13.143.174.201:2087?security=reality&encryption=none&pbk=dBvFkg2zny545Ws6H_LXKEohOYV2MW_zACRrRQE1IUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=files.meridian-labs.net&sid=992e5a9a#🔵@chillguy_vpn",
@@ -3883,6 +3877,36 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "72bb74a9decb9c03": {
+   "cfg": "vless://75b294e5-1d21-5d2e-91d2-17323fa0e9b4@46.225.255.204:39100?encryption=none&security=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1113,
+   "ts": 1791353745.8290625,
+   "ping": 383,
+   "score": 95,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "959eff5f237aa7cb": {
+   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1114,
+   "ts": 1791353746.5218296,
+   "ping": 579,
+   "score": 92,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
+  },
+  "d1ca2b1292e6a6dc": {
+   "cfg": "vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@g2de.velnix-services.ir:1080?security=reality&encryption=none&pbk=qmCIBP5Y6Pu7oxY--0sOXglNvHV9byxo2cyVsfAqUiI&host=www6.gameservice-iramn3.com&headerType=none&fp=chrome&type=tcp&sni=www6.gameservice-iramn3.com&sid=307eb35dbf3a5385#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1115,
+   "ts": 1791353750.8799841,
+   "ping": 747,
+   "score": 90,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6250,13 +6274,23 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791352896.460063
+  },
+  "46.225.255.204": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791353745.133706
+  },
+  "g2de.velnix-services.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791353750.0907774
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 35,
-  "healthy": 20,
-  "posted": 12,
+  "fetched": 38,
+  "healthy": 22,
+  "posted": 15,
   "removed": 0,
   "published_scores": [
    99,
@@ -6270,7 +6304,10 @@
    93,
    85,
    84,
-   89
+   89,
+   95,
+   92,
+   90
   ]
  }
 }
