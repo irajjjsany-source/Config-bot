@@ -573,42 +573,6 @@
  },
  "queue": [
   {
-   "id": "4a056aa4f394e1f2",
-   "cfg": "vless://fc48c074-dd47-4e4c-bf36-30d40733bcef@143.246.41.33:443?security=reality&encryption=none&pbk=cnt0KQVYb0u2a7MKoQ1v4UoXm3yfVDi8IDTDWMVgVm8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=unit-es.pantherstore.space#🔵@chillguy_vpn",
-   "ping": 577,
-   "best": 557,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791352629.9296207
-  },
-  {
-   "id": "e3f360377cbdb55d",
-   "cfg": "vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiZmlubGEyLnBvdnJhay5pciIsICJwb3J0IjogIjU4MTc5IiwgImlkIjogImI4NWJhM2JjLWJhYzYtNGNmYy1iOGJlLWZlMTZhN2RhYzFiMSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiYWxwbiI6ICIifQ==",
-   "ping": 601,
-   "best": 544,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791352629.9296207
-  },
-  {
-   "id": "489d793ae269c057",
-   "cfg": "vless://689b65e0-57a8-41ba-804d-10c079c2b393@13.143.174.201:2087?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=files.meridian-labs.net&fp=chrome&pbk=dBvFkg2zny545Ws6H_LXKEohOYV2MW_zACRrRQE1IUg&sid=992e5a9a&allowInsecure=1#🔵@chillguy_vpn",
-   "ping": 829,
-   "best": 770,
-   "score": 89,
-   "stability": 100,
-   "ts": 1791351047.6702037
-  },
-  {
-   "id": "2477a985c752373f",
-   "cfg": "vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@ststictr.hamiramkemax.ir:1081?security=reality&encryption=none&pbk=_UlBf1BRa52KM89xxvfbSHuLZWrvWuGuhvbsL3gx01A&host=www12.gameservice-iramn3.com&headerType=none&fp=edge&type=tcp&sni=www12.gameservice-iramn3.com&sid=daa22fbb023ab4a2#🔵@chillguy_vpn",
-   "ping": 919,
-   "best": 817,
-   "score": 88,
-   "stability": 100,
-   "ts": 1791351047.6702037
-  },
-  {
    "id": "d1ca2b1292e6a6dc",
    "cfg": "vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@g2de.velnix-services.ir:1080?security=reality&encryption=none&pbk=qmCIBP5Y6Pu7oxY--0sOXglNvHV9byxo2cyVsfAqUiI&host=www6.gameservice-iramn3.com&headerType=none&fp=chrome&type=tcp&sni=www6.gameservice-iramn3.com&sid=307eb35dbf3a5385#🔵@chillguy_vpn",
    "ping": 942,
@@ -3889,6 +3853,36 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "4a056aa4f394e1f2": {
+   "cfg": "vless://fc48c074-dd47-4e4c-bf36-30d40733bcef@143.246.41.33:443?security=reality&encryption=none&pbk=cnt0KQVYb0u2a7MKoQ1v4UoXm3yfVDi8IDTDWMVgVm8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=unit-es.pantherstore.space#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1110,
+   "ts": 1791352861.6769917,
+   "ping": 1162,
+   "score": 85,
+   "stability": 100,
+   "country": "Estonia",
+   "repost_count": 0
+  },
+  "489d793ae269c057": {
+   "cfg": "vless://689b65e0-57a8-41ba-804d-10c079c2b393@13.143.174.201:2087?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=files.meridian-labs.net&fp=chrome&pbk=dBvFkg2zny545Ws6H_LXKEohOYV2MW_zACRrRQE1IUg&sid=992e5a9a&allowInsecure=1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1111,
+   "ts": 1791352892.6734054,
+   "ping": 1218,
+   "score": 84,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
+  },
+  "2477a985c752373f": {
+   "cfg": "vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@ststictr.hamiramkemax.ir:1081?security=reality&encryption=none&pbk=_UlBf1BRa52KM89xxvfbSHuLZWrvWuGuhvbsL3gx01A&host=www12.gameservice-iramn3.com&headerType=none&fp=edge&type=tcp&sni=www12.gameservice-iramn3.com&sid=daa22fbb023ab4a2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1112,
+   "ts": 1791352897.1479099,
+   "ping": 820,
+   "score": 89,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6241,13 +6235,28 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791352660.4784665
+  },
+  "143.246.41.33": {
+   "cc": "EE",
+   "name": "Estonia",
+   "ts": 1791352861.0152278
+  },
+  "13.143.174.201": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791352891.9858747
+  },
+  "ststictr.hamiramkemax.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791352896.460063
   }
  },
  "stats": {
   "date": "2026-10-07",
   "fetched": 35,
   "healthy": 20,
-  "posted": 9,
+  "posted": 12,
   "removed": 0,
   "published_scores": [
    99,
@@ -6258,7 +6267,10 @@
    94,
    93,
    90,
-   93
+   93,
+   85,
+   84,
+   89
   ]
  }
 }
