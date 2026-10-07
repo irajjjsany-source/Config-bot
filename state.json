@@ -1,6 +1,5 @@
 {
  "seen": {
-  "35c46315ff256fd1": 1791110733.3718352,
   "0246853da738c1b7": 1791111656.9670312,
   "c12821b2f5d03e59": 1791111656.9670312,
   "6248fdaec5e01df7": 1791112536.5474885,
@@ -561,7 +560,9 @@
   "7b32913b82fde566": 1791368133.65611,
   "461c157569a8127e": 1791368133.65611,
   "8f1e28687a165d16": 1791368133.65611,
-  "2eedc377b9508287": 1791368133.65611
+  "2eedc377b9508287": 1791368133.65611,
+  "04d013bec0a5c098": 1791370853.8447258,
+  "4a56bf7b2cde552d": 1791370853.8447258
  },
  "queue": [],
  "posted": {
@@ -4181,6 +4182,26 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "04d013bec0a5c098": {
+   "cfg": "vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?security=reality&encryption=none&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=edge-uk2.mystatic-cdn.ru&sid=ee169e93d3c277a1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1150,
+   "ts": 1791370866.1790884,
+   "ping": 302,
+   "score": 96,
+   "stability": 100,
+   "country": "Uzbekistan",
+   "repost_count": 0
+  },
+  "4a56bf7b2cde552d": {
+   "cfg": "vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1151,
+   "ts": 1791370866.6758308,
+   "ping": 1941,
+   "score": 75,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6658,13 +6679,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1791369055.7244155
+  },
+  "193.202.113.5": {
+   "cc": "UZ",
+   "name": "Uzbekistan",
+   "ts": 1791370865.513854
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 80,
-  "healthy": 54,
-  "posted": 49,
+  "fetched": 82,
+  "healthy": 56,
+  "posted": 51,
   "removed": 0,
   "published_scores": [
    99,
@@ -6715,7 +6741,9 @@
    90,
    86,
    92,
-   83
+   83,
+   96,
+   75
   ]
  }
 }
