@@ -574,17 +574,7 @@
   "db25e3ca1de385e9": 1791407734.1685965,
   "f8c2de2d4ca64650": 1791407734.1685965
  },
- "queue": [
-  {
-   "id": "9e60052629de8c61",
-   "cfg": "vless://6729386e-3481-41e8-a536-6cf5e17198ec@fvn.mobileemdad.top:80?security=none&encryption=mlkem768x25519plus.native.0rtt.AOpibOJqKdDZ8KwqwR839rg1ppbbJUqKrUJhR9771hs&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 2111,
-   "best": 517,
-   "score": 73,
-   "stability": 100,
-   "ts": 1791407734.1685965
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -5072,6 +5062,16 @@
    "stability": 100,
    "country": "Türkiye",
    "repost_count": 0
+  },
+  "9e60052629de8c61": {
+   "cfg": "vless://6729386e-3481-41e8-a536-6cf5e17198ec@fvn.mobileemdad.top:80?security=none&encryption=mlkem768x25519plus.native.0rtt.AOpibOJqKdDZ8KwqwR839rg1ppbbJUqKrUJhR9771hs&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1246,
+   "ts": 1791407884.4669402,
+   "ping": 629,
+   "score": 92,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7829,13 +7829,18 @@
    "cc": "TR",
    "name": "Türkiye",
    "ts": 1791407758.8558748
+  },
+  "fvn.mobileemdad.top": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791407883.7016659
   }
  },
  "stats": {
   "date": "2026-10-07",
   "fetched": 217,
   "healthy": 157,
-  "posted": 136,
+  "posted": 137,
   "removed": 0,
   "published_scores": [
    99,
@@ -7973,7 +7978,8 @@
    96,
    98,
    93,
-   93
+   93,
+   92
   ]
  }
 }
