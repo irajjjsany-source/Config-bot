@@ -571,18 +571,13 @@
   "88f7ac7f49559732": 1791363653.2503457,
   "8a2b02ccf23d73c1": 1791363653.2503457,
   "968ebd6c726c8f63": 1791363653.2503457,
-  "87024fd9f373b724": 1791363653.2503457
+  "87024fd9f373b724": 1791363653.2503457,
+  "e36e549d5e78722a": 1791364429.8626335,
+  "3617839e5fd794a3": 1791364429.8626335,
+  "0a4cb46e694907f5": 1791364429.8626335,
+  "c386b90d986f6bf8": 1791364429.8626335
  },
  "queue": [
-  {
-   "id": "8a2b02ccf23d73c1",
-   "cfg": "vless://aa705581-4390-42e3-a53a-09d116032454@lv.srv.safes-infrastructure.com:8443?security=reality&encryption=none&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv.srv.safes-infrastructure.com&sid=e7d8f0aa#🔵@chillguy_vpn",
-   "ping": 531,
-   "best": 515,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791363653.2503457
-  },
   {
    "id": "88f7ac7f49559732",
    "cfg": "vless://aa705581-4390-42e3-a53a-09d116032454@fi2.srv.safes-infrastructure.com:8443?security=reality&encryption=none&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fi2.srv.safes-infrastructure.com&sid=e7d8f0aa#🔵@chillguy_vpn",
@@ -600,6 +595,24 @@
    "score": 92,
    "stability": 100,
    "ts": 1791363653.2503457
+  },
+  {
+   "id": "c386b90d986f6bf8",
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@179.61.145.245:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&sid=4be4110078ebed4a#🔵@chillguy_vpn",
+   "ping": 780,
+   "best": 393,
+   "score": 90,
+   "stability": 100,
+   "ts": 1791364429.8626335
+  },
+  {
+   "id": "0a4cb46e694907f5",
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@150.241.79.232:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&sid=4be4110078ebed4a#🔵@chillguy_vpn",
+   "ping": 1445,
+   "best": 924,
+   "score": 81,
+   "stability": 100,
+   "ts": 1791364429.8626335
   }
  ],
  "posted": {
@@ -4049,6 +4062,36 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "e36e549d5e78722a": {
+   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1133,
+   "ts": 1791364450.4191992,
+   "ping": 362,
+   "score": 95,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
+  },
+  "3617839e5fd794a3": {
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@179.61.145.245:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&sid=4be4110078ebed4a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1134,
+   "ts": 1791364450.88168,
+   "ping": 457,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "8a2b02ccf23d73c1": {
+   "cfg": "vless://aa705581-4390-42e3-a53a-09d116032454@lv.srv.safes-infrastructure.com:8443?security=reality&encryption=none&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv.srv.safes-infrastructure.com&sid=e7d8f0aa#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1135,
+   "ts": 1791364453.9025168,
+   "ping": 394,
+   "score": 95,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6481,13 +6524,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791363672.167622
+  },
+  "lv.srv.safes-infrastructure.com": {
+   "cc": "LV",
+   "name": "Latvia",
+   "ts": 1791364453.3948069
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 62,
-  "healthy": 39,
-  "posted": 32,
+  "fetched": 66,
+  "healthy": 43,
+  "posted": 35,
   "removed": 0,
   "published_scores": [
    99,
@@ -6521,7 +6569,10 @@
    92,
    98,
    95,
-   94
+   94,
+   95,
+   94,
+   95
   ]
  }
 }
