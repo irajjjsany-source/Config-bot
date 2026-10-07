@@ -599,18 +599,13 @@
   "0102e094aac4c553": 1791383446.2008162,
   "adf8a8574bd5dd3c": 1791383446.2008162,
   "bae39e3143834777": 1791383446.2008162,
-  "388b3d894bcbae32": 1791383446.2008162
+  "388b3d894bcbae32": 1791383446.2008162,
+  "c64e34131fcea89e": 1791385113.392531,
+  "4569c48575411787": 1791385113.392531,
+  "b57d83a059a4295b": 1791385113.392531,
+  "5f8a379ebecb0dcb": 1791385113.392531
  },
  "queue": [
-  {
-   "id": "adf8a8574bd5dd3c",
-   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@199.189.254.16:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=panel.surfweb.club#🔵@chillguy_vpn",
-   "ping": 823,
-   "best": 817,
-   "score": 89,
-   "stability": 100,
-   "ts": 1791383446.2008162
-  },
   {
    "id": "8a797ce16c2bec03",
    "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@38.180.209.248:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cloud.surfweb.club#🔵@chillguy_vpn",
@@ -4727,6 +4722,36 @@
    "stability": 100,
    "country": "Belarus",
    "repost_count": 0
+  },
+  "5f8a379ebecb0dcb": {
+   "cfg": "vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1207,
+   "ts": 1791385129.8740757,
+   "ping": 32,
+   "score": 100,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "adf8a8574bd5dd3c": {
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@199.189.254.16:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=panel.surfweb.club#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1208,
+   "ts": 1791385133.766376,
+   "ping": 690,
+   "score": 91,
+   "stability": 100,
+   "country": "Kazakhstan",
+   "repost_count": 0
+  },
+  "c64e34131fcea89e": {
+   "cfg": "vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1209,
+   "ts": 1791385134.2682493,
+   "ping": 1348,
+   "score": 82,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7354,13 +7379,28 @@
    "cc": "BY",
    "name": "Belarus",
    "ts": 1791384385.8381562
+  },
+  "47.253.226.114": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791385129.245278
+  },
+  "199.189.254.16": {
+   "cc": "KZ",
+   "name": "Kazakhstan",
+   "ts": 1791385133.2742894
+  },
+  "195.133.73.65": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791385133.7664928
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 152,
-  "healthy": 116,
-  "posted": 97,
+  "fetched": 156,
+  "healthy": 118,
+  "posted": 100,
   "removed": 0,
   "published_scores": [
    99,
@@ -7459,7 +7499,10 @@
    88,
    88,
    92,
-   92
+   92,
+   100,
+   91,
+   82
   ]
  }
 }
