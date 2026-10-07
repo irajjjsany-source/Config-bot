@@ -1,9 +1,5 @@
 {
  "seen": {
-  "b109329777c9a0dc": 1791100853.9499936,
-  "137fe853105a2e43": 1791100853.9499936,
-  "e129daf99c3dbe50": 1791100853.9499936,
-  "a8c003835958343a": 1791100853.9499936,
   "1aed31d236a72e56": 1791103531.4732316,
   "6fd3ce2c95335aa6": 1791105330.192011,
   "02d95fc574b4e045": 1791105330.192011,
@@ -565,7 +561,11 @@
   "67f4b779d83399ac": 1791357277.5572572,
   "e0665f61c882c566": 1791357277.5572572,
   "47530de57be8198c": 1791359132.3417056,
-  "022cfd82206f7097": 1791359132.3417056
+  "022cfd82206f7097": 1791359132.3417056,
+  "07625b0bb6606bfa": 1791360932.7385523,
+  "c2996ad25a80c432": 1791360932.7385523,
+  "0227bbfec7844bda": 1791360932.7385523,
+  "9c8d2961c86e4b7b": 1791360932.7385523
  },
  "queue": [],
  "posted": {
@@ -3975,6 +3975,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "9c8d2961c86e4b7b": {
+   "cfg": "vless://61113876-9d96-46d3-8500-ba35cc2765b6@dns6.m3hrzd.ir:8010?security=reality&encryption=none&pbk=Vtx_JlcgqBDRv8XWimo41kgKuZdxvSUzkQR62188xWQ&headerType=none&fp=edge&type=tcp&sni=activision.com&sid=5ed0c99dd6c79bb5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1129,
+   "ts": 1791360939.24072,
+   "ping": 623,
+   "score": 92,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6387,13 +6397,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791359146.028265
+  },
+  "dns6.m3hrzd.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791360938.461349
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 51,
-  "healthy": 32,
-  "posted": 28,
+  "fetched": 55,
+  "healthy": 33,
+  "posted": 29,
   "removed": 0,
   "published_scores": [
    99,
@@ -6423,7 +6438,8 @@
    89,
    81,
    95,
-   71
+   71,
+   92
   ]
  }
 }
