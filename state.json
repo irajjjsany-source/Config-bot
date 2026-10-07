@@ -576,9 +576,24 @@
   "e9540ac53a04bc4a": 1791377131.435619,
   "5cf33c91d29c9344": 1791377131.435619,
   "45dcbbb4f4074501": 1791377131.435619,
-  "e70e9bfb507f9816": 1791377131.435619
+  "e70e9bfb507f9816": 1791377131.435619,
+  "6c108b63e5732fc8": 1791379845.250181,
+  "3613739ef6fa7bda": 1791379845.250181,
+  "5cda194261cbf891": 1791379845.250181,
+  "30d78979831609eb": 1791379845.250181,
+  "43003217c3fdc6c9": 1791379845.250181
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "30d78979831609eb",
+   "cfg": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?path=%2Ftyxyws%23telegram--V2ray_confiig&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#🔵@chillguy_vpn",
+   "ping": 6394,
+   "best": 5149,
+   "score": 35,
+   "stability": 100,
+   "ts": 1791379845.250181
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4466,6 +4481,36 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "6c108b63e5732fc8": {
+   "cfg": "vless://24a14df3-1399-430a-9492-ea64390014d2@31.56.227.199:48962?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=5cBHUh3DzpgntcIz040hv_2zWOI34a3WC-_jcOqEiCE&security=reality&sid=26&sni=www.sony.fi&spx=%2F99e56590e28706a&support-x25519mlkem768=true&type=xhttp&x_padding_bytes=100-1000#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1180,
+   "ts": 1791379882.4673042,
+   "ping": 380,
+   "score": 95,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
+  },
+  "3613739ef6fa7bda": {
+   "cfg": "vless://b625be3b-2f9c-43f2-8912-21af8a8deeb1@31.56.227.199:48962?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&pbk=5cBHUh3DzpgntcIz040hv_2zWOI34a3WC-_jcOqEiCE&fp=chrome&spx=%2F5f386d2d3556552&type=xhttp&sni=www.sony.com.hk&sid=1419#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1181,
+   "ts": 1791379882.9428277,
+   "ping": 427,
+   "score": 94,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
+  },
+  "5cda194261cbf891": {
+   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&authority=%2F%3Ftelegram--V2ray_confiig&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1182,
+   "ts": 1791379883.4172802,
+   "ping": 510,
+   "score": 93,
+   "stability": 100,
+   "country": "Bulgaria",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7028,13 +7073,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791377148.412569
+  },
+  "31.56.227.199": {
+   "cc": "LV",
+   "name": "Latvia",
+   "ts": 1791379881.7153833
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 114,
-  "healthy": 82,
-  "posted": 76,
+  "fetched": 119,
+  "healthy": 86,
+  "posted": 79,
   "removed": 0,
   "published_scores": [
    99,
@@ -7112,7 +7162,10 @@
    94,
    93,
    59,
-   72
+   72,
+   95,
+   94,
+   93
   ]
  }
 }
