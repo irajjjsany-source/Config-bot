@@ -1,9 +1,5 @@
 {
  "seen": {
-  "7dc69877dbaf6ff9": 1791124241.063553,
-  "56845fd36d338c5e": 1791124241.063553,
-  "66c490aa66d10d66": 1791124241.063553,
-  "56d1679498c9bc6f": 1791124241.063553,
   "54b63ce48795ac22": 1791125130.4164317,
   "fd2f84a7af958a74": 1791125130.4164317,
   "88e55fc20efeec2f": 1791125130.4164317,
@@ -592,9 +588,113 @@
   "c39ebac10af9d318": 1791382445.3770773,
   "26d95d1cbc5af117": 1791382445.3770773,
   "a2910a13001df71c": 1791382445.3770773,
-  "c11f9baf47e7a188": 1791382445.3770773
+  "c11f9baf47e7a188": 1791382445.3770773,
+  "09f1b733893120b7": 1791383446.2008162,
+  "8a797ce16c2bec03": 1791383446.2008162,
+  "4eec0822fd61c03b": 1791383446.2008162,
+  "fa18d5720d4f725a": 1791383446.2008162,
+  "d672b2921d735447": 1791383446.2008162,
+  "cdac7ac8c16f4587": 1791383446.2008162,
+  "4f525ad374770ba0": 1791383446.2008162,
+  "9c981b645d678856": 1791383446.2008162,
+  "aadfc3e842732b4e": 1791383446.2008162,
+  "b52a814309b6eb84": 1791383446.2008162,
+  "0102e094aac4c553": 1791383446.2008162,
+  "adf8a8574bd5dd3c": 1791383446.2008162,
+  "bae39e3143834777": 1791383446.2008162,
+  "388b3d894bcbae32": 1791383446.2008162
  },
  "queue": [
+  {
+   "id": "fa18d5720d4f725a",
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@78.40.194.233:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn2.surfweb.club#🔵@chillguy_vpn",
+   "ping": 425,
+   "best": 422,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791383446.2008162
+  },
+  {
+   "id": "4f525ad374770ba0",
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@64.176.73.20:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=storage.surfweb.club#🔵@chillguy_vpn",
+   "ping": 471,
+   "best": 471,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791383446.2008162
+  },
+  {
+   "id": "b52a814309b6eb84",
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@154.62.226.101:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.surfweb.club#🔵@chillguy_vpn",
+   "ping": 475,
+   "best": 468,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791383446.2008162
+  },
+  {
+   "id": "aadfc3e842732b4e",
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@38.180.120.254:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn1.surfweb.club#🔵@chillguy_vpn",
+   "ping": 479,
+   "best": 463,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791383446.2008162
+  },
+  {
+   "id": "9c981b645d678856",
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@51.194.215.232:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cloak.surfweb.club#🔵@chillguy_vpn",
+   "ping": 490,
+   "best": 467,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791383446.2008162
+  },
+  {
+   "id": "cdac7ac8c16f4587",
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@195.133.88.122:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=music.surfweb.club#🔵@chillguy_vpn",
+   "ping": 520,
+   "best": 518,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791383446.2008162
+  },
+  {
+   "id": "388b3d894bcbae32",
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@38.180.253.20:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=video.surfweb.club#🔵@chillguy_vpn",
+   "ping": 562,
+   "best": 561,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791383446.2008162
+  },
+  {
+   "id": "4eec0822fd61c03b",
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@189.74.124.83:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=console.surfweb.club#🔵@chillguy_vpn",
+   "ping": 582,
+   "best": 570,
+   "score": 92,
+   "stability": 100,
+   "ts": 1791383446.2008162
+  },
+  {
+   "id": "adf8a8574bd5dd3c",
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@199.189.254.16:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=panel.surfweb.club#🔵@chillguy_vpn",
+   "ping": 823,
+   "best": 817,
+   "score": 89,
+   "stability": 100,
+   "ts": 1791383446.2008162
+  },
+  {
+   "id": "8a797ce16c2bec03",
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@38.180.209.248:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cloud.surfweb.club#🔵@chillguy_vpn",
+   "ping": 2601,
+   "best": 661,
+   "score": 66,
+   "stability": 100,
+   "ts": 1791383446.2008162
+  },
   {
    "id": "30d78979831609eb",
    "cfg": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?path=%2Ftyxyws%23telegram--V2ray_confiig&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#🔵@chillguy_vpn",
@@ -4612,6 +4712,36 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "bae39e3143834777": {
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@149.28.75.217:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=images1.surfweb.club#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1198,
+   "ts": 1791383497.6786888,
+   "ping": 39,
+   "score": 99,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "0102e094aac4c553": {
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@216.74.123.169:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=images2.surfweb.club#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1199,
+   "ts": 1791383498.3093894,
+   "ping": 208,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "d672b2921d735447": {
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@84.201.14.179:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ddos-protect.surfweb.club#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1200,
+   "ts": 1791383499.030415,
+   "ping": 415,
+   "score": 95,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7194,13 +7324,28 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1791382501.8371634
+  },
+  "149.28.75.217": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791383496.8964176
+  },
+  "216.74.123.169": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791383497.6788282
+  },
+  "84.201.14.179": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791383498.3095026
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 138,
-  "healthy": 103,
-  "posted": 88,
+  "fetched": 152,
+  "healthy": 116,
+  "posted": 91,
   "removed": 0,
   "published_scores": [
    99,
@@ -7290,7 +7435,10 @@
    91,
    93,
    85,
-   93
+   93,
+   99,
+   97,
+   95
   ]
  }
 }
