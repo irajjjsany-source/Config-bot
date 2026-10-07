@@ -1,7 +1,5 @@
 {
  "seen": {
-  "880a05c77c7f475e": 1791135932.272661,
-  "2410071b7dd7bc4d": 1791135932.272661,
   "021a8af19356830f": 1791136849.3814747,
   "5288a8538e36e423": 1791136849.3814747,
   "f5127207e5b3f3c7": 1791136849.3814747,
@@ -594,7 +592,11 @@
   "1043eb8f129bc237": 1791393333.8646789,
   "cbb058b076a1a061": 1791393333.8646789,
   "9eb99c7a1a6181f4": 1791394246.4334629,
-  "e29ad13a68dee8d0": 1791394246.4334629
+  "e29ad13a68dee8d0": 1791394246.4334629,
+  "8e630d312fadf921": 1791395135.0457442,
+  "208eaa7d97018554": 1791395135.0457442,
+  "9e6bce7a21631969": 1791395135.0457442,
+  "0c482fe6395e56be": 1791395135.0457442
  },
  "queue": [],
  "posted": {
@@ -4824,6 +4826,36 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "0c482fe6395e56be": {
+   "cfg": "vmess://eyJhZGQiOiAiZW5nbGlzaC5wb3ZyYWsuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImIyNzYwYWNjLWNjMDYtNDMwOC1hNThhLWFkZGZjZDU5ZDU5YyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzNDIwNCIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
+   "msg": 1220,
+   "ts": 1791395158.7186744,
+   "ping": 449,
+   "score": 94,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
+  },
+  "208eaa7d97018554": {
+   "cfg": "vless://798839a4-836b-41c3-b7c0-4c022fa11b39@p2real1.greewebservices.ir:1310?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1221,
+   "ts": 1791395159.6576235,
+   "ping": 511,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "9e6bce7a21631969": {
+   "cfg": "vless://4950e344-d01b-4e65-abe5-1ba9ecf281d1@dl.tak.uploadeliasiran01.ir:8443?security=reality&encryption=none&pbk=9UpuSUEgust4Chto6fjXmOSdMDWf_adp3Ps3_deyHTQ&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=39b301abbc615e74#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1222,
+   "ts": 1791395160.588876,
+   "ping": 1191,
+   "score": 85,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7496,13 +7528,28 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791393354.6625738
+  },
+  "english.povrak.ir": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791395158.037954
+  },
+  "p2real1.greewebservices.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791395158.7187715
+  },
+  "dl.tak.uploadeliasiran01.ir": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791395159.6577365
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 173,
-  "healthy": 128,
-  "posted": 110,
+  "fetched": 177,
+  "healthy": 131,
+  "posted": 113,
   "removed": 0,
   "published_scores": [
    99,
@@ -7614,7 +7661,10 @@
    92,
    97,
    88,
-   84
+   84,
+   94,
+   93,
+   85
   ]
  }
 }
