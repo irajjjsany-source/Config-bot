@@ -1,7 +1,5 @@
 {
  "seen": {
-  "0aec689abeedb149": 1791138643.0865304,
-  "7de7354d8ba2f306": 1791138643.0865304,
   "8ad1ab6a41583e76": 1791139546.1160202,
   "aae4ab94304f02e0": 1791140453.1183398,
   "19ce2e3ba9ab69f6": 1791140453.1183398,
@@ -594,9 +592,34 @@
   "ef98abc90ea1f480": 1791395905.7824159,
   "7ca694be07887d1c": 1791397423.9520185,
   "e010efa436bc9934": 1791397423.9520185,
-  "79f6a5b4a52dc346": 1791397423.9520185
+  "79f6a5b4a52dc346": 1791397423.9520185,
+  "8c739451c5924b70": 1791398060.8718774,
+  "43132d52fdb98dfb": 1791398060.8718774,
+  "64975ef823e39c84": 1791398060.8718774,
+  "3f834d65805c0dcb": 1791398060.8718774,
+  "ea43e91832c57777": 1791398060.8718774,
+  "c79d4bdab39e1b80": 1791398060.8718774
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "ea43e91832c57777",
+   "cfg": "vless://f774f037-6320-42e3-a97b-6d4a1f018dd5@2.28.142.170:443?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.Y0-j5e-CpehUKzhEeat1dTYevroKyHV4g9HML3ujmlQ&pbk=IqFTx4k5VQydmffvavaOHDXBtdgDxX26A6NtsVvDfhw&host=germanytest.tulnaro.ir&type=xhttp&sni=germanytest.tulnaro.ir&sid=d485c3d5248d6b51#🔵@chillguy_vpn",
+   "ping": 1649,
+   "best": 1393,
+   "score": 79,
+   "stability": 100,
+   "ts": 1791398060.8718774
+  },
+  {
+   "id": "43132d52fdb98dfb",
+   "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@177.1.186.44:443?security=reality&encryption=none&pbk=4hvjCaGIMlFeWxMYoAWTNHQOaZkGvGQREOjB3Unn7iE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mcde.67resserv67.info&sid=29455a3a790acbd0#🔵@chillguy_vpn",
+   "ping": 3396,
+   "best": 2299,
+   "score": 56,
+   "stability": 100,
+   "ts": 1791398060.8718774
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4874,6 +4897,36 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "3f834d65805c0dcb": {
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1225,
+   "ts": 1791398110.5478165,
+   "ping": 49,
+   "score": 99,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "8c739451c5924b70": {
+   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1226,
+   "ts": 1791398111.6389608,
+   "ping": 445,
+   "score": 94,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "64975ef823e39c84": {
+   "cfg": "vless://2412bd96-925b-43f2-81d1-0ed4f0793699@31.207.7.74:443?security=reality&encryption=none&pbk=RDL0RVmgFM3fdqXRSHBF2A53YF9TPFu2aeJQhMTaY3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pkg.go.dev&sid=457ae5b8bef4d1b3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1227,
+   "ts": 1791398112.6624627,
+   "ping": 1096,
+   "score": 86,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7566,13 +7619,28 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791397457.843435
+  },
+  "15.204.97.219": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791398109.7715266
+  },
+  "31.77.114.114": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791398110.547932
+  },
+  "31.207.7.74": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791398111.6390598
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 181,
-  "healthy": 133,
-  "posted": 115,
+  "fetched": 187,
+  "healthy": 138,
+  "posted": 118,
   "removed": 0,
   "published_scores": [
    99,
@@ -7689,7 +7757,10 @@
    93,
    85,
    94,
-   85
+   85,
+   99,
+   94,
+   86
   ]
  }
 }
