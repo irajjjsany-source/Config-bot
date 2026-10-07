@@ -576,7 +576,11 @@
   "5f5943aed898bdd0": 1791375332.5332556,
   "5b6049125d539464": 1791375332.5332556,
   "1a4c00ffc392d4a1": 1791375798.333594,
-  "757a5de361feef49": 1791375798.333594
+  "757a5de361feef49": 1791375798.333594,
+  "e9540ac53a04bc4a": 1791377131.435619,
+  "5cf33c91d29c9344": 1791377131.435619,
+  "45dcbbb4f4074501": 1791377131.435619,
+  "e70e9bfb507f9816": 1791377131.435619
  },
  "queue": [
   {
@@ -4444,6 +4448,36 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "e70e9bfb507f9816": {
+   "cfg": "vless://a82ba292-5a68-4f01-94df-fcb9c0902525@dns6.m3hrzd.ir:8010?security=reality&encryption=none&pbk=Vtx_JlcgqBDRv8XWimo41kgKuZdxvSUzkQR62188xWQ&headerType=none&fp=edge&type=tcp&sni=activision.com&sid=5ed0c99dd6c79bb5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1175,
+   "ts": 1791377147.9366345,
+   "ping": 448,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "45dcbbb4f4074501": {
+   "cfg": "vless://a82ba292-5a68-4f01-94df-fcb9c0902525@dns5.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=safari&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1176,
+   "ts": 1791377148.4124646,
+   "ping": 492,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "5cf33c91d29c9344": {
+   "cfg": "vless://a82ba292-5a68-4f01-94df-fcb9c0902525@dns7.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1177,
+   "ts": 1791377149.1176558,
+   "ping": 502,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7001,13 +7035,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791376254.4547923
+  },
+  "dns7.m3hrzd.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791377148.412569
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 110,
-  "healthy": 79,
-  "posted": 71,
+  "fetched": 114,
+  "healthy": 82,
+  "posted": 74,
   "removed": 0,
   "published_scores": [
    99,
@@ -7080,6 +7119,9 @@
    94,
    92,
    93,
+   93,
+   94,
+   94,
    93
   ]
  }
