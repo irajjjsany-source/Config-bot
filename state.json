@@ -581,7 +581,8 @@
   "2062cdfaed087848": 1791413008.8451118,
   "fc08c4bf1bc8ee92": 1791413008.8451118,
   "c1fe3724b22d6356": 1791413008.8451118,
-  "1e5149b3352079df": 1791413008.8451118
+  "1e5149b3352079df": 1791413008.8451118,
+  "d0a72b7a0065bdbc": 1791413882.0372388
  },
  "queue": [],
  "posted": {
@@ -5181,6 +5182,16 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "d0a72b7a0065bdbc": {
+   "cfg": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@82.202.141.141:9892?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1257,
+   "ts": 1791413902.2626061,
+   "ping": 3899,
+   "score": 49,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7943,13 +7954,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791407883.7016659
+  },
+  "82.202.141.141": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791413901.5569448
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 231,
-  "healthy": 167,
-  "posted": 147,
+  "fetched": 232,
+  "healthy": 168,
+  "posted": 148,
   "removed": 0,
   "published_scores": [
    99,
@@ -8098,7 +8114,8 @@
    94,
    94,
    95,
-   44
+   44,
+   49
   ]
  }
 }
