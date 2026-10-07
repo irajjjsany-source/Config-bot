@@ -584,9 +584,34 @@
   "ea43e91832c57777": 1791398060.8718774,
   "c79d4bdab39e1b80": 1791398060.8718774,
   "1e25e7582447b410": 1791399653.7689776,
-  "aa9cb039f0b49789": 1791399653.7689776
+  "aa9cb039f0b49789": 1791399653.7689776,
+  "c181cb4c5a055bcb": 1791400420.6333325,
+  "d935003f634a01f6": 1791400420.6333325,
+  "d90a9acee00cf8ac": 1791400420.6333325,
+  "c95393274f18373a": 1791400420.6333325,
+  "8657f0673312045d": 1791400420.6333325,
+  "cccf9142e44b784d": 1791400420.6333325
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "8657f0673312045d",
+   "cfg": "vless://6eb4b0ce-0733-4e78-94df-b99383834d18@fastly.vexogf.ir:9443?security=reality&encryption=none&pbk=YO2IIMfb_rukoknmG-91KRGGNb7BE1aBcr_-XKQkVXY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=f0c56d4f73d757f0#🔵@chillguy_vpn",
+   "ping": 521,
+   "best": 399,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791400420.6333325
+  },
+  {
+   "id": "c181cb4c5a055bcb",
+   "cfg": "vless://9f02c95a-807c-4f8e-bdbc-c06b50c942b4@fastly.vexogf.ir:9443?security=reality&encryption=none&pbk=YO2IIMfb_rukoknmG-91KRGGNb7BE1aBcr_-XKQkVXY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=f0c56d4f73d757f0#🔵@chillguy_vpn",
+   "ping": 636,
+   "best": 544,
+   "score": 92,
+   "stability": 100,
+   "ts": 1791400420.6333325
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4924,6 +4949,36 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "cccf9142e44b784d": {
+   "cfg": "vless://8acd2de0-699c-46c0-af3d-dbd88a9fdf2a@cebpa.cytogenetic.workers.dev:443?encryption=none&security=tls&sni=cebpa.cytogenetic.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=cebpa.cytogenetic.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1231,
+   "ts": 1791400436.0617876,
+   "ping": 200,
+   "score": 97,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "c95393274f18373a": {
+   "cfg": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@gb.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb.srv.dvzh.net&sid=d30f9d846a7c8cba#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1232,
+   "ts": 1791400436.7301013,
+   "ping": 329,
+   "score": 96,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
+  },
+  "d935003f634a01f6": {
+   "cfg": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@es.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es.srv.dvzh.net&sid=e4e77e76e6e49da7#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1233,
+   "ts": 1791400437.3479443,
+   "ping": 463,
+   "score": 94,
+   "stability": 100,
+   "country": "Spain",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7636,13 +7691,28 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791399665.4890265
+  },
+  "cebpa.cytogenetic.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791400435.3632836
+  },
+  "gb.srv.dvzh.net": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791400436.0618944
+  },
+  "es.srv.dvzh.net": {
+   "cc": "ES",
+   "name": "Spain",
+   "ts": 1791400436.7302084
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 189,
-  "healthy": 140,
-  "posted": 121,
+  "fetched": 195,
+  "healthy": 145,
+  "posted": 124,
   "removed": 0,
   "published_scores": [
    99,
@@ -7765,7 +7835,10 @@
    86,
    76,
    96,
-   77
+   77,
+   97,
+   96,
+   94
   ]
  }
 }
