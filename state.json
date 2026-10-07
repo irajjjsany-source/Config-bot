@@ -605,26 +605,7 @@
   "b57d83a059a4295b": 1791385113.392531,
   "5f8a379ebecb0dcb": 1791385113.392531
  },
- "queue": [
-  {
-   "id": "8a797ce16c2bec03",
-   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@38.180.209.248:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cloud.surfweb.club#🔵@chillguy_vpn",
-   "ping": 2601,
-   "best": 661,
-   "score": 66,
-   "stability": 100,
-   "ts": 1791383446.2008162
-  },
-  {
-   "id": "30d78979831609eb",
-   "cfg": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?path=%2Ftyxyws%23telegram--V2ray_confiig&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#🔵@chillguy_vpn",
-   "ping": 6394,
-   "best": 5149,
-   "score": 35,
-   "stability": 100,
-   "ts": 1791379845.250181
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4752,6 +4733,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "30d78979831609eb": {
+   "cfg": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?path=%2Ftyxyws%23telegram--V2ray_confiig&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1210,
+   "ts": 1791385287.6490161,
+   "ping": 1476,
+   "score": 81,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7400,7 +7391,7 @@
   "date": "2026-10-07",
   "fetched": 156,
   "healthy": 118,
-  "posted": 100,
+  "posted": 101,
   "removed": 0,
   "published_scores": [
    99,
@@ -7502,7 +7493,8 @@
    92,
    100,
    91,
-   82
+   82,
+   81
   ]
  }
 }
