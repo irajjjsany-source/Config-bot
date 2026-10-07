@@ -1,9 +1,5 @@
 {
  "seen": {
-  "fd42d6c54856cfdc": 1791096332.1871562,
-  "c93c60bab6ea4080": 1791096332.1871562,
-  "af9c6084ab4b9cd6": 1791096332.1871562,
-  "36276e95440e818a": 1791096332.1871562,
   "e0431c43e073ec11": 1791098134.427463,
   "eec1bad5864f4437": 1791099931.7158613,
   "b109329777c9a0dc": 1791100853.9499936,
@@ -559,7 +555,11 @@
   "72bb74a9decb9c03": 1791353734.7047634,
   "9f7f03bb1b383403": 1791353734.7047634,
   "959eff5f237aa7cb": 1791353734.7047634,
-  "8a73e48a23a5cb1d": 1791354854.2335443
+  "8a73e48a23a5cb1d": 1791354854.2335443,
+  "420073253527b158": 1791355533.6086,
+  "c2100021ff3e6962": 1791355533.6086,
+  "df4f08bfddca67b4": 1791355533.6086,
+  "0c323dca713eb772": 1791355533.6086
  },
  "queue": [],
  "posted": {
@@ -3879,6 +3879,26 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "c2100021ff3e6962": {
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@179.61.145.245:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=de2.srv.vbuste.ru&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1120,
+   "ts": 1791355561.9561644,
+   "ping": 405,
+   "score": 95,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "420073253527b158": {
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@150.241.79.232:443?security=reality&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&type=tcp&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&fp=chrome&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1121,
+   "ts": 1791355562.5580127,
+   "ping": 448,
+   "score": 94,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6266,13 +6286,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1791354863.3928022
+  },
+  "150.241.79.232": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791355561.9562826
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 39,
-  "healthy": 22,
-  "posted": 19,
+  "fetched": 43,
+  "healthy": 25,
+  "posted": 21,
   "removed": 0,
   "published_scores": [
    99,
@@ -6293,7 +6318,9 @@
    88,
    90,
    51,
-   75
+   75,
+   95,
+   94
   ]
  }
 }
