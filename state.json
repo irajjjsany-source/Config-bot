@@ -1,9 +1,5 @@
 {
  "seen": {
-  "b9933227d4ff8d40": 1791135044.3488944,
-  "7e0822885ae4dc6d": 1791135044.3488944,
-  "40b171e8901be1ea": 1791135044.3488944,
-  "04c4cf503cebf311": 1791135044.3488944,
   "880a05c77c7f475e": 1791135932.272661,
   "2410071b7dd7bc4d": 1791135932.272661,
   "021a8af19356830f": 1791136849.3814747,
@@ -596,19 +592,11 @@
   "e8df75db061651b1": 1791392843.173498,
   "6253ae46c02f985c": 1791392843.173498,
   "1043eb8f129bc237": 1791393333.8646789,
-  "cbb058b076a1a061": 1791393333.8646789
+  "cbb058b076a1a061": 1791393333.8646789,
+  "9eb99c7a1a6181f4": 1791394246.4334629,
+  "e29ad13a68dee8d0": 1791394246.4334629
  },
- "queue": [
-  {
-   "id": "1043eb8f129bc237",
-   "cfg": "vless://ea0d7e96-529f-481f-9d49-a2a849e76f2a@dl3.uploadeliasiran01.ir:443?security=reality&encryption=none&pbk=uh67g4brJ3f4oGMcRpp2UyBD3R7HydwLMUFyhdBENxk&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=164b2cb4ee0e9352#🔵@chillguy_vpn",
-   "ping": 1535,
-   "best": 1233,
-   "score": 80,
-   "stability": 100,
-   "ts": 1791393333.8646789
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -7512,7 +7500,7 @@
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 171,
+  "fetched": 173,
   "healthy": 128,
   "posted": 110,
   "removed": 0,
