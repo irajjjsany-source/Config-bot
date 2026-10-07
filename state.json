@@ -1,6 +1,5 @@
 {
  "seen": {
-  "0e8e25b01da7149b": 1791109841.065449,
   "35c46315ff256fd1": 1791110733.3718352,
   "0246853da738c1b7": 1791111656.9670312,
   "c12821b2f5d03e59": 1791111656.9670312,
@@ -564,26 +563,7 @@
   "8f1e28687a165d16": 1791368133.65611,
   "2eedc377b9508287": 1791368133.65611
  },
- "queue": [
-  {
-   "id": "461c157569a8127e",
-   "cfg": "vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#🔵@chillguy_vpn",
-   "ping": 1082,
-   "best": 602,
-   "score": 86,
-   "stability": 100,
-   "ts": 1791368133.65611
-  },
-  {
-   "id": "a66d9af380537edd",
-   "cfg": "vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🔵@chillguy_vpn",
-   "ping": 4127,
-   "best": 2993,
-   "score": 46,
-   "stability": 100,
-   "ts": 1791368133.65611
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4181,6 +4161,26 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "461c157569a8127e": {
+   "cfg": "vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1148,
+   "ts": 1791369050.433856,
+   "ping": 651,
+   "score": 92,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
+  },
+  "a66d9af380537edd": {
+   "cfg": "vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1149,
+   "ts": 1791369056.3001065,
+   "ping": 1320,
+   "score": 83,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6648,13 +6648,23 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791368479.9309318
+  },
+  "57.129.132.223": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791369049.7889862
+  },
+  "node-uk.connectsuite.org": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791369055.7244155
   }
  },
  "stats": {
   "date": "2026-10-07",
   "fetched": 80,
   "healthy": 54,
-  "posted": 47,
+  "posted": 49,
   "removed": 0,
   "published_scores": [
    99,
@@ -6703,7 +6713,9 @@
    93,
    91,
    90,
-   86
+   86,
+   92,
+   83
   ]
  }
 }
