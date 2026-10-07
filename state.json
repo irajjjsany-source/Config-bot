@@ -567,7 +567,10 @@
   "679d3495e91c5474": 1791373535.6728053,
   "46c6bc9f7479017e": 1791373535.6728053,
   "42365223dbf92718": 1791374224.893295,
-  "3e7ff7d9452faa27": 1791374224.893295
+  "3e7ff7d9452faa27": 1791374224.893295,
+  "e4a603fa631a725e": 1791374453.5248897,
+  "8d8f43dea9b2a946": 1791374453.5248897,
+  "26403244c590b4da": 1791374453.5248897
  },
  "queue": [
   {
@@ -4306,6 +4309,36 @@
    "stability": 100,
    "country": "Türkiye",
    "repost_count": 0
+  },
+  "26403244c590b4da": {
+   "cfg": "vless://2496047d-ba1e-49b4-9c04-4dc1a7f63313@de7.bexait.ir:2434?encryption=none&security=reality&type=tcp&headerType=none&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1163,
+   "ts": 1791374467.4495418,
+   "ping": 676,
+   "score": 91,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "8d8f43dea9b2a946": {
+   "cfg": "vless://2496047d-ba1e-49b4-9c04-4dc1a7f63313@de20.bexait.ir:2434?encryption=none&security=reality&type=tcp&headerType=none&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1164,
+   "ts": 1791374468.2023518,
+   "ping": 706,
+   "score": 91,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "e4a603fa631a725e": {
+   "cfg": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.90.61.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B1g2P-3yW3cQW0WZweSPKUP3lZSQ5pgr8doCYvA0cRg&security=reality&sid=df3dc12b0b9b0c93&sni=ca9.eu-cdn294.com&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1165,
+   "ts": 1791374468.8988056,
+   "ping": 824,
+   "score": 89,
+   "stability": 100,
+   "country": "Norway",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6818,13 +6851,23 @@
    "cc": "TR",
    "name": "Türkiye",
    "ts": 1791374245.9101834
+  },
+  "de7.bexait.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791374466.4907703
+  },
+  "de20.bexait.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791374467.4496524
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 94,
-  "healthy": 66,
-  "posted": 59,
+  "fetched": 97,
+  "healthy": 69,
+  "posted": 62,
   "removed": 0,
   "published_scores": [
    99,
@@ -6885,7 +6928,10 @@
    90,
    91,
    92,
-   91
+   91,
+   91,
+   91,
+   89
   ]
  }
 }
