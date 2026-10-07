@@ -579,7 +579,8 @@
   "fc08c4bf1bc8ee92": 1791413008.8451118,
   "c1fe3724b22d6356": 1791413008.8451118,
   "1e5149b3352079df": 1791413008.8451118,
-  "d0a72b7a0065bdbc": 1791413882.0372388
+  "d0a72b7a0065bdbc": 1791413882.0372388,
+  "17eb9fc3b9edfb2b": 1791414929.2302456
  },
  "queue": [],
  "posted": {
@@ -5189,6 +5190,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "17eb9fc3b9edfb2b": {
+   "cfg": "vless://9ff17e23-c6ed-4472-90e3-c85c74e88478@89.208.113.230:443?security=reality&encryption=none&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fretawf.serveroff.net&sid=832d9228ddd3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1258,
+   "ts": 1791414938.242988,
+   "ping": 403,
+   "score": 95,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7956,13 +7967,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1791413901.5569448
+  },
+  "89.208.113.230": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1791414937.3136451
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 232,
-  "healthy": 168,
-  "posted": 148,
+  "fetched": 233,
+  "healthy": 169,
+  "posted": 149,
   "removed": 0,
   "published_scores": [
    99,
@@ -8112,7 +8128,8 @@
    94,
    95,
    44,
-   49
+   49,
+   95
   ]
  }
 }
