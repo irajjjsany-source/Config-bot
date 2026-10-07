@@ -1,7 +1,5 @@
 {
  "seen": {
-  "6248fdaec5e01df7": 1791112536.5474885,
-  "fc70b75317377118": 1791112536.5474885,
   "7fbe05557d7bce46": 1791113479.7173922,
   "16adb3211fcfbdce": 1791113479.7173922,
   "ad5173fb48dc205b": 1791113479.7173922,
@@ -561,7 +559,8 @@
   "2eedc377b9508287": 1791368133.65611,
   "04d013bec0a5c098": 1791370853.8447258,
   "4a56bf7b2cde552d": 1791370853.8447258,
-  "22e347e85f4adcff": 1791371735.2713199
+  "22e347e85f4adcff": 1791371735.2713199,
+  "71902a7b2809e70e": 1791372644.614525
  },
  "queue": [],
  "posted": {
@@ -4211,6 +4210,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "71902a7b2809e70e": {
+   "cfg": "vless://6b4a0e0d-35b1-4934-8376-a19cb81fca31@p2real5.greewebservices.ir:1350?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1155,
+   "ts": 1791372656.38708,
+   "ping": 2162,
+   "score": 72,
+   "stability": 100,
+   "country": "Switzerland",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6697,9 +6706,9 @@
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 83,
-  "healthy": 57,
-  "posted": 52,
+  "fetched": 84,
+  "healthy": 58,
+  "posted": 53,
   "removed": 0,
   "published_scores": [
    99,
@@ -6753,7 +6762,8 @@
    83,
    96,
    75,
-   92
+   92,
+   72
   ]
  }
 }
