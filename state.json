@@ -588,90 +588,13 @@
   "cc571b640580cc70": 1791381656.1167374,
   "ef1901abfbd3d3b0": 1791381656.1167374,
   "8e960465a0c6dc70": 1791381656.1167374,
-  "9eb7a69fd657aaba": 1791381656.1167374
+  "9eb7a69fd657aaba": 1791381656.1167374,
+  "c39ebac10af9d318": 1791382445.3770773,
+  "26d95d1cbc5af117": 1791382445.3770773,
+  "a2910a13001df71c": 1791382445.3770773,
+  "c11f9baf47e7a188": 1791382445.3770773
  },
  "queue": [
-  {
-   "id": "ef1901abfbd3d3b0",
-   "cfg": "vless://a82ba292-5a68-4f01-94df-fcb9c0902525@dns7.m3hrzd.ir:8030?encryption=none&security=reality&sni=race.egistration.ir&fp=edge&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&sid=38dda82955d5791e&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 665,
-   "best": 650,
-   "score": 91,
-   "stability": 100,
-   "ts": 1791381656.1167374
-  },
-  {
-   "id": "a0779d5a9e1c459c",
-   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@fin2.noirex.ir:35606?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=T3mwuNKqo8QuH0Vy6E50yClcQBSuh3scQJEl154D_j4&sid=8d241939#🔵@chillguy_vpn",
-   "ping": 867,
-   "best": 798,
-   "score": 89,
-   "stability": 100,
-   "ts": 1791380729.012382
-  },
-  {
-   "id": "24a1b0c0fdf8e2d1",
-   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@holl2.noirex.ir:31604?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=y9O2HH8-nVsNZmifTGVNZOuc3gknAl9Mngwmt_x6NhA&sid=37e47e4f#🔵@chillguy_vpn",
-   "ping": 1008,
-   "best": 989,
-   "score": 87,
-   "stability": 100,
-   "ts": 1791380729.012382
-  },
-  {
-   "id": "1f276f8022fc2972",
-   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@g2de.velnix-services.ir:1080?encryption=none&security=reality&type=tcp&headerType=none&host=www6.gameservice-iramn3.com&sni=www6.gameservice-iramn3.com&fp=chrome&pbk=qmCIBP5Y6Pu7oxY--0sOXglNvHV9byxo2cyVsfAqUiI&sid=307eb35dbf3a5385#🔵@chillguy_vpn",
-   "ping": 1030,
-   "best": 912,
-   "score": 87,
-   "stability": 100,
-   "ts": 1791380729.012382
-  },
-  {
-   "id": "f5fc1be923fd8bcc",
-   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@nether2.noirex.ir:32608?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=-f8Ix0XhjT2FMkoLtyXjUSD9YbxW-Xp3Ay8_cc7Bi30&sid=d2f4a8b1#🔵@chillguy_vpn",
-   "ping": 1043,
-   "best": 1000,
-   "score": 86,
-   "stability": 100,
-   "ts": 1791380729.012382
-  },
-  {
-   "id": "d67a8572e707cf4b",
-   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@ngnix.velnix-services.ir:1081?encryption=none&security=reality&type=tcp&headerType=none&host=www12.gameservice-iramn3.com&sni=www32.velnix-services.ir&fp=chrome&pbk=oBcBNqEqA-Iqc6VT25ZLWF0MhkZ1CSny7yWn_u1r-1Q&sid=fbc2f106a8cab706#🔵@chillguy_vpn",
-   "ping": 1194,
-   "best": 1040,
-   "score": 84,
-   "stability": 100,
-   "ts": 1791380729.012382
-  },
-  {
-   "id": "8e960465a0c6dc70",
-   "cfg": "vless://98b3d53b-9f34-4cf1-ba87-3be5db6d4c5a@185.207.1.121:10470?security=reality&encryption=none&pbk=90jWc7mGJ9NeEI0HpwQ844SjP0W9_MP5bNX6cDOdFnM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.max.ru&sid=53c6ae#🔵@chillguy_vpn",
-   "ping": 1257,
-   "best": 812,
-   "score": 84,
-   "stability": 100,
-   "ts": 1791381656.1167374
-  },
-  {
-   "id": "f3a7e42ca1802a64",
-   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@nether2.noirex.ir:34603?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=KWZ8_wctsfsW_vURZto-YOre2VlFM4HS_duhfUU5UxI&sid=0739285d#🔵@chillguy_vpn",
-   "ping": 1307,
-   "best": 1059,
-   "score": 83,
-   "stability": 100,
-   "ts": 1791380729.012382
-  },
-  {
-   "id": "e2440700fd7df71e",
-   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@holl2.noirex.ir:35609?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=q672MfTmMstkAIOSmKXUzbKWIzRwNZQ310AX3GfBKWM&sid=e5c9f307#🔵@chillguy_vpn",
-   "ping": 2000,
-   "best": 1670,
-   "score": 74,
-   "stability": 100,
-   "ts": 1791380729.012382
-  },
   {
    "id": "30d78979831609eb",
    "cfg": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?path=%2Ftyxyws%23telegram--V2ray_confiig&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#🔵@chillguy_vpn",
@@ -4659,6 +4582,36 @@
    "stability": 100,
    "country": "Latvia",
    "repost_count": 0
+  },
+  "c39ebac10af9d318": {
+   "cfg": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&security=reality&fm=AhmadV2ray&type=tcp&sni=zsit.eu-cdn294.com&flow=xtls-rprx-vision&headerType=none&encryption=none&sid=cd2d53510b4df2a8&fp=chrome&spx=/AhmadV2ray#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1192,
+   "ts": 1791382505.942147,
+   "ping": 514,
+   "score": 93,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
+  },
+  "ef1901abfbd3d3b0": {
+   "cfg": "vless://a82ba292-5a68-4f01-94df-fcb9c0902525@dns7.m3hrzd.ir:8030?encryption=none&security=reality&sni=race.egistration.ir&fp=edge&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&sid=38dda82955d5791e&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1193,
+   "ts": 1791382511.2506373,
+   "ping": 1127,
+   "score": 85,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "26d95d1cbc5af117": {
+   "cfg": "vless://a82ba292-5a68-4f01-94df-fcb9c0902525@dns7.m3hrzd.ir:8030?encryption=none&type=tcp&security=reality&headerType=none&sni=race.egistration.ir&fp=edge&insecure=1&allowInsecure=1&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1194,
+   "ts": 1791382616.6022468,
+   "ping": 518,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7236,13 +7189,18 @@
    "cc": "IS",
    "name": "Iceland",
    "ts": 1791380780.365474
+  },
+  "205.237.110.254": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791382501.8371634
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 134,
-  "healthy": 101,
-  "posted": 85,
+  "fetched": 138,
+  "healthy": 103,
+  "posted": 88,
   "removed": 0,
   "published_scores": [
    99,
@@ -7329,7 +7287,10 @@
    90,
    95,
    93,
-   91
+   91,
+   93,
+   85,
+   93
   ]
  }
 }
