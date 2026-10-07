@@ -559,7 +559,8 @@
   "420073253527b158": 1791355533.6086,
   "c2100021ff3e6962": 1791355533.6086,
   "df4f08bfddca67b4": 1791355533.6086,
-  "0c323dca713eb772": 1791355533.6086
+  "0c323dca713eb772": 1791355533.6086,
+  "bb518b3077881d75": 1791356456.5484138
  },
  "queue": [],
  "posted": {
@@ -3899,6 +3900,16 @@
    "stability": 100,
    "country": "Sweden",
    "repost_count": 0
+  },
+  "bb518b3077881d75": {
+   "cfg": "vmess://eyJhZGQiOiAiZmlubGEyLnBvdnJhay5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYWY1ZTM0MjItMzM3ZS00M2UzLTg4Y2EtMjY4N2ViMzc5ODY2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTgxNzkiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "msg": 1122,
+   "ts": 1791356461.7400367,
+   "ping": 507,
+   "score": 93,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6295,9 +6306,9 @@
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 43,
-  "healthy": 25,
-  "posted": 21,
+  "fetched": 44,
+  "healthy": 26,
+  "posted": 22,
   "removed": 0,
   "published_scores": [
    99,
@@ -6320,7 +6331,8 @@
    51,
    75,
    95,
-   94
+   94,
+   93
   ]
  }
 }
