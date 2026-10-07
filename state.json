@@ -574,35 +574,19 @@
   "cced0975435ca1be": 1791375332.5332556,
   "f0689420ccbfc1ef": 1791375332.5332556,
   "5f5943aed898bdd0": 1791375332.5332556,
-  "5b6049125d539464": 1791375332.5332556
+  "5b6049125d539464": 1791375332.5332556,
+  "1a4c00ffc392d4a1": 1791375798.333594,
+  "757a5de361feef49": 1791375798.333594
  },
  "queue": [
   {
-   "id": "448a7b87f8f8b12a",
-   "cfg": "vless://2496047d-ba1e-49b4-9c04-4dc1a7f63313@fn3.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 482,
-   "best": 410,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791375332.5332556
-  },
-  {
-   "id": "5f5943aed898bdd0",
-   "cfg": "vless://2496047d-ba1e-49b4-9c04-4dc1a7f63313@fn4.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 514,
-   "best": 408,
+   "id": "757a5de361feef49",
+   "cfg": "vless://2496047d-ba1e-49b4-9c04-4dc1a7f63313@de4.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🔵@chillguy_vpn",
+   "ping": 576,
+   "best": 498,
    "score": 93,
    "stability": 100,
-   "ts": 1791375332.5332556
-  },
-  {
-   "id": "ec1443006c33cede",
-   "cfg": "vless://2496047d-ba1e-49b4-9c04-4dc1a7f63313@de4.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 538,
-   "best": 394,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791375332.5332556
+   "ts": 1791375798.333594
   },
   {
    "id": "cced0975435ca1be",
@@ -612,6 +596,15 @@
    "score": 92,
    "stability": 100,
    "ts": 1791375332.5332556
+  },
+  {
+   "id": "1a4c00ffc392d4a1",
+   "cfg": "vless://2496047d-ba1e-49b4-9c04-4dc1a7f63313@de5.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🔵@chillguy_vpn",
+   "ping": 664,
+   "best": 633,
+   "score": 91,
+   "stability": 100,
+   "ts": 1791375798.333594
   },
   {
    "id": "21f04cc48d304084",
@@ -4418,6 +4411,36 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "448a7b87f8f8b12a": {
+   "cfg": "vless://2496047d-ba1e-49b4-9c04-4dc1a7f63313@fn3.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1169,
+   "ts": 1791375810.6424057,
+   "ping": 578,
+   "score": 92,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "5f5943aed898bdd0": {
+   "cfg": "vless://2496047d-ba1e-49b4-9c04-4dc1a7f63313@fn4.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1170,
+   "ts": 1791375814.0984344,
+   "ping": 480,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "ec1443006c33cede": {
+   "cfg": "vless://2496047d-ba1e-49b4-9c04-4dc1a7f63313@de4.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1171,
+   "ts": 1791375817.5151181,
+   "ping": 473,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6955,13 +6978,28 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791375367.6405473
+  },
+  "fn3.bexait.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791375809.6454256
+  },
+  "fn4.bexait.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791375813.411504
+  },
+  "de4.bexait.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791375816.8462312
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 108,
-  "healthy": 77,
-  "posted": 65,
+  "fetched": 110,
+  "healthy": 79,
+  "posted": 68,
   "removed": 0,
   "published_scores": [
    99,
@@ -7028,6 +7066,9 @@
    89,
    95,
    95,
+   94,
+   92,
+   94,
    94
   ]
  }
