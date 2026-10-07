@@ -1,20 +1,5 @@
 {
  "seen": {
-  "aae4ab94304f02e0": 1791140453.1183398,
-  "19ce2e3ba9ab69f6": 1791140453.1183398,
-  "2d0a5aa0600c016b": 1791140453.1183398,
-  "24fc2d635697a48f": 1791140453.1183398,
-  "0c7bc525f13770ab": 1791140453.1183398,
-  "4da32f665ae66689": 1791140453.1183398,
-  "6b02e8bbfdb5cb60": 1791140453.1183398,
-  "b1c0a080e5f2136a": 1791140453.1183398,
-  "de750e88f05b6d35": 1791140453.1183398,
-  "a04237af6ba17cd3": 1791140453.1183398,
-  "9a4d024457029ac9": 1791140453.1183398,
-  "dbff059b28961f57": 1791140453.1183398,
-  "a97565cf6d666c1c": 1791140453.1183398,
-  "c1a4b7e91b78c792": 1791140453.1183398,
-  "36f9f69c4cca7ea4": 1791140453.1183398,
   "c4a388f6ecbb88fe": 1791141333.7606416,
   "f6b890183a7a75a4": 1791141333.7606416,
   "606a7cac2554d122": 1791141333.7606416,
@@ -597,7 +582,9 @@
   "64975ef823e39c84": 1791398060.8718774,
   "3f834d65805c0dcb": 1791398060.8718774,
   "ea43e91832c57777": 1791398060.8718774,
-  "c79d4bdab39e1b80": 1791398060.8718774
+  "c79d4bdab39e1b80": 1791398060.8718774,
+  "1e25e7582447b410": 1791399653.7689776,
+  "aa9cb039f0b49789": 1791399653.7689776
  },
  "queue": [],
  "posted": {
@@ -4917,6 +4904,26 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "1e25e7582447b410": {
+   "cfg": "vless://6bda1096-457f-4c70-9698-65eb5eee163b@167.233.96.254:1280?path=%2F&security=none&encryption=none&host=is1-ssl.mzstatic.com&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1229,
+   "ts": 1791399665.488908,
+   "ping": 289,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "aa9cb039f0b49789": {
+   "cfg": "vless://31baa4e2-b565-418a-bb6d-109204a9a5d3@dl.tak.uploadeliasiran02.ir:8443?security=reality&encryption=none&pbk=9UpuSUEgust4Chto6fjXmOSdMDWf_adp3Ps3_deyHTQ&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=39b301abbc615e74#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1230,
+   "ts": 1791399666.0892646,
+   "ping": 1807,
+   "score": 77,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7624,13 +7631,18 @@
    "cc": "SE",
    "name": "Sweden",
    "ts": 1791398111.6390598
+  },
+  "dl.tak.uploadeliasiran02.ir": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791399665.4890265
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 187,
-  "healthy": 138,
-  "posted": 119,
+  "fetched": 189,
+  "healthy": 140,
+  "posted": 121,
   "removed": 0,
   "published_scores": [
    99,
@@ -7751,7 +7763,9 @@
    99,
    94,
    86,
-   76
+   76,
+   96,
+   77
   ]
  }
 }
