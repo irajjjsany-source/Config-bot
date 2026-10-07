@@ -1,6 +1,5 @@
 {
  "seen": {
-  "03a2675a69e9baa8": 1791107130.9692547,
   "ff87afef9df22971": 1791107742.5146775,
   "32161f3b5217c5a8": 1791107742.5146775,
   "78117259fd3c66a8": 1791107742.5146775,
@@ -559,7 +558,10 @@
   "e36e549d5e78722a": 1791364429.8626335,
   "3617839e5fd794a3": 1791364429.8626335,
   "0a4cb46e694907f5": 1791364429.8626335,
-  "c386b90d986f6bf8": 1791364429.8626335
+  "c386b90d986f6bf8": 1791364429.8626335,
+  "b2d7fbfa0165d924": 1791366334.9785762,
+  "36819da24a90332a": 1791366334.9785762,
+  "c988fdfe59ed8186": 1791366334.9785762
  },
  "queue": [],
  "posted": {
@@ -4069,6 +4071,36 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "b2d7fbfa0165d924": {
+   "cfg": "vless://96391b2c-e13c-4e29-939f-c22f01053542@wildflower.billiecore.workers.dev:443?encryption=none&security=tls&sni=wildflower.billiecore.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=wildflower.billiecore.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1139,
+   "ts": 1791366360.6812391,
+   "ping": 48,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "c988fdfe59ed8186": {
+   "cfg": "vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@ststictr.hamiramkemax.ir:1081?security=reality&encryption=none&pbk=_UlBf1BRa52KM89xxvfbSHuLZWrvWuGuhvbsL3gx01A&headerType=none&fp=edge&type=tcp&sni=www12.gameservice-iramn3.com&sid=daa22fbb023ab4a2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1140,
+   "ts": 1791366361.3088095,
+   "ping": 1953,
+   "score": 75,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "36819da24a90332a": {
+   "cfg": "vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@g2de.velnix-services.ir:1080?security=reality&encryption=none&pbk=qmCIBP5Y6Pu7oxY--0sOXglNvHV9byxo2cyVsfAqUiI&headerType=none&fp=chrome&type=tcp&sni=www6.gameservice-iramn3.com&sid=307eb35dbf3a5385#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1141,
+   "ts": 1791366361.959695,
+   "ping": 3423,
+   "score": 56,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6516,13 +6548,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1791364544.045517
+  },
+  "wildflower.billiecore.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791366359.922424
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 66,
-  "healthy": 43,
-  "posted": 38,
+  "fetched": 69,
+  "healthy": 46,
+  "posted": 41,
   "removed": 0,
   "published_scores": [
    99,
@@ -6562,7 +6599,10 @@
    95,
    92,
    92,
-   90
+   90,
+   99,
+   75,
+   56
   ]
  }
 }
