@@ -581,9 +581,82 @@
   "3613739ef6fa7bda": 1791379845.250181,
   "5cda194261cbf891": 1791379845.250181,
   "30d78979831609eb": 1791379845.250181,
-  "43003217c3fdc6c9": 1791379845.250181
+  "43003217c3fdc6c9": 1791379845.250181,
+  "69d61348476532eb": 1791380729.012382,
+  "a0779d5a9e1c459c": 1791380729.012382,
+  "d67a8572e707cf4b": 1791380729.012382,
+  "06c8d52d91ad2e33": 1791380729.012382,
+  "1f276f8022fc2972": 1791380729.012382,
+  "f3a7e42ca1802a64": 1791380729.012382,
+  "24a1b0c0fdf8e2d1": 1791380729.012382,
+  "67f64beec44b0b2e": 1791380729.012382,
+  "f5fc1be923fd8bcc": 1791380729.012382,
+  "e2440700fd7df71e": 1791380729.012382
  },
  "queue": [
+  {
+   "id": "a0779d5a9e1c459c",
+   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@fin2.noirex.ir:35606?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=T3mwuNKqo8QuH0Vy6E50yClcQBSuh3scQJEl154D_j4&sid=8d241939#🔵@chillguy_vpn",
+   "ping": 867,
+   "best": 798,
+   "score": 89,
+   "stability": 100,
+   "ts": 1791380729.012382
+  },
+  {
+   "id": "24a1b0c0fdf8e2d1",
+   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@holl2.noirex.ir:31604?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=y9O2HH8-nVsNZmifTGVNZOuc3gknAl9Mngwmt_x6NhA&sid=37e47e4f#🔵@chillguy_vpn",
+   "ping": 1008,
+   "best": 989,
+   "score": 87,
+   "stability": 100,
+   "ts": 1791380729.012382
+  },
+  {
+   "id": "1f276f8022fc2972",
+   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@g2de.velnix-services.ir:1080?encryption=none&security=reality&type=tcp&headerType=none&host=www6.gameservice-iramn3.com&sni=www6.gameservice-iramn3.com&fp=chrome&pbk=qmCIBP5Y6Pu7oxY--0sOXglNvHV9byxo2cyVsfAqUiI&sid=307eb35dbf3a5385#🔵@chillguy_vpn",
+   "ping": 1030,
+   "best": 912,
+   "score": 87,
+   "stability": 100,
+   "ts": 1791380729.012382
+  },
+  {
+   "id": "f5fc1be923fd8bcc",
+   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@nether2.noirex.ir:32608?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=-f8Ix0XhjT2FMkoLtyXjUSD9YbxW-Xp3Ay8_cc7Bi30&sid=d2f4a8b1#🔵@chillguy_vpn",
+   "ping": 1043,
+   "best": 1000,
+   "score": 86,
+   "stability": 100,
+   "ts": 1791380729.012382
+  },
+  {
+   "id": "d67a8572e707cf4b",
+   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@ngnix.velnix-services.ir:1081?encryption=none&security=reality&type=tcp&headerType=none&host=www12.gameservice-iramn3.com&sni=www32.velnix-services.ir&fp=chrome&pbk=oBcBNqEqA-Iqc6VT25ZLWF0MhkZ1CSny7yWn_u1r-1Q&sid=fbc2f106a8cab706#🔵@chillguy_vpn",
+   "ping": 1194,
+   "best": 1040,
+   "score": 84,
+   "stability": 100,
+   "ts": 1791380729.012382
+  },
+  {
+   "id": "f3a7e42ca1802a64",
+   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@nether2.noirex.ir:34603?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=KWZ8_wctsfsW_vURZto-YOre2VlFM4HS_duhfUU5UxI&sid=0739285d#🔵@chillguy_vpn",
+   "ping": 1307,
+   "best": 1059,
+   "score": 83,
+   "stability": 100,
+   "ts": 1791380729.012382
+  },
+  {
+   "id": "e2440700fd7df71e",
+   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@holl2.noirex.ir:35609?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=q672MfTmMstkAIOSmKXUzbKWIzRwNZQ310AX3GfBKWM&sid=e5c9f307#🔵@chillguy_vpn",
+   "ping": 2000,
+   "best": 1670,
+   "score": 74,
+   "stability": 100,
+   "ts": 1791380729.012382
+  },
   {
    "id": "30d78979831609eb",
    "cfg": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?path=%2Ftyxyws%23telegram--V2ray_confiig&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#🔵@chillguy_vpn",
@@ -4511,6 +4584,36 @@
    "stability": 100,
    "country": "Bulgaria",
    "repost_count": 0
+  },
+  "69d61348476532eb": {
+   "cfg": "vless://24a14df3-1399-430a-9492-ea64390014d2@31.56.227.199:48962?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=5cBHUh3DzpgntcIz040hv_2zWOI34a3WC-_jcOqEiCE&security=reality&sid=ea412e5bdf94d4d3&sni=www.sony.com.bo&spx=%2F99e56590e28706a&support-x25519mlkem768=true&type=xhttp&x_padding_bytes=100-1000#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1183,
+   "ts": 1791380779.10787,
+   "ping": 677,
+   "score": 91,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
+  },
+  "67f64beec44b0b2e": {
+   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@fin2.noirex.ir:32605?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=IwknQbjID8Fmgr0K14Y9zaKnMNQ3pDiFRG5CMiKtY04&sid=c3f5c29b#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1184,
+   "ts": 1791380780.3652973,
+   "ping": 756,
+   "score": 90,
+   "stability": 100,
+   "country": "Iceland",
+   "repost_count": 0
+  },
+  "06c8d52d91ad2e33": {
+   "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@germ2.noirex.ir:32601?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=dTYp_psdvaNrJPDS5T_IK97HYIrV5XWVXfldku77hS8&sid=40bbd397#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1185,
+   "ts": 1791380781.5770357,
+   "ping": 764,
+   "score": 90,
+   "stability": 100,
+   "country": "Iceland",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7078,13 +7181,23 @@
    "cc": "LV",
    "name": "Latvia",
    "ts": 1791379881.7153833
+  },
+  "fin2.noirex.ir": {
+   "cc": "IS",
+   "name": "Iceland",
+   "ts": 1791380779.1079772
+  },
+  "germ2.noirex.ir": {
+   "cc": "IS",
+   "name": "Iceland",
+   "ts": 1791380780.365474
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 119,
-  "healthy": 86,
-  "posted": 79,
+  "fetched": 129,
+  "healthy": 96,
+  "posted": 82,
   "removed": 0,
   "published_scores": [
    99,
@@ -7165,7 +7278,10 @@
    72,
    95,
    94,
-   93
+   93,
+   91,
+   90,
+   90
   ]
  }
 }
