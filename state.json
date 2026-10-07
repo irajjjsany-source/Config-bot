@@ -591,7 +591,10 @@
   "208eaa7d97018554": 1791395135.0457442,
   "9e6bce7a21631969": 1791395135.0457442,
   "0c482fe6395e56be": 1791395135.0457442,
-  "ef98abc90ea1f480": 1791395905.7824159
+  "ef98abc90ea1f480": 1791395905.7824159,
+  "7ca694be07887d1c": 1791397423.9520185,
+  "e010efa436bc9934": 1791397423.9520185,
+  "79f6a5b4a52dc346": 1791397423.9520185
  },
  "queue": [],
  "posted": {
@@ -4861,6 +4864,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "7ca694be07887d1c": {
+   "cfg": "vless://833a6970-2e7e-4ac6-ac6a-51cb04e83ec4@f.superturk.xyz:2053?security=reality&encryption=none&pbk=AC-Ard6OwDHHwHvOEtSWF37mAzNwFhRmrsJD1W5-uBY&headerType=none&fp=chrome&spx=%2Fbc5a40676a4a1af&type=tcp&sni=telewebion.ir&sid=9fa7b1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1224,
+   "ts": 1791397458.4777021,
+   "ping": 1125,
+   "score": 85,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7548,13 +7561,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791395159.6577365
+  },
+  "f.superturk.xyz": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791397457.843435
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 178,
-  "healthy": 132,
-  "posted": 114,
+  "fetched": 181,
+  "healthy": 133,
+  "posted": 115,
   "removed": 0,
   "published_scores": [
    99,
@@ -7670,7 +7688,8 @@
    94,
    93,
    85,
-   94
+   94,
+   85
   ]
  }
 }
