@@ -600,26 +600,7 @@
   "ea43e91832c57777": 1791398060.8718774,
   "c79d4bdab39e1b80": 1791398060.8718774
  },
- "queue": [
-  {
-   "id": "ea43e91832c57777",
-   "cfg": "vless://f774f037-6320-42e3-a97b-6d4a1f018dd5@2.28.142.170:443?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.Y0-j5e-CpehUKzhEeat1dTYevroKyHV4g9HML3ujmlQ&pbk=IqFTx4k5VQydmffvavaOHDXBtdgDxX26A6NtsVvDfhw&host=germanytest.tulnaro.ir&type=xhttp&sni=germanytest.tulnaro.ir&sid=d485c3d5248d6b51#🔵@chillguy_vpn",
-   "ping": 1649,
-   "best": 1393,
-   "score": 79,
-   "stability": 100,
-   "ts": 1791398060.8718774
-  },
-  {
-   "id": "43132d52fdb98dfb",
-   "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@177.1.186.44:443?security=reality&encryption=none&pbk=4hvjCaGIMlFeWxMYoAWTNHQOaZkGvGQREOjB3Unn7iE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mcde.67resserv67.info&sid=29455a3a790acbd0#🔵@chillguy_vpn",
-   "ping": 3396,
-   "best": 2299,
-   "score": 56,
-   "stability": 100,
-   "ts": 1791398060.8718774
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4927,6 +4908,16 @@
    "stability": 100,
    "country": "Sweden",
    "repost_count": 0
+  },
+  "43132d52fdb98dfb": {
+   "cfg": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@177.1.186.44:443?security=reality&encryption=none&pbk=4hvjCaGIMlFeWxMYoAWTNHQOaZkGvGQREOjB3Unn7iE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mcde.67resserv67.info&sid=29455a3a790acbd0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1228,
+   "ts": 1791398768.6146502,
+   "ping": 1831,
+   "score": 76,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7640,7 +7631,7 @@
   "date": "2026-10-07",
   "fetched": 187,
   "healthy": 138,
-  "posted": 118,
+  "posted": 119,
   "removed": 0,
   "published_scores": [
    99,
@@ -7760,7 +7751,8 @@
    85,
    99,
    94,
-   86
+   86,
+   76
   ]
  }
 }
