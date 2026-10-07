@@ -1,6 +1,5 @@
 {
  "seen": {
-  "6874c2551380e1a5": 1791126931.0902705,
   "daf839286eeba1ab": 1791128732.6299033,
   "c0d7316af7ad564c": 1791129650.483479,
   "cdf40ab795735f18": 1791129650.483479,
@@ -603,7 +602,8 @@
   "c64e34131fcea89e": 1791385113.392531,
   "4569c48575411787": 1791385113.392531,
   "b57d83a059a4295b": 1791385113.392531,
-  "5f8a379ebecb0dcb": 1791385113.392531
+  "5f8a379ebecb0dcb": 1791385113.392531,
+  "e4d9488850c00e6d": 1791387048.6931067
  },
  "queue": [],
  "posted": {
@@ -4743,6 +4743,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "e4d9488850c00e6d": {
+   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv.nztvpn.com&fp=firefox&pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&sid=0da7e14db353e7d0&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1211,
+   "ts": 1791387053.1114585,
+   "ping": 407,
+   "score": 95,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7385,13 +7395,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1791385133.7664928
+  },
+  "216.173.71.43": {
+   "cc": "LV",
+   "name": "Latvia",
+   "ts": 1791387052.548947
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 156,
-  "healthy": 118,
-  "posted": 101,
+  "fetched": 157,
+  "healthy": 119,
+  "posted": 102,
   "removed": 0,
   "published_scores": [
    99,
@@ -7494,7 +7509,8 @@
    100,
    91,
    82,
-   81
+   81,
+   95
   ]
  }
 }
