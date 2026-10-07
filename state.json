@@ -560,9 +560,24 @@
   "c2100021ff3e6962": 1791355533.6086,
   "df4f08bfddca67b4": 1791355533.6086,
   "0c323dca713eb772": 1791355533.6086,
-  "bb518b3077881d75": 1791356456.5484138
+  "bb518b3077881d75": 1791356456.5484138,
+  "b03f9481dd34e9bc": 1791357277.5572572,
+  "ff1869315fdd77e0": 1791357277.5572572,
+  "65e0a1c279890ae7": 1791357277.5572572,
+  "67f4b779d83399ac": 1791357277.5572572,
+  "e0665f61c882c566": 1791357277.5572572
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "e0665f61c882c566",
+   "cfg": "vmess://eyJhZGQiOiAiZnJqc3NqLnBvdnJhay5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYWY1ZTM0MjItMzM3ZS00M2UzLTg4Y2EtMjY4N2ViMzc5ODY2IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyNDMzNiIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
+   "ping": 1452,
+   "best": 815,
+   "score": 81,
+   "stability": 100,
+   "ts": 1791357277.5572572
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3910,6 +3925,36 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "65e0a1c279890ae7": {
+   "cfg": "vmess://eyJhZGQiOiAiZmlubGEyLnBvdnJhay5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYWY1ZTM0MjItMzM3ZS00M2UzLTg4Y2EtMjY4N2ViMzc5ODY2IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1ODE3OSIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
+   "msg": 1123,
+   "ts": 1791357313.5111935,
+   "ping": 393,
+   "score": 95,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
+  },
+  "ff1869315fdd77e0": {
+   "cfg": "vmess://eyJhZGQiOiAiZmlzZ3d3LnBvdnJhay5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYWY1ZTM0MjItMzM3ZS00M2UzLTg4Y2EtMjY4N2ViMzc5ODY2IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1ODE3OSIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
+   "msg": 1124,
+   "ts": 1791357314.4731956,
+   "ping": 582,
+   "score": 92,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
+  },
+  "67f4b779d83399ac": {
+   "cfg": "vmess://eyJhZGQiOiAiZmVyYTMucG92cmFrLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhZjVlMzQyMi0zMzdlLTQzZTMtODhjYS0yNjg3ZWIzNzk4NjYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjY1MDc1IiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
+   "msg": 1125,
+   "ts": 1791357315.4317498,
+   "ping": 878,
+   "score": 89,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6302,13 +6347,23 @@
    "cc": "SE",
    "name": "Sweden",
    "ts": 1791355561.9562826
+  },
+  "fisgww.povrak.ir": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791357313.511273
+  },
+  "fera3.povrak.ir": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791357314.473273
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 44,
-  "healthy": 26,
-  "posted": 22,
+  "fetched": 49,
+  "healthy": 30,
+  "posted": 25,
   "removed": 0,
   "published_scores": [
    99,
@@ -6332,7 +6387,10 @@
    75,
    95,
    94,
-   93
+   93,
+   95,
+   92,
+   89
   ]
  }
 }
