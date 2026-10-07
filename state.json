@@ -606,33 +606,6 @@
  },
  "queue": [
   {
-   "id": "fa18d5720d4f725a",
-   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@78.40.194.233:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn2.surfweb.club#🔵@chillguy_vpn",
-   "ping": 425,
-   "best": 422,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791383446.2008162
-  },
-  {
-   "id": "4f525ad374770ba0",
-   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@64.176.73.20:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=storage.surfweb.club#🔵@chillguy_vpn",
-   "ping": 471,
-   "best": 471,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791383446.2008162
-  },
-  {
-   "id": "b52a814309b6eb84",
-   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@154.62.226.101:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.surfweb.club#🔵@chillguy_vpn",
-   "ping": 475,
-   "best": 468,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791383446.2008162
-  },
-  {
    "id": "aadfc3e842732b4e",
    "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@38.180.120.254:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn1.surfweb.club#🔵@chillguy_vpn",
    "ping": 479,
@@ -4742,6 +4715,36 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "fa18d5720d4f725a": {
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@78.40.194.233:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn2.surfweb.club#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1201,
+   "ts": 1791383772.2717328,
+   "ping": 412,
+   "score": 95,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "4f525ad374770ba0": {
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@64.176.73.20:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=storage.surfweb.club#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1202,
+   "ts": 1791383775.4515076,
+   "ping": 409,
+   "score": 95,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
+  },
+  "b52a814309b6eb84": {
+   "cfg": "vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@154.62.226.101:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.surfweb.club#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1203,
+   "ts": 1791383780.0797057,
+   "ping": 891,
+   "score": 88,
+   "stability": 100,
+   "country": "Spain",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7339,13 +7342,28 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791383498.3095026
+  },
+  "78.40.194.233": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791383771.5931585
+  },
+  "64.176.73.20": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1791383774.8267627
+  },
+  "154.62.226.101": {
+   "cc": "ES",
+   "name": "Spain",
+   "ts": 1791383779.4523556
   }
  },
  "stats": {
   "date": "2026-10-07",
   "fetched": 152,
   "healthy": 116,
-  "posted": 91,
+  "posted": 94,
   "removed": 0,
   "published_scores": [
    99,
@@ -7438,7 +7456,10 @@
    93,
    99,
    97,
-   95
+   95,
+   95,
+   95,
+   88
   ]
  }
 }
