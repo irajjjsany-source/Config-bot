@@ -1,7 +1,5 @@
 {
  "seen": {
-  "3452f2cbf65c9b17": 1791150333.567347,
-  "b17e795168341202": 1791150841.933334,
   "4c7d13d3338d91c5": 1791152131.7649927,
   "e364ad1d4f4b90e6": 1791154847.3503907,
   "074afa960d48f488": 1791154847.3503907,
@@ -579,7 +577,8 @@
   "80400af66ab44bd1": 1791408648.6377056,
   "2755d2b27cc55421": 1791408648.6377056,
   "413d4bc11d8456e3": 1791408648.6377056,
-  "56f21f07f1cd6a4e": 1791409480.4778557
+  "56f21f07f1cd6a4e": 1791409480.4778557,
+  "82566ecfb9b30113": 1791410366.211808
  },
  "queue": [],
  "posted": {
@@ -5169,6 +5168,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "82566ecfb9b30113": {
+   "cfg": "vless://59ba16fb-d83e-4a1a-9c7c-6c2764a98284@p2tun0.greewebservices.ir:28820?encryption=none&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1256,
+   "ts": 1791410383.614207,
+   "ping": 4281,
+   "score": 44,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7935,9 +7944,9 @@
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 226,
-  "healthy": 166,
-  "posted": 146,
+  "fetched": 227,
+  "healthy": 167,
+  "posted": 147,
   "removed": 0,
   "published_scores": [
    99,
@@ -8085,7 +8094,8 @@
    94,
    94,
    94,
-   95
+   95,
+   44
   ]
  }
 }
