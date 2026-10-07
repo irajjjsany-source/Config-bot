@@ -588,7 +588,11 @@
   "5f8a379ebecb0dcb": 1791385113.392531,
   "e4d9488850c00e6d": 1791387048.6931067,
   "ca353f60b667e37a": 1791388859.4789045,
-  "2e4a1e8b39f0bbf8": 1791389980.8872464
+  "2e4a1e8b39f0bbf8": 1791389980.8872464,
+  "4e7047b089569690": 1791391533.6416936,
+  "84a97f524b77ac79": 1791391533.6416936,
+  "80eda9f8fad97f73": 1791391533.6416936,
+  "f33352fd0f675617": 1791391533.6416936
  },
  "queue": [],
  "posted": {
@@ -4738,6 +4742,26 @@
    "stability": 100,
    "country": "Latvia",
    "repost_count": 0
+  },
+  "f33352fd0f675617": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1212,
+   "ts": 1791391554.7728803,
+   "ping": 108,
+   "score": 99,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "80eda9f8fad97f73": {
+   "cfg": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@163.245.52.91:443?security=reality&encryption=none&pbk=g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-ee1.cloud-cdn.xyz&sid=ad6e08b22389abd2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1213,
+   "ts": 1791391555.2591946,
+   "ping": 2877,
+   "score": 63,
+   "stability": 100,
+   "country": "Estonia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7385,13 +7409,18 @@
    "cc": "LV",
    "name": "Latvia",
    "ts": 1791387052.548947
+  },
+  "169.40.42.232": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791391554.1959834
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 159,
-  "healthy": 119,
-  "posted": 102,
+  "fetched": 163,
+  "healthy": 121,
+  "posted": 104,
   "removed": 0,
   "published_scores": [
    99,
@@ -7495,7 +7524,9 @@
    91,
    82,
    81,
-   95
+   95,
+   99,
+   63
   ]
  }
 }
