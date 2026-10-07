@@ -566,9 +566,25 @@
   "438ff9881bc74b03": 1791405934.7301211,
   "7b373d016d0906a6": 1791405934.7301211,
   "bb1656431b8526e7": 1791405934.7301211,
-  "70c550c71b35f917": 1791405934.7301211
+  "70c550c71b35f917": 1791405934.7301211,
+  "5a1e75896578c89d": 1791407734.1685965,
+  "03d329225332cb05": 1791407734.1685965,
+  "9e60052629de8c61": 1791407734.1685965,
+  "d92ff86d0d6f625d": 1791407734.1685965,
+  "db25e3ca1de385e9": 1791407734.1685965,
+  "f8c2de2d4ca64650": 1791407734.1685965
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "9e60052629de8c61",
+   "cfg": "vless://6729386e-3481-41e8-a536-6cf5e17198ec@fvn.mobileemdad.top:80?security=none&encryption=mlkem768x25519plus.native.0rtt.AOpibOJqKdDZ8KwqwR839rg1ppbbJUqKrUJhR9771hs&headerType=none&type=tcp#🔵@chillguy_vpn",
+   "ping": 2111,
+   "best": 517,
+   "score": 73,
+   "stability": 100,
+   "ts": 1791407734.1685965
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -5026,6 +5042,36 @@
    "stability": 100,
    "country": "Uzbekistan",
    "repost_count": 0
+  },
+  "db25e3ca1de385e9": {
+   "cfg": "vless://6729386e-3481-41e8-a536-6cf5e17198ec@usa4.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=stripe.com&sid=f88610dd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1243,
+   "ts": 1791407758.240083,
+   "ping": 163,
+   "score": 98,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "f8c2de2d4ca64650": {
+   "cfg": "vless://6729386e-3481-41e8-a536-6cf5e17198ec@ukm.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=testspeed-foreign.tci.ir&sid=e8f4426268c05621#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1244,
+   "ts": 1791407758.8557725,
+   "ping": 522,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "d92ff86d0d6f625d": {
+   "cfg": "vless://6729386e-3481-41e8-a536-6cf5e17198ec@trn35.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=070a23aed243#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1245,
+   "ts": 1791407759.4905813,
+   "ping": 524,
+   "score": 93,
+   "stability": 100,
+   "country": "Türkiye",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7768,13 +7814,28 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791405960.9560685
+  },
+  "usa4.mobileemdad.top": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791407757.6104527
+  },
+  "ukm.mobileemdad.top": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791407758.2401845
+  },
+  "trn35.mobileemdad.top": {
+   "cc": "TR",
+   "name": "Türkiye",
+   "ts": 1791407758.8558748
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 211,
-  "healthy": 153,
-  "posted": 133,
+  "fetched": 217,
+  "healthy": 157,
+  "posted": 136,
   "removed": 0,
   "published_scores": [
    99,
@@ -7909,7 +7970,10 @@
    71,
    91,
    97,
-   96
+   96,
+   98,
+   93,
+   93
   ]
  }
 }
