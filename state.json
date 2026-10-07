@@ -1,9 +1,5 @@
 {
  "seen": {
-  "66e84fad58f36cfb": 1791143168.4470809,
-  "e18d6dc563708b15": 1791143168.4470809,
-  "c032ea3dfc3f93d8": 1791143168.4470809,
-  "f6f70d3d7ca12bc3": 1791143168.4470809,
   "c6df58f3c4a06d3c": 1791144052.5154784,
   "a9f2c87c4a832630": 1791144052.5154784,
   "61792af084fde48a": 1791144052.5154784,
@@ -571,7 +567,12 @@
   "29a7080d7a9e3215": 1791401447.340956,
   "4011c0b84350a343": 1791401447.340956,
   "5bd206094830241d": 1791401447.340956,
-  "9b4078dbc4503268": 1791401447.340956
+  "9b4078dbc4503268": 1791401447.340956,
+  "e05db478bf622977": 1791402948.6919577,
+  "f30f28d490125b2e": 1791402948.6919577,
+  "cc0396430d1066ec": 1791402948.6919577,
+  "5db0527bcd0b5836": 1791402948.6919577,
+  "b192688693df060e": 1791402948.6919577
  },
  "queue": [],
  "posted": {
@@ -4971,6 +4972,36 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "e05db478bf622977": {
+   "cfg": "vless://e4ed5619-5e91-442a-92f1-755a7f6331b8@psf-2.weedly.top:80?encryption=none&type=ws&path=%2F&host=beat.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1237,
+   "ts": 1791402973.6329222,
+   "ping": 626,
+   "score": 92,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "5db0527bcd0b5836": {
+   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1238,
+   "ts": 1791402974.3837101,
+   "ping": 819,
+   "score": 89,
+   "stability": 100,
+   "country": "Malaysia",
+   "repost_count": 0
+  },
+  "b192688693df060e": {
+   "cfg": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@45.195.69.230:80?path=%2Fplatform103&security=none&encryption=none&host=platform103.halalkhor.info&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1239,
+   "ts": 1791402975.1369247,
+   "ping": 2235,
+   "score": 71,
+   "stability": 100,
+   "country": "Malaysia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7698,13 +7729,23 @@
    "cc": "ES",
    "name": "Spain",
    "ts": 1791400436.7302084
+  },
+  "216.173.67.59": {
+   "cc": "MY",
+   "name": "Malaysia",
+   "ts": 1791402973.6330414
+  },
+  "45.195.69.230": {
+   "cc": "MY",
+   "name": "Malaysia",
+   "ts": 1791402974.3838158
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 201,
-  "healthy": 147,
-  "posted": 127,
+  "fetched": 206,
+  "healthy": 150,
+  "posted": 130,
   "removed": 0,
   "published_scores": [
    99,
@@ -7833,7 +7874,10 @@
    94,
    93,
    92,
-   56
+   56,
+   92,
+   89,
+   71
   ]
  }
 }
