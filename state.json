@@ -1,13 +1,5 @@
 {
  "seen": {
-  "ead88d86711bae63": 1791121534.3707705,
-  "52c8d2b30c9eb8af": 1791121534.3707705,
-  "4eaec73de9ed568a": 1791121534.3707705,
-  "ba44e0080d0caa1f": 1791121534.3707705,
-  "a5c581b374ce74e6": 1791122372.8389482,
-  "5d214f05afe24d75": 1791122372.8389482,
-  "c7849654e0ff7b61": 1791122372.8389482,
-  "461338a8cd153680": 1791122451.6904995,
   "7dc69877dbaf6ff9": 1791124241.063553,
   "56845fd36d338c5e": 1791124241.063553,
   "66c490aa66d10d66": 1791124241.063553,
@@ -591,9 +583,23 @@
   "24a1b0c0fdf8e2d1": 1791380729.012382,
   "67f64beec44b0b2e": 1791380729.012382,
   "f5fc1be923fd8bcc": 1791380729.012382,
-  "e2440700fd7df71e": 1791380729.012382
+  "e2440700fd7df71e": 1791380729.012382,
+  "a34bba7fa6ce4649": 1791381656.1167374,
+  "cc571b640580cc70": 1791381656.1167374,
+  "ef1901abfbd3d3b0": 1791381656.1167374,
+  "8e960465a0c6dc70": 1791381656.1167374,
+  "9eb7a69fd657aaba": 1791381656.1167374
  },
  "queue": [
+  {
+   "id": "ef1901abfbd3d3b0",
+   "cfg": "vless://a82ba292-5a68-4f01-94df-fcb9c0902525@dns7.m3hrzd.ir:8030?encryption=none&security=reality&sni=race.egistration.ir&fp=edge&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&sid=38dda82955d5791e&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 665,
+   "best": 650,
+   "score": 91,
+   "stability": 100,
+   "ts": 1791381656.1167374
+  },
   {
    "id": "a0779d5a9e1c459c",
    "cfg": "vless://dbc94db3-5849-45b9-b047-ba6ff6b23831@fin2.noirex.ir:35606?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=T3mwuNKqo8QuH0Vy6E50yClcQBSuh3scQJEl154D_j4&sid=8d241939#🔵@chillguy_vpn",
@@ -638,6 +644,15 @@
    "score": 84,
    "stability": 100,
    "ts": 1791380729.012382
+  },
+  {
+   "id": "8e960465a0c6dc70",
+   "cfg": "vless://98b3d53b-9f34-4cf1-ba87-3be5db6d4c5a@185.207.1.121:10470?security=reality&encryption=none&pbk=90jWc7mGJ9NeEI0HpwQ844SjP0W9_MP5bNX6cDOdFnM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.max.ru&sid=53c6ae#🔵@chillguy_vpn",
+   "ping": 1257,
+   "best": 812,
+   "score": 84,
+   "stability": 100,
+   "ts": 1791381656.1167374
   },
   {
    "id": "f3a7e42ca1802a64",
@@ -4614,6 +4629,36 @@
    "stability": 100,
    "country": "Iceland",
    "repost_count": 0
+  },
+  "9eb7a69fd657aaba": {
+   "cfg": "vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=edge-uk2.mystatic-cdn.ru&fp=safari&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&sid=ee169e93d3c277a1&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1189,
+   "ts": 1791381676.6302106,
+   "ping": 357,
+   "score": 95,
+   "stability": 100,
+   "country": "Uzbekistan",
+   "repost_count": 0
+  },
+  "cc571b640580cc70": {
+   "cfg": "vless://a82ba292-5a68-4f01-94df-fcb9c0902525@dns5.m3hrzd.ir:8030?encryption=none&security=reality&sni=race.egistration.ir&fp=safari&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&sid=38dda82955d5791e&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1190,
+   "ts": 1791381677.1938896,
+   "ping": 550,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "a34bba7fa6ce4649": {
+   "cfg": "vless://24a14df3-1399-430a-9492-ea64390014d2@31.56.227.199:48962?encryption=none&security=reality&sni=www.sony.fi&fp=chrome&pbk=5cBHUh3DzpgntcIz040hv_2zWOI34a3WC-_jcOqEiCE&sid=26&spx=%2F99e56590e28706a&type=xhttp&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1191,
+   "ts": 1791381677.7350972,
+   "ping": 655,
+   "score": 91,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7195,9 +7240,9 @@
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 129,
-  "healthy": 96,
-  "posted": 82,
+  "fetched": 134,
+  "healthy": 101,
+  "posted": 85,
   "removed": 0,
   "published_scores": [
    99,
@@ -7281,7 +7326,10 @@
    93,
    91,
    90,
-   90
+   90,
+   95,
+   93,
+   91
   ]
  }
 }
