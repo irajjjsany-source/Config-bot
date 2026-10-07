@@ -564,7 +564,11 @@
   "cc0396430d1066ec": 1791402948.6919577,
   "5db0527bcd0b5836": 1791402948.6919577,
   "b192688693df060e": 1791402948.6919577,
-  "ff9987a0cd632688": 1791404064.9061005
+  "ff9987a0cd632688": 1791404064.9061005,
+  "438ff9881bc74b03": 1791405934.7301211,
+  "7b373d016d0906a6": 1791405934.7301211,
+  "bb1656431b8526e7": 1791405934.7301211,
+  "70c550c71b35f917": 1791405934.7301211
  },
  "queue": [],
  "posted": {
@@ -5004,6 +5008,26 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "70c550c71b35f917": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1241,
+   "ts": 1791405961.555384,
+   "ping": 238,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "438ff9881bc74b03": {
+   "cfg": "vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?security=reality&encryption=none&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=edge-uk2.mystatic-cdn.ru&sid=ee169e93d3c277a1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1242,
+   "ts": 1791405962.0556777,
+   "ping": 309,
+   "score": 96,
+   "stability": 100,
+   "country": "Uzbekistan",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -7741,13 +7765,18 @@
    "cc": "MY",
    "name": "Malaysia",
    "ts": 1791402974.3838158
+  },
+  "169.40.42.231": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791405960.9560685
   }
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 207,
-  "healthy": 151,
-  "posted": 131,
+  "fetched": 211,
+  "healthy": 153,
+  "posted": 133,
   "removed": 0,
   "published_scores": [
    99,
@@ -7880,7 +7909,9 @@
    92,
    89,
    71,
-   91
+   91,
+   97,
+   96
   ]
  }
 }
