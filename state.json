@@ -1,7 +1,5 @@
 {
  "seen": {
-  "0246853da738c1b7": 1791111656.9670312,
-  "c12821b2f5d03e59": 1791111656.9670312,
   "6248fdaec5e01df7": 1791112536.5474885,
   "fc70b75317377118": 1791112536.5474885,
   "7fbe05557d7bce46": 1791113479.7173922,
@@ -562,7 +560,8 @@
   "8f1e28687a165d16": 1791368133.65611,
   "2eedc377b9508287": 1791368133.65611,
   "04d013bec0a5c098": 1791370853.8447258,
-  "4a56bf7b2cde552d": 1791370853.8447258
+  "4a56bf7b2cde552d": 1791370853.8447258,
+  "22e347e85f4adcff": 1791371735.2713199
  },
  "queue": [],
  "posted": {
@@ -4202,6 +4201,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "22e347e85f4adcff": {
+   "cfg": "vless://8fc806fa-350b-4548-937a-2bf35f7fe7eb@91.208.92.210:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=uk1.sky-vault.top&fp=qq&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&sid=ae64c9b46bff174a&allowInsecure=1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1154,
+   "ts": 1791371740.4385061,
+   "ping": 578,
+   "score": 92,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6688,9 +6697,9 @@
  },
  "stats": {
   "date": "2026-10-07",
-  "fetched": 82,
-  "healthy": 56,
-  "posted": 51,
+  "fetched": 83,
+  "healthy": 57,
+  "posted": 52,
   "removed": 0,
   "published_scores": [
    99,
@@ -6743,7 +6752,8 @@
    92,
    83,
    96,
-   75
+   75,
+   92
   ]
  }
 }
