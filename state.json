@@ -1,6 +1,5 @@
 {
  "seen": {
-  "a7496bf6913a15b1": 1791216235.6967354,
   "113994147bd5c784": 1791217649.7533004,
   "31cf171d9a11556f": 1791217649.7533004,
   "5d3ce5e0752c169a": 1791217649.7533004,
@@ -612,7 +611,9 @@
   "166893efeda44bd8": 1791473441.127979,
   "4cb3afc2fd1b93ac": 1791473441.127979,
   "b55f7d4573135490": 1791473441.127979,
-  "63d9de3a5fa8a609": 1791473441.127979
+  "63d9de3a5fa8a609": 1791473441.127979,
+  "c026b227bc8eaed1": 1791476131.3879092,
+  "250130bebe454913": 1791476131.3879092
  },
  "queue": [],
  "posted": {
@@ -6252,6 +6253,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "c026b227bc8eaed1": {
+   "cfg": "vless://83e7e926-c0b2-4bd4-8a71-bfc7a5bb27e6@dns8.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1367,
+   "ts": 1791476138.7267454,
+   "ping": 660,
+   "score": 91,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9268,9 +9279,9 @@
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 147,
-  "healthy": 113,
-  "posted": 102,
+  "fetched": 149,
+  "healthy": 114,
+  "posted": 103,
   "removed": 0,
   "published_scores": [
    90,
@@ -9374,7 +9385,8 @@
    68,
    93,
    90,
-   64
+   64,
+   91
   ]
  }
 }
