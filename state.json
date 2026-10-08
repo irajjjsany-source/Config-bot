@@ -1,10 +1,5 @@
 {
  "seen": {
-  "83c3f45a0eadb8ad": 1791181952.3689485,
-  "d33557250b27c62f": 1791182732.6669712,
-  "af388bec29f64795": 1791182732.6669712,
-  "79fb82dac86eb9e8": 1791182732.6669712,
-  "18649dca3d01f56a": 1791182732.6669712,
   "b22a38b602d1be17": 1791183651.4218016,
   "2e754691f9f028cd": 1791184532.904944,
   "1901a98a25afc9eb": 1791184532.904944,
@@ -592,7 +587,10 @@
   "c9fdffed6dd3a7ff": 1791440133.4233775,
   "b7c8549a8b5e4afe": 1791440133.4233775,
   "ed45daf12ed68b05": 1791440928.4425359,
-  "d805eff35ce95af5": 1791440928.4425359
+  "d805eff35ce95af5": 1791440928.4425359,
+  "321630af0c680dbd": 1791441933.0800974,
+  "b3b216a20ead6230": 1791441933.0800974,
+  "3157b4998eb3c6a4": 1791441933.0800974
  },
  "queue": [],
  "posted": {
@@ -5512,6 +5510,36 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "321630af0c680dbd": {
+   "cfg": "vless://8dd8af16-cae0-4431-b04c-a637b4d7645b@104.16.107.139:8880?&packet-encoding=xudp&type=ws&headerType=none&host=wild-frog-c709.403-6ff.workers.dev&path=%2Fpyip%3Dproxyip.us.cmliussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1294,
+   "ts": 1791441939.9287574,
+   "ping": 77,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "b3b216a20ead6230": {
+   "cfg": "vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@172.64.153.11:8880?&packet-encoding=xudp&type=ws&headerType=none&host=weathered-union-5358.101-262.workers.dev&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1295,
+   "ts": 1791441940.4816434,
+   "ping": 82,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "3157b4998eb3c6a4": {
+   "cfg": "vless://78b73cc4-8c3c-40ce-bb74-d5dcd3277c67@codecanyon.net:8880?&packet-encoding=xudp&sni=codecanyon.net&type=ws&headerType=none&host=white-hill-f907.23-b68.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1296,
+   "ts": 1791441941.084199,
+   "ping": 163,
+   "score": 98,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8374,13 +8402,18 @@
    "cc": "SG",
    "name": "Singapore",
    "ts": 1791440937.271821
+  },
+  "codecanyon.net": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791441940.481757
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 43,
-  "healthy": 38,
-  "posted": 30,
+  "fetched": 46,
+  "healthy": 41,
+  "posted": 33,
   "removed": 0,
   "published_scores": [
    90,
@@ -8412,7 +8445,10 @@
    92,
    99,
    99,
-   91
+   91,
+   99,
+   99,
+   98
   ]
  }
 }
