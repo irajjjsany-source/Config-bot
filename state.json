@@ -1,7 +1,5 @@
 {
  "seen": {
-  "fcde7957f55bef7e": 1791212143.9653146,
-  "410d2ea4abf64429": 1791212143.9653146,
   "0b0dfcbff25daf85": 1791212453.1872506,
   "affd1416af1aedb7": 1791212833.9085336,
   "a3767b869178eedb": 1791212833.9085336,
@@ -617,7 +615,11 @@
   "9bc64840fddd0530": 1791469460.766105,
   "72a9cf5056cf79e9": 1791469460.766105,
   "dcaf33f7d419f774": 1791469460.766105,
-  "9f518cdf7ef5f510": 1791469460.766105
+  "9f518cdf7ef5f510": 1791469460.766105,
+  "620abfc34a13687c": 1791471648.517328,
+  "0d5da09baa513ece": 1791471648.517328,
+  "5fa3c8aebf4af0db": 1791471648.517328,
+  "e39b5562cbd7e962": 1791471648.517328
  },
  "queue": [],
  "posted": {
@@ -6207,6 +6209,26 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "0d5da09baa513ece": {
+   "cfg": "vless://12313554-561d-431d-a550-6f4e96c57de1@efa11.lumariqis.com:443?security=reality&encryption=none&pbk=QHh_UJffm-Oe4QtuSljlmCBlgCPidsAVY-DGfK9DoCg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=efa11.lumariqis.com&sid=9cc9137a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1362,
+   "ts": 1791471690.4848652,
+   "ping": 341,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "620abfc34a13687c": {
+   "cfg": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@nl-2.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-2.srv.dvzh.net&sid=e0ccc8c2f487d913#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1363,
+   "ts": 1791471691.0721495,
+   "ping": 2486,
+   "score": 68,
+   "stability": 100,
+   "country": "Netherlands",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9194,13 +9216,23 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791469477.9073448
+  },
+  "efa11.lumariqis.com": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791471689.5666468
+  },
+  "nl-2.srv.dvzh.net": {
+   "cc": "NL",
+   "name": "Netherlands",
+   "ts": 1791471690.4849656
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 133,
-  "healthy": 108,
-  "posted": 97,
+  "fetched": 137,
+  "healthy": 110,
+  "posted": 99,
   "removed": 0,
   "published_scores": [
    90,
@@ -9299,7 +9331,9 @@
    84,
    95,
    93,
-   89
+   89,
+   96,
+   68
   ]
  }
 }
