@@ -592,33 +592,6 @@
  },
  "queue": [
   {
-   "id": "6699fa85a73b2e4e",
-   "cfg": "vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiNjUuMTA5LjE4Ni41NSIsICJwb3J0IjogIjgwODAiLCAiaWQiOiAiOTU4ZGY3ZmMtNjg2MS00YzkxLTg1MzItNTY5NWZmNGJkNjlhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJhbHBuIjogIiJ9",
-   "ping": 245,
-   "best": 240,
-   "score": 97,
-   "stability": 100,
-   "ts": 1791431130.3818083
-  },
-  {
-   "id": "2bd577d87f9a61d7",
-   "cfg": "vless://9ff17e23-c6ed-4472-90e3-c85c74e88478@31.56.18.108:443?security=reality&encryption=none&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1akdeta.serveroff.net&sid=832d9228ddd3#🔵@chillguy_vpn",
-   "ping": 291,
-   "best": 288,
-   "score": 96,
-   "stability": 100,
-   "ts": 1791431130.3818083
-  },
-  {
-   "id": "38301b0e6c0cb998",
-   "cfg": "vless://9ff17e23-c6ed-4472-90e3-c85c74e88478@31.56.18.107:443?security=reality&encryption=none&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=akdeta.serveroff.net&sid=832d9228ddd3#🔵@chillguy_vpn",
-   "ping": 293,
-   "best": 281,
-   "score": 96,
-   "stability": 100,
-   "ts": 1791431130.3818083
-  },
-  {
    "id": "ce8d487217f844f8",
    "cfg": "vless://2879a248-579e-46e4-a210-8fda76958bec@c45d.noirex.ir:34603?encryption=none&security=reality&type=tcp&headerType=none&host=www3.donyumvps.tr&sni=www3.donyumvps.tr&fp=chrome&pbk=KWZ8_wctsfsW_vURZto-YOre2VlFM4HS_duhfUU5UxI&sid=0739285d#🔵@chillguy_vpn",
    "ping": 335,
@@ -5357,6 +5330,36 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "6699fa85a73b2e4e": {
+   "cfg": "vmess://eyJ2IjogIjIiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAiYWRkIjogIjY1LjEwOS4xODYuNTUiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogIjk1OGRmN2ZjLTY4NjEtNGM5MS04NTMyLTU2OTVmZjRiZDY5YSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiYWxwbiI6ICIifQ==",
+   "msg": 1268,
+   "ts": 1791432090.5394514,
+   "ping": 307,
+   "score": 96,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
+  },
+  "2bd577d87f9a61d7": {
+   "cfg": "vless://9ff17e23-c6ed-4472-90e3-c85c74e88478@31.56.18.108:443?security=reality&encryption=none&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1akdeta.serveroff.net&sid=832d9228ddd3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1269,
+   "ts": 1791432093.7148578,
+   "ping": 390,
+   "score": 95,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "38301b0e6c0cb998": {
+   "cfg": "vless://9ff17e23-c6ed-4472-90e3-c85c74e88478@31.56.18.107:443?security=reality&encryption=none&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=akdeta.serveroff.net&sid=832d9228ddd3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1270,
+   "ts": 1791432096.854816,
+   "ping": 402,
+   "score": 95,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8144,19 +8147,37 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791431179.538452
+  },
+  "65.109.186.55": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791432089.9044461
+  },
+  "31.56.18.108": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791432093.0373275
+  },
+  "31.56.18.107": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791432096.2493405
   }
  },
  "stats": {
   "date": "2026-10-08",
   "fetched": 19,
   "healthy": 16,
-  "posted": 4,
+  "posted": 7,
   "removed": 0,
   "published_scores": [
    90,
    100,
    100,
-   99
+   99,
+   96,
+   95,
+   95
   ]
  }
 }
