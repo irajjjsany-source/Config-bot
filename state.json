@@ -595,19 +595,11 @@
   "09928bd55a32e77a": 1791437445.2633233,
   "e29e9d81a09552aa": 1791437445.2633233,
   "94751714bf5b641b": 1791437445.2633233,
-  "22e19508a3fd85b6": 1791437445.2633233
+  "22e19508a3fd85b6": 1791437445.2633233,
+  "c63680b98bd5d60c": 1791438283.340117,
+  "7ed9f10ed9960a90": 1791438283.340117
  },
- "queue": [
-  {
-   "id": "62badff40d1449b4",
-   "cfg": "vless://a5ce10af-5e95-4eb3-ab87-bf4f95cb059b@212.100.171.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=8u8r2iWMt8Isz2ZNRbn3g4cfldhcePRB-1hxGYLTnSg&sid=aa6582cf25e243ce&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 488,
-   "best": 487,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791437445.2633233
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -5435,6 +5427,36 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "62badff40d1449b4": {
+   "cfg": "vless://a5ce10af-5e95-4eb3-ab87-bf4f95cb059b@212.100.171.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=8u8r2iWMt8Isz2ZNRbn3g4cfldhcePRB-1hxGYLTnSg&sid=aa6582cf25e243ce&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1285,
+   "ts": 1791438305.326928,
+   "ping": 543,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "7ed9f10ed9960a90": {
+   "cfg": "vless://d7edbdf0-11b5-4032-b9c9-3e3fc907fe4f@pl1.flcplonnectius.com:443?security=reality&encryption=none&pbk=ZPG8hkmuyqmv5Rlv4_04SITVHhwvtCU_2KUS41GIa2A&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl1.flcplonnectius.com&sid=51507bcd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1286,
+   "ts": 1791438306.0419042,
+   "ping": 556,
+   "score": 93,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
+  },
+  "c63680b98bd5d60c": {
+   "cfg": "vless://08048938-eab6-4107-afee-53c1dbadef9c@135.106.162.8:150?security=&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1287,
+   "ts": 1791438306.7082422,
+   "ping": 3930,
+   "score": 49,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8267,13 +8289,28 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791437457.2766144
+  },
+  "212.100.171.154": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791438304.5961392
+  },
+  "pl1.flcplonnectius.com": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1791438305.327066
+  },
+  "135.106.162.8": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791438306.0419986
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 35,
-  "healthy": 30,
-  "posted": 21,
+  "fetched": 37,
+  "healthy": 32,
+  "posted": 24,
   "removed": 0,
   "published_scores": [
    90,
@@ -8296,7 +8333,10 @@
    99,
    99,
    99,
-   99
+   99,
+   93,
+   93,
+   49
   ]
  }
 }
