@@ -1,6 +1,5 @@
 {
  "seen": {
-  "49a14f6e623733a3": 1791203562.0842874,
   "9e0a25d03e2bb180": 1791204333.024582,
   "f03be6f5e18601fb": 1791204333.024582,
   "6f2e6e6fe1134dec": 1791204333.024582,
@@ -613,7 +612,8 @@
   "68bf9ff75b9b18e3": 1791460847.220562,
   "e629381ce1d4b940": 1791461727.045217,
   "0262df06c1b24129": 1791462639.521117,
-  "49aa8fc3ad8ce1dc": 1791462639.521117
+  "49aa8fc3ad8ce1dc": 1791462639.521117,
+  "2a4f9dfac93013be": 1791463163.3940282
  },
  "queue": [],
  "posted": {
@@ -6093,6 +6093,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "2a4f9dfac93013be": {
+   "cfg": "vless://b45bf6a8-c7eb-437b-80e6-ea9de56ed06a@fintest2.povrak.ir:36465?security=&encryption=mlkem768x25519plus.native.0rtt.opKdG01g_6N4XciPyF_LeRIlGsHRVgArleiuhLInRH8&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1351,
+   "ts": 1791463168.870449,
+   "ping": 529,
+   "score": 93,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9055,13 +9065,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791457082.8604772
+  },
+  "fintest2.povrak.ir": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791463168.0372224
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 118,
-  "healthy": 97,
-  "posted": 86,
+  "fetched": 119,
+  "healthy": 98,
+  "posted": 87,
   "removed": 0,
   "published_scores": [
    90,
@@ -9149,7 +9164,8 @@
    90,
    92,
    99,
-   87
+   87,
+   93
   ]
  }
 }
