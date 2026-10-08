@@ -574,9 +574,23 @@
   "402f1594de652089": 1791484513.2263958,
   "12ff77ac1d96ea5c": 1791484513.2263958,
   "b21dffaa0b2ff1f6": 1791486820.2241209,
-  "74837e63eea34a32": 1791486820.2241209
+  "74837e63eea34a32": 1791486820.2241209,
+  "0460dbd4f496e83b": 1791487835.344529,
+  "50603ac4b67f8c8f": 1791487835.344529,
+  "61a068249f1c218a": 1791487835.344529,
+  "d224363b1896adfd": 1791487835.344529
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "d224363b1896adfd",
+   "cfg": "vless://eac04622-531b-0002-b85f-3c2ee67565c6@ru-001.zapretu.net:443?security=reality&encryption=none&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ru-001.zapretu.net#🔵@chillguy_vpn",
+   "ping": 1338,
+   "best": 1287,
+   "score": 83,
+   "stability": 100,
+   "ts": 1791487835.344529
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -6384,6 +6398,36 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "50603ac4b67f8c8f": {
+   "cfg": "vless://eac04622-531b-0009-b85f-3c2ee67565c6@ru-001.zapretu.net:443?security=reality&encryption=none&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ru-001.zapretu.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1384,
+   "ts": 1791487855.5998251,
+   "ping": 665,
+   "score": 91,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "0460dbd4f496e83b": {
+   "cfg": "vless://eac04622-531b-000d-b85f-3c2ee67565c6@ru-001.zapretu.net:443?security=reality&encryption=none&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ru-001.zapretu.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1385,
+   "ts": 1791487856.1233292,
+   "ping": 751,
+   "score": 90,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "61a068249f1c218a": {
+   "cfg": "vless://eac04622-531b-0007-b85f-3c2ee67565c6@ru-001.zapretu.net:443?security=reality&encryption=none&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ru-001.zapretu.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1386,
+   "ts": 1791487856.6711268,
+   "ping": 883,
+   "score": 89,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9456,13 +9500,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1791486836.9862397
+  },
+  "ru-001.zapretu.net": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791487854.9007304
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 168,
-  "healthy": 130,
-  "posted": 119,
+  "fetched": 172,
+  "healthy": 134,
+  "posted": 122,
   "removed": 0,
   "published_scores": [
    90,
@@ -9583,7 +9632,10 @@
    87,
    79,
    82,
-   70
+   70,
+   91,
+   90,
+   89
   ]
  }
 }
