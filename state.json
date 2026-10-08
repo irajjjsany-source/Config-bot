@@ -1,8 +1,5 @@
 {
  "seen": {
-  "d0e1346cb5ada7c6": 1791192614.377644,
-  "d715b7b684b385cc": 1791192614.377644,
-  "dfb8716c057c0f5b": 1791192614.377644,
   "cfcb626d71a15dbc": 1791193539.0068517,
   "a1d55889dd8b34fd": 1791195335.9356484,
   "fa31d6d3cd18fdd0": 1791195335.9356484,
@@ -611,19 +608,10 @@
   "b064c74dc474c38c": 1791451308.2503352,
   "af815f9a75fc4dde": 1791451308.2503352,
   "c3aa109532226c4a": 1791451308.2503352,
-  "2a12b0267e3737f2": 1791451308.2503352
+  "2a12b0267e3737f2": 1791451308.2503352,
+  "7d1943aa3e950c28": 1791451846.236581
  },
- "queue": [
-  {
-   "id": "af815f9a75fc4dde",
-   "cfg": "vmess://eyJhZGQiOiAiMjA2LjEuMTAzLjE1NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNmNlY2FhYWQtZmFkYy00ZjFjLTlhNzktYjVmN2ZhOTk1MDc2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTM2MjEiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
-   "ping": 1440,
-   "best": 410,
-   "score": 81,
-   "stability": 100,
-   "ts": 1791451308.2503352
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -5901,6 +5889,26 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "7d1943aa3e950c28": {
+   "cfg": "vless://46ef8e51-66cf-4861-93e4-4e7ce111bd3d@hsz6gz.gomqiro.ir:4000?security=reality&encryption=none&pbk=gNJZix6GHGuB246_yD6n0EQQY-6Vb1zXg3ipjnubawE&headerType=none&fp=edge&type=tcp&sni=play.googleapis.com&sid=6d66b2bd572f34fb#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1330,
+   "ts": 1791451852.2246156,
+   "ping": 690,
+   "score": 91,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
+  },
+  "af815f9a75fc4dde": {
+   "cfg": "vmess://eyJhZGQiOiAiMjA2LjEuMTAzLjE1NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNmNlY2FhYWQtZmFkYy00ZjFjLTlhNzktYjVmN2ZhOTk1MDc2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTM2MjEiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "msg": 1331,
+   "ts": 1791451867.986774,
+   "ping": 4619,
+   "score": 40,
+   "stability": 100,
+   "country": "Türkiye",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8823,13 +8831,23 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791451324.0154655
+  },
+  "hsz6gz.gomqiro.ir": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791451851.4119074
+  },
+  "206.1.103.155": {
+   "cc": "TR",
+   "name": "Türkiye",
+   "ts": 1791451867.4099972
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 92,
-  "healthy": 78,
-  "posted": 66,
+  "fetched": 93,
+  "healthy": 79,
+  "posted": 68,
   "removed": 0,
   "published_scores": [
    90,
@@ -8897,7 +8915,9 @@
    94,
    97,
    93,
-   93
+   93,
+   91,
+   40
   ]
  }
 }
