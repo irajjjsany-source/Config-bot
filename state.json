@@ -614,7 +614,11 @@
   "730e8df7fd6292c9": 1791464627.137996,
   "b3bbaf011dee38c9": 1791465328.239369,
   "74dfe9299fcc2946": 1791465328.239369,
-  "56dbeb60063a0edb": 1791466239.6656842
+  "56dbeb60063a0edb": 1791466239.6656842,
+  "9bc64840fddd0530": 1791469460.766105,
+  "72a9cf5056cf79e9": 1791469460.766105,
+  "dcaf33f7d419f774": 1791469460.766105,
+  "9f518cdf7ef5f510": 1791469460.766105
  },
  "queue": [],
  "posted": {
@@ -6184,6 +6188,26 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "9f518cdf7ef5f510": {
+   "cfg": "vless://45ea5597-150e-4e3b-b1f1-bba1d82dac86@157.10.201.93:14789?security=&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1360,
+   "ts": 1791469477.9072168,
+   "ping": 564,
+   "score": 93,
+   "stability": 100,
+   "country": "Vietnam",
+   "repost_count": 0
+  },
+  "dcaf33f7d419f774": {
+   "cfg": "vless://6f0f17f0-d45c-4584-bf50-a00cb6e423d3@91.107.165.48:443?security=reality&encryption=none&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&sni=www.actionvfx.com&sid=73693dea6faae051#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1361,
+   "ts": 1791469478.5637116,
+   "ping": 884,
+   "score": 89,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9161,13 +9185,23 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1791466243.6701093
+  },
+  "157.10.201.93": {
+   "cc": "VN",
+   "name": "Vietnam",
+   "ts": 1791469477.0450726
+  },
+  "91.107.165.48": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791469477.9073448
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 129,
-  "healthy": 106,
-  "posted": 95,
+  "fetched": 133,
+  "healthy": 108,
+  "posted": 97,
   "removed": 0,
   "published_scores": [
    90,
@@ -9264,7 +9298,9 @@
    88,
    89,
    84,
-   95
+   95,
+   93,
+   89
   ]
  }
 }
