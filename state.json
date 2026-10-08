@@ -572,7 +572,9 @@
   "e77a045c72817a6e": 1791484513.2263958,
   "edf1b3908a4aa735": 1791484513.2263958,
   "402f1594de652089": 1791484513.2263958,
-  "12ff77ac1d96ea5c": 1791484513.2263958
+  "12ff77ac1d96ea5c": 1791484513.2263958,
+  "b21dffaa0b2ff1f6": 1791486820.2241209,
+  "74837e63eea34a32": 1791486820.2241209
  },
  "queue": [],
  "posted": {
@@ -6362,6 +6364,26 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "74837e63eea34a32": {
+   "cfg": "vless://95621b8e-5cf7-4123-9df4-38d903054a1b@109.120.152.26:443?security=reality&encryption=none&pbk=QJzo15K3EUtRdJwrkaGRjHdKLyl-WUiEzQTTMsHm8y4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=b716462f7ff12219#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1382,
+   "ts": 1791486836.98613,
+   "ping": 1352,
+   "score": 82,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "b21dffaa0b2ff1f6": {
+   "cfg": "vless://0bd7f421-0422-d0dd-51e1-c5bed64a8983@80.47.239.184:443?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.tno.nl&sid=35938c4e546cd459#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1383,
+   "ts": 1791486837.58146,
+   "ping": 2323,
+   "score": 70,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9424,13 +9446,23 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791485144.7559407
+  },
+  "109.120.152.26": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791486836.1839995
+  },
+  "80.47.239.184": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791486836.9862397
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 166,
-  "healthy": 128,
-  "posted": 117,
+  "fetched": 168,
+  "healthy": 130,
+  "posted": 119,
   "removed": 0,
   "published_scores": [
    90,
@@ -9549,7 +9581,9 @@
    91,
    89,
    87,
-   79
+   79,
+   82,
+   70
   ]
  }
 }
