@@ -1,6 +1,5 @@
 {
  "seen": {
-  "6a00846ddcd50bfb": 1791189935.6722214,
   "ac3d26cd29b47ce3": 1791190855.7682946,
   "a34344bdd0a1b747": 1791190855.7682946,
   "10081c094a3a55c1": 1791191124.2377954,
@@ -617,33 +616,6 @@
   "933f27beeb813795": 1791449135.500579
  },
  "queue": [
-  {
-   "id": "5a458155e0d5937d",
-   "cfg": "vless://98b76bb7-b2d1-47a8-8767-0d294c33e749@70.34.197.239:80?type=ws&security=none&path=%2F&encryption=none#🔵@chillguy_vpn",
-   "ping": 457,
-   "best": 445,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791449135.500579
-  },
-  {
-   "id": "79af882a32e98b97",
-   "cfg": "vless://98b76bb7-b2d1-47a8-8767-0d294c33e749@70.34.199.238:80?path=%2F&security=none&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 465,
-   "best": 463,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791448705.8007288
-  },
-  {
-   "id": "fa4be647305b7525",
-   "cfg": "vless://98b76bb7-b2d1-47a8-8767-0d294c33e749@70.34.197.239:80?path=%2F&security=none&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 466,
-   "best": 458,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791448705.8007288
-  },
   {
    "id": "4c79575374309ad0",
    "cfg": "vless://c326b0af-e926-4dc8-a8a3-e7790cc0bdec@199.232.78.187:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=SEPAHA1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#🔵@chillguy_vpn",
@@ -5867,6 +5839,36 @@
    "stability": 100,
    "country": "Sweden",
    "repost_count": 0
+  },
+  "5a458155e0d5937d": {
+   "cfg": "vless://98b76bb7-b2d1-47a8-8767-0d294c33e749@70.34.197.239:80?type=ws&security=none&path=%2F&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1320,
+   "ts": 1791449965.2239873,
+   "ping": 2302,
+   "score": 70,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
+  },
+  "79af882a32e98b97": {
+   "cfg": "vless://98b76bb7-b2d1-47a8-8767-0d294c33e749@70.34.199.238:80?path=%2F&security=none&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1321,
+   "ts": 1791449969.9285245,
+   "ping": 920,
+   "score": 88,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
+  },
+  "fa4be647305b7525": {
+   "cfg": "vless://98b76bb7-b2d1-47a8-8767-0d294c33e749@70.34.197.239:80?path=%2F&security=none&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1322,
+   "ts": 1791449978.8234246,
+   "ping": 2362,
+   "score": 69,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8775,7 +8777,7 @@
   "date": "2026-10-08",
   "fetched": 86,
   "healthy": 72,
-  "posted": 56,
+  "posted": 59,
   "removed": 0,
   "published_scores": [
    90,
@@ -8833,7 +8835,10 @@
    99,
    99,
    98,
-   94
+   94,
+   70,
+   88,
+   69
   ]
  }
 }
