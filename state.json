@@ -578,35 +578,7 @@
   "402f1594de652089": 1791484513.2263958,
   "12ff77ac1d96ea5c": 1791484513.2263958
  },
- "queue": [
-  {
-   "id": "089311d9ee5a072a",
-   "cfg": "vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#🔵@chillguy_vpn",
-   "ping": 718,
-   "best": 708,
-   "score": 91,
-   "stability": 100,
-   "ts": 1791484513.2263958
-  },
-  {
-   "id": "71e76ea348547f37",
-   "cfg": "vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@www.mobocomcloud.ir:443?path=%2FMoboCloud%2FOTA%2FGermany&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=www.mobocomcloud.ir%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.mobocomcloud.ir#🔵@chillguy_vpn",
-   "ping": 845,
-   "best": 804,
-   "score": 89,
-   "stability": 100,
-   "ts": 1791484513.2263958
-  },
-  {
-   "id": "e77a045c72817a6e",
-   "cfg": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#🔵@chillguy_vpn",
-   "ping": 2806,
-   "best": 2446,
-   "score": 64,
-   "stability": 100,
-   "ts": 1791484513.2263958
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -6364,6 +6336,36 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "089311d9ee5a072a": {
+   "cfg": "vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1379,
+   "ts": 1791485133.278893,
+   "ping": 816,
+   "score": 89,
+   "stability": 100,
+   "country": "Estonia",
+   "repost_count": 0
+  },
+  "71e76ea348547f37": {
+   "cfg": "vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@www.mobocomcloud.ir:443?path=%2FMoboCloud%2FOTA%2FGermany&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=www.mobocomcloud.ir%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.mobocomcloud.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1380,
+   "ts": 1791485138.557735,
+   "ping": 1020,
+   "score": 87,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "e77a045c72817a6e": {
+   "cfg": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1381,
+   "ts": 1791485145.478553,
+   "ping": 1622,
+   "score": 79,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9411,13 +9413,28 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791484546.4570935
+  },
+  "201.7.25.100": {
+   "cc": "EE",
+   "name": "Estonia",
+   "ts": 1791485132.4235058
+  },
+  "www.mobocomcloud.ir": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791485137.673734
+  },
+  "206.71.158.124": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791485144.7559407
   }
  },
  "stats": {
   "date": "2026-10-08",
   "fetched": 166,
   "healthy": 128,
-  "posted": 114,
+  "posted": 117,
   "removed": 0,
   "published_scores": [
    90,
@@ -9533,7 +9550,10 @@
    84,
    94,
    91,
-   91
+   91,
+   89,
+   87,
+   79
   ]
  }
 }
