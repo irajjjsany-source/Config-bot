@@ -611,26 +611,20 @@
   "416b7ac7c1033dae": 1791448705.8007288,
   "a60f9301696d84a9": 1791448705.8007288,
   "4c79575374309ad0": 1791448705.8007288,
-  "49a85beaefd82370": 1791448705.8007288
+  "49a85beaefd82370": 1791448705.8007288,
+  "5a458155e0d5937d": 1791449135.500579,
+  "5bdea88a92b54dfc": 1791449135.500579,
+  "933f27beeb813795": 1791449135.500579
  },
  "queue": [
   {
-   "id": "e6f9bd57d5a43a0e",
-   "cfg": "vless://d503ca85-91c2-426d-98ce-7a6f44666be1@172.67.209.127:8880?&packet-encoding=xudp&sni=winter-hall-a0a2.74-532.workers.dev&type=ws&headerType=none&host=winter-hall-a0a2.74-532.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🔵@chillguy_vpn",
-   "ping": 92,
-   "best": 89,
-   "score": 99,
+   "id": "5a458155e0d5937d",
+   "cfg": "vless://98b76bb7-b2d1-47a8-8767-0d294c33e749@70.34.197.239:80?type=ws&security=none&path=%2F&encryption=none#🔵@chillguy_vpn",
+   "ping": 457,
+   "best": 445,
+   "score": 94,
    "stability": 100,
-   "ts": 1791448705.8007288
-  },
-  {
-   "id": "a60f9301696d84a9",
-   "cfg": "vless://e4efd4d6-4687-4446-bd8c-8b00f90126aa@185.72.8.220:44505?mode=gun&security=reality&encryption=none&pbk=A1FnCcOtmFmEub4wNeC4awlPOdzrMt1FeBjtz8al9lo&fp=chrome&spx=%2F2a13b67b782d26b&type=grpc&sni=it.nvidia.com&sid=7a1538db#🔵@chillguy_vpn",
-   "ping": 240,
-   "best": 239,
-   "score": 97,
-   "stability": 100,
-   "ts": 1791448705.8007288
+   "ts": 1791449135.500579
   },
   {
    "id": "79af882a32e98b97",
@@ -685,6 +679,15 @@
    "score": 82,
    "stability": 100,
    "ts": 1791448705.8007288
+  },
+  {
+   "id": "933f27beeb813795",
+   "cfg": "vless://6f0f17f0-d45c-4584-bf50-a00cb6e423d3@lvvq3l3c.asrarshimi.ir:443?security=reality&fp=chrome&headerType=none&encryption=none&sni=www.actionvfx.com&sid=73693dea6faae051&type=tcp&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk#🔵@chillguy_vpn",
+   "ping": 2174,
+   "best": 1662,
+   "score": 72,
+   "stability": 100,
+   "ts": 1791449135.500579
   }
  ],
  "posted": {
@@ -5834,6 +5837,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "e6f9bd57d5a43a0e": {
+   "cfg": "vless://d503ca85-91c2-426d-98ce-7a6f44666be1@172.67.209.127:8880?&packet-encoding=xudp&sni=winter-hall-a0a2.74-532.workers.dev&type=ws&headerType=none&host=winter-hall-a0a2.74-532.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1317,
+   "ts": 1791449154.2566857,
+   "ping": 72,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "a60f9301696d84a9": {
+   "cfg": "vless://e4efd4d6-4687-4446-bd8c-8b00f90126aa@185.72.8.220:44505?mode=gun&security=reality&encryption=none&pbk=A1FnCcOtmFmEub4wNeC4awlPOdzrMt1FeBjtz8al9lo&fp=chrome&spx=%2F2a13b67b782d26b&type=grpc&sni=it.nvidia.com&sid=7a1538db#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1318,
+   "ts": 1791449156.7049434,
+   "ping": 155,
+   "score": 98,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "5bdea88a92b54dfc": {
+   "cfg": "vless://98b76bb7-b2d1-47a8-8767-0d294c33e749@70.34.199.238:80?type=ws&security=none&path=%2F&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1319,
+   "ts": 1791449157.300211,
+   "ping": 447,
+   "score": 94,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8731,13 +8764,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791448736.2195446
+  },
+  "185.72.8.220": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791449156.049645
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 83,
-  "healthy": 69,
-  "posted": 53,
+  "fetched": 86,
+  "healthy": 72,
+  "posted": 56,
   "removed": 0,
   "published_scores": [
    90,
@@ -8792,7 +8830,10 @@
    95,
    99,
    99,
-   99
+   99,
+   99,
+   98,
+   94
   ]
  }
 }
