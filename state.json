@@ -1,9 +1,5 @@
 {
  "seen": {
-  "cc376bf9a4fcaa9d": 1791222335.9006078,
-  "eee53edeec98f5a6": 1791222335.9006078,
-  "2eab712cbc783f4a": 1791222335.9006078,
-  "3e9f905bf3f567ed": 1791222335.9006078,
   "9dc6ed905dc0bd2e": 1791223518.4643993,
   "320aba5a16dd95d2": 1791223518.4643993,
   "3c0af4279e9f3cf7": 1791223518.4643993,
@@ -588,7 +584,9 @@
   "a63ecd766de14c5e": 1791480636.7313886,
   "f12f987f06ee138e": 1791480636.7313886,
   "b4bbfb8b638a9e56": 1791480636.7313886,
-  "50b7db8cac26f195": 1791481526.7465508
+  "50b7db8cac26f195": 1791481526.7465508,
+  "9677fb22865b9c16": 1791482255.688085,
+  "f91ea193f3b4b8c3": 1791482255.688085
  },
  "queue": [],
  "posted": {
@@ -6298,6 +6296,26 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "f91ea193f3b4b8c3": {
+   "cfg": "vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@geminilanzerotte.live:443?security=reality&encryption=none&pbk=_aURfmVUjvCRZipDI2eqMO0VQa64BJRGYFOdlBFi1XQ&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=geminilanzerotte.live#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1374,
+   "ts": 1791482267.2507608,
+   "ping": 625,
+   "score": 92,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "9677fb22865b9c16": {
+   "cfg": "vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@swidenlanzerotte.live:443?security=reality&encryption=none&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=swidenlanzerotte.live#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1375,
+   "ts": 1791482267.8755617,
+   "ping": 1223,
+   "score": 84,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9334,9 +9352,9 @@
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 155,
-  "healthy": 120,
-  "posted": 109,
+  "fetched": 157,
+  "healthy": 122,
+  "posted": 111,
   "removed": 0,
   "published_scores": [
    90,
@@ -9447,7 +9465,9 @@
    95,
    94,
    91,
-   92
+   92,
+   92,
+   84
   ]
  }
 }
