@@ -1,11 +1,5 @@
 {
  "seen": {
-  "41da5892ba9a68dc": 1791225045.0275073,
-  "3ef6609e27c94ee6": 1791225045.0275073,
-  "d5410db899a733d0": 1791225045.0275073,
-  "440186869fd04f2a": 1791225045.0275073,
-  "ef0f4f607e3afdbf": 1791225045.0275073,
-  "3989ae5bd4218230": 1791225045.0275073,
   "7addd4817516b5f3": 1791225935.6406357,
   "fcb06319a93a9179": 1791225935.6406357,
   "c5207904846052fb": 1791225935.6406357,
@@ -573,9 +567,46 @@
   "b4bbfb8b638a9e56": 1791480636.7313886,
   "50b7db8cac26f195": 1791481526.7465508,
   "9677fb22865b9c16": 1791482255.688085,
-  "f91ea193f3b4b8c3": 1791482255.688085
+  "f91ea193f3b4b8c3": 1791482255.688085,
+  "71e76ea348547f37": 1791484513.2263958,
+  "126e4efd947fcf59": 1791484513.2263958,
+  "20bcdc71d8a46830": 1791484513.2263958,
+  "d163acfcbe46ebcd": 1791484513.2263958,
+  "089311d9ee5a072a": 1791484513.2263958,
+  "e77a045c72817a6e": 1791484513.2263958,
+  "edf1b3908a4aa735": 1791484513.2263958,
+  "402f1594de652089": 1791484513.2263958,
+  "12ff77ac1d96ea5c": 1791484513.2263958
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "089311d9ee5a072a",
+   "cfg": "vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#🔵@chillguy_vpn",
+   "ping": 718,
+   "best": 708,
+   "score": 91,
+   "stability": 100,
+   "ts": 1791484513.2263958
+  },
+  {
+   "id": "71e76ea348547f37",
+   "cfg": "vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@www.mobocomcloud.ir:443?path=%2FMoboCloud%2FOTA%2FGermany&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=www.mobocomcloud.ir%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.mobocomcloud.ir#🔵@chillguy_vpn",
+   "ping": 845,
+   "best": 804,
+   "score": 89,
+   "stability": 100,
+   "ts": 1791484513.2263958
+  },
+  {
+   "id": "e77a045c72817a6e",
+   "cfg": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#🔵@chillguy_vpn",
+   "ping": 2806,
+   "best": 2446,
+   "score": 64,
+   "stability": 100,
+   "ts": 1791484513.2263958
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -6303,6 +6334,36 @@
    "stability": 100,
    "country": "Sweden",
    "repost_count": 0
+  },
+  "20bcdc71d8a46830": {
+   "cfg": "vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@cdn-serverdl7.kgo.info:443?mode=auto&path=%2FDownload%2FServer%2FRoute-32001%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.ttdwtFfULlEfv_Y29gODrXqh0CarKTldMtmD3sdA4XA&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingKey%22%3A%22_File%22%2C%22xPaddingHeader%22%3A%22Download%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D&insecure=0&fp=chrome&ech=cdn-serverdl7.kgo.info%2Budp%3A%2F%2F8.8.8.8&type=xhttp&allowInsecure=0&sni=cdn-serverdl7.kgo.info#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1376,
+   "ts": 1791484545.7316759,
+   "ping": 431,
+   "score": 94,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "12ff77ac1d96ea5c": {
+   "cfg": "vless://f259a2e5-fd8d-4db9-a3ac-6b26322cffa9@pl-ade19411d2.shamanapp.online:33740?mode=stream-up&path=%2FShamanXHTTP2026&security=reality&encryption=none&pbk=pQarlc3Ni939NSDqzoKR1-3Ya6RJGzB-xPUfzEAYU3Q&host=pl-ade19411d2.shamanapp.online&fp=chrome&spx=%2F&type=xhttp&sni=www.google.com&sid=f015d4a0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1377,
+   "ts": 1791484546.4569476,
+   "ping": 684,
+   "score": 91,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
+  },
+  "126e4efd947fcf59": {
+   "cfg": "vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@cdn-serverdl2.kgo.info:443?mode=auto&path=%2FDownload%2FServer%2FRoute-32001%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.ttdwtFfULlEfv_Y29gODrXqh0CarKTldMtmD3sdA4XA&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingKey%22%3A%22_File%22%2C%22xPaddingHeader%22%3A%22Download%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D&insecure=0&fp=chrome&ech=www.tgju.org%2Budp%3A%2F%2F8.8.8.8&type=xhttp&allowInsecure=0&sni=cdn-serverdl2.kgo.info#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1378,
+   "ts": 1791484547.097912,
+   "ping": 697,
+   "score": 91,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9335,13 +9396,28 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791481531.1839857
+  },
+  "cdn-serverdl7.kgo.info": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791484544.990406
+  },
+  "pl-ade19411d2.shamanapp.online": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1791484545.7317948
+  },
+  "cdn-serverdl2.kgo.info": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791484546.4570935
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 157,
-  "healthy": 122,
-  "posted": 111,
+  "fetched": 166,
+  "healthy": 128,
+  "posted": 114,
   "removed": 0,
   "published_scores": [
    90,
@@ -9454,7 +9530,10 @@
    91,
    92,
    92,
-   84
+   84,
+   94,
+   91,
+   91
   ]
  }
 }
