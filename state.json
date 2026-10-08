@@ -596,27 +596,12 @@
   "785e236337b995b1": 1791444646.908449,
   "2a7cca84683e73a7": 1791444646.908449,
   "b0da0884d572b8df": 1791444646.908449,
-  "aa3d731e94191e90": 1791444646.908449
+  "aa3d731e94191e90": 1791444646.908449,
+  "e96af3d00e230a9a": 1791445534.580869,
+  "13ae05d009b6a36b": 1791445534.580869,
+  "93afd2154ab1f8b7": 1791445534.580869
  },
  "queue": [
-  {
-   "id": "2a7cca84683e73a7",
-   "cfg": "vless://daf485ba-60fc-4166-a72c-8d2a5407cbc5@188.114.97.6:8080?path=%2Fvl%2FzM8ELyqEIYeZ3ijacV9kuK%3Fed&security=none&encryption=none&host=kievh9yxcgg14-gy4wxqcav0pegkd.d-0ezpk5xp5wk8ltdgb6evlpgc-jin.workers.dev&type=ws#🔵@chillguy_vpn",
-   "ping": 95,
-   "best": 91,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791444646.908449
-  },
-  {
-   "id": "c6c83e95f803c895",
-   "cfg": "vless://e431026f-d605-4a52-8b3b-0912a68dc9d1@188.114.97.6:8080?&packet-encoding=xudp&type=ws&headerType=none&host=sparkling-shadow-481d.342-429.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🔵@chillguy_vpn",
-   "ping": 96,
-   "best": 85,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791444646.908449
-  },
   {
    "id": "b0da0884d572b8df",
    "cfg": "vless://e5583623-53ef-4177-8070-8c553f70bcfa@172.67.214.193:2086?&packet-encoding=xudp&sni=172.67.214.193&type=ws&headerType=none&host=fvfb8xac5j0nthxzqf.dr5945ov0z598kfft573isahdj3fmmv4.workers.dev&path=%2Fvl%2FNnAT20AqcYOuOLe1r#🔵@chillguy_vpn",
@@ -625,6 +610,24 @@
    "score": 98,
    "stability": 100,
    "ts": 1791444646.908449
+  },
+  {
+   "id": "e96af3d00e230a9a",
+   "cfg": "vless://49ade50d-9cd6-81a9-db5d-8e4a7f56930b@51.75.118.165:20023?path=%2Fws%2F49ade50d-9cd6-81a9-db5d-8e4a7f56930b&security=&encryption=none&host=51.75.118.165&type=ws#🔵@chillguy_vpn",
+   "ping": 476,
+   "best": 469,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791445534.580869
+  },
+  {
+   "id": "13ae05d009b6a36b",
+   "cfg": "vless://a60afce2-2c24-4a35-88a0-30108264831c@dns8.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#🔵@chillguy_vpn",
+   "ping": 515,
+   "best": 423,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791445534.580869
   }
  ],
  "posted": {
@@ -5644,6 +5647,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "93afd2154ab1f8b7": {
+   "cfg": "vless://daf485ba-60fc-4166-a72c-8d2a5407cbc5@188.114.97.6:8080/?type=ws&encryption=none&flow=&host=kievh9yxcgg14-gy4wxqcav0pegkd.d-0ezpk5xp5wk8ltdgb6evlpgc-jin.workers.dev&path=%2Fvl%2FzM8ELyqEIYeZ3ijacV9kuK%3Fed#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1304,
+   "ts": 1791445544.2309935,
+   "ping": 49,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "2a7cca84683e73a7": {
+   "cfg": "vless://daf485ba-60fc-4166-a72c-8d2a5407cbc5@188.114.97.6:8080?path=%2Fvl%2FzM8ELyqEIYeZ3ijacV9kuK%3Fed&security=none&encryption=none&host=kievh9yxcgg14-gy4wxqcav0pegkd.d-0ezpk5xp5wk8ltdgb6evlpgc-jin.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1305,
+   "ts": 1791445546.325381,
+   "ping": 58,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "c6c83e95f803c895": {
+   "cfg": "vless://e431026f-d605-4a52-8b3b-0912a68dc9d1@188.114.97.6:8080?&packet-encoding=xudp&type=ws&headerType=none&host=sparkling-shadow-481d.342-429.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1306,
+   "ts": 1791445548.409994,
+   "ping": 59,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8515,9 +8548,9 @@
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 58,
-  "healthy": 51,
-  "posted": 40,
+  "fetched": 61,
+  "healthy": 54,
+  "posted": 43,
   "removed": 0,
   "published_scores": [
    90,
@@ -8557,6 +8590,9 @@
    99,
    99,
    100,
+   99,
+   99,
+   99,
    99,
    99,
    99
