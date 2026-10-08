@@ -1,9 +1,5 @@
 {
  "seen": {
-  "2e754691f9f028cd": 1791184532.904944,
-  "1901a98a25afc9eb": 1791184532.904944,
-  "fcb6c2bf2c772805": 1791184532.904944,
-  "4b61c20cdfbcceee": 1791184532.904944,
   "b9bcf9bafcb323c5": 1791185325.7902153,
   "458a52397c8dd59f": 1791187252.1228788,
   "361220f133e43e8a": 1791187252.1228788,
@@ -589,9 +585,23 @@
   "d805eff35ce95af5": 1791440928.4425359,
   "321630af0c680dbd": 1791441933.0800974,
   "b3b216a20ead6230": 1791441933.0800974,
-  "3157b4998eb3c6a4": 1791441933.0800974
+  "3157b4998eb3c6a4": 1791441933.0800974,
+  "ea7b8072df358353": 1791443733.93626,
+  "64a69e5369485bd7": 1791443733.93626,
+  "2ba4b01720af29b3": 1791443733.93626,
+  "90df611e6a91ed34": 1791443733.93626
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "ea7b8072df358353",
+   "cfg": "vless://78b73cc4-8c3c-40ce-bb74-d5dcd3277c67@172.64.153.11:8880?&packet-encoding=xudp&type=ws&headerType=none&host=white-hill-f907.23-b68.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🔵@chillguy_vpn",
+   "ping": 93,
+   "best": 79,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791443733.93626
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -5539,6 +5549,36 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "2ba4b01720af29b3": {
+   "cfg": "vless://8dd8af16-cae0-4431-b04c-a637b4d7645b@104.21.23.72:8880?&packet-encoding=xudp&type=ws&headerType=none&host=wild-frog-c709.403-6ff.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1297,
+   "ts": 1791443741.9306374,
+   "ping": 67,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "90df611e6a91ed34": {
+   "cfg": "vless://afb13fa2-bba2-417f-b8c2-62565f92a78d@172.67.174.37:8880?&packet-encoding=xudp&type=ws&headerType=none&host=orange-block-5cd1.124-199.workers.dev&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1298,
+   "ts": 1791443742.4430583,
+   "ping": 76,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "64a69e5369485bd7": {
+   "cfg": "vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@172.67.179.98:8880?encryption=none&type=ws&host=curly-surf-4401.75-08c.workers.dev&path=%2F&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1299,
+   "ts": 1791443742.9552352,
+   "ping": 78,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8410,9 +8450,9 @@
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 46,
-  "healthy": 41,
-  "posted": 33,
+  "fetched": 50,
+  "healthy": 45,
+  "posted": 36,
   "removed": 0,
   "published_scores": [
    90,
@@ -8447,7 +8487,10 @@
    91,
    99,
    99,
-   98
+   98,
+   99,
+   99,
+   99
   ]
  }
 }
