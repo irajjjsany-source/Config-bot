@@ -618,7 +618,9 @@
   "fbfb65e4895f89e3": 1791453648.6354842,
   "7b2e9e908330a58b": 1791453648.6354842,
   "3ed30d3597af089c": 1791453648.6354842,
-  "3a801bee0d79e3dd": 1791453648.6354842
+  "3a801bee0d79e3dd": 1791453648.6354842,
+  "f97a902261e192ae": 1791454478.5060287,
+  "30fc5a9eca16d926": 1791454478.5060287
  },
  "queue": [],
  "posted": {
@@ -5998,6 +6000,26 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "30fc5a9eca16d926": {
+   "cfg": "vless://050f8129-ee72-4a60-9c8b-01bc6287f574@fi3.srv.safes-infrastructure.com:8443?security=reality&encryption=none&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fi3.srv.safes-infrastructure.com&sid=e7d8f0aa#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1340,
+   "ts": 1791454487.1355703,
+   "ping": 527,
+   "score": 93,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
+  },
+  "f97a902261e192ae": {
+   "cfg": "vless://e4ed5619-5e91-442a-92f1-755a7f6331b8@psf-2.weedly.top:80?path=%2F&security=&encryption=none&host=beat.ir&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1341,
+   "ts": 1791454487.739483,
+   "ping": 589,
+   "score": 92,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8944,9 +8966,9 @@
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 103,
-  "healthy": 87,
-  "posted": 76,
+  "fetched": 105,
+  "healthy": 89,
+  "posted": 78,
   "removed": 0,
   "published_scores": [
    90,
@@ -9024,7 +9046,9 @@
    90,
    99,
    90,
-   89
+   89,
+   93,
+   92
   ]
  }
 }
