@@ -1,7 +1,5 @@
 {
  "seen": {
-  "aca3eecc6c6cc42c": 1791197000.5165498,
-  "6037455479352850": 1791197000.5165498,
   "7102fcf0aa1876b9": 1791197789.478581,
   "59c1b7d6a59670f2": 1791197789.478581,
   "e87220c223b90813": 1791197789.478581,
@@ -619,9 +617,45 @@
   "3a801bee0d79e3dd": 1791453648.6354842,
   "f97a902261e192ae": 1791454478.5060287,
   "30fc5a9eca16d926": 1791454478.5060287,
-  "a22778c9060a1bba": 1791455438.8428001
+  "a22778c9060a1bba": 1791455438.8428001,
+  "d275866edc143822": 1791456326.0943503,
+  "07f491757b716298": 1791456326.0943503,
+  "bbadbad9cad869d9": 1791456326.0943503,
+  "90e374b0b6d0448a": 1791456326.0943503,
+  "ef9857cced733666": 1791456326.0943503,
+  "18bddfc36865f852": 1791456326.0943503,
+  "55b0a39affad11cd": 1791456326.0943503,
+  "36161b44a05f145f": 1791456326.0943503
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "bbadbad9cad869d9",
+   "cfg": "vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2053?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=141.98.7.193#🔵@chillguy_vpn",
+   "ping": 571,
+   "best": 459,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791456326.0943503
+  },
+  {
+   "id": "18bddfc36865f852",
+   "cfg": "vless://ad1a0725-3e51-4c88-8548-e98e593c7e63@dns8.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#🔵@chillguy_vpn",
+   "ping": 571,
+   "best": 412,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791456326.0943503
+  },
+  {
+   "id": "07f491757b716298",
+   "cfg": "vless://c326b0af-e926-4dc8-a8a3-e7790cc0bdec@199.232.78.187:443/?type=ws&encryption=none&flow=&host=SEPAHA1.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net&alpn=h2&fp=chrome#🔵@chillguy_vpn",
+   "ping": 2180,
+   "best": 535,
+   "score": 72,
+   "stability": 100,
+   "ts": 1791456326.0943503
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -6019,6 +6053,36 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "55b0a39affad11cd": {
+   "cfg": "vless://ad1a0725-3e51-4c88-8548-e98e593c7e63@dns3.m3hrzd.ir:8010?security=reality&encryption=none&pbk=Vtx_JlcgqBDRv8XWimo41kgKuZdxvSUzkQR62188xWQ&headerType=none&fp=edge&type=tcp&sni=activision.com&sid=5ed0c99dd6c79bb5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1342,
+   "ts": 1791456367.0171442,
+   "ping": 365,
+   "score": 95,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "90e374b0b6d0448a": {
+   "cfg": "vless://b4005425-54ec-47a7-b23b-1cc94ad9eaa7@win-lin-production.up.railway.app:443?path=%2Fjx-kert05yzxcijde&security=tls&encryption=none&insecure=0&host=win-lin-production.up.railway.app&type=ws&allowInsecure=0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1343,
+   "ts": 1791456367.7818217,
+   "ping": 394,
+   "score": 95,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "36161b44a05f145f": {
+   "cfg": "vless://20323c4f-08de-45a7-9e30-96f8b07c6031@153.76.185.169:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1344,
+   "ts": 1791456368.5391011,
+   "ping": 482,
+   "score": 94,
+   "stability": 100,
+   "country": "Czechia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8961,13 +9025,28 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791452745.6796029
+  },
+  "dns3.m3hrzd.ir": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791456366.195748
+  },
+  "win-lin-production.up.railway.app": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791456367.0172222
+  },
+  "153.76.185.169": {
+   "cc": "CZ",
+   "name": "Czechia",
+   "ts": 1791456367.7818778
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 106,
-  "healthy": 89,
-  "posted": 78,
+  "fetched": 114,
+  "healthy": 95,
+  "posted": 81,
   "removed": 0,
   "published_scores": [
    90,
@@ -9047,7 +9126,10 @@
    90,
    89,
    93,
-   92
+   92,
+   95,
+   95,
+   94
   ]
  }
 }
