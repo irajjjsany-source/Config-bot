@@ -599,33 +599,6 @@
  },
  "queue": [
   {
-   "id": "3bac585f3289f10e",
-   "cfg": "vless://475b8f39-acb9-460f-b000-32127248fdb8@Icouldbetheonethatyoudreamof.itsnotfair.ir:1010?security=reality&alpn=h2&encryption=none&pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=bebem.com&sid=ec8926fc13a19d95#🔵@chillguy_vpn",
-   "ping": 1062,
-   "best": 733,
-   "score": 86,
-   "stability": 100,
-   "ts": 1791490526.191835
-  },
-  {
-   "id": "0b9c35308cdd694d",
-   "cfg": "vless://475b8f39-acb9-460f-b000-32127248fdb8@imtheproblem.itsnotfair.ir:2096?security=reality&alpn=h2&encryption=none&pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=ec8926fc13a19d95#🔵@chillguy_vpn",
-   "ping": 1374,
-   "best": 571,
-   "score": 82,
-   "stability": 100,
-   "ts": 1791490526.191835
-  },
-  {
-   "id": "fef40bf7e31a541b",
-   "cfg": "vless://475b8f39-acb9-460f-b000-32127248fdb8@Sogladyouwerearound.itsnotfair.ir:2096?security=reality&alpn=h2&encryption=none&pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=ec8926fc13a19d95#🔵@chillguy_vpn",
-   "ping": 2161,
-   "best": 1611,
-   "score": 72,
-   "stability": 100,
-   "ts": 1791490526.191835
-  },
-  {
    "id": "180635edac86a200",
    "cfg": "vless://0bd7f421-0422-d0dd-51e1-c5bed64a8983@80.47.239.184:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.tno.nl&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&spx=/HesarWeb#🔵@chillguy_vpn",
    "ping": 5728,
@@ -6562,6 +6535,36 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "3bac585f3289f10e": {
+   "cfg": "vless://475b8f39-acb9-460f-b000-32127248fdb8@Icouldbetheonethatyoudreamof.itsnotfair.ir:1010?security=reality&alpn=h2&encryption=none&pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=bebem.com&sid=ec8926fc13a19d95#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1396,
+   "ts": 1791491448.5084476,
+   "ping": 1729,
+   "score": 78,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "0b9c35308cdd694d": {
+   "cfg": "vless://475b8f39-acb9-460f-b000-32127248fdb8@imtheproblem.itsnotfair.ir:2096?security=reality&alpn=h2&encryption=none&pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=ec8926fc13a19d95#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1397,
+   "ts": 1791491453.8375344,
+   "ping": 1100,
+   "score": 86,
+   "stability": 100,
+   "country": "Türkiye",
+   "repost_count": 0
+  },
+  "fef40bf7e31a541b": {
+   "cfg": "vless://475b8f39-acb9-460f-b000-32127248fdb8@Sogladyouwerearound.itsnotfair.ir:2096?security=reality&alpn=h2&encryption=none&pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=ec8926fc13a19d95#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1398,
+   "ts": 1791491463.6375568,
+   "ping": 2589,
+   "score": 66,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9679,13 +9682,28 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1791490897.817565
+  },
+  "icouldbetheonethatyoudreamof.itsnotfair.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791491447.7032442
+  },
+  "imtheproblem.itsnotfair.ir": {
+   "cc": "TR",
+   "name": "Türkiye",
+   "ts": 1791491453.1384017
+  },
+  "sogladyouwerearound.itsnotfair.ir": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791491462.9378633
   }
  },
  "stats": {
   "date": "2026-10-08",
   "fetched": 189,
   "healthy": 146,
-  "posted": 131,
+  "posted": 134,
   "removed": 0,
   "published_scores": [
    90,
@@ -9818,7 +9836,10 @@
    94,
    91,
    73,
-   47
+   47,
+   78,
+   86,
+   66
   ]
  }
 }
