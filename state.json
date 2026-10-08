@@ -595,7 +595,9 @@
   "feab67f8331f09fe": 1791490526.191835,
   "a75a0e8d7ccbd7df": 1791490526.191835,
   "e0a9c274d1b08413": 1791490526.191835,
-  "749d45a47cd0b94e": 1791490526.191835
+  "749d45a47cd0b94e": 1791490526.191835,
+  "9c6a2c707007946e": 1791494011.5369716,
+  "74aeae3b8163361e": 1791494011.5369716
  },
  "queue": [],
  "posted": {
@@ -6565,6 +6567,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "9c6a2c707007946e": {
+   "cfg": "vless://56795a1d-0ffd-464f-86fb-c5eddd3ecce0@p1tun01.greewebservices.ir:38830?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.google.com&sid=e3085d4f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1400,
+   "ts": 1791494024.445319,
+   "ping": 1495,
+   "score": 81,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9697,13 +9709,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791491462.9378633
+  },
+  "p1tun01.greewebservices.ir": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791494023.6554716
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 189,
-  "healthy": 146,
-  "posted": 135,
+  "fetched": 191,
+  "healthy": 147,
+  "posted": 136,
   "removed": 0,
   "published_scores": [
    90,
@@ -9840,7 +9857,8 @@
    78,
    86,
    66,
-   78
+   78,
+   81
   ]
  }
 }
