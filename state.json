@@ -1,8 +1,5 @@
 {
  "seen": {
-  "9e0a25d03e2bb180": 1791204333.024582,
-  "f03be6f5e18601fb": 1791204333.024582,
-  "6f2e6e6fe1134dec": 1791204333.024582,
   "7244d074ebf8c69c": 1791207046.9749143,
   "2c2926b2ca265bbc": 1791207046.9749143,
   "04befe7b4bea002e": 1791207046.9749143,
@@ -613,7 +610,9 @@
   "e629381ce1d4b940": 1791461727.045217,
   "0262df06c1b24129": 1791462639.521117,
   "49aa8fc3ad8ce1dc": 1791462639.521117,
-  "2a4f9dfac93013be": 1791463163.3940282
+  "2a4f9dfac93013be": 1791463163.3940282,
+  "61e5f57ee1d3ca08": 1791464451.6926715,
+  "d42bd3b9a69583db": 1791464451.6926715
  },
  "queue": [],
  "posted": {
@@ -6103,6 +6102,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "d42bd3b9a69583db": {
+   "cfg": "vless://47c5a33b-a2b0-49ca-bf58-fcc1d5fbf4f8@asia.fire7263.ir:5527?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=RywMRWtTpztZ-WjLRVlLOdTFi3NpWLx1sglNvLIoYHs&sid=11b0b21536dc5a39#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1352,
+   "ts": 1791464472.856917,
+   "ping": 721,
+   "score": 91,
+   "stability": 100,
+   "country": "Switzerland",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9070,13 +9079,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791463168.0372224
+  },
+  "asia.fire7263.ir": {
+   "cc": "CH",
+   "name": "Switzerland",
+   "ts": 1791464471.8331354
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 119,
-  "healthy": 98,
-  "posted": 87,
+  "fetched": 121,
+  "healthy": 99,
+  "posted": 88,
   "removed": 0,
   "published_scores": [
    90,
@@ -9165,7 +9179,8 @@
    92,
    99,
    87,
-   93
+   93,
+   91
   ]
  }
 }
