@@ -596,7 +596,11 @@
   "aa3d731e94191e90": 1791444646.908449,
   "e96af3d00e230a9a": 1791445534.580869,
   "13ae05d009b6a36b": 1791445534.580869,
-  "93afd2154ab1f8b7": 1791445534.580869
+  "93afd2154ab1f8b7": 1791445534.580869,
+  "ffa03d78503fdc4f": 1791447283.7848635,
+  "e0ca0ffbd2ac5119": 1791447283.7848635,
+  "f09d61b340d047d0": 1791447283.7848635,
+  "6e75e372901c2807": 1791447283.7848635
  },
  "queue": [],
  "posted": {
@@ -5676,6 +5680,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "6e75e372901c2807": {
+   "cfg": "vless://d3c9d170-80fa-489a-8ba2-f4cc80d240e3@130.185.121.69:443?path=%2F&security=&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1310,
+   "ts": 1791447290.3793013,
+   "ping": 828,
+   "score": 89,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8553,13 +8567,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791445571.4231756
+  },
+  "130.185.121.69": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791447289.8589952
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 61,
-  "healthy": 54,
-  "posted": 46,
+  "fetched": 65,
+  "healthy": 55,
+  "posted": 47,
   "removed": 0,
   "published_scores": [
    90,
@@ -8607,7 +8626,8 @@
    99,
    99,
    94,
-   93
+   93,
+   89
   ]
  }
 }
