@@ -590,19 +590,11 @@
   "fd2ab2a0e8de3810": 1791440133.4233775,
   "4001f71925226451": 1791440133.4233775,
   "c9fdffed6dd3a7ff": 1791440133.4233775,
-  "b7c8549a8b5e4afe": 1791440133.4233775
+  "b7c8549a8b5e4afe": 1791440133.4233775,
+  "ed45daf12ed68b05": 1791440928.4425359,
+  "d805eff35ce95af5": 1791440928.4425359
  },
- "queue": [
-  {
-   "id": "c9fdffed6dd3a7ff",
-   "cfg": "vless://11bce34b-e248-4af5-a0f1-951c4c5ece45@vl.033.node-for-bigairport.com:443?security=reality&encryption=none&pbk=4tYZTzPnpJQQiG3bExrmT1TBzRMuaBWhFssBRNqrDVU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ap-southeast-1.console.aws.amazon.com&sid=b1a9832f489b#🔵@chillguy_vpn",
-   "ping": 716,
-   "best": 698,
-   "score": 91,
-   "stability": 100,
-   "ts": 1791440133.4233775
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -5490,6 +5482,36 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "ed45daf12ed68b05": {
+   "cfg": "vless://01c2fb74-10b5-452d-b893-67cb528b6a8d@lucky-field-0220.191-de2.workers.dev:8880?&packet-encoding=xudp&sni=lucky-field-0220.191-de2.workers.dev&type=ws&headerType=none&host=lucky-field-0220.191-de2.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1291,
+   "ts": 1791440933.360222,
+   "ping": 60,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "d805eff35ce95af5": {
+   "cfg": "vless://a8c23fe7-d2bb-46ba-a14e-8847f1944642@104.16.100.215:8880?&packet-encoding=xudp&type=ws&headerType=none&host=billowing-fire-a10b.301-d6c.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1292,
+   "ts": 1791440933.894003,
+   "ping": 98,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "c9fdffed6dd3a7ff": {
+   "cfg": "vless://11bce34b-e248-4af5-a0f1-951c4c5ece45@vl.033.node-for-bigairport.com:443?security=reality&encryption=none&pbk=4tYZTzPnpJQQiG3bExrmT1TBzRMuaBWhFssBRNqrDVU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ap-southeast-1.console.aws.amazon.com&sid=b1a9832f489b#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1293,
+   "ts": 1791440938.0441816,
+   "ping": 683,
+   "score": 91,
+   "stability": 100,
+   "country": "Singapore",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8342,13 +8364,23 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791440147.730586
+  },
+  "lucky-field-0220.191-de2.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791440932.6929672
+  },
+  "vl.033.node-for-bigairport.com": {
+   "cc": "SG",
+   "name": "Singapore",
+   "ts": 1791440937.271821
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 41,
-  "healthy": 36,
-  "posted": 27,
+  "fetched": 43,
+  "healthy": 38,
+  "posted": 30,
   "removed": 0,
   "published_scores": [
    90,
@@ -8377,7 +8409,10 @@
    49,
    95,
    93,
-   92
+   92,
+   99,
+   99,
+   91
   ]
  }
 }
