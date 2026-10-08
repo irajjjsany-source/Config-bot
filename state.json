@@ -589,7 +589,9 @@
   "f92a4612c82eeb6d": 1791431130.3818083,
   "224171e5534ff2f0": 1791431130.3818083,
   "9786662c3db66d97": 1791432815.1929038,
-  "ce8fa7ba29471743": 1791432815.1929038
+  "ce8fa7ba29471743": 1791432815.1929038,
+  "11009f3c0976e3c9": 1791434730.540865,
+  "f51a2f48a9962530": 1791434730.540865
  },
  "queue": [],
  "posted": {
@@ -5309,6 +5311,26 @@
    "stability": 100,
    "country": "Spain",
    "repost_count": 0
+  },
+  "f51a2f48a9962530": {
+   "cfg": "vless://d7edbdf0-11b5-4032-b9c9-3e3fc907fe4f@it.geconnecction.com:443?security=reality&encryption=none&pbk=AFTJFoYhjhTiZSrW5v6L0FR6riLbuXwm1pTrHSG073I&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=it.geconnecction.com&sid=c5e512a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1274,
+   "ts": 1791434738.053255,
+   "ping": 409,
+   "score": 95,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
+  },
+  "11009f3c0976e3c9": {
+   "cfg": "vless://d7edbdf0-11b5-4032-b9c9-3e3fc907fe4f@1.geconnecction.com:443?security=reality&encryption=none&pbk=2z3Whsn_f2FOIAR1_f7HBKA9p6xMC2eKYCbzJwI0fUY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=1.geconnecction.com&sid=f9f160f0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1275,
+   "ts": 1791434738.7049594,
+   "ping": 433,
+   "score": 94,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8116,13 +8138,23 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791432820.768454
+  },
+  "it.geconnecction.com": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791434737.3045678
+  },
+  "1.geconnecction.com": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791434738.0533426
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 21,
-  "healthy": 18,
-  "posted": 10,
+  "fetched": 23,
+  "healthy": 20,
+  "posted": 12,
   "removed": 0,
   "published_scores": [
    90,
@@ -8134,6 +8166,8 @@
    95,
    100,
    96,
+   94,
+   95,
    94
   ]
  }
