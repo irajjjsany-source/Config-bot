@@ -1,13 +1,5 @@
 {
  "seen": {
-  "ac3d26cd29b47ce3": 1791190855.7682946,
-  "a34344bdd0a1b747": 1791190855.7682946,
-  "10081c094a3a55c1": 1791191124.2377954,
-  "4f85c15d248b7d47": 1791191124.2377954,
-  "1cc2c6821b566e52": 1791191124.2377954,
-  "d4ed5fe27773992d": 1791191732.349102,
-  "5fb296372da58780": 1791191732.349102,
-  "b591b2212b908ed0": 1791191732.349102,
   "d0e1346cb5ada7c6": 1791192614.377644,
   "d715b7b684b385cc": 1791192614.377644,
   "dfb8716c057c0f5b": 1791192614.377644,
@@ -613,7 +605,9 @@
   "49a85beaefd82370": 1791448705.8007288,
   "5a458155e0d5937d": 1791449135.500579,
   "5bdea88a92b54dfc": 1791449135.500579,
-  "933f27beeb813795": 1791449135.500579
+  "933f27beeb813795": 1791449135.500579,
+  "ed83bf5a1efb1c86": 1791450941.2692597,
+  "fc5ec501b1db3077": 1791450941.2692597
  },
  "queue": [],
  "posted": {
@@ -5843,6 +5837,26 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "ed83bf5a1efb1c86": {
+   "cfg": "vmess://eyJhZGQiOiAiZmVydGVzdDEucG92cmFrLmlyIiwgImFpZCI6ICIwIiwgImlkIjogIjZjZWNhYWFkLWZhZGMtNGYxYy05YTc5LWI1ZjdmYTk5NTA3NiIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAzNzQ4MywgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==",
+   "msg": 1325,
+   "ts": 1791450948.9759634,
+   "ping": 371,
+   "score": 95,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
+  },
+  "fc5ec501b1db3077": {
+   "cfg": "vless://b45bf6a8-c7eb-437b-80e6-ea9de56ed06a@english.povrak.ir:39373?encryption=mlkem768x25519plus.native.0rtt.v59e-XvZ4_lM_de_LHmhEyuZ9RvnzlN3kYMASe34yy0&security=none&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1326,
+   "ts": 1791450949.5358372,
+   "ping": 467,
+   "score": 94,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8755,13 +8769,18 @@
    "cc": "SG",
    "name": "Singapore",
    "ts": 1791450061.9710863
+  },
+  "fertest1.povrak.ir": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791450948.1795454
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 86,
-  "healthy": 72,
-  "posted": 61,
+  "fetched": 88,
+  "healthy": 74,
+  "posted": 63,
   "removed": 0,
   "published_scores": [
    90,
@@ -8824,7 +8843,9 @@
    88,
    69,
    92,
-   92
+   92,
+   95,
+   94
   ]
  }
 }
