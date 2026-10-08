@@ -619,7 +619,8 @@
   "27ba38f4ad1a97b6": 1791464627.137996,
   "730e8df7fd6292c9": 1791464627.137996,
   "b3bbaf011dee38c9": 1791465328.239369,
-  "74dfe9299fcc2946": 1791465328.239369
+  "74dfe9299fcc2946": 1791465328.239369,
+  "56dbeb60063a0edb": 1791466239.6656842
  },
  "queue": [],
  "posted": {
@@ -6179,6 +6180,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "56dbeb60063a0edb": {
+   "cfg": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@103.241.65.169:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb.srv.dvzh.net&sid=d30f9d846a7c8cba#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1359,
+   "ts": 1791466244.1969612,
+   "ping": 390,
+   "score": 95,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9151,13 +9162,18 @@
    "cc": "CH",
    "name": "Switzerland",
    "ts": 1791464471.8331354
+  },
+  "103.241.65.169": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791466243.6701093
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 128,
-  "healthy": 105,
-  "posted": 94,
+  "fetched": 129,
+  "healthy": 106,
+  "posted": 95,
   "removed": 0,
   "published_scores": [
    90,
@@ -9253,7 +9269,8 @@
    93,
    88,
    89,
-   84
+   84,
+   95
   ]
  }
 }
