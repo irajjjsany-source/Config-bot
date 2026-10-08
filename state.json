@@ -591,17 +591,7 @@
   "2ba4b01720af29b3": 1791443733.93626,
   "90df611e6a91ed34": 1791443733.93626
  },
- "queue": [
-  {
-   "id": "ea7b8072df358353",
-   "cfg": "vless://78b73cc4-8c3c-40ce-bb74-d5dcd3277c67@172.64.153.11:8880?&packet-encoding=xudp&type=ws&headerType=none&host=white-hill-f907.23-b68.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🔵@chillguy_vpn",
-   "ping": 93,
-   "best": 79,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791443733.93626
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -5579,6 +5569,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "ea7b8072df358353": {
+   "cfg": "vless://78b73cc4-8c3c-40ce-bb74-d5dcd3277c67@172.64.153.11:8880?&packet-encoding=xudp&type=ws&headerType=none&host=white-hill-f907.23-b68.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1300,
+   "ts": 1791443858.5787075,
+   "ping": 35,
+   "score": 100,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8452,7 +8452,7 @@
   "date": "2026-10-08",
   "fetched": 50,
   "healthy": 45,
-  "posted": 36,
+  "posted": 37,
   "removed": 0,
   "published_scores": [
    90,
@@ -8490,7 +8490,8 @@
    98,
    99,
    99,
-   99
+   99,
+   100
   ]
  }
 }
