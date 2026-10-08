@@ -614,7 +614,11 @@
   "3607981cbfb43a24": 1791452728.5213175,
   "343a5a47b89c8650": 1791452728.5213175,
   "6c69edcae9b38822": 1791452728.5213175,
-  "dfb8716c057c0f5b": 1791452728.5213175
+  "dfb8716c057c0f5b": 1791452728.5213175,
+  "fbfb65e4895f89e3": 1791453648.6354842,
+  "7b2e9e908330a58b": 1791453648.6354842,
+  "3ed30d3597af089c": 1791453648.6354842,
+  "3a801bee0d79e3dd": 1791453648.6354842
  },
  "queue": [],
  "posted": {
@@ -5964,6 +5968,36 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "3ed30d3597af089c": {
+   "cfg": "vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@172.66.170.53:8880?type=ws&host=summer-snow-c151.320-3ef.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1337,
+   "ts": 1791453685.1587832,
+   "ping": 43,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "7b2e9e908330a58b": {
+   "cfg": "vless://7c1a2143-8047-4649-9bb6-3c7821f14110@gril1.sublinkplas.ir:15694?security=reality&encryption=none&pbk=BY0QfaqwH2Kv1WUU584R7NHcm4Z1Praq5YuYGrJ1BkM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ajax.googleapis.com&sid=aa74a7a98e86f2ed#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1338,
+   "ts": 1791453685.8272176,
+   "ping": 769,
+   "score": 90,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "fbfb65e4895f89e3": {
+   "cfg": "vless://7c1a2143-8047-4649-9bb6-3c7821f14110@fnil1.sublinkplas.ir:15694?security=reality&encryption=none&pbk=BY0QfaqwH2Kv1WUU584R7NHcm4Z1Praq5YuYGrJ1BkM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=ajax.googleapis.com&sid=3e5cba1bd6eb6221#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1339,
+   "ts": 1791453686.4541097,
+   "ping": 824,
+   "score": 89,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8910,9 +8944,9 @@
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 99,
-  "healthy": 84,
-  "posted": 73,
+  "fetched": 103,
+  "healthy": 87,
+  "posted": 76,
   "removed": 0,
   "published_scores": [
    90,
@@ -8987,7 +9021,10 @@
    95,
    94,
    92,
-   90
+   90,
+   99,
+   90,
+   89
   ]
  }
 }
