@@ -1,31 +1,5 @@
 {
  "seen": {
-  "60dd6ae55d86f371": 1791235933.3582056,
-  "1fdeae143e2cfcb3": 1791235933.3582056,
-  "6906d90e62b4ee2a": 1791235933.3582056,
-  "b42413545b4568aa": 1791235933.3582056,
-  "69af5055695b6a81": 1791235933.3582056,
-  "e918d12e97d821d7": 1791235933.3582056,
-  "fe9242c0814c4619": 1791235933.3582056,
-  "6ed10465578d2e24": 1791235933.3582056,
-  "807498ef33bbb373": 1791235933.3582056,
-  "2ae3dd0fbdd7448c": 1791235933.3582056,
-  "bb4fbacc2f9678de": 1791235933.3582056,
-  "86c0d616a5a92720": 1791235933.3582056,
-  "8d5929892e98f2fa": 1791235933.3582056,
-  "21e637e1510b0833": 1791235933.3582056,
-  "e8a6da0259db19b9": 1791235933.3582056,
-  "30f98f3d34592319": 1791235933.3582056,
-  "24d6e9593e5e838b": 1791235933.3582056,
-  "b6115d002af2287d": 1791235933.3582056,
-  "d90c4b2fe36a05d8": 1791235933.3582056,
-  "96931e1b84fa20e8": 1791235933.3582056,
-  "95dfc6a478721025": 1791235933.3582056,
-  "4d1fca0f3ff698f3": 1791235933.3582056,
-  "377fb9b351e211b7": 1791235933.3582056,
-  "97ff56d8977e48e9": 1791235933.3582056,
-  "b1a89a087ed0ed13": 1791235933.3582056,
-  "36ad75a28edebc2b": 1791235933.3582056,
   "6c544c376f1d5bdf": 1791236352.1896415,
   "e968542b699d1c37": 1791236352.1896415,
   "6c426a347c005ec8": 1791236352.1896415,
@@ -613,33 +587,6 @@
   "407199537e793288": 1791495036.4023936
  },
  "queue": [
-  {
-   "id": "7709929e8338dd18",
-   "cfg": "vless://e81e1114-99b5-4fea-aafc-84426e845a14@f0b7.n9ne.com.tr:35306?security=reality&encryption=none&pbk=NHurz_4uphCHgIbrnr3HRzfsq-LmIaPaUopWwHNJ8HU&host=n9ne.com.tr&headerType=none&fp=qq&type=tcp&sni=n9ne.com.tr&sid=ceb4496ab0cc7a9f#🔵@chillguy_vpn",
-   "ping": 1050,
-   "best": 1013,
-   "score": 86,
-   "stability": 100,
-   "ts": 1791495036.4023936
-  },
-  {
-   "id": "5d01afba01d79a5a",
-   "cfg": "vless://7f0eb17f-c870-40d1-b227-53887811dd5c@ir3.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nobitex.ir&sid=aefc7f3722#🔵@chillguy_vpn",
-   "ping": 1094,
-   "best": 917,
-   "score": 86,
-   "stability": 100,
-   "ts": 1791495036.4023936
-  },
-  {
-   "id": "3085ba9a041505e6",
-   "cfg": "vless://e81e1114-99b5-4fea-aafc-84426e845a14@382d.n9ne.com.tr:33303?security=reality&encryption=none&pbk=p6B2mBPsdjNOY64TTplBXRcsrh3sL0SzqVlbyCRR8Us&host=n9ne.com.tr&headerType=none&fp=qq&type=tcp&sni=n9ne.com.tr&sid=dd4ef91df2f00d60#🔵@chillguy_vpn",
-   "ping": 2199,
-   "best": 747,
-   "score": 71,
-   "stability": 100,
-   "ts": 1791495036.4023936
-  },
   {
    "id": "8716a1a23f6f4774",
    "cfg": "vless://e81e1114-99b5-4fea-aafc-84426e845a14@bb9c.n9ne.com.tr:31315?security=reality&encryption=none&pbk=G_fcBwJ4uL_Vvh99Xjxto1Cq70t2QlTjhIgz4jty6hk&host=n9ne.com.tr&headerType=none&fp=qq&type=tcp&sni=n9ne.com.tr&sid=59ecc680e8ea79d1#🔵@chillguy_vpn",
@@ -6684,6 +6631,36 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "7709929e8338dd18": {
+   "cfg": "vless://e81e1114-99b5-4fea-aafc-84426e845a14@f0b7.n9ne.com.tr:35306?security=reality&encryption=none&pbk=NHurz_4uphCHgIbrnr3HRzfsq-LmIaPaUopWwHNJ8HU&host=n9ne.com.tr&headerType=none&fp=qq&type=tcp&sni=n9ne.com.tr&sid=ceb4496ab0cc7a9f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1404,
+   "ts": 1791495285.6063197,
+   "ping": 1323,
+   "score": 83,
+   "stability": 100,
+   "country": "Iceland",
+   "repost_count": 0
+  },
+  "5d01afba01d79a5a": {
+   "cfg": "vless://7f0eb17f-c870-40d1-b227-53887811dd5c@ir3.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nobitex.ir&sid=aefc7f3722#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1405,
+   "ts": 1791495291.6886356,
+   "ping": 1299,
+   "score": 83,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
+  },
+  "3085ba9a041505e6": {
+   "cfg": "vless://e81e1114-99b5-4fea-aafc-84426e845a14@382d.n9ne.com.tr:33303?security=reality&encryption=none&pbk=p6B2mBPsdjNOY64TTplBXRcsrh3sL0SzqVlbyCRR8Us&host=n9ne.com.tr&headerType=none&fp=qq&type=tcp&sni=n9ne.com.tr&sid=dd4ef91df2f00d60#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1406,
+   "ts": 1791495297.5902798,
+   "ping": 1249,
+   "score": 84,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9836,13 +9813,28 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791495140.35276
+  },
+  "f0b7.n9ne.com.tr": {
+   "cc": "IS",
+   "name": "Iceland",
+   "ts": 1791495284.776631
+  },
+  "ir3.mobileemdad.top": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791495290.8276987
+  },
+  "382d.n9ne.com.tr": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791495296.7619398
   }
  },
  "stats": {
   "date": "2026-10-08",
   "fetched": 204,
   "healthy": 157,
-  "posted": 139,
+  "posted": 142,
   "removed": 0,
   "published_scores": [
    90,
@@ -9983,7 +9975,10 @@
    81,
    95,
    91,
-   88
+   88,
+   83,
+   83,
+   84
   ]
  }
 }
