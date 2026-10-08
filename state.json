@@ -593,7 +593,10 @@
   "f51a2f48a9962530": 1791434730.540865,
   "f9a01d47b2efc448": 1791435479.9482138,
   "185d04b075566a69": 1791435479.9482138,
-  "1b0595e1775b48bb": 1791435479.9482138
+  "1b0595e1775b48bb": 1791435479.9482138,
+  "5c19722bbc25dc91": 1791436530.4445026,
+  "1e35ab43938ad932": 1791436530.4445026,
+  "a751d59474bc873e": 1791436530.4445026
  },
  "queue": [],
  "posted": {
@@ -5363,6 +5366,36 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "a751d59474bc873e": {
+   "cfg": "vless://160ca353-676d-4b7f-a041-0289e388b865@172.66.140.62:8880?&packet-encoding=xudp&type=ws&headerType=none&host=proud-cloud-7bdd.208-a52.workers.dev&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1279,
+   "ts": 1791436536.213881,
+   "ping": 22,
+   "score": 100,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "5c19722bbc25dc91": {
+   "cfg": "vless://34ce8760-24ed-41e7-a1f5-aa6c2660a53c@188.114.97.6:8080?&packet-encoding=xudp&type=ws&headerType=none&host=quiet-frost-ac61.333-07d.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1280,
+   "ts": 1791436536.6796038,
+   "ping": 40,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "1e35ab43938ad932": {
+   "cfg": "vless://16586b3b-9e26-4fe9-b137-389ea48f088c@104.26.13.40:8880?&packet-encoding=xudp&sni=ancient-glade-34d6.6-07d.workers.dev&type=ws&headerType=none&host=ancient-glade-34d6.6-07d.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1281,
+   "ts": 1791436537.1373508,
+   "ping": 55,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8189,9 +8222,9 @@
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 26,
-  "healthy": 23,
-  "posted": 15,
+  "fetched": 29,
+  "healthy": 26,
+  "posted": 18,
   "removed": 0,
   "published_scores": [
    90,
@@ -8208,7 +8241,10 @@
    94,
    95,
    95,
-   94
+   94,
+   100,
+   99,
+   99
   ]
  }
 }
