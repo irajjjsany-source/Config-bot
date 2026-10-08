@@ -1,9 +1,5 @@
 {
  "seen": {
-  "2cffc9de2904646b": 1791213331.1494372,
-  "44e7085559b85fee": 1791213331.1494372,
-  "919d8189297fa2ac": 1791213331.1494372,
-  "e94c3ae1a6253438": 1791213331.1494372,
   "ebce5ef088e5b59f": 1791215132.141537,
   "7bd218f92abee086": 1791215132.141537,
   "8ec8aba08797e42d": 1791215132.141537,
@@ -616,7 +612,17 @@
   "620abfc34a13687c": 1791471648.517328,
   "0d5da09baa513ece": 1791471648.517328,
   "5fa3c8aebf4af0db": 1791471648.517328,
-  "e39b5562cbd7e962": 1791471648.517328
+  "e39b5562cbd7e962": 1791471648.517328,
+  "50bb143b88c32a27": 1791473441.127979,
+  "baa17e2c1e34911f": 1791473441.127979,
+  "9844c5a87e224476": 1791473441.127979,
+  "967665f5e41b321e": 1791473441.127979,
+  "138a293aff5fd3ea": 1791473441.127979,
+  "8f47e7d64a482589": 1791473441.127979,
+  "166893efeda44bd8": 1791473441.127979,
+  "4cb3afc2fd1b93ac": 1791473441.127979,
+  "b55f7d4573135490": 1791473441.127979,
+  "63d9de3a5fa8a609": 1791473441.127979
  },
  "queue": [],
  "posted": {
@@ -6226,6 +6232,36 @@
    "stability": 100,
    "country": "Netherlands",
    "repost_count": 0
+  },
+  "baa17e2c1e34911f": {
+   "cfg": "vless://a6be94fc-e742-4714-8a38-c8d7410ae066@185.155.55.3:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1364,
+   "ts": 1791473528.0137208,
+   "ping": 557,
+   "score": 93,
+   "stability": 100,
+   "country": "Estonia",
+   "repost_count": 0
+  },
+  "63d9de3a5fa8a609": {
+   "cfg": "vless://d2519b5e-495e-462e-9703-bbf68011d2f3@ijug.jffq.electrocitymarket.ru:443?mode=stream-up&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=ijug.jffq.electrocitymarket.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1365,
+   "ts": 1791473528.7120564,
+   "ping": 807,
+   "score": 90,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
+  },
+  "166893efeda44bd8": {
+   "cfg": "vless://fd260c22-c5a9-47fc-bb68-5b3e890ee7c4@31.76.8.154:443?security=reality&encryption=none&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi2.yservice.help&sid=abcd1234#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1366,
+   "ts": 1791473529.4432065,
+   "ping": 2806,
+   "score": 64,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9223,13 +9259,28 @@
    "cc": "NL",
    "name": "Netherlands",
    "ts": 1791471690.4849656
+  },
+  "185.155.55.3": {
+   "cc": "EE",
+   "name": "Estonia",
+   "ts": 1791473527.3014977
+  },
+  "ijug.jffq.electrocitymarket.ru": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791473528.0139272
+  },
+  "31.76.8.154": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791473528.7121747
   }
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 137,
-  "healthy": 110,
-  "posted": 99,
+  "fetched": 147,
+  "healthy": 113,
+  "posted": 102,
   "removed": 0,
   "published_scores": [
    90,
@@ -9330,7 +9381,10 @@
    93,
    89,
    96,
-   68
+   68,
+   93,
+   90,
+   64
   ]
  }
 }
