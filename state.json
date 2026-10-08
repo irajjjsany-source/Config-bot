@@ -1,6 +1,5 @@
 {
  "seen": {
-  "b9bcf9bafcb323c5": 1791185325.7902153,
   "458a52397c8dd59f": 1791187252.1228788,
   "361220f133e43e8a": 1791187252.1228788,
   "b8feaccc625569de": 1791187252.1228788,
@@ -589,9 +588,45 @@
   "ea7b8072df358353": 1791443733.93626,
   "64a69e5369485bd7": 1791443733.93626,
   "2ba4b01720af29b3": 1791443733.93626,
-  "90df611e6a91ed34": 1791443733.93626
+  "90df611e6a91ed34": 1791443733.93626,
+  "c6c83e95f803c895": 1791444646.908449,
+  "465692a8bf78b88b": 1791444646.908449,
+  "dad9cc3fad1d0f15": 1791444646.908449,
+  "18b2842254cc8201": 1791444646.908449,
+  "785e236337b995b1": 1791444646.908449,
+  "2a7cca84683e73a7": 1791444646.908449,
+  "b0da0884d572b8df": 1791444646.908449,
+  "aa3d731e94191e90": 1791444646.908449
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "2a7cca84683e73a7",
+   "cfg": "vless://daf485ba-60fc-4166-a72c-8d2a5407cbc5@188.114.97.6:8080?path=%2Fvl%2FzM8ELyqEIYeZ3ijacV9kuK%3Fed&security=none&encryption=none&host=kievh9yxcgg14-gy4wxqcav0pegkd.d-0ezpk5xp5wk8ltdgb6evlpgc-jin.workers.dev&type=ws#🔵@chillguy_vpn",
+   "ping": 95,
+   "best": 91,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791444646.908449
+  },
+  {
+   "id": "c6c83e95f803c895",
+   "cfg": "vless://e431026f-d605-4a52-8b3b-0912a68dc9d1@188.114.97.6:8080?&packet-encoding=xudp&type=ws&headerType=none&host=sparkling-shadow-481d.342-429.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🔵@chillguy_vpn",
+   "ping": 96,
+   "best": 85,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791444646.908449
+  },
+  {
+   "id": "b0da0884d572b8df",
+   "cfg": "vless://e5583623-53ef-4177-8070-8c553f70bcfa@172.67.214.193:2086?&packet-encoding=xudp&sni=172.67.214.193&type=ws&headerType=none&host=fvfb8xac5j0nthxzqf.dr5945ov0z598kfft573isahdj3fmmv4.workers.dev&path=%2Fvl%2FNnAT20AqcYOuOLe1r#🔵@chillguy_vpn",
+   "ping": 116,
+   "best": 81,
+   "score": 98,
+   "stability": 100,
+   "ts": 1791444646.908449
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -5579,6 +5614,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "dad9cc3fad1d0f15": {
+   "cfg": "vless://afb13fa2-bba2-417f-b8c2-62565f92a78d@172.66.140.62:8880?&security=none&type=ws&headerType=&host=orange-block-5cd1.124-199.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1301,
+   "ts": 1791444660.9521487,
+   "ping": 78,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "18b2842254cc8201": {
+   "cfg": "vless://afb13fa2-bba2-417f-b8c2-62565f92a78d@www.gov.ua:8880?&packet-encoding=xudp&type=ws&headerType=none&host=orange-block-5cd1.124-199.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1302,
+   "ts": 1791444661.6651402,
+   "ping": 86,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "785e236337b995b1": {
+   "cfg": "vless://3a38b35b-7b31-452c-954f-99c2f45dda19@172.66.170.53:8880?&packet-encoding=xudp&type=ws&headerType=none&host=sweet-truth-0f0c.71-fca.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1303,
+   "ts": 1791444662.289421,
+   "ping": 95,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -6240,7 +6305,7 @@
   "www.gov.ua": {
    "cc": "CA",
    "name": "Canada",
-   "ts": 1790839704.7111604
+   "ts": 1791444660.952272
   },
   "104.21.55.229": {
    "cc": "CA",
@@ -8450,9 +8515,9 @@
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 50,
-  "healthy": 45,
-  "posted": 37,
+  "fetched": 58,
+  "healthy": 51,
+  "posted": 40,
   "removed": 0,
   "published_scores": [
    90,
@@ -8491,7 +8556,10 @@
    99,
    99,
    99,
-   100
+   100,
+   99,
+   99,
+   99
   ]
  }
 }
