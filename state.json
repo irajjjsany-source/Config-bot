@@ -616,7 +616,8 @@
   "18bddfc36865f852": 1791456326.0943503,
   "55b0a39affad11cd": 1791456326.0943503,
   "36161b44a05f145f": 1791456326.0943503,
-  "68bf9ff75b9b18e3": 1791460847.220562
+  "68bf9ff75b9b18e3": 1791460847.220562,
+  "e629381ce1d4b940": 1791461727.045217
  },
  "queue": [],
  "posted": {
@@ -6076,6 +6077,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "e629381ce1d4b940": {
+   "cfg": "vless://df5dc160-3764-4e6b-805d-1286ea701310@172.67.68.240:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=none&host=dawn-mode-a061.444-a0e.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1349,
+   "ts": 1791461730.0721312,
+   "ping": 51,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9042,9 +9053,9 @@
  },
  "stats": {
   "date": "2026-10-08",
-  "fetched": 115,
-  "healthy": 95,
-  "posted": 84,
+  "fetched": 116,
+  "healthy": 96,
+  "posted": 85,
   "removed": 0,
   "published_scores": [
    90,
@@ -9130,7 +9141,8 @@
    94,
    89,
    90,
-   92
+   92,
+   99
   ]
  }
 }
