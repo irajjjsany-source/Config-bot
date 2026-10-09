@@ -683,7 +683,10 @@
   "3ba4a8eaed2ba8f5": 1791548128.2252336,
   "f296b5a0ea5cb39b": 1791548128.2252336,
   "d0e1346cb5ada7c6": 1791548128.2252336,
-  "b3d37ccae1277e8f": 1791548745.6405838
+  "b3d37ccae1277e8f": 1791548745.6405838,
+  "70ae10ea56bc0ac5": 1791549633.1340861,
+  "e01309cda21c4a71": 1791549633.1340861,
+  "509716d7716140bb": 1791549633.1340861
  },
  "queue": [],
  "posted": {
@@ -7883,6 +7886,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "70ae10ea56bc0ac5": {
+   "cfg": "vless://38fee130-d773-4bf5-bbf8-20fc0af7fcf0@68193c4c863d1190.tunvi.w-ert.org:442?mode=auto&path=%2F&security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&fp=chrome&type=xhttp&sni=www.aparat.com&sid=ca4134a0ed2592b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1530,
+   "ts": 1791549649.02134,
+   "ping": 1671,
+   "score": 78,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -11245,13 +11258,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791546270.5559082
+  },
+  "68193c4c863d1190.tunvi.w-ert.org": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791549648.491721
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 126,
-  "healthy": 106,
-  "posted": 105,
+  "fetched": 129,
+  "healthy": 107,
+  "posted": 106,
   "removed": 0,
   "published_scores": [
    89,
@@ -11358,7 +11376,8 @@
    59,
    92,
    88,
-   87
+   87,
+   78
   ]
  }
 }
