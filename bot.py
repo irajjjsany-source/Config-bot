@@ -530,22 +530,37 @@ def mode_post():
     else:
         print("posted this run:", posted_this_run)
 
+    if len(posted) > MAX_POSTED:
+        drop = sorted(posted, key=lambda k: posted[k].get("ts", 0))[:len(posted) - MAX_POSTED]
+        for k in drop:
+            del posted[k]
+
     save_state(st)
 
 
-def channel_post_views(message_id):
-    """بازدید یک پست کانال عمومی را از صفحه t.me/s می‌خواند.
-    فقط وقتی پست واقعاً شامل کانفیگ باشد view برمی‌گرداند؛ پست‌های تبلیغاتی/متنی نادیده گرفته می‌شوند.
-    """
+def fetch_channel_page():
+    """صفحه‌ی پیش‌نمایش عمومی کانال خودمون رو یک بار می‌گیره تا توی یک اجرا بارها دانلود نشه"""
     try:
-        html_text = http_get("https://t.me/s/" + TARGET_CHANNEL.lstrip("@"))
+        return http_get("https://t.me/s/" + TARGET_CHANNEL.lstrip("@"))
+    except Exception as e:
+        print("channel page fetch failed:", type(e).__name__)
+        return None
+
+
+def channel_post_views(page_html, message_id):
+    """بازدید یک پست رو از متنِ از قبل گرفته‌شده‌ی صفحه‌ی کانال می‌خونه.
+    فقط وقتی پست واقعاً شامل کانفیگ باشه view برمی‌گردونه؛ پست‌های تبلیغاتی/متنی نادیده گرفته می‌شن.
+    """
+    if page_html is None:
+        return None, False
+    try:
         marker = 'data-post="%s/%s"' % (TARGET_CHANNEL.lstrip("@"), message_id)
-        pos = html_text.find(marker)
+        pos = page_html.find(marker)
         if pos < 0:
             return None, False
-        start = html_text.rfind('<div class="tgme_widget_message_wrap', 0, pos)
-        end = html_text.find('<div class="tgme_widget_message_wrap', pos + len(marker))
-        block = html_text[start:end if end >= 0 else len(html_text)]
+        start = page_html.rfind('<div class="tgme_widget_message_wrap', 0, pos)
+        end = page_html.find('<div class="tgme_widget_message_wrap', pos + len(marker))
+        block = page_html[start:end if end >= 0 else len(page_html)]
         if not CFG_RE.search(html.unescape(block)):
             return None, False
         m = re.search(r'class="tgme_widget_message_views"[^>]*>([^<]+)<', block)
@@ -562,7 +577,7 @@ def channel_post_views(message_id):
         views = int(float(raw) * mult)
         return views, True
     except Exception as e:
-        print("views lookup failed:", type(e).__name__)
+        print("views parse failed:", type(e).__name__)
         return None, False
 
 
@@ -579,13 +594,14 @@ def mode_clean():
     now = time.time()
     low_view = set()
     config_items = []
+    page_html = fetch_channel_page()
 
     # فقط پست‌هایی که واقعاً کانفیگ هستند وارد این چرخه می‌شوند.
     for i, v in items:
         age = now - v.get("ts", now)
         if age < VIEW_GRACE:
             continue
-        views, is_config = channel_post_views(v["msg"])
+        views, is_config = channel_post_views(page_html, v["msg"])
         if not is_config:
             print("non-config post ignored:", i)
             continue
