@@ -686,7 +686,10 @@
   "b3d37ccae1277e8f": 1791548745.6405838,
   "70ae10ea56bc0ac5": 1791549633.1340861,
   "e01309cda21c4a71": 1791549633.1340861,
-  "509716d7716140bb": 1791549633.1340861
+  "509716d7716140bb": 1791549633.1340861,
+  "468e06d79288f767": 1791549929.1225069,
+  "2368270731fb326e": 1791549929.1225069,
+  "865ed1cbdcaace83": 1791549929.1225069
  },
  "queue": [],
  "posted": {
@@ -7896,6 +7899,36 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "2368270731fb326e": {
+   "cfg": "vless://3661f782-96ab-43f1-ba97-847195fc2ecb@dns11.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1531,
+   "ts": 1791549945.406135,
+   "ping": 565,
+   "score": 93,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "468e06d79288f767": {
+   "cfg": "vmess://eyJhZGQiOiAiMTkzLjE2NC4xNTUuMjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjU1NTFkMmU4LWQzZDQtNDJkMi05NWM4LWZiNzgwYjRmNmU2ZCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI2MDM5MiIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
+   "msg": 1532,
+   "ts": 1791549946.0897856,
+   "ping": 717,
+   "score": 91,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
+  },
+  "865ed1cbdcaace83": {
+   "cfg": "vless://ce73d2b8-13ea-4b8b-b7f7-8ec9cf7efe1d@31.56.180.42:443?security=reality&encryption=none&pbk=miGe3_kafjYo0ynErSJn15jkhFwbI143sEOD823Wxjc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl8.limehub.online&sid=65dc600a1bec9726#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1533,
+   "ts": 1791549946.7699037,
+   "ping": 1196,
+   "score": 84,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -11263,13 +11296,23 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791549648.491721
+  },
+  "dns11.m3hrzd.ir": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791549944.5426695
+  },
+  "31.56.180.42": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791549946.0899177
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 129,
-  "healthy": 107,
-  "posted": 106,
+  "fetched": 132,
+  "healthy": 110,
+  "posted": 109,
   "removed": 0,
   "published_scores": [
    89,
@@ -11377,7 +11420,10 @@
    92,
    88,
    87,
-   78
+   78,
+   93,
+   91,
+   84
   ]
  }
 }
