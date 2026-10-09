@@ -574,7 +574,10 @@
   "f1dc728a5dc84c8d": 1791513877.996244,
   "b46f554d480cc51c": 1791513877.996244,
   "0437291afb15612d": 1791513877.996244,
-  "508198fceb0fe2da": 1791513877.996244
+  "508198fceb0fe2da": 1791513877.996244,
+  "82e5c4c4a8aef1cc": 1791515726.1089938,
+  "94a57c0397fd74c7": 1791515726.1089938,
+  "a6effe7f1ffa02a0": 1791515726.1089938
  },
  "queue": [],
  "posted": {
@@ -6774,6 +6777,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "82e5c4c4a8aef1cc": {
+   "cfg": "vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@104.25.217.123:2086?security=none&type=ws&path=/eyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ==?ed=2560&host=misty-bread-fd96.salehinezhadali.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1424,
+   "ts": 1791515732.6900837,
+   "ping": 79,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "94a57c0397fd74c7": {
+   "cfg": "vless://78b73cc4-8c3c-40ce-bb74-d5dcd3277c67@104.18.34.245:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=white-hill-f907.23-b68.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1425,
+   "ts": 1791515733.27037,
+   "ping": 83,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "a6effe7f1ffa02a0": {
+   "cfg": "vless://ae0e6518-71ab-4f4b-87d1-7802765f52ba@172.67.178.142:8880?encryption=none&security=none&sni=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&fp=chrome&type=ws&host=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&path=%2Fvl%2FBo5RdqRiWZlPNpQ5DfueEJoS%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1426,
+   "ts": 1791515733.8075554,
+   "ping": 85,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -9996,16 +10029,24 @@
    "cc": "RO",
    "name": "Romania",
    "ts": 1791504052.6447694
+  },
+  "104.25.217.123": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791515732.0430572
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 4,
-  "healthy": 4,
-  "posted": 5,
+  "fetched": 7,
+  "healthy": 7,
+  "posted": 8,
   "removed": 0,
   "published_scores": [
    89,
+   99,
+   99,
+   99,
    99,
    99,
    99,
