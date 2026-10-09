@@ -604,18 +604,13 @@
   "225ae8a12bbb68b8": 1791524089.9943202,
   "852631a0c8e4dc08": 1791524089.9943202,
   "14ff9eb11ae81337": 1791524089.9943202,
-  "287832341a926a70": 1791524089.9943202
+  "287832341a926a70": 1791524089.9943202,
+  "edf8035da4e4b1d5": 1791525480.5523481,
+  "587f34ca6628aa32": 1791525480.5523481,
+  "972611e33f7584ba": 1791525480.5523481,
+  "9de30a634b0576a9": 1791525480.5523481
  },
  "queue": [
-  {
-   "id": "edc6f6326564d507",
-   "cfg": "vless://2d309706-de61-4c33-a086-3888e595b8eb@104.18.34.245:8880?encryption=none&security=none&type=ws&host=soft-scene-d370.55-7ff.workers.dev&path=/pyip#🔵@chillguy_vpn",
-   "ping": 115,
-   "best": 102,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791520237.2166586
-  },
   {
    "id": "7ce4dd7b1a33b5b9",
    "cfg": "vless://11046a7c-fa1b-4653-ab87-400feb465540@172.64.146.37:8880?&type=ws&headerType=none&host=nameless-poetry-12fb.8-0a2.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net%40https%3A%2F%2Ft.me%2FQiangLieTuiJian#🔵@chillguy_vpn",
@@ -635,6 +630,15 @@
    "ts": 1791524089.9943202
   },
   {
+   "id": "972611e33f7584ba",
+   "cfg": "vless://d977e7ec-ff45-d4a9-5b52-9c1cc5c04c43@83.143.106.7:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#🔵@chillguy_vpn",
+   "ping": 293,
+   "best": 286,
+   "score": 96,
+   "stability": 100,
+   "ts": 1791525480.5523481
+  },
+  {
    "id": "e84e2e414c0c869e",
    "cfg": "vless://d977e7ec-ff45-d4a9-5b52-9c1cc5c04c43@83.143.106.7:443?path=%2F&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#🔵@chillguy_vpn",
    "ping": 353,
@@ -642,6 +646,15 @@
    "score": 95,
    "stability": 100,
    "ts": 1791522925.9411764
+  },
+  {
+   "id": "587f34ca6628aa32",
+   "cfg": "vless://ea611ed3-29b1-4d8c-bad6-27fa3cbbe0be@varzesh.com.tiket.paxaro.ir:443?security=reality&encryption=none&pbk=2KGl5qpg4xtHrX00fhWm9H6DlWVYtRPIK_eQTiifcys&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2F85c334849988e42&type=tcp&flow=xtls-rprx-vision&sni=wwwqa.microsoft.com&sid=63c171#🔵@chillguy_vpn",
+   "ping": 469,
+   "best": 451,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791525480.5523481
   }
  ],
  "posted": {
@@ -7231,6 +7244,36 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "edf8035da4e4b1d5": {
+   "cfg": "vless://4c37df21-0a34-41bf-8bc7-78efd823c03b@188.114.97.6:8080?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=shiny-salad-e491.479.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1466,
+   "ts": 1791525490.8752034,
+   "ping": 34,
+   "score": 100,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "9de30a634b0576a9": {
+   "cfg": "vless://b67422ff-101b-433b-8f66-4ab282960b36@172.245.253.16:443?security=reality&encryption=none&pbk=Vh8dv6ENmfFd4JlPgj9-R1Fbet2m6JyRFukcVvDq5A8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=e7dc2c820ba8bbd4#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1467,
+   "ts": 1791525491.3427536,
+   "ping": 72,
+   "score": 99,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "edc6f6326564d507": {
+   "cfg": "vless://2d309706-de61-4c33-a086-3888e595b8eb@104.18.34.245:8880?encryption=none&security=none&type=ws&host=soft-scene-d370.55-7ff.workers.dev&path=/pyip#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1468,
+   "ts": 1791525493.214915,
+   "ping": 31,
+   "score": 100,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10483,13 +10526,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791524732.4924765
+  },
+  "172.245.253.16": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791525490.8753314
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 47,
-  "healthy": 47,
-  "posted": 44,
+  "fetched": 51,
+  "healthy": 51,
+  "posted": 47,
   "removed": 0,
   "published_scores": [
    89,
@@ -10535,7 +10583,10 @@
    99,
    99,
    99,
-   99
+   99,
+   100,
+   99,
+   100
   ]
  }
 }
