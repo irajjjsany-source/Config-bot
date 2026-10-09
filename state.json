@@ -679,26 +679,7 @@
   "911654e456b8669f": 1791546233.5182757,
   "9aecba88185e04f4": 1791546233.5182757
  },
- "queue": [
-  {
-   "id": "9aecba88185e04f4",
-   "cfg": "vless://186a7d6f-e360-4c5f-bafb-a816f79e231b@89.23.113.11:443?security=reality&encryption=none&pbk=DP_8vX-l2ugAHn828ZGa4wHp4Y7YOZrhGKiTMaFoCDc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru-in-lt-4vp.movietop24.site&sid=4ea43db267b5fd8b#🔵@chillguy_vpn",
-   "ping": 2830,
-   "best": 1292,
-   "score": 63,
-   "stability": 100,
-   "ts": 1791546233.5182757
-  },
-  {
-   "id": "35d5f11aa5161eef",
-   "cfg": "vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?security=reality&encryption=none&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&headerType=none&fp=chrome&spx=%2F621de6b73e8bf3c&type=tcp&sni=www.sony.com.hn&sid=85cd#🔵@chillguy_vpn",
-   "ping": 4462,
-   "best": 780,
-   "score": 42,
-   "stability": 100,
-   "ts": 1791545437.877474
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -7836,6 +7817,26 @@
    "stability": 100,
    "country": "Latvia",
    "repost_count": 0
+  },
+  "9aecba88185e04f4": {
+   "cfg": "vless://186a7d6f-e360-4c5f-bafb-a816f79e231b@89.23.113.11:443?security=reality&encryption=none&pbk=DP_8vX-l2ugAHn828ZGa4wHp4Y7YOZrhGKiTMaFoCDc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru-in-lt-4vp.movietop24.site&sid=4ea43db267b5fd8b#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1524,
+   "ts": 1791546330.4025257,
+   "ping": 2830,
+   "score": 63,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "35d5f11aa5161eef": {
+   "cfg": "vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?security=reality&encryption=none&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&headerType=none&fp=chrome&spx=%2F621de6b73e8bf3c&type=tcp&sni=www.sony.com.hn&sid=85cd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1525,
+   "ts": 1791546344.335176,
+   "ping": 3977,
+   "score": 48,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -11204,7 +11205,7 @@
   "date": "2026-10-09",
   "fetched": 120,
   "healthy": 102,
-  "posted": 99,
+  "posted": 101,
   "removed": 0,
   "published_scores": [
    89,
@@ -11305,7 +11306,9 @@
    69,
    82,
    82,
-   65
+   65,
+   63,
+   48
   ]
  }
 }
