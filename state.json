@@ -660,7 +660,9 @@
   "3e7d3931f4659356": 1791541836.7155998,
   "6d83d250cce33515": 1791541836.7155998,
   "2d10b38d42d31c9c": 1791541836.7155998,
-  "70c1d261a48b002c": 1791542201.8814185
+  "70c1d261a48b002c": 1791542201.8814185,
+  "e3faf3ca10fbf667": 1791542727.9927895,
+  "b71b300c81a119fa": 1791542727.9927895
  },
  "queue": [],
  "posted": {
@@ -7670,6 +7672,26 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "b71b300c81a119fa": {
+   "cfg": "vless://3661f782-96ab-43f1-ba97-847195fc2ecb@dns4.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&host=Aparat.com&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1511,
+   "ts": 1791542757.8840702,
+   "ping": 3536,
+   "score": 54,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "e3faf3ca10fbf667": {
+   "cfg": "vless://3661f782-96ab-43f1-ba97-847195fc2ecb@dns8.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1512,
+   "ts": 1791542758.5375783,
+   "ping": 3552,
+   "score": 54,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -11011,9 +11033,9 @@
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 103,
-  "healthy": 87,
-  "posted": 86,
+  "fetched": 105,
+  "healthy": 89,
+  "posted": 88,
   "removed": 0,
   "published_scores": [
    89,
@@ -11101,7 +11123,9 @@
    99,
    99,
    91,
-   88
+   88,
+   54,
+   54
   ]
  }
 }
