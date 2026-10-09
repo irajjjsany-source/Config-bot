@@ -678,7 +678,11 @@
   "513760a029864466": 1791546233.5182757,
   "911654e456b8669f": 1791546233.5182757,
   "9aecba88185e04f4": 1791546233.5182757,
-  "d4f56b68a9ab5068": 1791547194.6456738
+  "d4f56b68a9ab5068": 1791547194.6456738,
+  "022abd0a4e83f2eb": 1791548128.2252336,
+  "3ba4a8eaed2ba8f5": 1791548128.2252336,
+  "f296b5a0ea5cb39b": 1791548128.2252336,
+  "d0e1346cb5ada7c6": 1791548128.2252336
  },
  "queue": [],
  "posted": {
@@ -7848,6 +7852,36 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "022abd0a4e83f2eb": {
+   "cfg": "vless://46791c3b-900a-4219-9982-229953b98b93@fnil1.sublinkplas.ir:15694?security=reality&encryption=none&pbk=BY0QfaqwH2Kv1WUU584R7NHcm4Z1Praq5YuYGrJ1BkM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=ajax.googleapis.com&sid=aa74a7a98e86f2ed#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1527,
+   "ts": 1791548144.6826317,
+   "ping": 641,
+   "score": 92,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "f296b5a0ea5cb39b": {
+   "cfg": "vless://46791c3b-900a-4219-9982-229953b98b93@fnil1.sublinkplas.ir:12040?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=testspeed-foreign.tci.ir&sid=3e5cba1bd6eb6221#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1528,
+   "ts": 1791548145.3111265,
+   "ping": 891,
+   "score": 88,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "3ba4a8eaed2ba8f5": {
+   "cfg": "vless://46791c3b-900a-4219-9982-229953b98b93@gril1.sublinkplas.ir:12040?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=testspeed-foreign.tci.ir&sid=3e5cba1bd6eb6221#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1529,
+   "ts": 1791548145.9153605,
+   "ping": 1003,
+   "score": 87,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -11214,9 +11248,9 @@
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 121,
-  "healthy": 103,
-  "posted": 102,
+  "fetched": 125,
+  "healthy": 106,
+  "posted": 105,
   "removed": 0,
   "published_scores": [
    89,
@@ -11320,7 +11354,10 @@
    65,
    63,
    48,
-   59
+   59,
+   92,
+   88,
+   87
   ]
  }
 }
