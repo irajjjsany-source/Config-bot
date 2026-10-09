@@ -555,7 +555,7 @@ def channel_post_views(page_html, message_id):
         return None, False
     try:
         marker = 'data-post="%s/%s"' % (TARGET_CHANNEL.lstrip("@"), message_id)
-        pos = page_html.find(marker)
+        pos = page_html.lower().find(marker.lower())
         if pos < 0:
             return None, False
         start = page_html.rfind('<div class="tgme_widget_message_wrap', 0, pos)
