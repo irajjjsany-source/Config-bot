@@ -1,8 +1,5 @@
 {
  "seen": {
-  "49344eac84365e18": 1791254730.098353,
-  "07908c051f1ab6b0": 1791254730.098353,
-  "6345878800b5a7f7": 1791254730.098353,
   "96fb4141cefe82a2": 1791261653.3032389,
   "18d29025299883e5": 1791261653.3032389,
   "3521ecdcf3aa0df5": 1791261932.7691565,
@@ -579,17 +576,7 @@
   "0437291afb15612d": 1791513877.996244,
   "508198fceb0fe2da": 1791513877.996244
  },
- "queue": [
-  {
-   "id": "b46f554d480cc51c",
-   "cfg": "vless://ddef628e-e3a8-43c4-85eb-bd767a5f3b13@104.16.72.101:8880?security=none&type=ws&path=/pyip&host=autumn-forest-3479.121-488.workers.dev&packetEncoding=xudp&encryption=none#🔵@chillguy_vpn",
-   "ping": 84,
-   "best": 48,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791513877.996244
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -6777,6 +6764,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "b46f554d480cc51c": {
+   "cfg": "vless://ddef628e-e3a8-43c4-85eb-bd767a5f3b13@104.16.72.101:8880?security=none&type=ws&path=/pyip&host=autumn-forest-3479.121-488.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1423,
+   "ts": 1791513933.9498565,
+   "ping": 84,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10005,10 +10002,11 @@
   "date": "2026-10-09",
   "fetched": 4,
   "healthy": 4,
-  "posted": 4,
+  "posted": 5,
   "removed": 0,
   "published_scores": [
    89,
+   99,
    99,
    99,
    99
