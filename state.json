@@ -671,9 +671,24 @@
   "f6e5c5665d7f324f": 1791545437.877474,
   "2a17a95e740a8cfd": 1791545437.877474,
   "35d5f11aa5161eef": 1791545437.877474,
-  "2b5d228842e6ab51": 1791545437.877474
+  "2b5d228842e6ab51": 1791545437.877474,
+  "5a4c1354d08b7ca1": 1791546233.5182757,
+  "3cde4e8370124d81": 1791546233.5182757,
+  "8b3d0dd30488296b": 1791546233.5182757,
+  "513760a029864466": 1791546233.5182757,
+  "911654e456b8669f": 1791546233.5182757,
+  "9aecba88185e04f4": 1791546233.5182757
  },
  "queue": [
+  {
+   "id": "9aecba88185e04f4",
+   "cfg": "vless://186a7d6f-e360-4c5f-bafb-a816f79e231b@89.23.113.11:443?security=reality&encryption=none&pbk=DP_8vX-l2ugAHn828ZGa4wHp4Y7YOZrhGKiTMaFoCDc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru-in-lt-4vp.movietop24.site&sid=4ea43db267b5fd8b#🔵@chillguy_vpn",
+   "ping": 2830,
+   "best": 1292,
+   "score": 63,
+   "stability": 100,
+   "ts": 1791546233.5182757
+  },
   {
    "id": "35d5f11aa5161eef",
    "cfg": "vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?security=reality&encryption=none&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&headerType=none&fp=chrome&spx=%2F621de6b73e8bf3c&type=tcp&sni=www.sony.com.hn&sid=85cd#🔵@chillguy_vpn",
@@ -7791,6 +7806,36 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "8b3d0dd30488296b": {
+   "cfg": "vless://19c78abc-0f6f-4fa6-8614-0fbf0021273d@ngnix.velnix-services.ir:1081?encryption=none&security=reality&sni=www32.velnix-services.ir&fp=chrome&pbk=oBcBNqEqA-Iqc6VT25ZLWF0MhkZ1CSny7yWn_u1r-1Q&sid=fbc2f106a8cab706&type=tcp&headerType=none&host=www12.gameservice-iramn3.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1521,
+   "ts": 1791546270.5557578,
+   "ping": 1351,
+   "score": 82,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
+  },
+  "513760a029864466": {
+   "cfg": "vless://19c78abc-0f6f-4fa6-8614-0fbf0021273d@6492.noirex.ir:34602?encryption=none&security=reality&sni=www3.donyumvps.tr&fp=chrome&pbk=VG9zxAcbckuoYLxjAIWz6rYU1xMlZTYj2v3mFopMUkg&sid=a448f3ef&type=tcp&headerType=none&host=www3.donyumvps.tr#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1522,
+   "ts": 1791546271.23336,
+   "ping": 1411,
+   "score": 82,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "911654e456b8669f": {
+   "cfg": "vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?security=reality&encryption=none&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2F621de6b73e8bf3c&type=tcp&sni=www.sony.com.hn&sid=85cd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1523,
+   "ts": 1791546271.733102,
+   "ping": 2700,
+   "score": 65,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -11148,13 +11193,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791545479.4621
+  },
+  "6492.noirex.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791546270.5559082
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 114,
-  "healthy": 98,
-  "posted": 96,
+  "fetched": 120,
+  "healthy": 102,
+  "posted": 99,
   "removed": 0,
   "published_scores": [
    89,
@@ -11252,7 +11302,10 @@
    75,
    92,
    73,
-   69
+   69,
+   82,
+   82,
+   65
   ]
  }
 }
