@@ -612,9 +612,24 @@
   "ac3c74e3be68cf77": 1791527869.1207173,
   "a888595cac12244c": 1791527869.1207173,
   "79ba45ce2516baa8": 1791527869.1207173,
-  "cf5bdba2890d5bc5": 1791527869.1207173
+  "cf5bdba2890d5bc5": 1791527869.1207173,
+  "9b5340f4985c1d2d": 1791529243.00223,
+  "589e2edf1fd6ba7c": 1791529243.00223,
+  "591c033086045e25": 1791529243.00223,
+  "1a9d47321554d165": 1791529243.00223,
+  "550f1b55c3e0296f": 1791529243.00223
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "9b5340f4985c1d2d",
+   "cfg": "vless://18a7834f-bf89-4c87-ad57-49927a56deed@104.21.88.129:8880?security=none&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=holy-violet-858e.471.workers.dev&packetEncoding=xudp&encryption=none#🔵@chillguy_vpn",
+   "ping": 108,
+   "best": 81,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791529243.00223
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -7312,6 +7327,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "591c033086045e25": {
+   "cfg": "vless://737678dc-cc15-4643-85a4-ca9359df1aa4@188.114.97.6:8080?security=none&type=ws&path=/&host=patient-moon-c61f.ggfsa55.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1477,
+   "ts": 1791529251.990983,
+   "ping": 79,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "550f1b55c3e0296f": {
+   "cfg": "vless://142d1453-9cfe-4045-8e54-f3fb33342185@188.114.97.6:8080?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=lively-scene-744f.107-47a.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1478,
+   "ts": 1791529252.5160356,
+   "ping": 79,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "1a9d47321554d165": {
+   "cfg": "vless://2a8cafda-479d-4e30-82d1-0bd4c6da6db9@104.21.12.116:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=delicate-meadow-15da.423-c77.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1479,
+   "ts": 1791529253.046313,
+   "ping": 95,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10583,9 +10628,9 @@
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 55,
-  "healthy": 55,
-  "posted": 55,
+  "fetched": 60,
+  "healthy": 59,
+  "posted": 58,
   "removed": 0,
   "published_scores": [
    89,
@@ -10639,6 +10684,9 @@
    96,
    96,
    92,
+   99,
+   99,
+   99,
    99,
    99,
    99,
