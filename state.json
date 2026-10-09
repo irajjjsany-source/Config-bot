@@ -585,35 +585,7 @@
   "6117249256803067": 1791517526.2708666,
   "2325d42b1f2ccb59": 1791517526.2708666
  },
- "queue": [
-  {
-   "id": "d66dbe76f415ab1f",
-   "cfg": "vless://d503ca85-91c2-426d-98ce-7a6f44666be1@104.21.23.72:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=winter-hall-a0a2.74-532.workers.dev&packetEncoding=xudp&sni=winter-hall-a0a2.74-532.workers.dev&encryption=none#🔵@chillguy_vpn",
-   "ping": 79,
-   "best": 59,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791517526.2708666
-  },
-  {
-   "id": "2325d42b1f2ccb59",
-   "cfg": "vless://2a8cafda-479d-4e30-82d1-0bd4c6da6db9@172.67.152.71:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=delicate-meadow-15da.423-c77.workers.dev&packetEncoding=xudp&encryption=none#🔵@chillguy_vpn",
-   "ping": 94,
-   "best": 69,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791517526.2708666
-  },
-  {
-   "id": "c54bd602116bfa90",
-   "cfg": "vless://55d5413e-932d-4b94-b760-089662d2e16a@gr3.epsiquadvpn.com:443?security=reality&encryption=none&pbk=7D1UFGuKwT_JBGX0c_ZJwme77xI5ssB3lAC7j0Kg_UY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.krakenlabs.ru&sid=007a#🔵@chillguy_vpn",
-   "ping": 2520,
-   "best": 1936,
-   "score": 67,
-   "stability": 100,
-   "ts": 1791517526.2708666
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -6871,6 +6843,36 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "d66dbe76f415ab1f": {
+   "cfg": "vless://d503ca85-91c2-426d-98ce-7a6f44666be1@104.21.23.72:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=winter-hall-a0a2.74-532.workers.dev&packetEncoding=xudp&sni=winter-hall-a0a2.74-532.workers.dev&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1430,
+   "ts": 1791518328.8408031,
+   "ping": 105,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "2325d42b1f2ccb59": {
+   "cfg": "vless://2a8cafda-479d-4e30-82d1-0bd4c6da6db9@172.67.152.71:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=delicate-meadow-15da.423-c77.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1431,
+   "ts": 1791518331.1471927,
+   "ping": 105,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "c54bd602116bfa90": {
+   "cfg": "vless://55d5413e-932d-4b94-b760-089662d2e16a@gr3.epsiquadvpn.com:443?security=reality&encryption=none&pbk=7D1UFGuKwT_JBGX0c_ZJwme77xI5ssB3lAC7j0Kg_UY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.krakenlabs.ru&sid=007a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1432,
+   "ts": 1791518336.3699083,
+   "ping": 1058,
+   "score": 86,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10103,13 +10105,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791517546.8181798
+  },
+  "gr3.epsiquadvpn.com": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791518335.6499665
   }
  },
  "stats": {
   "date": "2026-10-09",
   "fetched": 13,
   "healthy": 13,
-  "posted": 11,
+  "posted": 14,
   "removed": 0,
   "published_scores": [
    89,
@@ -10122,7 +10129,10 @@
    99,
    99,
    99,
-   99
+   99,
+   99,
+   99,
+   86
   ]
  }
 }
