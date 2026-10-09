@@ -650,19 +650,11 @@
   "591d04dc58e0a6bf": 1791538235.6377103,
   "1e0fadbfd4e98f63": 1791539127.20483,
   "8e2fb768cecca55e": 1791539127.20483,
-  "7d2974eb41de5e8b": 1791539127.20483
+  "7d2974eb41de5e8b": 1791539127.20483,
+  "d109f583e7f0ad3d": 1791540046.9363413,
+  "d97ddce8419c8867": 1791540046.9363413
  },
- "queue": [
-  {
-   "id": "f36ffb579268aca7",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
-   "ping": 1845,
-   "best": 1647,
-   "score": 76,
-   "stability": 100,
-   "ts": 1791538235.6377103
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -7600,6 +7592,26 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "d97ddce8419c8867": {
+   "cfg": "vless://f8f5d3a5-54bd-4f52-9759-137bdbf950db@icook.tw:8080?security=none&type=ws&path=/&host=23g-lively-resonance-96b9hsf.msc633k2.workers.dev&ed=2048&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1504,
+   "ts": 1791540050.5355477,
+   "ping": 92,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "f36ffb579268aca7": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1505,
+   "ts": 1791540054.0824072,
+   "ping": 512,
+   "score": 93,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10917,13 +10929,23 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1791539171.2607825
+  },
+  "icook.tw": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791540049.8000329
+  },
+  "169.40.42.212": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791540053.398747
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 93,
-  "healthy": 81,
-  "posted": 79,
+  "fetched": 95,
+  "healthy": 82,
+  "posted": 81,
   "removed": 0,
   "published_scores": [
    89,
@@ -11004,7 +11026,9 @@
    93,
    93,
    90,
-   60
+   60,
+   99,
+   93
   ]
  }
 }
