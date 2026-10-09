@@ -51,33 +51,6 @@
  },
  "queue": [
   {
-   "id": "d1a5a3f0b365cd10",
-   "cfg": "vless://56ff50da-a238-0003-95ab-dd159634bd87@37.9.15.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru01.arpanet-cdn.com&fp=firefox&pbk=9NcV9b86R2Cje-HiChBt8D-2vWWqg1pEvS26aXtMgCk&sid=c1069a934648869a&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 445,
-   "best": 434,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791587908.153781
-  },
-  {
-   "id": "548054621573a3f7",
-   "cfg": "vless://56ff50da-a238-0003-95ab-dd159634bd87@37.9.15.129:443?security=reality&encryption=none&pbk=9NcV9b86R2Cje-HiChBt8D-2vWWqg1pEvS26aXtMgCk&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru01.arpanet-cdn.com&sid=c1069a934648869a#🔵@chillguy_vpn",
-   "ping": 449,
-   "best": 433,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791587908.153781
-  },
-  {
-   "id": "62d7f3e15ee560bf",
-   "cfg": "vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@lv.haar.lol:443?security=reality&encryption=none&pbk=H1zQhDKBw8bEzAF0hWECkSfcEu15bwKLde7Syo1YM3M&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=lv.haar.lol&sid=a928ceb8b5001614#🔵@chillguy_vpn",
-   "ping": 478,
-   "best": 403,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791587908.153781
-  },
-  {
    "id": "b95aa03b0068bb70",
    "cfg": "vless://0783c6fc-16a8-46ff-a408-a099d2f6f3ac@hz-online-balancer.nyxenpro.ir:2080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=edge&pbk=A2-_TVXJkWh9CZ7aD4NT9CsfAalIAn9r3BYXNJ3vhlc&sid=6ee75d75c8607846&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 567,
@@ -279,6 +252,36 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "d1a5a3f0b365cd10": {
+   "cfg": "vless://56ff50da-a238-0003-95ab-dd159634bd87@37.9.15.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru01.arpanet-cdn.com&fp=firefox&pbk=9NcV9b86R2Cje-HiChBt8D-2vWWqg1pEvS26aXtMgCk&sid=c1069a934648869a&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1561,
+   "ts": 1791590287.0032938,
+   "ping": 420,
+   "score": 95,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "548054621573a3f7": {
+   "cfg": "vless://56ff50da-a238-0003-95ab-dd159634bd87@37.9.15.129:443?security=reality&encryption=none&pbk=9NcV9b86R2Cje-HiChBt8D-2vWWqg1pEvS26aXtMgCk&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru01.arpanet-cdn.com&sid=c1069a934648869a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1562,
+   "ts": 1791590290.131653,
+   "ping": 430,
+   "score": 94,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "62d7f3e15ee560bf": {
+   "cfg": "vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@lv.haar.lol:443?security=reality&encryption=none&pbk=H1zQhDKBw8bEzAF0hWECkSfcEu15bwKLde7Syo1YM3M&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=lv.haar.lol&sid=a928ceb8b5001614#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1563,
+   "ts": 1791590293.5614636,
+   "ping": 517,
+   "score": 93,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -327,13 +330,23 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1791589534.5089235
+  },
+  "37.9.15.129": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791590286.4272366
+  },
+  "lv.haar.lol": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791590293.0152194
   }
  },
  "stats": {
   "date": "2026-10-09",
   "fetched": 48,
   "healthy": 24,
-  "posted": 12,
+  "posted": 15,
   "removed": 0,
   "published_scores": [
    99,
@@ -347,7 +360,10 @@
    96,
    95,
    95,
-   94
+   94,
+   95,
+   94,
+   93
   ]
  }
 }
