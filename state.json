@@ -667,9 +667,23 @@
   "c43536371b5414fe": 1791543496.0189042,
   "fb3153829a691fea": 1791543496.0189042,
   "ac2a1370fd1c9f0b": 1791544526.596618,
-  "64f1b280716a78ff": 1791544526.596618
+  "64f1b280716a78ff": 1791544526.596618,
+  "f6e5c5665d7f324f": 1791545437.877474,
+  "2a17a95e740a8cfd": 1791545437.877474,
+  "35d5f11aa5161eef": 1791545437.877474,
+  "2b5d228842e6ab51": 1791545437.877474
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "35d5f11aa5161eef",
+   "cfg": "vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?security=reality&encryption=none&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&headerType=none&fp=chrome&spx=%2F621de6b73e8bf3c&type=tcp&sni=www.sony.com.hn&sid=85cd#🔵@chillguy_vpn",
+   "ping": 4462,
+   "best": 780,
+   "score": 42,
+   "stability": 100,
+   "ts": 1791545437.877474
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -7747,6 +7761,36 @@
    "stability": 100,
    "country": "Latvia",
    "repost_count": 0
+  },
+  "2a17a95e740a8cfd": {
+   "cfg": "vless://267b3a79-81f2-42ac-a409-c23b05b6329d@185.170.211.187:443?mode=gun&security=reality&encryption=none&pbk=eztZ1H-OkkHao6d4FhX8Q728qN1UIeFcYH2jObRq1gc&type=grpc&serviceName=api.v2.nl2e63a0c5&sni=nl2.bbobr.win&sid=fbe9c012125d90d2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1518,
+   "ts": 1791545478.7400856,
+   "ping": 604,
+   "score": 92,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "2b5d228842e6ab51": {
+   "cfg": "vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&fp=qq&type=ws&allowInsecure=0&sni=vless.api-music-fa.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1519,
+   "ts": 1791545479.461939,
+   "ping": 2064,
+   "score": 73,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "f6e5c5665d7f324f": {
+   "cfg": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1520,
+   "ts": 1791545480.160408,
+   "ping": 2353,
+   "score": 69,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -11089,13 +11133,28 @@
    "cc": "LV",
    "name": "Latvia",
    "ts": 1791543507.322722
+  },
+  "185.170.211.187": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791545477.966417
+  },
+  "8.47.69.0": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791545478.7402167
+  },
+  "150.241.101.80": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791545479.4621
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 110,
-  "healthy": 94,
-  "posted": 93,
+  "fetched": 114,
+  "healthy": 98,
+  "posted": 96,
   "removed": 0,
   "published_scores": [
    89,
@@ -11190,7 +11249,10 @@
    93,
    92,
    97,
-   75
+   75,
+   92,
+   73,
+   69
   ]
  }
 }
