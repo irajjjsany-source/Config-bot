@@ -596,9 +596,22 @@
   "7cd242ca4e063c10": 1791521126.6439161,
   "33a829fc94864b7d": 1791521126.6439161,
   "4c3fc1262fcacd6c": 1791521126.6439161,
-  "bbfa35292386030b": 1791521126.6439161
+  "bbfa35292386030b": 1791521126.6439161,
+  "fed2e7b320033da3": 1791522784.9329603,
+  "37985af3a91b9208": 1791522784.9329603,
+  "771d35d9f821b959": 1791522784.9329603,
+  "01eef50f65c9fff9": 1791522784.9329603
  },
  "queue": [
+  {
+   "id": "fed2e7b320033da3",
+   "cfg": "vless://a62a4c64-2270-4d41-828b-2591906c48ba@172.67.209.127:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=sweet-disk-a026.253-54b.workers.dev&packetEncoding=none&fp=firefox#🔵@chillguy_vpn",
+   "ping": 42,
+   "best": 37,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791522784.9329603
+  },
   {
    "id": "33a829fc94864b7d",
    "cfg": "vless://38135fde-7044-4407-8faf-e1ab08e47402@188.114.97.6:8080?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=white-bush-712e.498-f8f.workers.dev&packetEncoding=xudp#🔵@chillguy_vpn",
@@ -7091,6 +7104,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "771d35d9f821b959": {
+   "cfg": "vless://30a88c40-581e-4952-aa4c-8af95686ede0@www.gov.ua:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=rapid-lab-95ef.173-74c.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1451,
+   "ts": 1791522792.6004984,
+   "ping": 38,
+   "score": 100,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "37985af3a91b9208": {
+   "cfg": "vless://63f1ce15-1a88-4698-8a0e-59b85d75e607@188.114.97.6:8080?security=none&type=ws&path=/eyJqdW5rIjoiNDIxWGNPNW5CQXYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ==&host=free.server11peekconfig.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1452,
+   "ts": 1791522793.102832,
+   "ping": 39,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "01eef50f65c9fff9": {
+   "cfg": "vless://68662961-6c5f-48c1-b807-6398f3287dbc@172.66.170.53:8880?security=none&type=ws&path=/&host=polished-meadow-2ac5.228-76d.workers.dev&packetEncoding=xudp&sni=polished-meadow-2ac5.228-76d.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1453,
+   "ts": 1791522793.619372,
+   "ping": 41,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10332,9 +10375,9 @@
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 34,
-  "healthy": 34,
-  "posted": 29,
+  "fetched": 38,
+  "healthy": 38,
+  "posted": 32,
   "removed": 0,
   "published_scores": [
    89,
@@ -10365,6 +10408,9 @@
    99,
    99,
    100,
+   99,
+   100,
+   99,
    99
   ]
  }
