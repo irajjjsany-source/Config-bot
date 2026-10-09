@@ -1,7 +1,5 @@
 {
  "seen": {
-  "cc56499e515e4caf": 1791264642.4699712,
-  "80cd29178286312b": 1791264642.4699712,
   "f7ae4db470e4ec02": 1791291008.0697289,
   "c93bc35d9e22b897": 1791291008.0697289,
   "e94bb59554385a70": 1791291008.0697289,
@@ -600,9 +598,33 @@
   "01eef50f65c9fff9": 1791522784.9329603,
   "e84e2e414c0c869e": 1791522925.9411764,
   "5926e50eadd6fa10": 1791523837.909069,
-  "2638cf8a253e3e32": 1791523837.909069
+  "2638cf8a253e3e32": 1791523837.909069,
+  "d9c91e1a37708159": 1791524089.9943202,
+  "1124379a0ddb9f00": 1791524089.9943202,
+  "225ae8a12bbb68b8": 1791524089.9943202,
+  "852631a0c8e4dc08": 1791524089.9943202,
+  "14ff9eb11ae81337": 1791524089.9943202,
+  "287832341a926a70": 1791524089.9943202
  },
  "queue": [
+  {
+   "id": "225ae8a12bbb68b8",
+   "cfg": "vless://35e8826f-0873-492d-8b8a-d495c9947480@super-sunset-010c.24-43d.workers.dev:8880?security=none&type=ws&path=/&host=super-sunset-010c.24-43d.workers.dev&packetEncoding=xudp&sni=super-sunset-010c.24-43d.workers.dev#🔵@chillguy_vpn",
+   "ping": 61,
+   "best": 39,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791524089.9943202
+  },
+  {
+   "id": "14ff9eb11ae81337",
+   "cfg": "vless://3adac494-0eb1-4d89-a187-b2181691444d@104.21.55.229:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=tiny-lake-bbf1.369-766.workers.dev&packetEncoding=xudp&encryption=none#🔵@chillguy_vpn",
+   "ping": 65,
+   "best": 29,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791524089.9943202
+  },
   {
    "id": "bdcb70c73c30fb47",
    "cfg": "vless://725c66a2-2bce-4a24-ba52-b4e2e7047076@www.gov.ua:8880?&packet-encoding=xudp&type=ws&headerType=none&host=rapid-base-6c9e.45-d79.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🔵@chillguy_vpn",
@@ -629,6 +651,15 @@
    "score": 98,
    "stability": 100,
    "ts": 1791520237.2166586
+  },
+  {
+   "id": "287832341a926a70",
+   "cfg": "vless://3adac494-0eb1-4d89-a187-b2181691444d@172.66.132.196:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=tiny-lake-bbf1.369-766.workers.dev&packetEncoding=xudp&encryption=none#🔵@chillguy_vpn",
+   "ping": 156,
+   "best": 118,
+   "score": 98,
+   "stability": 100,
+   "ts": 1791524089.9943202
   },
   {
    "id": "e84e2e414c0c869e",
@@ -7167,6 +7198,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "852631a0c8e4dc08": {
+   "cfg": "vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@www.iplocation.net:8880?&packet-encoding=xudp&type=ws&headerType=none&host=young-wind-3c58.240-2ce.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1460,
+   "ts": 1791524101.7269516,
+   "ping": 51,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "1124379a0ddb9f00": {
+   "cfg": "vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@188.114.99.0:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=young-wind-3c58.240-2ce.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1461,
+   "ts": 1791524102.3792062,
+   "ping": 55,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "d9c91e1a37708159": {
+   "cfg": "vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@104.21.55.229:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=tiny-feather-4c41.227.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1462,
+   "ts": 1791524103.0153177,
+   "ping": 59,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10409,13 +10470,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791523844.4567075
+  },
+  "www.iplocation.net": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791524100.9350648
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 41,
-  "healthy": 41,
-  "posted": 38,
+  "fetched": 47,
+  "healthy": 47,
+  "posted": 41,
   "removed": 0,
   "published_scores": [
    89,
@@ -10448,6 +10514,9 @@
    100,
    99,
    100,
+   99,
+   99,
+   99,
    99,
    99,
    99,
