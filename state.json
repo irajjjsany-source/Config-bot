@@ -633,7 +633,9 @@
   "50ada90e7b1f5460": 1791534640.8535955,
   "c4a015dc9c00ac0d": 1791534640.8535955,
   "168956dac1eb2c0c": 1791534640.8535955,
-  "09771522f800d970": 1791534640.8535955
+  "09771522f800d970": 1791534640.8535955,
+  "ae9cf52637eea5f9": 1791536331.7008917,
+  "152ff3558924d7eb": 1791536331.7008917
  },
  "queue": [],
  "posted": {
@@ -7453,6 +7455,16 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "ae9cf52637eea5f9": {
+   "cfg": "vless://16586b3b-9e26-4fe9-b137-389ea48f088c@188.114.97.6:8080?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=ancient-glade-34d6.6-07d.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1489,
+   "ts": 1791536335.7730694,
+   "ping": 74,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10739,9 +10751,9 @@
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 76,
-  "healthy": 68,
-  "posted": 67,
+  "fetched": 78,
+  "healthy": 69,
+  "posted": 68,
   "removed": 0,
   "published_scores": [
    89,
@@ -10810,7 +10822,8 @@
    92,
    98,
    98,
-   84
+   84,
+   99
   ]
  }
 }
