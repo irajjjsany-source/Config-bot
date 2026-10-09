@@ -677,7 +677,8 @@
   "8b3d0dd30488296b": 1791546233.5182757,
   "513760a029864466": 1791546233.5182757,
   "911654e456b8669f": 1791546233.5182757,
-  "9aecba88185e04f4": 1791546233.5182757
+  "9aecba88185e04f4": 1791546233.5182757,
+  "d4f56b68a9ab5068": 1791547194.6456738
  },
  "queue": [],
  "posted": {
@@ -7837,6 +7838,16 @@
    "stability": 100,
    "country": "Latvia",
    "repost_count": 0
+  },
+  "d4f56b68a9ab5068": {
+   "cfg": "vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1526,
+   "ts": 1791547208.299453,
+   "ping": 3145,
+   "score": 59,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -11203,9 +11214,9 @@
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 120,
-  "healthy": 102,
-  "posted": 101,
+  "fetched": 121,
+  "healthy": 103,
+  "posted": 102,
   "removed": 0,
   "published_scores": [
    89,
@@ -11308,7 +11319,8 @@
    82,
    65,
    63,
-   48
+   48,
+   59
   ]
  }
 }
