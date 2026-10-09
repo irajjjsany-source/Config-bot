@@ -635,9 +635,34 @@
   "168956dac1eb2c0c": 1791534640.8535955,
   "09771522f800d970": 1791534640.8535955,
   "ae9cf52637eea5f9": 1791536331.7008917,
-  "152ff3558924d7eb": 1791536331.7008917
+  "152ff3558924d7eb": 1791536331.7008917,
+  "cb0474622412e791": 1791537326.5105145,
+  "eceb1e81bc8f2aa2": 1791537326.5105145,
+  "095af60d62b83a7f": 1791537326.5105145,
+  "63628bef68b72da2": 1791537326.5105145,
+  "3e5bc4a9c9ce4ccc": 1791537326.5105145,
+  "abb86934252ffd25": 1791537326.5105145
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "63628bef68b72da2",
+   "cfg": "vmess://eyJhZGQiOiAiMTkzLjE2NC4xNTUuMjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjU1NTFkMmU4LWQzZDQtNDJkMi05NWM4LWZiNzgwYjRmNmU2ZCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjYwMzkyIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "ping": 363,
+   "best": 345,
+   "score": 95,
+   "stability": 100,
+   "ts": 1791537326.5105145
+  },
+  {
+   "id": "3e5bc4a9c9ce4ccc",
+   "cfg": "vless://ff4e7c7a-4cea-4bd9-9e7e-1d155859019e@1755a5aea14b6f46.tunvi.w-ert.org:442?mode=auto&path=%2F&security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&fp=chrome&type=xhttp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
+   "ping": 1266,
+   "best": 821,
+   "score": 84,
+   "stability": 100,
+   "ts": 1791537326.5105145
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -7465,6 +7490,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "abb86934252ffd25": {
+   "cfg": "vless://25844c02-a1fe-43ec-a6b9-44e3bf375b83@104.21.23.72:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=dark-breeze-a59a.494.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1490,
+   "ts": 1791537347.8515391,
+   "ping": 30,
+   "score": 100,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "eceb1e81bc8f2aa2": {
+   "cfg": "vless://828aa918-2ed3-4541-8519-083f9efeaaf7@188.114.97.6:8080?security=none&type=ws&path=/pyip=proxyip.us.cmliussss.net&host=icy-hall-bfba.266-f4e.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1491,
+   "ts": 1791537348.3037734,
+   "ping": 34,
+   "score": 100,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "095af60d62b83a7f": {
+   "cfg": "vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@log.bpminecraft.com:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=summer-snow-c151.320-3ef.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1492,
+   "ts": 1791537348.7796528,
+   "ping": 54,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10747,13 +10802,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791533690.01847
+  },
+  "log.bpminecraft.com": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791537348.3038714
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 78,
-  "healthy": 69,
-  "posted": 68,
+  "fetched": 84,
+  "healthy": 74,
+  "posted": 71,
   "removed": 0,
   "published_scores": [
    89,
@@ -10823,6 +10883,9 @@
    98,
    98,
    84,
+   99,
+   100,
+   100,
    99
   ]
  }
