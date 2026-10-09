@@ -1,6 +1,5 @@
 {
  "seen": {
-  "0308393bcba8446f": 1791293296.3324804,
   "e30bda10c6d2747c": 1791295039.53944,
   "b8f52095563f896b": 1791295039.53944,
   "9d6e8140edb31f47": 1791295039.53944,
@@ -674,7 +673,8 @@
   "865ed1cbdcaace83": 1791549929.1225069,
   "a751bcb617b61c97": 1791550296.072842,
   "97044d97964b8cea": 1791551726.7984126,
-  "b34872dc6986e131": 1791551726.7984126
+  "b34872dc6986e131": 1791551726.7984126,
+  "15a6418ec43160ae": 1791552637.4887338
  },
  "queue": [],
  "posted": {
@@ -7924,6 +7924,16 @@
    "stability": 100,
    "country": "Sweden",
    "repost_count": 0
+  },
+  "15a6418ec43160ae": {
+   "cfg": "vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1535,
+   "ts": 1791552647.7755842,
+   "ping": 1541,
+   "score": 80,
+   "stability": 100,
+   "country": "India",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -11306,13 +11316,18 @@
    "cc": "SE",
    "name": "Sweden",
    "ts": 1791551738.2255266
+  },
+  "hydra.yokkastars.com": {
+   "cc": "IN",
+   "name": "India",
+   "ts": 1791552646.5510552
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 135,
-  "healthy": 111,
-  "posted": 110,
+  "fetched": 136,
+  "healthy": 112,
+  "posted": 111,
   "removed": 0,
   "published_scores": [
    89,
@@ -11424,7 +11439,8 @@
    93,
    91,
    84,
-   95
+   95,
+   80
   ]
  }
 }
