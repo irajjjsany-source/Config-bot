@@ -665,7 +665,9 @@
   "b71b300c81a119fa": 1791542727.9927895,
   "cc4f8eb56f1b3cbe": 1791543496.0189042,
   "c43536371b5414fe": 1791543496.0189042,
-  "fb3153829a691fea": 1791543496.0189042
+  "fb3153829a691fea": 1791543496.0189042,
+  "ac2a1370fd1c9f0b": 1791544526.596618,
+  "64f1b280716a78ff": 1791544526.596618
  },
  "queue": [],
  "posted": {
@@ -7725,6 +7727,26 @@
    "stability": 100,
    "country": "Latvia",
    "repost_count": 0
+  },
+  "ac2a1370fd1c9f0b": {
+   "cfg": "vless://2756d45c-2d91-4783-8114-ad1e128799ba@www.zsu.gov.ua:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=blue-breeze-e33c.261.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1516,
+   "ts": 1791544538.5980663,
+   "ping": 262,
+   "score": 97,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "64f1b280716a78ff": {
+   "cfg": "vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?security=reality&encryption=none&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&headerType=none&fp=chrome&spx=%2F621de6b73e8bf3c&type=tcp&sni=www.sony.ie&sid=85cd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1517,
+   "ts": 1791544539.2210855,
+   "ping": 1929,
+   "score": 75,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -8666,7 +8688,7 @@
   "www.zsu.gov.ua": {
    "cc": "CA",
    "name": "Canada",
-   "ts": 1790922608.1000195
+   "ts": 1791544537.778865
   },
   "47.237.74.17": {
    "cc": "SG",
@@ -11071,9 +11093,9 @@
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 108,
-  "healthy": 92,
-  "posted": 91,
+  "fetched": 110,
+  "healthy": 94,
+  "posted": 93,
   "removed": 0,
   "published_scores": [
    89,
@@ -11166,7 +11188,9 @@
    54,
    93,
    93,
-   92
+   92,
+   97,
+   75
   ]
  }
 }
