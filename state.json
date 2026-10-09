@@ -577,9 +577,43 @@
   "508198fceb0fe2da": 1791513877.996244,
   "82e5c4c4a8aef1cc": 1791515726.1089938,
   "94a57c0397fd74c7": 1791515726.1089938,
-  "a6effe7f1ffa02a0": 1791515726.1089938
+  "a6effe7f1ffa02a0": 1791515726.1089938,
+  "c54bd602116bfa90": 1791517526.2708666,
+  "2aee7753c7a576d5": 1791517526.2708666,
+  "d66dbe76f415ab1f": 1791517526.2708666,
+  "998cc17abd869b46": 1791517526.2708666,
+  "6117249256803067": 1791517526.2708666,
+  "2325d42b1f2ccb59": 1791517526.2708666
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "d66dbe76f415ab1f",
+   "cfg": "vless://d503ca85-91c2-426d-98ce-7a6f44666be1@104.21.23.72:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=winter-hall-a0a2.74-532.workers.dev&packetEncoding=xudp&sni=winter-hall-a0a2.74-532.workers.dev&encryption=none#🔵@chillguy_vpn",
+   "ping": 79,
+   "best": 59,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791517526.2708666
+  },
+  {
+   "id": "2325d42b1f2ccb59",
+   "cfg": "vless://2a8cafda-479d-4e30-82d1-0bd4c6da6db9@172.67.152.71:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=delicate-meadow-15da.423-c77.workers.dev&packetEncoding=xudp&encryption=none#🔵@chillguy_vpn",
+   "ping": 94,
+   "best": 69,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791517526.2708666
+  },
+  {
+   "id": "c54bd602116bfa90",
+   "cfg": "vless://55d5413e-932d-4b94-b760-089662d2e16a@gr3.epsiquadvpn.com:443?security=reality&encryption=none&pbk=7D1UFGuKwT_JBGX0c_ZJwme77xI5ssB3lAC7j0Kg_UY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.krakenlabs.ru&sid=007a#🔵@chillguy_vpn",
+   "ping": 2520,
+   "best": 1936,
+   "score": 67,
+   "stability": 100,
+   "ts": 1791517526.2708666
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -6807,6 +6841,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "6117249256803067": {
+   "cfg": "vless://bd8c736e-cae1-43d7-b573-9672e6ca4989@188.114.97.6:8080?security=none&type=ws&path=/vl/zXLTmz3hE3szn64f?ed=2560&host=l0n0qgkdttu061g57fhqzbet333s4t.ade-1004.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1427,
+   "ts": 1791517546.2965934,
+   "ping": 62,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "998cc17abd869b46": {
+   "cfg": "vless://ae0e6518-71ab-4f4b-87d1-7802765f52ba@172.67.178.142:8880?security=none&type=ws&path=/vl/Bo5RdqRiWZlPNpQ5DfueEJoS?ed=2560&host=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&packetEncoding=xudp&sni=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1428,
+   "ts": 1791517546.8180826,
+   "ping": 64,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "2aee7753c7a576d5": {
+   "cfg": "vless://deee4a60-e8c3-456f-846f-aa2c2b7fae24@www.visa.com.sg:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=broad-bush-c2c8.37-9a0.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1429,
+   "ts": 1791517547.607266,
+   "ping": 75,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10034,16 +10098,24 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791515732.0430572
+  },
+  "www.visa.com.sg": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791517546.8181798
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 7,
-  "healthy": 7,
-  "posted": 8,
+  "fetched": 13,
+  "healthy": 13,
+  "posted": 11,
   "removed": 0,
   "published_scores": [
    89,
+   99,
+   99,
+   99,
    99,
    99,
    99,
