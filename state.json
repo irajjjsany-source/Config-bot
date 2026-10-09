@@ -672,7 +672,9 @@
   "468e06d79288f767": 1791549929.1225069,
   "2368270731fb326e": 1791549929.1225069,
   "865ed1cbdcaace83": 1791549929.1225069,
-  "a751bcb617b61c97": 1791550296.072842
+  "a751bcb617b61c97": 1791550296.072842,
+  "97044d97964b8cea": 1791551726.7984126,
+  "b34872dc6986e131": 1791551726.7984126
  },
  "queue": [],
  "posted": {
@@ -7912,6 +7914,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "97044d97964b8cea": {
+   "cfg": "vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@13.143.174.176:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&security=reality&sni=swidenlanzerotte.live&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1534,
+   "ts": 1791551738.7151344,
+   "ping": 393,
+   "score": 95,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -11289,13 +11301,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791549946.0899177
+  },
+  "13.143.174.176": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791551738.2255266
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 133,
-  "healthy": 110,
-  "posted": 109,
+  "fetched": 135,
+  "healthy": 111,
+  "posted": 110,
   "removed": 0,
   "published_scores": [
    89,
@@ -11406,7 +11423,8 @@
    78,
    93,
    91,
-   84
+   84,
+   95
   ]
  }
 }
