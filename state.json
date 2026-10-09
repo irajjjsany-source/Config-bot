@@ -591,35 +591,7 @@
   "c8158e4b83d4790e": 1791519327.111267,
   "38af3884f02e8a0e": 1791519327.111267
  },
- "queue": [
-  {
-   "id": "ed20affdc9c7a907",
-   "cfg": "vless://2d309706-de61-4c33-a086-3888e595b8eb@172.64.153.11:8880?encryption=none&security=none&type=ws&host=soft-scene-d370.55-7ff.workers.dev&path=/pyip#🔵@chillguy_vpn",
-   "ping": 39,
-   "best": 30,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791519327.111267
-  },
-  {
-   "id": "4d7f64e7549a9fad",
-   "cfg": "vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@188.114.96.1:2052?security=none&type=ws&path=/vl/cFprDqqqyBOgsuPVMIZf6qBJV89?ed=2560&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&packetEncoding=xudp&encryption=none#🔵@chillguy_vpn",
-   "ping": 44,
-   "best": 29,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791519327.111267
-  },
-  {
-   "id": "9ded1c55d4c0ff94",
-   "cfg": "vless://78b73cc4-8c3c-40ce-bb74-d5dcd3277c67@codecanyon.net:8880?&packet-encoding=xudp&type=ws&headerType=none&host=white-hill-f907.23-b68.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🔵@chillguy_vpn",
-   "ping": 83,
-   "best": 42,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791519327.111267
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -6937,6 +6909,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "ed20affdc9c7a907": {
+   "cfg": "vless://2d309706-de61-4c33-a086-3888e595b8eb@172.64.153.11:8880?encryption=none&security=none&type=ws&host=soft-scene-d370.55-7ff.workers.dev&path=/pyip#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1436,
+   "ts": 1791519713.687841,
+   "ping": 43,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "4d7f64e7549a9fad": {
+   "cfg": "vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@188.114.96.1:2052?security=none&type=ws&path=/vl/cFprDqqqyBOgsuPVMIZf6qBJV89?ed=2560&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1437,
+   "ts": 1791519715.5955122,
+   "ping": 42,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "9ded1c55d4c0ff94": {
+   "cfg": "vless://78b73cc4-8c3c-40ce-bb74-d5dcd3277c67@codecanyon.net:8880?&packet-encoding=xudp&type=ws&headerType=none&host=white-hill-f907.23-b68.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1438,
+   "ts": 1791519717.6826527,
+   "ping": 92,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10180,7 +10182,7 @@
   "date": "2026-10-09",
   "fetched": 19,
   "healthy": 19,
-  "posted": 17,
+  "posted": 20,
   "removed": 0,
   "published_scores": [
    89,
@@ -10199,7 +10201,10 @@
    86,
    100,
    100,
-   100
+   100,
+   99,
+   99,
+   99
   ]
  }
 }
