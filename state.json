@@ -610,17 +610,7 @@
   "972611e33f7584ba": 1791525480.5523481,
   "9de30a634b0576a9": 1791525480.5523481
  },
- "queue": [
-  {
-   "id": "587f34ca6628aa32",
-   "cfg": "vless://ea611ed3-29b1-4d8c-bad6-27fa3cbbe0be@varzesh.com.tiket.paxaro.ir:443?security=reality&encryption=none&pbk=2KGl5qpg4xtHrX00fhWm9H6DlWVYtRPIK_eQTiifcys&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2F85c334849988e42&type=tcp&flow=xtls-rprx-vision&sni=wwwqa.microsoft.com&sid=63c171#🔵@chillguy_vpn",
-   "ping": 469,
-   "best": 451,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791525480.5523481
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -7268,6 +7258,16 @@
    "stability": 100,
    "country": "Israel",
    "repost_count": 0
+  },
+  "587f34ca6628aa32": {
+   "cfg": "vless://ea611ed3-29b1-4d8c-bad6-27fa3cbbe0be@varzesh.com.tiket.paxaro.ir:443?security=reality&encryption=none&pbk=2KGl5qpg4xtHrX00fhWm9H6DlWVYtRPIK_eQTiifcys&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2F85c334849988e42&type=tcp&flow=xtls-rprx-vision&sni=wwwqa.microsoft.com&sid=63c171#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1472,
+   "ts": 1791526531.2794125,
+   "ping": 627,
+   "score": 92,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10530,13 +10530,18 @@
    "cc": "IL",
    "name": "Israel",
    "ts": 1791525656.195955
+  },
+  "varzesh.com.tiket.paxaro.ir": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791526530.4310243
   }
  },
  "stats": {
   "date": "2026-10-09",
   "fetched": 51,
   "healthy": 51,
-  "posted": 50,
+  "posted": 51,
   "removed": 0,
   "published_scores": [
    89,
@@ -10588,7 +10593,8 @@
    100,
    99,
    96,
-   96
+   96,
+   92
   ]
  }
 }
