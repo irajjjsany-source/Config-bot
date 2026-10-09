@@ -656,7 +656,10 @@
   "50a06c7a02fce0ac": 1791540845.697515,
   "d4a1b8d75eb4174d": 1791540845.697515,
   "b6f28c854045dc90": 1791540845.697515,
-  "701d49b1eb21fb58": 1791540845.697515
+  "701d49b1eb21fb58": 1791540845.697515,
+  "3e7d3931f4659356": 1791541836.7155998,
+  "6d83d250cce33515": 1791541836.7155998,
+  "2d10b38d42d31c9c": 1791541836.7155998
  },
  "queue": [],
  "posted": {
@@ -7646,6 +7649,26 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "2d10b38d42d31c9c": {
+   "cfg": "vmess://eyJhZGQiOiAiZGFzaGJvYXJkLm9qZXNob3AudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwYTQwNjY4Mi04YzQ5LTRjNGEtYjMzMi1lZDc2MzIyYzE2ZTIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1MzgwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "msg": 1509,
+   "ts": 1791541848.351517,
+   "ping": 702,
+   "score": 91,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
+  },
+  "6d83d250cce33515": {
+   "cfg": "vless://19c78abc-0f6f-4fa6-8614-0fbf0021273d@ngnix.velnix-services.ir:1081?security=reality&encryption=none&pbk=oBcBNqEqA-Iqc6VT25ZLWF0MhkZ1CSny7yWn_u1r-1Q&host=www12.gameservice-iramn3.com&headerType=none&fp=chrome&type=tcp&sni=www32.velnix-services.ir&sid=fbc2f106a8cab706#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1510,
+   "ts": 1791541849.2721727,
+   "ping": 927,
+   "score": 88,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10973,13 +10996,23 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791540053.398747
+  },
+  "dashboard.ojeshop.top": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791541847.5455768
+  },
+  "ngnix.velnix-services.ir": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791541848.3516073
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 99,
-  "healthy": 85,
-  "posted": 84,
+  "fetched": 102,
+  "healthy": 87,
+  "posted": 86,
   "removed": 0,
   "published_scores": [
    89,
@@ -11065,7 +11098,9 @@
    93,
    99,
    99,
-   99
+   99,
+   91,
+   88
   ]
  }
 }
