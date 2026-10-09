@@ -626,35 +626,7 @@
   "45b29bc947a6d350": 1791531926.121858,
   "ac0b051eb4bf4b3b": 1791531926.121858
  },
- "queue": [
-  {
-   "id": "51a5384a6bceffff",
-   "cfg": "vless://0fb5a848-ae04-422a-bbf9-cb79ca7ee42a@dns4.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&host=Aparat.com&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#🔵@chillguy_vpn",
-   "ping": 490,
-   "best": 358,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791531926.121858
-  },
-  {
-   "id": "07fb902cfc3af252",
-   "cfg": "vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@geminilanzerotte.live:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&pbk=_aURfmVUjvCRZipDI2eqMO0VQa64BJRGYFOdlBFi1XQ&sid=#🔵@chillguy_vpn",
-   "ping": 585,
-   "best": 403,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791531926.121858
-  },
-  {
-   "id": "c96deb45e317eb21",
-   "cfg": "vless://0fb5a848-ae04-422a-bbf9-cb79ca7ee42a@dns7.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#🔵@chillguy_vpn",
-   "ping": 609,
-   "best": 605,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791531926.121858
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -7412,6 +7384,36 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "51a5384a6bceffff": {
+   "cfg": "vless://0fb5a848-ae04-422a-bbf9-cb79ca7ee42a@dns4.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&host=Aparat.com&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1483,
+   "ts": 1791531963.2091086,
+   "ping": 490,
+   "score": 94,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "07fb902cfc3af252": {
+   "cfg": "vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@geminilanzerotte.live:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&pbk=_aURfmVUjvCRZipDI2eqMO0VQa64BJRGYFOdlBFi1XQ&sid=#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1484,
+   "ts": 1791531963.7534528,
+   "ping": 585,
+   "score": 92,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
+  },
+  "c96deb45e317eb21": {
+   "cfg": "vless://0fb5a848-ae04-422a-bbf9-cb79ca7ee42a@dns7.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1485,
+   "ts": 1791531964.31847,
+   "ping": 609,
+   "score": 92,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10684,13 +10686,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791531943.1448298
+  },
+  "dns4.m3hrzd.ir": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791531962.337194
   }
  },
  "stats": {
   "date": "2026-10-09",
   "fetched": 67,
   "healthy": 65,
-  "posted": 61,
+  "posted": 64,
   "removed": 0,
   "published_scores": [
    89,
@@ -10753,7 +10760,10 @@
    99,
    99,
    99,
-   99
+   99,
+   94,
+   92,
+   92
   ]
  }
 }
