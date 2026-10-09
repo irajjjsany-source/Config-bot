@@ -662,7 +662,10 @@
   "2d10b38d42d31c9c": 1791541836.7155998,
   "70c1d261a48b002c": 1791542201.8814185,
   "e3faf3ca10fbf667": 1791542727.9927895,
-  "b71b300c81a119fa": 1791542727.9927895
+  "b71b300c81a119fa": 1791542727.9927895,
+  "cc4f8eb56f1b3cbe": 1791543496.0189042,
+  "c43536371b5414fe": 1791543496.0189042,
+  "fb3153829a691fea": 1791543496.0189042
  },
  "queue": [],
  "posted": {
@@ -7692,6 +7695,36 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "c43536371b5414fe": {
+   "cfg": "vless://732b94ca-7c0a-4b64-a53b-c14578b68e57@46.8.230.143:8443?encryption=none&fp=chrome&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&security=reality&sid=1005ae37d194664f&sni=www.compliance.sony.eu&spx=%2F21d984447af87b8&support-x25519mlkem768=true&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1513,
+   "ts": 1791543508.264733,
+   "ping": 560,
+   "score": 93,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
+  },
+  "cc4f8eb56f1b3cbe": {
+   "cfg": "vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?encryption=none&fp=chrome&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&security=reality&sid=85cd&sni=www.sony.com.hn&spx=%2F621de6b73e8bf3c&support-x25519mlkem768=true&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1514,
+   "ts": 1791543508.8616211,
+   "ping": 570,
+   "score": 93,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
+  },
+  "fb3153829a691fea": {
+   "cfg": "vless://732b94ca-7c0a-4b64-a53b-c14578b68e57@46.8.230.143:8443?security=reality&encryption=none&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&headerType=none&fp=chrome&spx=%2F21d984447af87b8&type=tcp&sni=www.compliance.sony.eu&sid=1005ae37d194664f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1515,
+   "ts": 1791543509.455032,
+   "ping": 608,
+   "score": 92,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -11029,13 +11062,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791541848.3516073
+  },
+  "46.8.230.143": {
+   "cc": "LV",
+   "name": "Latvia",
+   "ts": 1791543507.322722
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 105,
-  "healthy": 89,
-  "posted": 88,
+  "fetched": 108,
+  "healthy": 92,
+  "posted": 91,
   "removed": 0,
   "published_scores": [
    89,
@@ -11125,7 +11163,10 @@
    91,
    88,
    54,
-   54
+   54,
+   93,
+   93,
+   92
   ]
  }
 }
