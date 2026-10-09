@@ -624,7 +624,12 @@
   "07fb902cfc3af252": 1791531926.121858,
   "aeff533cbe86766c": 1791531926.121858,
   "45b29bc947a6d350": 1791531926.121858,
-  "ac0b051eb4bf4b3b": 1791531926.121858
+  "ac0b051eb4bf4b3b": 1791531926.121858,
+  "fcb36ca2e6a1aae7": 1791533673.0609028,
+  "b198dc1a7e09a46a": 1791533673.0609028,
+  "95cfdb626b37fe38": 1791533673.0609028,
+  "1505e12593811304": 1791533673.0609028,
+  "61832782322ab524": 1791533673.0609028
  },
  "queue": [],
  "posted": {
@@ -7414,6 +7419,36 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "61832782322ab524": {
+   "cfg": "vless://4b00d726-e072-429b-997e-f07affea3b7f@162.159.81.104:80?security=none&type=ws&path=/eyJqdW5rIjoiUEVTdDRlR2hhc0JuYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==&host=icy-darkness-8ff1.farzambia12mo.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1486,
+   "ts": 1791533689.431324,
+   "ping": 119,
+   "score": 98,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "fcb36ca2e6a1aae7": {
+   "cfg": "vless://98b6cb05-b5ab-4c82-8683-07de28f796a9@188.114.97.6:2086?security=none&type=ws&path=/eyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&host=holy-glitter-39f9.wwewee2dasdds.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1487,
+   "ts": 1791533690.0184026,
+   "ping": 121,
+   "score": 98,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "b198dc1a7e09a46a": {
+   "cfg": "vmess://eyJhZGQiOiAiaXIyODQ4Mi5qZGpjci4zODQyLm1hcnphcmEuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjk1OTJiZDBhLTc2OTItNDE0OC05OWY5LWU1N2YzYmNmNDA3NSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjExMTAiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "msg": 1488,
+   "ts": 1791533691.0468662,
+   "ping": 1233,
+   "score": 84,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10691,13 +10726,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791531962.337194
+  },
+  "ir28482.jdjcr.3842.marzara.ir": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791533690.01847
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 67,
-  "healthy": 65,
-  "posted": 64,
+  "fetched": 72,
+  "healthy": 68,
+  "posted": 67,
   "removed": 0,
   "published_scores": [
    89,
@@ -10763,7 +10803,10 @@
    99,
    94,
    92,
-   92
+   92,
+   98,
+   98,
+   84
   ]
  }
 }
