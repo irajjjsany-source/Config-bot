@@ -641,9 +641,43 @@
   "095af60d62b83a7f": 1791537326.5105145,
   "63628bef68b72da2": 1791537326.5105145,
   "3e5bc4a9c9ce4ccc": 1791537326.5105145,
-  "abb86934252ffd25": 1791537326.5105145
+  "abb86934252ffd25": 1791537326.5105145,
+  "c8cc64b79dc59468": 1791538235.6377103,
+  "a73c164d04c4417e": 1791538235.6377103,
+  "2203d22617b3f49f": 1791538235.6377103,
+  "7b6c903273624738": 1791538235.6377103,
+  "f36ffb579268aca7": 1791538235.6377103,
+  "591d04dc58e0a6bf": 1791538235.6377103
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "591d04dc58e0a6bf",
+   "cfg": "vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 775,
+   "best": 743,
+   "score": 90,
+   "stability": 100,
+   "ts": 1791538235.6377103
+  },
+  {
+   "id": "2203d22617b3f49f",
+   "cfg": "vless://186a7d6f-e360-4c5f-bafb-a816f79e231b@89.23.113.11:443?security=reality&encryption=none&pbk=DP_8vX-l2ugAHn828ZGa4wHp4Y7YOZrhGKiTMaFoCDc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru-in-lt-4vp.movietop24.site&sid=4ea43db267b5fd8b#🔵@chillguy_vpn",
+   "ping": 1552,
+   "best": 1221,
+   "score": 80,
+   "stability": 100,
+   "ts": 1791538235.6377103
+  },
+  {
+   "id": "f36ffb579268aca7",
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
+   "ping": 1845,
+   "best": 1647,
+   "score": 76,
+   "stability": 100,
+   "ts": 1791538235.6377103
+  }
+ ],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -7521,6 +7555,36 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "a73c164d04c4417e": {
+   "cfg": "vless://723c410e-5789-4b21-abb9-d6ec05547ba9@104.26.13.40:8880?encryption=none&type=ws&host=blue-sky-e65b.221-553.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1495,
+   "ts": 1791538262.3439326,
+   "ping": 67,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "c8cc64b79dc59468": {
+   "cfg": "vmess://eyJhZGQiOiAiMTkzLjE2NC4xNTUuMjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjU1NTFkMmU4LWQzZDQtNDJkMi05NWM4LWZiNzgwYjRmNmU2ZCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNjAzOTIiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==",
+   "msg": 1496,
+   "ts": 1791538262.8696887,
+   "ping": 452,
+   "score": 94,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
+  },
+  "7b6c903273624738": {
+   "cfg": "vless://bb441de5-4707-498c-b958-7ad469342b3d@NlS3.zelnora.ir:11?path=%2F&security=none&encryption=none&host=NlS3.zelnora.ir&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1497,
+   "ts": 1791538263.5612695,
+   "ping": 517,
+   "score": 93,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10818,13 +10882,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1791537737.6579044
+  },
+  "nls3.zelnora.ir": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791538262.8697488
   }
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 84,
-  "healthy": 74,
-  "posted": 73,
+  "fetched": 90,
+  "healthy": 80,
+  "posted": 76,
   "removed": 0,
   "published_scores": [
    89,
@@ -10899,7 +10968,10 @@
    100,
    99,
    74,
-   80
+   80,
+   99,
+   94,
+   93
   ]
  }
 }
