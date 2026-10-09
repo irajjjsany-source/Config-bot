@@ -652,7 +652,11 @@
   "8e2fb768cecca55e": 1791539127.20483,
   "7d2974eb41de5e8b": 1791539127.20483,
   "d109f583e7f0ad3d": 1791540046.9363413,
-  "d97ddce8419c8867": 1791540046.9363413
+  "d97ddce8419c8867": 1791540046.9363413,
+  "50a06c7a02fce0ac": 1791540845.697515,
+  "d4a1b8d75eb4174d": 1791540845.697515,
+  "b6f28c854045dc90": 1791540845.697515,
+  "701d49b1eb21fb58": 1791540845.697515
  },
  "queue": [],
  "posted": {
@@ -7612,6 +7616,36 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "d4a1b8d75eb4174d": {
+   "cfg": "vless://70c16ec7-13f7-473b-b97d-06399f1481e3@104.21.88.129:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=mute-surf-0003.209.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1506,
+   "ts": 1791540860.021941,
+   "ping": 48,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "b6f28c854045dc90": {
+   "cfg": "vless://17b2ed22-5fd0-47ad-b5f0-658379379ced@188.114.97.6:8080?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=black-wildflower-dd92.72-1e8.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1507,
+   "ts": 1791540860.630435,
+   "ping": 50,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "50a06c7a02fce0ac": {
+   "cfg": "vless://e9d9f06f-d5dd-460a-998f-52efc4732636@172.64.144.180:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=bitter-meadow-1d60.313-0f9.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1508,
+   "ts": 1791540861.2875237,
+   "ping": 53,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10943,9 +10977,9 @@
  },
  "stats": {
   "date": "2026-10-09",
-  "fetched": 95,
-  "healthy": 82,
-  "posted": 81,
+  "fetched": 99,
+  "healthy": 85,
+  "posted": 84,
   "removed": 0,
   "published_scores": [
    89,
@@ -11028,7 +11062,10 @@
    90,
    60,
    99,
-   93
+   93,
+   99,
+   99,
+   99
   ]
  }
 }
