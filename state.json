@@ -643,26 +643,7 @@
   "3e5bc4a9c9ce4ccc": 1791537326.5105145,
   "abb86934252ffd25": 1791537326.5105145
  },
- "queue": [
-  {
-   "id": "63628bef68b72da2",
-   "cfg": "vmess://eyJhZGQiOiAiMTkzLjE2NC4xNTUuMjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjU1NTFkMmU4LWQzZDQtNDJkMi05NWM4LWZiNzgwYjRmNmU2ZCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjYwMzkyIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
-   "ping": 363,
-   "best": 345,
-   "score": 95,
-   "stability": 100,
-   "ts": 1791537326.5105145
-  },
-  {
-   "id": "3e5bc4a9c9ce4ccc",
-   "cfg": "vless://ff4e7c7a-4cea-4bd9-9e7e-1d155859019e@1755a5aea14b6f46.tunvi.w-ert.org:442?mode=auto&path=%2F&security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&fp=chrome&type=xhttp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
-   "ping": 1266,
-   "best": 821,
-   "score": 84,
-   "stability": 100,
-   "ts": 1791537326.5105145
-  }
- ],
+ "queue": [],
  "posted": {
   "cf9e1cfcbc6b3563": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -7520,6 +7501,26 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "63628bef68b72da2": {
+   "cfg": "vmess://eyJhZGQiOiAiMTkzLjE2NC4xNTUuMjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjU1NTFkMmU4LWQzZDQtNDJkMi05NWM4LWZiNzgwYjRmNmU2ZCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjYwMzkyIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "msg": 1493,
+   "ts": 1791537731.7926042,
+   "ping": 2027,
+   "score": 74,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
+  },
+  "3e5bc4a9c9ce4ccc": {
+   "cfg": "vless://ff4e7c7a-4cea-4bd9-9e7e-1d155859019e@1755a5aea14b6f46.tunvi.w-ert.org:442?mode=auto&path=%2F&security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&fp=chrome&type=xhttp&sni=www.aparat.com&sid=ca4134a0ed2592b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1494,
+   "ts": 1791537738.122669,
+   "ping": 1511,
+   "score": 80,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "geo": {
@@ -10807,13 +10808,23 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791537348.3038714
+  },
+  "193.164.155.29": {
+   "cc": "LV",
+   "name": "Latvia",
+   "ts": 1791537731.258368
+  },
+  "1755a5aea14b6f46.tunvi.w-ert.org": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791537737.6579044
   }
  },
  "stats": {
   "date": "2026-10-09",
   "fetched": 84,
   "healthy": 74,
-  "posted": 71,
+  "posted": 73,
   "removed": 0,
   "published_scores": [
    89,
@@ -10886,7 +10897,9 @@
    99,
    100,
    100,
-   99
+   99,
+   74,
+   80
   ]
  }
 }
