@@ -47,7 +47,10 @@
   "36a84cf917e5681c": 1791587908.153781,
   "1235878a696f2f92": 1791587908.153781,
   "a40cda4f83e94f12": 1791587908.153781,
-  "b95aa03b0068bb70": 1791588634.713308
+  "b95aa03b0068bb70": 1791588634.713308,
+  "1a500de747e3b6e1": 1791593127.4686615,
+  "b8c74976e5746611": 1791593127.4686615,
+  "4d75cdb5cca4754f": 1791593127.4686615
  },
  "queue": [],
  "posted": {
@@ -290,6 +293,26 @@
    "stability": 100,
    "country": "Hong Kong",
    "repost_count": 0
+  },
+  "b8c74976e5746611": {
+   "cfg": "vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1574,
+   "ts": 1791593139.1614826,
+   "ping": 692,
+   "score": 91,
+   "stability": 100,
+   "country": "India",
+   "repost_count": 0
+  },
+  "4d75cdb5cca4754f": {
+   "cfg": "vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&fp=firefox&type=grpc&serviceName=rex-eb0bf76b710ce763&sni=deepl.com&sid=92c32de179e5d908#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1575,
+   "ts": 1791593139.7375932,
+   "ping": 885,
+   "score": 88,
+   "stability": 100,
+   "country": "India",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -393,13 +416,18 @@
    "cc": "HK",
    "name": "Hong Kong",
    "ts": 1791592197.638917
+  },
+  "5.253.28.240": {
+   "cc": "IN",
+   "name": "India",
+   "ts": 1791593138.3134987
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 0,
-  "healthy": 0,
-  "posted": 9,
+  "fetched": 3,
+  "healthy": 2,
+  "posted": 11,
   "removed": 0,
   "published_scores": [
    93,
@@ -410,7 +438,9 @@
    91,
    96,
    88,
-   80
+   80,
+   91,
+   88
   ]
  }
 }
