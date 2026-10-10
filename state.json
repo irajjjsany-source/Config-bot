@@ -147,7 +147,11 @@
   "6254fed0f0b02db8": 1791628997.7526636,
   "5c46d55830c7896b": 1791628997.7526636,
   "89b6e61fa724fd49": 1791628997.7526636,
-  "987d28995745a556": 1791628997.7526636
+  "987d28995745a556": 1791628997.7526636,
+  "323ab4bcc9bfa4a4": 1791629863.6843252,
+  "1494382bfc3e1260": 1791629863.6843252,
+  "351c4e83f29d5430": 1791629863.6843252,
+  "16ccf0066b44113f": 1791629863.6843252
  },
  "queue": [
   {
@@ -160,6 +164,15 @@
    "ts": 1791628997.7526636
   },
   {
+   "id": "1494382bfc3e1260",
+   "cfg": "vless://bae7d9c5-b1e4-46f9-8973-39137797a694@dns2.m3hrzd.ir:2800?security=reality&encryption=none&pbk=Y6EGB3qFcmBFAfL-gHaB4emJzC5fXq5ov9Ri4JqHenc&headerType=none&fp=safari&type=tcp&sni=play.google.com&sid=81d0d80c09088a91#🔵@chillguy_vpn",
+   "ping": 444,
+   "best": 366,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791629863.6843252
+  },
+  {
    "id": "987d28995745a556",
    "cfg": "vless://bae7d9c5-b1e4-46f9-8973-39137797a694@dns7.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#🔵@chillguy_vpn",
    "ping": 474,
@@ -167,6 +180,15 @@
    "score": 94,
    "stability": 100,
    "ts": 1791628997.7526636
+  },
+  {
+   "id": "351c4e83f29d5430",
+   "cfg": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi-s-1.pythonmakemigreat.wiki:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=78f97d82e16aaad6&sni=fi-s-1.pythonmakemigreat.wiki&type=tcp#🔵@chillguy_vpn",
+   "ping": 500,
+   "best": 284,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791629863.6843252
   },
   {
    "id": "a39faf109bd16290",
@@ -1041,6 +1063,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "323ab4bcc9bfa4a4": {
+   "cfg": "vless://3a936dde-62f0-4275-ad40-66f02571d22c@requests.pythonlib.workers.dev:443?encryption=none&security=tls&sni=requests.pythonlib.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=requests.pythonlib.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1621,
+   "ts": 1791629874.3051538,
+   "ping": 55,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1264,13 +1296,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791629031.3520124
+  },
+  "requests.pythonlib.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791629873.7889829
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 100,
-  "healthy": 76,
-  "posted": 56,
+  "fetched": 104,
+  "healthy": 79,
+  "posted": 57,
   "removed": 0,
   "published_scores": [
    93,
@@ -1328,6 +1365,7 @@
    94,
    96,
    95,
+   99,
    99
   ]
  }
