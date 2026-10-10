@@ -96,15 +96,6 @@
  },
  "queue": [
   {
-   "id": "34a773fea13d3838",
-   "cfg": "vless://baaa882d-ac50-4bba-bd8d-5486f7d34005@envato.com:8880?path=%2F&security=&encryption=none&host=blue-water-924c.174-235.workers.dev&type=ws#🔵@chillguy_vpn",
-   "ping": 136,
-   "best": 128,
-   "score": 98,
-   "stability": 100,
-   "ts": 1791611048.93824
-  },
-  {
    "id": "8a5581420b238b57",
    "cfg": "vless://a889fba5-5472-4022-a6b4-9710157fda2f@194.87.6.192:56789?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ger6.fytpn.com&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 471,
@@ -671,6 +662,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "34a773fea13d3838": {
+   "cfg": "vless://baaa882d-ac50-4bba-bd8d-5486f7d34005@envato.com:8880?path=%2F&security=&encryption=none&host=blue-water-924c.174-235.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1603,
+   "ts": 1791612047.2829435,
+   "ping": 95,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -830,7 +831,7 @@
   "date": "2026-10-10",
   "fetched": 45,
   "healthy": 35,
-  "posted": 38,
+  "posted": 39,
   "removed": 0,
   "published_scores": [
    93,
@@ -870,7 +871,8 @@
    99,
    99,
    99,
-   98
+   98,
+   99
   ]
  }
 }
