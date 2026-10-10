@@ -165,7 +165,9 @@
   "6667dd98154102ef": 1791634905.4883873,
   "4f8bfa91aa857c65": 1791634905.4883873,
   "4059b8fe0e10d211": 1791634905.4883873,
-  "41eb43641794f6af": 1791634905.4883873
+  "41eb43641794f6af": 1791634905.4883873,
+  "f71d41604161361a": 1791636577.6017551,
+  "8f0f844d98fa1b19": 1791636577.6017551
  },
  "queue": [
   {
@@ -329,6 +331,15 @@
    "score": 81,
    "stability": 100,
    "ts": 1791622581.5605135
+  },
+  {
+   "id": "8f0f844d98fa1b19",
+   "cfg": "vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=none&encryption=none&type=ws#🔵@chillguy_vpn",
+   "ping": 1480,
+   "best": 1385,
+   "score": 81,
+   "stability": 100,
+   "ts": 1791636577.6017551
   },
   {
    "id": "b1c38a4d1c15ba08",
@@ -1145,6 +1156,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "f71d41604161361a": {
+   "cfg": "vless://79e0a664-cd66-4aa2-ab4f-5039c1c19bf2@70.38.95.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pkg.go.dev&fp=random&pbk=0du0bcP9VqKadj6p_W9P-3APJ9fJdNT1ZdHqg0JWkg8&sid=18de7b601c10639f&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1626,
+   "ts": 1791636588.2186403,
+   "ping": 96,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1393,13 +1414,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1791634945.393123
+  },
+  "70.38.95.51": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791636587.532785
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 118,
-  "healthy": 85,
-  "posted": 61,
+  "fetched": 120,
+  "healthy": 87,
+  "posted": 62,
   "removed": 0,
   "published_scores": [
    93,
@@ -1462,7 +1488,8 @@
    96,
    99,
    60,
-   92
+   92,
+   99
   ]
  }
 }
