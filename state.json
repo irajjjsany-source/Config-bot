@@ -84,9 +84,26 @@
   "8a5581420b238b57": 1791609325.1887953,
   "b1bd17072c1ce43b": 1791610236.6079516,
   "af8e55ce6516f69b": 1791610236.6079516,
-  "63e406d0869d6c74": 1791610236.6079516
+  "63e406d0869d6c74": 1791610236.6079516,
+  "9da6752b51e49934": 1791611048.93824,
+  "e59768a9801fc111": 1791611048.93824,
+  "9f7677e45b78cbc7": 1791611048.93824,
+  "61ea6ea083ba3906": 1791611048.93824,
+  "65ad7dfe6f995f69": 1791611048.93824,
+  "c24de5b907bf7aac": 1791611048.93824,
+  "34a773fea13d3838": 1791611048.93824,
+  "4696c4a96910bce4": 1791611048.93824
  },
  "queue": [
+  {
+   "id": "e59768a9801fc111",
+   "cfg": "vless://38135fde-7044-4407-8faf-e1ab08e47402@172.67.152.71:8880?&security=none&type=ws&headerType=&host=white-bush-712e.498-f8f.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🔵@chillguy_vpn",
+   "ping": 96,
+   "best": 78,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791611048.93824
+  },
   {
    "id": "b1bd17072c1ce43b",
    "cfg": "vless://baaa882d-ac50-4bba-bd8d-5486f7d34005@envato.com:8880?encryption=none&security=none&type=ws&host=blue-water-924c.174-235.workers.dev&path=%2F#🔵@chillguy_vpn",
@@ -95,6 +112,15 @@
    "score": 99,
    "stability": 100,
    "ts": 1791610236.6079516
+  },
+  {
+   "id": "34a773fea13d3838",
+   "cfg": "vless://baaa882d-ac50-4bba-bd8d-5486f7d34005@envato.com:8880?path=%2F&security=&encryption=none&host=blue-water-924c.174-235.workers.dev&type=ws#🔵@chillguy_vpn",
+   "ping": 136,
+   "best": 128,
+   "score": 98,
+   "stability": 100,
+   "ts": 1791611048.93824
   },
   {
    "id": "8a5581420b238b57",
@@ -633,6 +659,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "9da6752b51e49934": {
+   "cfg": "vless://5990e0a5-fc5f-43c6-8fdc-39612c60a9cd@104.21.55.229:8880?&security=none&type=ws&headerType=&host=jolly-butterfly-24e0.212-cb3.workers.dev&path=%2Fpyip#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1600,
+   "ts": 1791611058.429436,
+   "ping": 91,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -790,9 +826,9 @@
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 37,
-  "healthy": 32,
-  "posted": 35,
+  "fetched": 45,
+  "healthy": 35,
+  "posted": 36,
   "removed": 0,
   "published_scores": [
    93,
@@ -829,6 +865,7 @@
    98,
    99,
    95,
+   99,
    99
   ]
  }
