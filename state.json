@@ -211,7 +211,10 @@
   "36e9db6128537e92": 1791644128.6230435,
   "9b935115cff82532": 1791645154.7676814,
   "b0617681e0780e71": 1791645154.7676814,
-  "5fa14e292f94dda1": 1791645154.7676814
+  "5fa14e292f94dda1": 1791645154.7676814,
+  "be995bbce4589185": 1791646298.8848367,
+  "46bcc892e31f0662": 1791646298.8848367,
+  "a3509ff380072197": 1791646298.8848367
  },
  "queue": [
   {
@@ -224,15 +227,6 @@
    "ts": 1791644128.6230435
   },
   {
-   "id": "864d2cad9608d5a8",
-   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@213.21.232.224:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl-4.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp#🔵@chillguy_vpn",
-   "ping": 506,
-   "best": 493,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791623714.2005491
-  },
-  {
    "id": "2862be480d381347",
    "cfg": "vless://21b424bf-bf4c-498d-a9a8-0b40ee7e113d@main.v2xenet.site:443?security=reality&encryption=none&pbk=PpBSOp2P4Dfx2aQubqibRu05iSH604LeHRFl-fdvsVg&headerType=none&fp=chrome&type=tcp&sni=green.ai&sid=7701a31e8686d5fb#🔵@chillguy_vpn",
    "ping": 519,
@@ -240,15 +234,6 @@
    "score": 93,
    "stability": 100,
    "ts": 1791628997.7526636
-  },
-  {
-   "id": "7b7d93a553314ab0",
-   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@138.124.15.176:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fn-3.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp#🔵@chillguy_vpn",
-   "ping": 525,
-   "best": 510,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791623714.2005491
   },
   {
    "id": "c4b94a7f7e435b21",
@@ -548,6 +533,15 @@
    "ts": 1791642651.0731382
   },
   {
+   "id": "be995bbce4589185",
+   "cfg": "vless://ddbcf201-aba3-40c9-b1fb-a91e56c9ab81@irrran.zeeshop.click:443?security=reality&encryption=none&pbk=Dp0sJ6LxqlrMJiQJnsdxbc_77whcVU3uplS2wsA9nzE&headerType=none&fp=chrome&spx=%2F95096ed7dcc5b95&type=tcp&sni=workbee.ca&sid=e2a843e873c0cc71#🔵@chillguy_vpn",
+   "ping": 2003,
+   "best": 1760,
+   "score": 74,
+   "stability": 100,
+   "ts": 1791646298.8848367
+  },
+  {
    "id": "eab74bf14be42d18",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
    "ping": 2088,
@@ -591,6 +585,15 @@
    "score": 65,
    "stability": 100,
    "ts": 1791634905.4883873
+  },
+  {
+   "id": "46bcc892e31f0662",
+   "cfg": "vless://412c08d3-d2c4-4a29-a7ce-bc16d6ca6d79@tun1.applly.ir:8700?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.lf7RGaNMgbxzgCSNFaTbEjRGecpamczYdrjdUlQDq30&host=arvancloud.ir&type=ws#🔵@chillguy_vpn",
+   "ping": 2900,
+   "best": 1463,
+   "score": 62,
+   "stability": 100,
+   "ts": 1791646298.8848367
   },
   {
    "id": "3c0a05a52f9ec8ec",
@@ -1460,6 +1463,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "a3509ff380072197": {
+   "cfg": "vless://3a936dde-62f0-4275-ad40-66f02571d22c@ubuntu.grasbeck.workers.dev:443?encryption=none&security=tls&sni=ubuntu.grasbeck.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=ubuntu.grasbeck.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1634,
+   "ts": 1791646322.0091825,
+   "ping": 66,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1748,13 +1761,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791645187.0998473
+  },
+  "ubuntu.grasbeck.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791646321.478176
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 164,
-  "healthy": 119,
-  "posted": 69,
+  "fetched": 167,
+  "healthy": 122,
+  "posted": 70,
   "removed": 0,
   "published_scores": [
    93,
@@ -1825,7 +1843,8 @@
    89,
    96,
    90,
-   96
+   96,
+   99
   ]
  }
 }
