@@ -160,18 +160,14 @@
   "fb3153829a691fea": 1791632593.5488617,
   "513ca8a33994b54e": 1791632593.5488617,
   "ba52639740522e43": 1791633447.4156084,
-  "166893efeda44bd8": 1791633447.4156084
+  "166893efeda44bd8": 1791633447.4156084,
+  "b1c38a4d1c15ba08": 1791634905.4883873,
+  "6667dd98154102ef": 1791634905.4883873,
+  "4f8bfa91aa857c65": 1791634905.4883873,
+  "4059b8fe0e10d211": 1791634905.4883873,
+  "41eb43641794f6af": 1791634905.4883873
  },
  "queue": [
-  {
-   "id": "d0c04f1d82ed4611",
-   "cfg": "vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#🔵@chillguy_vpn",
-   "ping": 467,
-   "best": 406,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791632593.5488617
-  },
   {
    "id": "987d28995745a556",
    "cfg": "vless://bae7d9c5-b1e4-46f9-8973-39137797a694@dns7.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#🔵@chillguy_vpn",
@@ -234,6 +230,15 @@
    "score": 93,
    "stability": 100,
    "ts": 1791626332.366599
+  },
+  {
+   "id": "4f8bfa91aa857c65",
+   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@213.21.232.230:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pl-1.ardesnode.ru&sid=9ea74b83f4993ca9#🔵@chillguy_vpn",
+   "ping": 559,
+   "best": 456,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791634905.4883873
   },
   {
    "id": "f9cfe67b0b85741e",
@@ -326,6 +331,15 @@
    "ts": 1791622581.5605135
   },
   {
+   "id": "b1c38a4d1c15ba08",
+   "cfg": "vless://b6eeba72-2ce3-4576-b8c1-0ebae225c1d5@iran.panelsaz.com:2053?encryption=mlkem768x25519plus.native.0rtt.kXgCEIxbi8wPibhG8C1otYqF4Ef_PWkdKsYgDhU6Wyw&security=none&type=ws&host=iran.panelsaz.com&path=%2Ffree#🔵@chillguy_vpn",
+   "ping": 1583,
+   "best": 1054,
+   "score": 79,
+   "stability": 100,
+   "ts": 1791634905.4883873
+  },
+  {
    "id": "513ca8a33994b54e",
    "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=nd-3.ardesnode.ru&sid=9ea74b83f4993ca9#🔵@chillguy_vpn",
    "ping": 2154,
@@ -333,6 +347,15 @@
    "score": 72,
    "stability": 100,
    "ts": 1791632593.5488617
+  },
+  {
+   "id": "6667dd98154102ef",
+   "cfg": "vless://bae7d9c5-b1e4-46f9-8973-39137797a694@dns2.m3hrzd.ir:2800?encryption=none&security=reality&sni=play.google.com&fp=safari&pbk=Y6EGB3qFcmBFAfL-gHaB4emJzC5fXq5ov9Ri4JqHenc&sid=81d0d80c09088a91&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 2661,
+   "best": 629,
+   "score": 65,
+   "stability": 100,
+   "ts": 1791634905.4883873
   },
   {
    "id": "3c0a05a52f9ec8ec",
@@ -1112,6 +1135,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "d0c04f1d82ed4611": {
+   "cfg": "vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1625,
+   "ts": 1791634946.2004359,
+   "ping": 644,
+   "score": 92,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1355,13 +1388,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791633459.7803004
+  },
+  "51.89.194.151": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791634945.393123
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 113,
-  "healthy": 82,
-  "posted": 60,
+  "fetched": 118,
+  "healthy": 85,
+  "posted": 61,
   "removed": 0,
   "published_scores": [
    93,
@@ -1423,7 +1461,8 @@
    99,
    96,
    99,
-   60
+   60,
+   92
   ]
  }
 }
