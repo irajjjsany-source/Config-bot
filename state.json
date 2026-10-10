@@ -109,15 +109,6 @@
  },
  "queue": [
   {
-   "id": "6bce70df201aad89",
-   "cfg": "vless://e5583623-53ef-4177-8070-8c553f70bcfa@172.67.214.193:2086?&security=none&type=ws&headerType=&host=fvfb8xac5j0nthxzqf.dr5945ov0z598kfft573isahdj3fmmv4.workers.dev&path=%2Fvl%2FNnAT20AqcYOuOLe1r#🔵@chillguy_vpn",
-   "ping": 102,
-   "best": 76,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791614726.3313334
-  },
-  {
    "id": "77fefff85b771a8d",
    "cfg": "vless://e937b92c-701f-420e-a621-3eb3b75de467@185.102.115.7:443?security=reality&encryption=none&pbk=oiM4ujM8pxMF3X8kQhD8ioV8lcTAj7c31rIP9e6bOgA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=baget.puffixhosting.com&sid=94d16ee71404c7a3#🔵@chillguy_vpn",
    "ping": 387,
@@ -761,6 +752,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "6bce70df201aad89": {
+   "cfg": "vless://e5583623-53ef-4177-8070-8c553f70bcfa@172.67.214.193:2086?&security=none&type=ws&headerType=&host=fvfb8xac5j0nthxzqf.dr5945ov0z598kfft573isahdj3fmmv4.workers.dev&path=%2Fvl%2FNnAT20AqcYOuOLe1r#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1608,
+   "ts": 1791614989.2573152,
+   "ping": 68,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -930,7 +931,7 @@
   "date": "2026-10-10",
   "fetched": 58,
   "healthy": 43,
-  "posted": 43,
+  "posted": 44,
   "removed": 0,
   "published_scores": [
    93,
@@ -975,6 +976,7 @@
    99,
    99,
    98,
+   99,
    99
   ]
  }
