@@ -60,9 +60,53 @@
   "1296068430d43da5": 1791602125.7771473,
   "609666b9b703bf07": 1791602125.7771473,
   "b5f66f96c314f088": 1791603925.0488684,
-  "470c7173b5985866": 1791603925.0488684
+  "470c7173b5985866": 1791603925.0488684,
+  "5ae55304425ca7e1": 1791604843.9939568,
+  "5208caf8659b8497": 1791604843.9939568,
+  "25c35fcaf628a0b2": 1791604843.9939568,
+  "9f358b9c0e707051": 1791604843.9939568,
+  "726650a87e509437": 1791604843.9939568,
+  "c0c116d7e474a3ff": 1791604843.9939568,
+  "7e73a92760e444a3": 1791604843.9939568
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "c0c116d7e474a3ff",
+   "cfg": "vless://2d309706-de61-4c33-a086-3888e595b8eb@104.18.34.245:8880?encryption=none&type=ws&host=soft-scene-d370.55-7ff.workers.dev&path=%2F&security=none#🔵@chillguy_vpn",
+   "ping": 59,
+   "best": 45,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791604843.9939568
+  },
+  {
+   "id": "7e73a92760e444a3",
+   "cfg": "vless://30a88c40-581e-4952-aa4c-8af95686ede0@rapid-lab-95ef.173-74c.workers.dev:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&encryption=none&type=ws#🔵@chillguy_vpn",
+   "ping": 67,
+   "best": 47,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791604843.9939568
+  },
+  {
+   "id": "9f358b9c0e707051",
+   "cfg": "vless://2c634977-584e-4e1f-b501-1b70c77a6743@summerculture.net:2053?mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=summerculture.net&type=xhttp&allowInsecure=0&sni=summerculture.net#🔵@chillguy_vpn",
+   "ping": 931,
+   "best": 785,
+   "score": 88,
+   "stability": 100,
+   "ts": 1791604843.9939568
+  },
+  {
+   "id": "726650a87e509437",
+   "cfg": "vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&type=ws&allowInsecure=0&sni=vless.api-music-fa.com#🔵@chillguy_vpn",
+   "ping": 2035,
+   "best": 1921,
+   "score": 74,
+   "stability": 100,
+   "ts": 1791604843.9939568
+  }
+ ],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -413,6 +457,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "5208caf8659b8497": {
+   "cfg": "vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560&security=&encryption=none&host=cold-bush-a762.lidrezvpn.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1585,
+   "ts": 1791604866.381335,
+   "ping": 40,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "25c35fcaf628a0b2": {
+   "cfg": "vless://923e051a-f598-4ea5-9c6c-f7e37c438a60@172.67.173.75:80?path=%2Fvl%2FD2pryqVs9LAgCYdTK76lsafWY%3Fed%3D2560&security=&encryption=none&host=vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1586,
+   "ts": 1791604866.9815714,
+   "ping": 55,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "5ae55304425ca7e1": {
+   "cfg": "vless://142d1453-9cfe-4045-8e54-f3fb33342185@104.18.32.47:8880?path=%2Fpyip&security=&encryption=none&host=lively-scene-744f.107-47a.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1587,
+   "ts": 1791604867.583777,
+   "ping": 56,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -535,9 +609,9 @@
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 13,
-  "healthy": 11,
-  "posted": 20,
+  "fetched": 20,
+  "healthy": 18,
+  "posted": 23,
   "removed": 0,
   "published_scores": [
    93,
@@ -551,6 +625,9 @@
    80,
    91,
    88,
+   99,
+   99,
+   99,
    99,
    99,
    99,
