@@ -219,7 +219,19 @@
   "63d9de3a5fa8a609": 1791647724.3277578,
   "4cb3afc2fd1b93ac": 1791647724.3277578,
   "4a1f453c51d8c85d": 1791647724.3277578,
-  "b5763831b3229641": 1791647724.3277578
+  "b5763831b3229641": 1791647724.3277578,
+  "bce21385b1d7aba5": 1791651386.3770218,
+  "ec9009b2b07a957a": 1791651386.3770218,
+  "e639920641c3b6a2": 1791651386.3770218,
+  "97ceed00575d4b03": 1791651386.3770218,
+  "be2ea54e116aad82": 1791651386.3770218,
+  "9de50d1096b7c905": 1791651386.3770218,
+  "f1ba12815b8f63d6": 1791651386.3770218,
+  "498abf607a6d4ec8": 1791651386.3770218,
+  "4e69fb3e908c8576": 1791651386.3770218,
+  "6804cfdf0f954139": 1791651386.3770218,
+  "9779bbcc65e37945": 1791651386.3770218,
+  "b5c7ada089f5a7ba": 1791651386.3770218
  },
  "queue": [
   {
@@ -277,6 +289,24 @@
    "ts": 1791640519.1924474
   },
   {
+   "id": "b5c7ada089f5a7ba",
+   "cfg": "vless://9f309ae0-172e-4b6e-d382-b2a70be59823@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#🔵@chillguy_vpn",
+   "ping": 676,
+   "best": 592,
+   "score": 91,
+   "stability": 100,
+   "ts": 1791651386.3770218
+  },
+  {
+   "id": "4e69fb3e908c8576",
+   "cfg": "vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@sw1.hidenet.xyz:8443?security=reality&encryption=none&pbk=KytvB8Lzvah7cEpkRxXCWhaVAdjIrGZgZ-i_RWW8i0E&type=grpc&serviceName=grpc&sni=sw1.hidenet.xyz#🔵@chillguy_vpn",
+   "ping": 677,
+   "best": 666,
+   "score": 91,
+   "stability": 100,
+   "ts": 1791651386.3770218
+  },
+  {
    "id": "42ee282281ccceb0",
    "cfg": "vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?encryption=none&security=tls&sni=tg1.cdnphotos.org&fp=random&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23#🔵@chillguy_vpn",
    "ping": 700,
@@ -302,6 +332,15 @@
    "score": 90,
    "stability": 100,
    "ts": 1791639181.43248
+  },
+  {
+   "id": "bce21385b1d7aba5",
+   "cfg": "vless://7918e6f6-df8f-4a20-9c1d-59dbd1f22770@ukhy2.richforever.ru:9443?mode=gun&security=reality&encryption=none&pbk=3ziuq7wssNcpYpcqcLHqax8nIb2uJok5qAwxuS3mKns&fp=firefox&type=grpc&serviceName=grpc-service&sni=ukhy2.richforever.ru#🔵@chillguy_vpn",
+   "ping": 771,
+   "best": 692,
+   "score": 90,
+   "stability": 100,
+   "ts": 1791651386.3770218
   },
   {
    "id": "30d78979831609eb",
@@ -367,15 +406,6 @@
    "ts": 1791640519.1924474
   },
   {
-   "id": "0e336b5637d6a5f9",
-   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?security=reality&encryption=none&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=b76a6309#🔵@chillguy_vpn",
-   "ping": 1177,
-   "best": 854,
-   "score": 85,
-   "stability": 100,
-   "ts": 1791628997.7526636
-  },
-  {
    "id": "2a89f0642c594afa",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=yahoo.com&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
    "ping": 1257,
@@ -383,15 +413,6 @@
    "score": 84,
    "stability": 100,
    "ts": 1791639181.43248
-  },
-  {
-   "id": "89b6e61fa724fd49",
-   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@45.82.56.253:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nd-2.ardesnode.ru&sid=9ea74b83f4993ca9#🔵@chillguy_vpn",
-   "ping": 1298,
-   "best": 255,
-   "score": 83,
-   "stability": 100,
-   "ts": 1791628997.7526636
   },
   {
    "id": "a5cc0a0bf0ded8b2",
@@ -536,6 +557,33 @@
    "score": 60,
    "stability": 100,
    "ts": 1791647724.3277578
+  },
+  {
+   "id": "97ceed00575d4b03",
+   "cfg": "vless://7918e6f6-df8f-4a20-9c1d-59dbd1f22770@nlhy2.richforever.ru:8443?security=reality&encryption=none&pbk=fKz8iMdY9dfMURdjdVcb9mYOJz2FlexJ3_v8mlM2RTE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nlhy2.richforever.ru#🔵@chillguy_vpn",
+   "ping": 3644,
+   "best": 1789,
+   "score": 53,
+   "stability": 100,
+   "ts": 1791651386.3770218
+  },
+  {
+   "id": "f1ba12815b8f63d6",
+   "cfg": "vless://621bcb9e-7df5-427b-a9d4-6e87223c8bca@2.26.55.163:443?security=reality&encryption=none&pbk=0eWdILjmoRVSJFDMiQskgkKG2Fc4TEMZ3XEPJ8ez9Hw&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=specific3.kandnet.com#🔵@chillguy_vpn",
+   "ping": 4077,
+   "best": 2160,
+   "score": 47,
+   "stability": 100,
+   "ts": 1791651386.3770218
+  },
+  {
+   "id": "498abf607a6d4ec8",
+   "cfg": "vless://621bcb9e-7df5-427b-a9d4-6e87223c8bca@specific3.kandnet.com:443?security=reality&encryption=none&pbk=0eWdILjmoRVSJFDMiQskgkKG2Fc4TEMZ3XEPJ8ez9Hw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=specific3.kandnet.com#🔵@chillguy_vpn",
+   "ping": 4434,
+   "best": 3128,
+   "score": 42,
+   "stability": 100,
+   "ts": 1791651386.3770218
   }
  ],
  "posted": {
@@ -1418,6 +1466,16 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "be2ea54e116aad82": {
+   "cfg": "vless://7918e6f6-df8f-4a20-9c1d-59dbd1f22770@ukhy2.richforever.ru:8443?security=reality&encryption=none&pbk=3ziuq7wssNcpYpcqcLHqax8nIb2uJok5qAwxuS3mKns&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ukhy2.richforever.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1638,
+   "ts": 1791651462.6276405,
+   "ping": 496,
+   "score": 94,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1721,13 +1779,18 @@
    "cc": "LV",
    "name": "Latvia",
    "ts": 1791648746.540349
+  },
+  "ukhy2.richforever.ru": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791651461.6315696
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 172,
-  "healthy": 125,
-  "posted": 73,
+  "fetched": 184,
+  "healthy": 132,
+  "posted": 74,
   "removed": 0,
   "published_scores": [
    93,
@@ -1802,7 +1865,8 @@
    99,
    99,
    92,
-   95
+   95,
+   94
   ]
  }
 }
