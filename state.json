@@ -113,7 +113,8 @@
   "d3a7fa88d2a8f05c": 1791618927.6804323,
   "3be8a67ff05521b9": 1791618927.6804323,
   "39b74209a9047f0d": 1791618927.6804323,
-  "dab6046db9cbfb47": 1791620006.7528145
+  "dab6046db9cbfb47": 1791620006.7528145,
+  "5dfcba1ebcc8eb41": 1791621241.5755973
  },
  "queue": [],
  "posted": {
@@ -756,6 +757,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "5dfcba1ebcc8eb41": {
+   "cfg": "vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@fr.haar.lol:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=cW3RMz0RQpy85wGaG0wjb8yQ3b16CtZR_fd1ktwBKFs&sid=7e833df86314b137&sni=fr.haar.lol#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1614,
+   "ts": 1791621246.8737702,
+   "ping": 482,
+   "score": 94,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -944,13 +955,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791618961.2030342
+  },
+  "fr.haar.lol": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1791621246.0998354
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 66,
-  "healthy": 49,
-  "posted": 49,
+  "fetched": 67,
+  "healthy": 50,
+  "posted": 50,
   "removed": 0,
   "published_scores": [
    93,
@@ -1001,7 +1017,8 @@
    96,
    95,
    90,
-   90
+   90,
+   94
   ]
  }
 }
