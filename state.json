@@ -96,15 +96,6 @@
  },
  "queue": [
   {
-   "id": "e59768a9801fc111",
-   "cfg": "vless://38135fde-7044-4407-8faf-e1ab08e47402@172.67.152.71:8880?&security=none&type=ws&headerType=&host=white-bush-712e.498-f8f.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🔵@chillguy_vpn",
-   "ping": 96,
-   "best": 78,
-   "score": 99,
-   "stability": 100,
-   "ts": 1791611048.93824
-  },
-  {
    "id": "b1bd17072c1ce43b",
    "cfg": "vless://baaa882d-ac50-4bba-bd8d-5486f7d34005@envato.com:8880?encryption=none&security=none&type=ws&host=blue-water-924c.174-235.workers.dev&path=%2F#🔵@chillguy_vpn",
    "ping": 99,
@@ -669,6 +660,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "e59768a9801fc111": {
+   "cfg": "vless://38135fde-7044-4407-8faf-e1ab08e47402@172.67.152.71:8880?&security=none&type=ws&headerType=&host=white-bush-712e.498-f8f.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1601,
+   "ts": 1791611125.8189301,
+   "ping": 96,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -828,7 +829,7 @@
   "date": "2026-10-10",
   "fetched": 45,
   "healthy": 35,
-  "posted": 36,
+  "posted": 37,
   "removed": 0,
   "published_scores": [
    93,
@@ -865,6 +866,7 @@
    98,
    99,
    95,
+   99,
    99,
    99
   ]
