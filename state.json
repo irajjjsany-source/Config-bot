@@ -108,27 +108,13 @@
   "07389045ae2440b2": 1791614726.3313334,
   "5e57931436fd197c": 1791616388.0529828,
   "6812c4fa82dc8987": 1791616388.0529828,
-  "8b0dd68eb5dc462b": 1791616388.0529828
+  "8b0dd68eb5dc462b": 1791616388.0529828,
+  "efc370a450339f61": 1791618927.6804323,
+  "d3a7fa88d2a8f05c": 1791618927.6804323,
+  "3be8a67ff05521b9": 1791618927.6804323,
+  "39b74209a9047f0d": 1791618927.6804323
  },
  "queue": [
-  {
-   "id": "303a811d593dbe06",
-   "cfg": "vless://9cb5e799-f308-4d52-b761-9b4e9c2ff842@eghdesadi.vbservice.site:24000?security=reality&encryption=none&pbk=Eu_LIiMAZ75KreSJxeW4_aNkcFNBOPGKxsWenHn-BCg&headerType=none&fp=chrome&spx=%2Ffd565dee63e821d&type=tcp&sni=openai.com&sid=05#🔵@chillguy_vpn",
-   "ping": 541,
-   "best": 516,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791612926.3612998
-  },
-  {
-   "id": "11510d8db8920639",
-   "cfg": "vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@153.80.241.206:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#🔵@chillguy_vpn",
-   "ping": 606,
-   "best": 587,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791609325.1887953
-  },
   {
    "id": "309d43ac09099abd",
    "cfg": "vless://99a7651f-3c4c-42fd-9492-ee6c9b2fab09@ir1.mobileemdad.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nobitex.ir&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243&type=tcp&headerType=none#🔵@chillguy_vpn",
@@ -148,6 +134,15 @@
    "ts": 1791614726.3313334
   },
   {
+   "id": "efc370a450339f61",
+   "cfg": "vmess://eyJhZGQiOiAiY29uam9ybzkwLnllbGxvd3NreS5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjRjNGJlYWItMTk3Mi00YTkzLWJkZDAtYjA1MGQ3NGY0OWEwIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTcxOCIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "ping": 881,
+   "best": 794,
+   "score": 89,
+   "stability": 100,
+   "ts": 1791618927.6804323
+  },
+  {
    "id": "5e57931436fd197c",
    "cfg": "vless://b6eeba72-2ce3-4576-b8c1-0ebae225c1d5@iran.panelsaz.com:2053?path=%2Ffree&security=none&encryption=mlkem768x25519plus.native.0rtt.kXgCEIxbi8wPibhG8C1otYqF4Ef_PWkdKsYgDhU6Wyw&host=iran.panelsaz.com&type=ws#🔵@chillguy_vpn",
    "ping": 941,
@@ -155,6 +150,15 @@
    "score": 88,
    "stability": 100,
    "ts": 1791616388.0529828
+  },
+  {
+   "id": "39b74209a9047f0d",
+   "cfg": "vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@kozyavka.yandex-api.com:443?security=reality&encryption=none&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=kozyavka.yandex-api.com&sid=a9dc98a7dc87a7dc#🔵@chillguy_vpn",
+   "ping": 969,
+   "best": 961,
+   "score": 87,
+   "stability": 100,
+   "ts": 1791618927.6804323
   },
   {
    "id": "af8e55ce6516f69b",
@@ -796,6 +800,16 @@
    "stability": 100,
    "country": "Romania",
    "repost_count": 0
+  },
+  "3be8a67ff05521b9": {
+   "cfg": "vless://32f5422d-9f42-48a6-a9bf-3718666fa881@dns11.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1613,
+   "ts": 1791618961.8683,
+   "ping": 740,
+   "score": 90,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -979,13 +993,18 @@
    "cc": "RO",
    "name": "Romania",
    "ts": 1791617623.9641557
+  },
+  "dns11.m3hrzd.ir": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791618961.2030342
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 61,
-  "healthy": 46,
-  "posted": 48,
+  "fetched": 65,
+  "healthy": 49,
+  "posted": 49,
   "removed": 0,
   "published_scores": [
    93,
@@ -1035,6 +1054,7 @@
    95,
    96,
    95,
+   90,
    90
   ]
  }
