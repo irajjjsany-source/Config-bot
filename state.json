@@ -112,15 +112,6 @@
  },
  "queue": [
   {
-   "id": "8a5581420b238b57",
-   "cfg": "vless://a889fba5-5472-4022-a6b4-9710157fda2f@194.87.6.192:56789?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ger6.fytpn.com&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 471,
-   "best": 417,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791609325.1887953
-  },
-  {
    "id": "303a811d593dbe06",
    "cfg": "vless://9cb5e799-f308-4d52-b761-9b4e9c2ff842@eghdesadi.vbservice.site:24000?security=reality&encryption=none&pbk=Eu_LIiMAZ75KreSJxeW4_aNkcFNBOPGKxsWenHn-BCg&headerType=none&fp=chrome&spx=%2Ffd565dee63e821d&type=tcp&sni=openai.com&sid=05#🔵@chillguy_vpn",
    "ping": 541,
@@ -795,6 +786,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "8a5581420b238b57": {
+   "cfg": "vless://a889fba5-5472-4022-a6b4-9710157fda2f@194.87.6.192:56789?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ger6.fytpn.com&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1612,
+   "ts": 1791617624.6157029,
+   "ping": 775,
+   "score": 90,
+   "stability": 100,
+   "country": "Romania",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -973,13 +974,18 @@
    "cc": "FR",
    "name": "France",
    "ts": 1791616529.1417913
+  },
+  "194.87.6.192": {
+   "cc": "RO",
+   "name": "Romania",
+   "ts": 1791617623.9641557
   }
  },
  "stats": {
   "date": "2026-10-10",
   "fetched": 61,
   "healthy": 46,
-  "posted": 47,
+  "posted": 48,
   "removed": 0,
   "published_scores": [
    93,
@@ -1028,7 +1034,8 @@
    99,
    95,
    96,
-   95
+   95,
+   90
   ]
  }
 }
