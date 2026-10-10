@@ -105,9 +105,21 @@
   "6bce70df201aad89": 1791614726.3313334,
   "f6d8fc3f714ceb7a": 1791614726.3313334,
   "9f852f0219e07c85": 1791614726.3313334,
-  "07389045ae2440b2": 1791614726.3313334
+  "07389045ae2440b2": 1791614726.3313334,
+  "5e57931436fd197c": 1791616388.0529828,
+  "6812c4fa82dc8987": 1791616388.0529828,
+  "8b0dd68eb5dc462b": 1791616388.0529828
  },
  "queue": [
+  {
+   "id": "8b0dd68eb5dc462b",
+   "cfg": "vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@45.67.139.221:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.haar.lol&fp=random&pbk=cW3RMz0RQpy85wGaG0wjb8yQ3b16CtZR_fd1ktwBKFs&sid=7e833df86314b137&type=tcp#🔵@chillguy_vpn",
+   "ping": 314,
+   "best": 309,
+   "score": 96,
+   "stability": 100,
+   "ts": 1791616388.0529828
+  },
   {
    "id": "8a5581420b238b57",
    "cfg": "vless://a889fba5-5472-4022-a6b4-9710157fda2f@194.87.6.192:56789?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ger6.fytpn.com&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa&type=tcp&headerType=none#🔵@chillguy_vpn",
@@ -152,6 +164,15 @@
    "score": 89,
    "stability": 100,
    "ts": 1791614726.3313334
+  },
+  {
+   "id": "5e57931436fd197c",
+   "cfg": "vless://b6eeba72-2ce3-4576-b8c1-0ebae225c1d5@iran.panelsaz.com:2053?path=%2Ffree&security=none&encryption=mlkem768x25519plus.native.0rtt.kXgCEIxbi8wPibhG8C1otYqF4Ef_PWkdKsYgDhU6Wyw&host=iran.panelsaz.com&type=ws#🔵@chillguy_vpn",
+   "ping": 941,
+   "best": 928,
+   "score": 88,
+   "stability": 100,
+   "ts": 1791616388.0529828
   },
   {
    "id": "af8e55ce6516f69b",
@@ -763,6 +784,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "6812c4fa82dc8987": {
+   "cfg": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@ge-s-1.pythonmakemigreat.wiki:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ge-s-1.pythonmakemigreat.wiki&fp=chrome&security=reality&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1610,
+   "ts": 1791616399.0496492,
+   "ping": 302,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -931,13 +962,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791615646.561351
+  },
+  "ge-s-1.pythonmakemigreat.wiki": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791616398.522725
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 58,
-  "healthy": 43,
-  "posted": 45,
+  "fetched": 61,
+  "healthy": 46,
+  "posted": 46,
   "removed": 0,
   "published_scores": [
    93,
@@ -984,7 +1020,8 @@
    98,
    99,
    99,
-   95
+   95,
+   96
   ]
  }
 }
