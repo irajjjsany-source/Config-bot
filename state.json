@@ -55,7 +55,10 @@
   "dea215efe8874db5": 1791601020.6759453,
   "5cd7a3783514e956": 1791601020.6759453,
   "0fea3beaffef507c": 1791601020.6759453,
-  "f843488c9e90537a": 1791601020.6759453
+  "f843488c9e90537a": 1791601020.6759453,
+  "7985cf334f27c913": 1791602125.7771473,
+  "1296068430d43da5": 1791602125.7771473,
+  "609666b9b703bf07": 1791602125.7771473
  },
  "queue": [],
  "posted": {
@@ -358,6 +361,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "1296068430d43da5": {
+   "cfg": "vless://923e051a-f598-4ea5-9c6c-f7e37c438a60@172.67.173.75:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=ws&path=/vl/D2pryqVs9LAgCYdTK76lsafWY?ed=2560&host=vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1580,
+   "ts": 1791602132.4925451,
+   "ping": 85,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "7985cf334f27c913": {
+   "cfg": "vless://923e051a-f598-4ea5-9c6c-f7e37c438a60@172.67.173.75:80?packetEncoding=xudp&type=ws&path=%2Fvl%2FD2pryqVs9LAgCYdTK76lsafWY%3Fed%3D2560&host=vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1581,
+   "ts": 1791602133.0573647,
+   "ping": 86,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "609666b9b703bf07": {
+   "cfg": "vless://f3d7ebbc-03a1-40f9-a911-ae8628d3927a@104.18.34.245:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&host=dawn-waterfall-6052.360-001.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1582,
+   "ts": 1791602133.611147,
+   "ping": 110,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -480,9 +513,9 @@
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 8,
-  "healthy": 6,
-  "posted": 15,
+  "fetched": 11,
+  "healthy": 9,
+  "posted": 18,
   "removed": 0,
   "published_scores": [
    93,
@@ -496,6 +529,9 @@
    80,
    91,
    88,
+   99,
+   99,
+   99,
    99,
    99,
    99,
