@@ -214,7 +214,12 @@
   "5fa14e292f94dda1": 1791645154.7676814,
   "be995bbce4589185": 1791646298.8848367,
   "46bcc892e31f0662": 1791646298.8848367,
-  "a3509ff380072197": 1791646298.8848367
+  "a3509ff380072197": 1791646298.8848367,
+  "4e7047b089569690": 1791647724.3277578,
+  "63d9de3a5fa8a609": 1791647724.3277578,
+  "4cb3afc2fd1b93ac": 1791647724.3277578,
+  "4a1f453c51d8c85d": 1791647724.3277578,
+  "b5763831b3229641": 1791647724.3277578
  },
  "queue": [
   {
@@ -398,6 +403,15 @@
    "ts": 1791640519.1924474
   },
   {
+   "id": "b5763831b3229641",
+   "cfg": "vless://fafeee6d-5b45-4325-85ce-092cda561141@dns5.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#🔵@chillguy_vpn",
+   "ping": 1069,
+   "best": 385,
+   "score": 86,
+   "stability": 100,
+   "ts": 1791647724.3277578
+  },
+  {
    "id": "f68ec8efee3d3f47",
    "cfg": "vless://0dcbab9b-4c87-473b-a0a6-c29a641e8cbc@de.trackless.sbs:19444?headerType=none&type=tcp&fp=chrome&encryption=none&pbk=gU7zZLaPvCNsgvu4DFSo7K6wD47Al2IWDqtHCjkKyXs&security=reality&flow=xtls-rprx-vision&sid=44ae4d30a085848f&sni=www.cloudflare.com#🔵@chillguy_vpn",
    "ping": 1147,
@@ -452,15 +466,6 @@
    "ts": 1791644128.6230435
   },
   {
-   "id": "591d04dc58e0a6bf",
-   "cfg": "vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 1317,
-   "best": 805,
-   "score": 83,
-   "stability": 100,
-   "ts": 1791625451.4970798
-  },
-  {
    "id": "d6f74c2a597fe0dc",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
    "ping": 1363,
@@ -468,15 +473,6 @@
    "score": 82,
    "stability": 100,
    "ts": 1791642651.0731382
-  },
-  {
-   "id": "f36ffb579268aca7",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
-   "ping": 1394,
-   "best": 268,
-   "score": 82,
-   "stability": 100,
-   "ts": 1791625451.4970798
   },
   {
    "id": "8f0f844d98fa1b19",
@@ -603,6 +599,15 @@
    "score": 60,
    "stability": 100,
    "ts": 1791627515.519312
+  },
+  {
+   "id": "4e7047b089569690",
+   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@203.202.232.211:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🔵@chillguy_vpn",
+   "ping": 3108,
+   "best": 2445,
+   "score": 60,
+   "stability": 100,
+   "ts": 1791647724.3277578
   },
   {
    "id": "5e51db5513b057de",
@@ -1473,6 +1478,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "4a1f453c51d8c85d": {
+   "cfg": "vless://3a936dde-62f0-4275-ad40-66f02571d22c@usb.adata.workers.dev:443?encryption=none&security=tls&sni=usb.adata.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=usb.adata.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1635,
+   "ts": 1791647746.2940109,
+   "ping": 61,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1766,13 +1781,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791646321.478176
+  },
+  "usb.adata.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791647745.6942303
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 167,
-  "healthy": 122,
-  "posted": 70,
+  "fetched": 172,
+  "healthy": 125,
+  "posted": 71,
   "removed": 0,
   "published_scores": [
    93,
@@ -1844,6 +1864,7 @@
    96,
    90,
    96,
+   99,
    99
   ]
  }
