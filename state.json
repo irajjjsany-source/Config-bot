@@ -155,15 +155,6 @@
  },
  "queue": [
   {
-   "id": "29bf925721c222bf",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.29.149.140:41705?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&sni=us1p1.xn--ghq880n3na965a.com&type=tcp#🔵@chillguy_vpn",
-   "ping": 278,
-   "best": 263,
-   "score": 96,
-   "stability": 100,
-   "ts": 1791628997.7526636
-  },
-  {
    "id": "1494382bfc3e1260",
    "cfg": "vless://bae7d9c5-b1e4-46f9-8973-39137797a694@dns2.m3hrzd.ir:2800?security=reality&encryption=none&pbk=Y6EGB3qFcmBFAfL-gHaB4emJzC5fXq5ov9Ri4JqHenc&headerType=none&fp=safari&type=tcp&sni=play.google.com&sid=81d0d80c09088a91#🔵@chillguy_vpn",
    "ping": 444,
@@ -1073,6 +1064,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "29bf925721c222bf": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.29.149.140:41705?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&sni=us1p1.xn--ghq880n3na965a.com&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1622,
+   "ts": 1791631013.3177319,
+   "ping": 302,
+   "score": 96,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1301,13 +1302,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791629873.7889829
+  },
+  "154.29.149.140": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791631012.688712
   }
  },
  "stats": {
   "date": "2026-10-10",
   "fetched": 104,
   "healthy": 79,
-  "posted": 57,
+  "posted": 58,
   "removed": 0,
   "published_scores": [
    93,
@@ -1366,7 +1372,8 @@
    96,
    95,
    99,
-   99
+   99,
+   96
   ]
  }
 }
