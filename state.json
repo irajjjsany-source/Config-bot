@@ -51,33 +51,6 @@
  },
  "queue": [
   {
-   "id": "a40cda4f83e94f12",
-   "cfg": "vless://e937b92c-701f-420e-a621-3eb3b75de467@45.13.186.234:443?security=reality&encryption=none&pbk=cS56IG5_BBEWAaHtdgWR60KNp3JQI_ngA90zpL-ayGs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=xazs.puffixhosting.com&sid=8a13fef0be67eb1e#🔵@chillguy_vpn",
-   "ping": 649,
-   "best": 357,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791587908.153781
-  },
-  {
-   "id": "f347bd7a22ed9030",
-   "cfg": "vless://e937b92c-701f-420e-a621-3eb3b75de467@31.76.31.171:443?security=reality&encryption=none&pbk=LhfYKngRlrk97udPBbU6mcVABiLeACST-hs3aBLZVWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=static.puffixhosting.com&sid=a4a51977d0057e2a#🔵@chillguy_vpn",
-   "ping": 655,
-   "best": 304,
-   "score": 91,
-   "stability": 100,
-   "ts": 1791587908.153781
-  },
-  {
-   "id": "b192688693df060e",
-   "cfg": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@45.195.69.230:80?path=%2Fplatform103&security=none&encryption=none&host=platform103.halalkhor.info&type=ws#🔵@chillguy_vpn",
-   "ping": 721,
-   "best": 713,
-   "score": 91,
-   "stability": 100,
-   "ts": 1791587908.153781
-  },
-  {
    "id": "1235878a696f2f92",
    "cfg": "vless://e937b92c-701f-420e-a621-3eb3b75de467@31.76.31.64:443?security=reality&encryption=none&pbk=HJDY6_qs1vZY2c7ExBa2ai4W2OwwD0EUDCUMIdzT9VQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fish.puffixhosting.com&sid=282a48e3b803fb2f#🔵@chillguy_vpn",
    "ping": 743,
@@ -285,6 +258,36 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "a40cda4f83e94f12": {
+   "cfg": "vless://e937b92c-701f-420e-a621-3eb3b75de467@45.13.186.234:443?security=reality&encryption=none&pbk=cS56IG5_BBEWAaHtdgWR60KNp3JQI_ngA90zpL-ayGs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=xazs.puffixhosting.com&sid=8a13fef0be67eb1e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1568,
+   "ts": 1791591332.5708706,
+   "ping": 714,
+   "score": 91,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
+  },
+  "f347bd7a22ed9030": {
+   "cfg": "vless://e937b92c-701f-420e-a621-3eb3b75de467@31.76.31.171:443?security=reality&encryption=none&pbk=LhfYKngRlrk97udPBbU6mcVABiLeACST-hs3aBLZVWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=static.puffixhosting.com&sid=a4a51977d0057e2a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1569,
+   "ts": 1791591335.6972907,
+   "ping": 401,
+   "score": 95,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
+  },
+  "b192688693df060e": {
+   "cfg": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@45.195.69.230:80?path=%2Fplatform103&security=none&encryption=none&host=platform103.halalkhor.info&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1570,
+   "ts": 1791591339.6620586,
+   "ping": 676,
+   "score": 91,
+   "stability": 100,
+   "country": "Malaysia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -358,18 +361,36 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791590456.9867005
+  },
+  "45.13.186.234": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791591331.9597423
+  },
+  "31.76.31.171": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791591335.098273
+  },
+  "45.195.69.230": {
+   "cc": "MY",
+   "name": "Malaysia",
+   "ts": 1791591339.051046
   }
  },
  "stats": {
   "date": "2026-10-10",
   "fetched": 0,
   "healthy": 0,
-  "posted": 3,
+  "posted": 6,
   "removed": 0,
   "published_scores": [
    93,
    92,
-   93
+   93,
+   91,
+   95,
+   91
   ]
  }
 }
