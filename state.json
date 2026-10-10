@@ -151,7 +151,14 @@
   "323ab4bcc9bfa4a4": 1791629863.6843252,
   "1494382bfc3e1260": 1791629863.6843252,
   "351c4e83f29d5430": 1791629863.6843252,
-  "16ccf0066b44113f": 1791629863.6843252
+  "16ccf0066b44113f": 1791629863.6843252,
+  "da2b1979adf079b4": 1791632593.5488617,
+  "8506ddcff2a2ea90": 1791632593.5488617,
+  "f6e5c5665d7f324f": 1791632593.5488617,
+  "2b5d228842e6ab51": 1791632593.5488617,
+  "d0c04f1d82ed4611": 1791632593.5488617,
+  "fb3153829a691fea": 1791632593.5488617,
+  "513ca8a33994b54e": 1791632593.5488617
  },
  "queue": [
   {
@@ -162,6 +169,15 @@
    "score": 94,
    "stability": 100,
    "ts": 1791629863.6843252
+  },
+  {
+   "id": "d0c04f1d82ed4611",
+   "cfg": "vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#🔵@chillguy_vpn",
+   "ping": 467,
+   "best": 406,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791632593.5488617
   },
   {
    "id": "987d28995745a556",
@@ -315,6 +331,15 @@
    "score": 81,
    "stability": 100,
    "ts": 1791622581.5605135
+  },
+  {
+   "id": "513ca8a33994b54e",
+   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=nd-3.ardesnode.ru&sid=9ea74b83f4993ca9#🔵@chillguy_vpn",
+   "ping": 2154,
+   "best": 434,
+   "score": 72,
+   "stability": 100,
+   "ts": 1791632593.5488617
   },
   {
    "id": "3c0a05a52f9ec8ec",
@@ -1074,6 +1099,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "8506ddcff2a2ea90": {
+   "cfg": "vless://3a936dde-62f0-4275-ad40-66f02571d22c@assets.nodejava.workers.dev:443?encryption=none&security=tls&sni=assets.nodejava.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=assets.nodejava.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1623,
+   "ts": 1791632625.510993,
+   "ping": 75,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1307,13 +1342,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791631012.688712
+  },
+  "assets.nodejava.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791632624.7235277
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 104,
-  "healthy": 79,
-  "posted": 58,
+  "fetched": 111,
+  "healthy": 82,
+  "posted": 59,
   "removed": 0,
   "published_scores": [
    93,
@@ -1373,7 +1413,8 @@
    95,
    99,
    99,
-   96
+   96,
+   99
   ]
  }
 }
