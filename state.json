@@ -75,9 +75,52 @@
   "3cd1070e62f24142": 1791607525.1364594,
   "b0c13b8233df7e9d": 1791607525.1364594,
   "2b2d8dfe7598abeb": 1791607525.1364594,
-  "cf2c4e1aa277d45b": 1791608440.806947
+  "cf2c4e1aa277d45b": 1791608440.806947,
+  "11510d8db8920639": 1791609325.1887953,
+  "c00921c47db82c1c": 1791609325.1887953,
+  "184f893f09afd206": 1791609325.1887953,
+  "309d43ac09099abd": 1791609325.1887953,
+  "587acbced0ef03b1": 1791609325.1887953,
+  "8a5581420b238b57": 1791609325.1887953
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "c00921c47db82c1c",
+   "cfg": "vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@ch.haar.lol:443?security=reality&encryption=none&pbk=7mAZzWmebrjuD45Okyjm_p4BA1C4rxHm1L-hWp-lmXI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=ch.haar.lol&sid=307b2e9fcad609af#🔵@chillguy_vpn",
+   "ping": 347,
+   "best": 334,
+   "score": 95,
+   "stability": 100,
+   "ts": 1791609325.1887953
+  },
+  {
+   "id": "8a5581420b238b57",
+   "cfg": "vless://a889fba5-5472-4022-a6b4-9710157fda2f@194.87.6.192:56789?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ger6.fytpn.com&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 471,
+   "best": 417,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791609325.1887953
+  },
+  {
+   "id": "11510d8db8920639",
+   "cfg": "vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@153.80.241.206:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#🔵@chillguy_vpn",
+   "ping": 606,
+   "best": 587,
+   "score": 92,
+   "stability": 100,
+   "ts": 1791609325.1887953
+  },
+  {
+   "id": "309d43ac09099abd",
+   "cfg": "vless://99a7651f-3c4c-42fd-9492-ee6c9b2fab09@ir1.mobileemdad.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nobitex.ir&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 797,
+   "best": 781,
+   "score": 90,
+   "stability": 100,
+   "ts": 1791609325.1887953
+  }
+ ],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -548,6 +591,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "587acbced0ef03b1": {
+   "cfg": "vless://2ff7eec6-da48-46ab-b770-5c83400a528c@icy-glade-ad0f.412.workers.dev:8880?encryption=none&security=none&type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1597,
+   "ts": 1791609341.03529,
+   "ping": 39,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -691,13 +744,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791607532.7811997
+  },
+  "icy-glade-ad0f.412.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791609340.3962696
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 28,
-  "healthy": 24,
-  "posted": 32,
+  "fetched": 34,
+  "healthy": 29,
+  "posted": 33,
   "removed": 0,
   "published_scores": [
    93,
@@ -731,7 +789,8 @@
    79,
    95,
    99,
-   98
+   98,
+   99
   ]
  }
 }
