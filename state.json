@@ -208,7 +208,10 @@
   "427ceb3693be72e1": 1791644128.6230435,
   "a5cc0a0bf0ded8b2": 1791644128.6230435,
   "5919686bd66a279b": 1791644128.6230435,
-  "36e9db6128537e92": 1791644128.6230435
+  "36e9db6128537e92": 1791644128.6230435,
+  "9b935115cff82532": 1791645154.7676814,
+  "b0617681e0780e71": 1791645154.7676814,
+  "5fa14e292f94dda1": 1791645154.7676814
  },
  "queue": [
   {
@@ -410,33 +413,6 @@
    "ts": 1791640519.1924474
   },
   {
-   "id": "f925e787a3921d97",
-   "cfg": "vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 1104,
-   "best": 1087,
-   "score": 86,
-   "stability": 100,
-   "ts": 1791622581.5605135
-  },
-  {
-   "id": "d5cf30d1f81e75c9",
-   "cfg": "vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2095?path=%2Fwp-content&security=&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 1128,
-   "best": 874,
-   "score": 85,
-   "stability": 100,
-   "ts": 1791622581.5605135
-  },
-  {
-   "id": "dd352c2fde896fa7",
-   "cfg": "vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:8080?path=%2Fwp-content3&security=&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 1142,
-   "best": 1053,
-   "score": 85,
-   "stability": 100,
-   "ts": 1791622581.5605135
-  },
-  {
    "id": "f68ec8efee3d3f47",
    "cfg": "vless://0dcbab9b-4c87-473b-a0a6-c29a641e8cbc@de.trackless.sbs:19444?headerType=none&type=tcp&fp=chrome&encryption=none&pbk=gU7zZLaPvCNsgvu4DFSo7K6wD47Al2IWDqtHCjkKyXs&security=reality&flow=xtls-rprx-vision&sid=44ae4d30a085848f&sni=www.cloudflare.com#🔵@chillguy_vpn",
    "ping": 1147,
@@ -516,15 +492,6 @@
    "score": 82,
    "stability": 100,
    "ts": 1791625451.4970798
-  },
-  {
-   "id": "aecc96ff2e2291de",
-   "cfg": "vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:8880?path=%2Fwp-content2&security=&encryption=none&type=ws#🔵@chillguy_vpn",
-   "ping": 1472,
-   "best": 888,
-   "score": 81,
-   "stability": 100,
-   "ts": 1791622581.5605135
   },
   {
    "id": "8f0f844d98fa1b19",
@@ -1483,6 +1450,16 @@
    "stability": 100,
    "country": "Türkiye",
    "repost_count": 0
+  },
+  "b0617681e0780e71": {
+   "cfg": "vless://2f7d9a89-c3a1-4d25-9f83-380048bbb38a@unitedstates.avara.fit:443?mode=gun&security=reality&encryption=none&authority=unitedstates.avara.fit&pbk=WxIRkeZp5fISvmcQL0ZZs-VbMoS0FDDadMKwatzwljk&fp=firefox&type=grpc&serviceName=health.v1.Health&sni=unitedstates.avara.fit#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1633,
+   "ts": 1791645187.785798,
+   "ping": 325,
+   "score": 96,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1766,13 +1743,18 @@
    "cc": "TR",
    "name": "Türkiye",
    "ts": 1791644166.91486
+  },
+  "unitedstates.avara.fit": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791645187.0998473
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 161,
-  "healthy": 118,
-  "posted": 68,
+  "fetched": 164,
+  "healthy": 119,
+  "posted": 69,
   "removed": 0,
   "published_scores": [
    93,
@@ -1842,7 +1824,8 @@
    97,
    89,
    96,
-   90
+   90,
+   96
   ]
  }
 }
