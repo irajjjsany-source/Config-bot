@@ -140,9 +140,34 @@
   "a74e99a1fb8d04cb": 1791627515.519312,
   "701d49b1eb21fb58": 1791627515.519312,
   "63293e49ba971607": 1791627515.519312,
-  "f9cfe67b0b85741e": 1791627515.519312
+  "f9cfe67b0b85741e": 1791627515.519312,
+  "0e336b5637d6a5f9": 1791628997.7526636,
+  "2862be480d381347": 1791628997.7526636,
+  "29bf925721c222bf": 1791628997.7526636,
+  "6254fed0f0b02db8": 1791628997.7526636,
+  "5c46d55830c7896b": 1791628997.7526636,
+  "89b6e61fa724fd49": 1791628997.7526636,
+  "987d28995745a556": 1791628997.7526636
  },
  "queue": [
+  {
+   "id": "29bf925721c222bf",
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.29.149.140:41705?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&sni=us1p1.xn--ghq880n3na965a.com&type=tcp#🔵@chillguy_vpn",
+   "ping": 278,
+   "best": 263,
+   "score": 96,
+   "stability": 100,
+   "ts": 1791628997.7526636
+  },
+  {
+   "id": "987d28995745a556",
+   "cfg": "vless://bae7d9c5-b1e4-46f9-8973-39137797a694@dns7.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#🔵@chillguy_vpn",
+   "ping": 474,
+   "best": 382,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791628997.7526636
+  },
   {
    "id": "a39faf109bd16290",
    "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@31.76.22.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl-2.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp#🔵@chillguy_vpn",
@@ -160,6 +185,15 @@
    "score": 93,
    "stability": 100,
    "ts": 1791623714.2005491
+  },
+  {
+   "id": "2862be480d381347",
+   "cfg": "vless://21b424bf-bf4c-498d-a9a8-0b40ee7e113d@main.v2xenet.site:443?security=reality&encryption=none&pbk=PpBSOp2P4Dfx2aQubqibRu05iSH604LeHRFl-fdvsVg&headerType=none&fp=chrome&type=tcp&sni=green.ai&sid=7701a31e8686d5fb#🔵@chillguy_vpn",
+   "ping": 519,
+   "best": 512,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791628997.7526636
   },
   {
    "id": "7b7d93a553314ab0",
@@ -223,6 +257,24 @@
    "score": 85,
    "stability": 100,
    "ts": 1791626332.366599
+  },
+  {
+   "id": "0e336b5637d6a5f9",
+   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?security=reality&encryption=none&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=b76a6309#🔵@chillguy_vpn",
+   "ping": 1177,
+   "best": 854,
+   "score": 85,
+   "stability": 100,
+   "ts": 1791628997.7526636
+  },
+  {
+   "id": "89b6e61fa724fd49",
+   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@45.82.56.253:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nd-2.ardesnode.ru&sid=9ea74b83f4993ca9#🔵@chillguy_vpn",
+   "ping": 1298,
+   "best": 255,
+   "score": 83,
+   "stability": 100,
+   "ts": 1791628997.7526636
   },
   {
    "id": "591d04dc58e0a6bf",
@@ -979,6 +1031,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "5c46d55830c7896b": {
+   "cfg": "vless://d0387fbc-299b-4a4e-bbc4-4fa6a26d0db5@tqdm.pylib.workers.dev:443?encryption=none&security=tls&sni=tqdm.pylib.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=tqdm.pylib.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1620,
+   "ts": 1791629032.006694,
+   "ping": 42,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1197,13 +1259,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791627573.8488111
+  },
+  "tqdm.pylib.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791629031.3520124
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 93,
-  "healthy": 70,
-  "posted": 55,
+  "fetched": 100,
+  "healthy": 76,
+  "posted": 56,
   "removed": 0,
   "published_scores": [
    93,
@@ -1260,7 +1327,8 @@
    99,
    94,
    96,
-   95
+   95,
+   99
   ]
  }
 }
