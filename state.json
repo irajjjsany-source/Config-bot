@@ -85,15 +85,6 @@
  },
  "queue": [
   {
-   "id": "c00921c47db82c1c",
-   "cfg": "vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@ch.haar.lol:443?security=reality&encryption=none&pbk=7mAZzWmebrjuD45Okyjm_p4BA1C4rxHm1L-hWp-lmXI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=ch.haar.lol&sid=307b2e9fcad609af#🔵@chillguy_vpn",
-   "ping": 347,
-   "best": 334,
-   "score": 95,
-   "stability": 100,
-   "ts": 1791609325.1887953
-  },
-  {
    "id": "8a5581420b238b57",
    "cfg": "vless://a889fba5-5472-4022-a6b4-9710157fda2f@194.87.6.192:56789?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ger6.fytpn.com&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 471,
@@ -601,6 +592,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "c00921c47db82c1c": {
+   "cfg": "vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@ch.haar.lol:443?security=reality&encryption=none&pbk=7mAZzWmebrjuD45Okyjm_p4BA1C4rxHm1L-hWp-lmXI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=ch.haar.lol&sid=307b2e9fcad609af#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1598,
+   "ts": 1791609511.5363333,
+   "ping": 349,
+   "score": 95,
+   "stability": 100,
+   "country": "Switzerland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -749,13 +750,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791609340.3962696
+  },
+  "ch.haar.lol": {
+   "cc": "CH",
+   "name": "Switzerland",
+   "ts": 1791609510.818802
   }
  },
  "stats": {
   "date": "2026-10-10",
   "fetched": 34,
   "healthy": 29,
-  "posted": 33,
+  "posted": 34,
   "removed": 0,
   "published_scores": [
    93,
@@ -790,7 +796,8 @@
    95,
    99,
    98,
-   99
+   99,
+   95
   ]
  }
 }
