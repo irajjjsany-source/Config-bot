@@ -50,7 +50,8 @@
   "b95aa03b0068bb70": 1791588634.713308,
   "1a500de747e3b6e1": 1791593127.4686615,
   "b8c74976e5746611": 1791593127.4686615,
-  "4d75cdb5cca4754f": 1791593127.4686615
+  "4d75cdb5cca4754f": 1791593127.4686615,
+  "78f473117c5b75a5": 1791599435.9393966
  },
  "queue": [],
  "posted": {
@@ -313,6 +314,16 @@
    "stability": 100,
    "country": "India",
    "repost_count": 0
+  },
+  "78f473117c5b75a5": {
+   "cfg": "vless://934f2038-17f8-4ec5-9204-8381e19fc6e3@188.114.97.6:8080?path=/eyJqdW5rIjoiVXFEMlhKZVY4dzNoTUtpZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=none&encryption=none&host=tight-bush-0bb4.bshxyyxhdjdggb.workers.dev&type=ws&sni=tight-bush-0bb4.bshxyyxhdjdggb.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1576,
+   "ts": 1791599438.9239135,
+   "ping": 66,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -425,9 +436,9 @@
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 3,
-  "healthy": 2,
-  "posted": 11,
+  "fetched": 4,
+  "healthy": 3,
+  "posted": 12,
   "removed": 0,
   "published_scores": [
    93,
@@ -440,7 +451,8 @@
    88,
    80,
    91,
-   88
+   88,
+   99
   ]
  }
 }
