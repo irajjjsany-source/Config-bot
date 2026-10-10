@@ -236,7 +236,18 @@
   "dbe548537f189bae": 1791652411.5563765,
   "8d27ec724901005a": 1791652411.5563765,
   "df89935a51a49d5f": 1791652411.5563765,
-  "4bb6e9073b21f566": 1791652411.5563765
+  "4bb6e9073b21f566": 1791652411.5563765,
+  "93c651f1ce7d3b46": 1791653458.0192907,
+  "d56ec89a2c9b2dbd": 1791653458.0192907,
+  "b9bb281fb921288d": 1791653458.0192907,
+  "99074563adcd5006": 1791653458.0192907,
+  "c0844bbf06646483": 1791653458.0192907,
+  "6f2b70e53cd3f24c": 1791653458.0192907,
+  "b56aa210c8bfd215": 1791653458.0192907,
+  "e01d2fe641c72689": 1791653458.0192907,
+  "f30cc98c706ac63a": 1791653458.0192907,
+  "473e966ab90dd58e": 1791653458.0192907,
+  "e6d9bce9d1b6ebe7": 1791653458.0192907
  },
  "queue": [
   {
@@ -346,6 +357,15 @@
    "score": 89,
    "stability": 100,
    "ts": 1791640519.1924474
+  },
+  {
+   "id": "b9bb281fb921288d",
+   "cfg": "vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@game-survival.surverssss.pro:8443?encryption=none&security=reality&sni=game-survival.surverssss.pro&pbk=h-lXoMXS7rllNOzX6BL8NdhZMPFxEG6GEha-LmzpY2A&type=grpc&authority=&serviceName=grpc&mode=gun#🔵@chillguy_vpn",
+   "ping": 828,
+   "best": 625,
+   "score": 89,
+   "stability": 100,
+   "ts": 1791653458.0192907
   },
   {
    "id": "4bb6e9073b21f566",
@@ -465,6 +485,15 @@
    "ts": 1791642651.0731382
   },
   {
+   "id": "99074563adcd5006",
+   "cfg": "vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@sw1.hidenet.xyz:8443?encryption=none&security=reality&sni=sw1.hidenet.xyz&pbk=KytvB8Lzvah7cEpkRxXCWhaVAdjIrGZgZ-i_RWW8i0E&type=grpc&authority=&serviceName=grpc&mode=gun#🔵@chillguy_vpn",
+   "ping": 1468,
+   "best": 816,
+   "score": 81,
+   "stability": 100,
+   "ts": 1791653458.0192907
+  },
+  {
    "id": "8f0f844d98fa1b19",
    "cfg": "vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=none&encryption=none&type=ws#🔵@chillguy_vpn",
    "ping": 1480,
@@ -528,6 +557,15 @@
    "ts": 1791646298.8848367
   },
   {
+   "id": "d56ec89a2c9b2dbd",
+   "cfg": "vless://1e391858-428b-4051-988f-905ad0c3b451@45.88.12.152:2083?encryption=none&security=tls&sni=crt.molniya.sbs&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#🔵@chillguy_vpn",
+   "ping": 2066,
+   "best": 623,
+   "score": 73,
+   "stability": 100,
+   "ts": 1791653458.0192907
+  },
+  {
    "id": "eab74bf14be42d18",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
    "ping": 2088,
@@ -582,6 +620,24 @@
    "ts": 1791646298.8848367
   },
   {
+   "id": "c0844bbf06646483",
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
+   "ping": 2940,
+   "best": 2119,
+   "score": 62,
+   "stability": 100,
+   "ts": 1791653458.0192907
+  },
+  {
+   "id": "473e966ab90dd58e",
+   "cfg": "vless://fafeee6d-5b45-4325-85ce-092cda561141@dns5.m3hrzd.ir:8055?encryption=none&flow=xtls-rprx-vision&security=reality&sni=race.egistration.ir&fp=edge&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&sid=967a1145531e3868&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 2994,
+   "best": 573,
+   "score": 61,
+   "stability": 100,
+   "ts": 1791653458.0192907
+  },
+  {
    "id": "4e7047b089569690",
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@203.202.232.211:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🔵@chillguy_vpn",
    "ping": 3108,
@@ -600,6 +656,15 @@
    "ts": 1791651386.3770218
   },
   {
+   "id": "6f2b70e53cd3f24c",
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.170:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&sid=4be4110078ebed4a#🔵@chillguy_vpn",
+   "ping": 4060,
+   "best": 405,
+   "score": 47,
+   "stability": 100,
+   "ts": 1791653458.0192907
+  },
+  {
    "id": "f1ba12815b8f63d6",
    "cfg": "vless://621bcb9e-7df5-427b-a9d4-6e87223c8bca@2.26.55.163:443?security=reality&encryption=none&pbk=0eWdILjmoRVSJFDMiQskgkKG2Fc4TEMZ3XEPJ8ez9Hw&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=specific3.kandnet.com#🔵@chillguy_vpn",
    "ping": 4077,
@@ -616,6 +681,15 @@
    "score": 42,
    "stability": 100,
    "ts": 1791651386.3770218
+  },
+  {
+   "id": "f30cc98c706ac63a",
+   "cfg": "vless://5250f957-1c28-4795-b8e0-ce63f2219884@fi.salfetkastroy.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.salfetkastroy.ru&pbk=QTTneNQLYl_-Q0JbPyQWe2GpLUeL7JPl4P-5h0El6S8&sid=f9989b69a77d0f3c&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 5170,
+   "best": 2771,
+   "score": 35,
+   "stability": 100,
+   "ts": 1791653458.0192907
   }
  ],
  "posted": {
@@ -1518,6 +1592,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "e01d2fe641c72689": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1640,
+   "ts": 1791653535.500353,
+   "ping": 98,
+   "score": 99,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1826,13 +1910,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1791651461.6315696
+  },
+  "cf.090227.xyz": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791653534.779035
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 189,
-  "healthy": 136,
-  "posted": 75,
+  "fetched": 200,
+  "healthy": 144,
+  "posted": 76,
   "removed": 0,
   "published_scores": [
    93,
@@ -1909,7 +1998,8 @@
    92,
    95,
    94,
-   77
+   77,
+   99
   ]
  }
 }
