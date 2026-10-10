@@ -72,44 +72,7 @@
   "b9c6889a12a91f6c": 1791605597.722537,
   "65381d2742aba7b8": 1791605597.722537
  },
- "queue": [
-  {
-   "id": "3b59159bcb5db002",
-   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@195.133.80.152:443?&security=reality&flow=xtls-rprx-vision&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&sid=0da7e14db353e7d0&fp=firefox&sni=pl3.nztvpn.com&type=tcp&headerType=none&host=pl3.nztvpn.com&path=%2F#🔵@chillguy_vpn",
-   "ping": 484,
-   "best": 483,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791605597.722537
-  },
-  {
-   "id": "b9c6889a12a91f6c",
-   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@195.133.80.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl3.nztvpn.com&fp=chrome&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&sid=0da7e14db353e7d0&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 487,
-   "best": 483,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791605597.722537
-  },
-  {
-   "id": "9f358b9c0e707051",
-   "cfg": "vless://2c634977-584e-4e1f-b501-1b70c77a6743@summerculture.net:2053?mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=summerculture.net&type=xhttp&allowInsecure=0&sni=summerculture.net#🔵@chillguy_vpn",
-   "ping": 931,
-   "best": 785,
-   "score": 88,
-   "stability": 100,
-   "ts": 1791604843.9939568
-  },
-  {
-   "id": "726650a87e509437",
-   "cfg": "vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&type=ws&allowInsecure=0&sni=vless.api-music-fa.com#🔵@chillguy_vpn",
-   "ping": 2035,
-   "best": 1921,
-   "score": 74,
-   "stability": 100,
-   "ts": 1791604843.9939568
-  }
- ],
+ "queue": [],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -520,6 +483,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "b9c6889a12a91f6c": {
+   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@195.133.80.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl3.nztvpn.com&fp=chrome&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&sid=0da7e14db353e7d0&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1591,
+   "ts": 1791605740.734149,
+   "ping": 382,
+   "score": 95,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
+  },
+  "9f358b9c0e707051": {
+   "cfg": "vless://2c634977-584e-4e1f-b501-1b70c77a6743@summerculture.net:2053?mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=summerculture.net&type=xhttp&allowInsecure=0&sni=summerculture.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1592,
+   "ts": 1791605744.9787476,
+   "ping": 716,
+   "score": 91,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "726650a87e509437": {
+   "cfg": "vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&type=ws&allowInsecure=0&sni=vless.api-music-fa.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1593,
+   "ts": 1791605751.9301376,
+   "ping": 1636,
+   "score": 79,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -643,13 +636,23 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791605611.0786612
+  },
+  "summerculture.net": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791605744.2056956
+  },
+  "8.47.69.0": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791605751.2123618
   }
  },
  "stats": {
   "date": "2026-10-10",
   "fetched": 23,
   "healthy": 21,
-  "posted": 26,
+  "posted": 29,
   "removed": 0,
   "published_scores": [
    93,
@@ -677,7 +680,10 @@
    99,
    99,
    98,
-   99
+   99,
+   95,
+   91,
+   79
   ]
  }
 }
