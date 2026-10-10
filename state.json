@@ -70,7 +70,8 @@
   "7e73a92760e444a3": 1791604843.9939568,
   "3b59159bcb5db002": 1791605597.722537,
   "b9c6889a12a91f6c": 1791605597.722537,
-  "65381d2742aba7b8": 1791605597.722537
+  "65381d2742aba7b8": 1791605597.722537,
+  "45db18e842ab0f47": 1791606635.0373068
  },
  "queue": [],
  "posted": {
@@ -513,6 +514,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "45db18e842ab0f47": {
+   "cfg": "vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2087?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=95.85.253.241#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1594,
+   "ts": 1791606639.7418022,
+   "ping": 384,
+   "score": 95,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -646,13 +657,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791605751.2123618
+  },
+  "95.85.253.241": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1791606638.929613
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 23,
-  "healthy": 21,
-  "posted": 29,
+  "fetched": 24,
+  "healthy": 22,
+  "posted": 30,
   "removed": 0,
   "published_scores": [
    93,
@@ -683,7 +699,8 @@
    99,
    95,
    91,
-   79
+   79,
+   95
   ]
  }
 }
