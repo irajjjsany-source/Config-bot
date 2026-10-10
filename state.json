@@ -58,7 +58,9 @@
   "f843488c9e90537a": 1791601020.6759453,
   "7985cf334f27c913": 1791602125.7771473,
   "1296068430d43da5": 1791602125.7771473,
-  "609666b9b703bf07": 1791602125.7771473
+  "609666b9b703bf07": 1791602125.7771473,
+  "b5f66f96c314f088": 1791603925.0488684,
+  "470c7173b5985866": 1791603925.0488684
  },
  "queue": [],
  "posted": {
@@ -391,6 +393,26 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "b5f66f96c314f088": {
+   "cfg": "vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?type=ws&host=cold-bush-a762.lidrezvpn.workers.dev&path=/eyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1583,
+   "ts": 1791603930.0542152,
+   "ping": 49,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
+  },
+  "470c7173b5985866": {
+   "cfg": "vless://142d1453-9cfe-4045-8e54-f3fb33342185@104.18.32.47:8880?type=ws&path=%2Fpyip&host=lively-scene-744f.107-47a.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1584,
+   "ts": 1791603930.658091,
+   "ping": 64,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -513,9 +535,9 @@
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 11,
-  "healthy": 9,
-  "posted": 18,
+  "fetched": 13,
+  "healthy": 11,
+  "posted": 20,
   "removed": 0,
   "published_scores": [
    93,
@@ -529,6 +551,8 @@
    80,
    91,
    88,
+   99,
+   99,
    99,
    99,
    99,
