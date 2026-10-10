@@ -131,7 +131,16 @@
   "074afa960d48f488": 1791626332.366599,
   "c4b94a7f7e435b21": 1791626332.366599,
   "91007f1464843750": 1791626332.366599,
-  "0657e90c9b5d7546": 1791626332.366599
+  "0657e90c9b5d7546": 1791626332.366599,
+  "a308fb919a6b89bf": 1791627515.519312,
+  "5e51db5513b057de": 1791627515.519312,
+  "3c0a05a52f9ec8ec": 1791627515.519312,
+  "ab87922fafce8cfb": 1791627515.519312,
+  "4e0fd114a7060b3b": 1791627515.519312,
+  "a74e99a1fb8d04cb": 1791627515.519312,
+  "701d49b1eb21fb58": 1791627515.519312,
+  "63293e49ba971607": 1791627515.519312,
+  "f9cfe67b0b85741e": 1791627515.519312
  },
  "queue": [
   {
@@ -169,6 +178,15 @@
    "score": 93,
    "stability": 100,
    "ts": 1791626332.366599
+  },
+  {
+   "id": "f9cfe67b0b85741e",
+   "cfg": "vless://621bcb9e-7df5-427b-a9d4-6e87223c8bca@kinonl.torg.task-hit.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kinonl.torg.task-hit.ru&fp=firefox&pbk=nhTPWV_v_Uu-afSIea9aEs0CcjWe3VpbRZ-qPcAeJkc&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 747,
+   "best": 601,
+   "score": 90,
+   "stability": 100,
+   "ts": 1791627515.519312
   },
   {
    "id": "f925e787a3921d97",
@@ -232,6 +250,33 @@
    "score": 81,
    "stability": 100,
    "ts": 1791622581.5605135
+  },
+  {
+   "id": "3c0a05a52f9ec8ec",
+   "cfg": "vless://ece4f1a6-4d09-4678-82e4-b14ecb1645ed@sieh.varqino.ir:43311?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#🔵@chillguy_vpn",
+   "ping": 3100,
+   "best": 2729,
+   "score": 60,
+   "stability": 100,
+   "ts": 1791627515.519312
+  },
+  {
+   "id": "5e51db5513b057de",
+   "cfg": "vless://ece4f1a6-4d09-4678-82e4-b14ecb1645ed@iehrbdqwe.wingerdt.org:52233?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#🔵@chillguy_vpn",
+   "ping": 3253,
+   "best": 1889,
+   "score": 58,
+   "stability": 100,
+   "ts": 1791627515.519312
+  },
+  {
+   "id": "a308fb919a6b89bf",
+   "cfg": "vless://3ed41dfc-0d38-4379-a470-c815673dc504@archive.m2ip-video.cloud:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=peplow-labs.info&sid=3f8ad1#🔵@chillguy_vpn",
+   "ping": 6733,
+   "best": 6484,
+   "score": 35,
+   "stability": 100,
+   "ts": 1791627515.519312
   }
  ],
  "posted": {
@@ -924,6 +969,16 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "a74e99a1fb8d04cb": {
+   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@fn-1.ardesnode.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fn-1.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1619,
+   "ts": 1791627574.555628,
+   "ping": 379,
+   "score": 95,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1137,13 +1192,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1791626346.1178434
+  },
+  "fn-1.ardesnode.ru": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791627573.8488111
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 84,
-  "healthy": 65,
-  "posted": 54,
+  "fetched": 93,
+  "healthy": 70,
+  "posted": 55,
   "removed": 0,
   "published_scores": [
    93,
@@ -1199,7 +1259,8 @@
    90,
    99,
    94,
-   96
+   96,
+   95
   ]
  }
 }
