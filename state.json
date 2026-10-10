@@ -92,9 +92,34 @@
   "65ad7dfe6f995f69": 1791611048.93824,
   "c24de5b907bf7aac": 1791611048.93824,
   "34a773fea13d3838": 1791611048.93824,
-  "4696c4a96910bce4": 1791611048.93824
+  "4696c4a96910bce4": 1791611048.93824,
+  "84e93b9517e947b8": 1791612926.3612998,
+  "0c981c6fdca45fc5": 1791612926.3612998,
+  "04a99dba89084b2c": 1791612926.3612998,
+  "371bafc07b8e349c": 1791612926.3612998,
+  "072f4b52de7aeea0": 1791612926.3612998,
+  "d719950fe221a1b5": 1791612926.3612998,
+  "303a811d593dbe06": 1791612926.3612998
  },
  "queue": [
+  {
+   "id": "072f4b52de7aeea0",
+   "cfg": "vless://e5583623-53ef-4177-8070-8c553f70bcfa@172.67.214.193:2086?security=none&type=ws&path=/vl/NnAT20AqcYOuOLe1r?ed=2560&host=fvfb8xac5j0nthxzqf.dr5945ov0z598kfft573isahdj3fmmv4.workers.dev&packetEncoding=xudp#🔵@chillguy_vpn",
+   "ping": 94,
+   "best": 78,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791612926.3612998
+  },
+  {
+   "id": "d719950fe221a1b5",
+   "cfg": "vless://3c04e891-dc32-40a3-bcd0-d5e8283a6a03@polished-firefly-3e2d.20-645.workers.dev:8880?type=ws&sni=polished-firefly-3e2d.20-645.workers.dev#🔵@chillguy_vpn",
+   "ping": 104,
+   "best": 99,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791612926.3612998
+  },
   {
    "id": "8a5581420b238b57",
    "cfg": "vless://a889fba5-5472-4022-a6b4-9710157fda2f@194.87.6.192:56789?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ger6.fytpn.com&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa&type=tcp&headerType=none#🔵@chillguy_vpn",
@@ -103,6 +128,15 @@
    "score": 94,
    "stability": 100,
    "ts": 1791609325.1887953
+  },
+  {
+   "id": "303a811d593dbe06",
+   "cfg": "vless://9cb5e799-f308-4d52-b761-9b4e9c2ff842@eghdesadi.vbservice.site:24000?security=reality&encryption=none&pbk=Eu_LIiMAZ75KreSJxeW4_aNkcFNBOPGKxsWenHn-BCg&headerType=none&fp=chrome&spx=%2Ffd565dee63e821d&type=tcp&sni=openai.com&sid=05#🔵@chillguy_vpn",
+   "ping": 541,
+   "best": 516,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791612926.3612998
   },
   {
    "id": "11510d8db8920639",
@@ -672,6 +706,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "04a99dba89084b2c": {
+   "cfg": "vless://94977b19-6720-48a6-92fd-00238757ea30@104.21.74.189:8880?type=ws&host=fragrant-credit-c4cf.148-e68.workers.dev&path=/#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1604,
+   "ts": 1791612950.0967379,
+   "ping": 93,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -829,9 +873,9 @@
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 45,
-  "healthy": 35,
-  "posted": 39,
+  "fetched": 52,
+  "healthy": 39,
+  "posted": 40,
   "removed": 0,
   "published_scores": [
    93,
@@ -872,6 +916,7 @@
    99,
    99,
    98,
+   99,
    99
   ]
  }
