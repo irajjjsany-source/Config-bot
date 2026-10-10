@@ -51,33 +51,6 @@
  },
  "queue": [
   {
-   "id": "b95aa03b0068bb70",
-   "cfg": "vless://0783c6fc-16a8-46ff-a408-a099d2f6f3ac@hz-online-balancer.nyxenpro.ir:2080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=edge&pbk=A2-_TVXJkWh9CZ7aD4NT9CsfAalIAn9r3BYXNJ3vhlc&sid=6ee75d75c8607846&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 567,
-   "best": 483,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791588634.713308
-  },
-  {
-   "id": "72590dc10367095e",
-   "cfg": "vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#🔵@chillguy_vpn",
-   "ping": 607,
-   "best": 593,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791587908.153781
-  },
-  {
-   "id": "bd2d82ad8c76d51e",
-   "cfg": "vless://9cb5e799-f308-4d52-b761-9b4e9c2ff842@eghdesadi.vbservice.site:27283?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🔵@chillguy_vpn",
-   "ping": 616,
-   "best": 612,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791587908.153781
-  },
-  {
    "id": "a40cda4f83e94f12",
    "cfg": "vless://e937b92c-701f-420e-a621-3eb3b75de467@45.13.186.234:443?security=reality&encryption=none&pbk=cS56IG5_BBEWAaHtdgWR60KNp3JQI_ngA90zpL-ayGs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=xazs.puffixhosting.com&sid=8a13fef0be67eb1e#🔵@chillguy_vpn",
    "ping": 649,
@@ -282,6 +255,36 @@
    "stability": 100,
    "country": "Sweden",
    "repost_count": 0
+  },
+  "b95aa03b0068bb70": {
+   "cfg": "vless://0783c6fc-16a8-46ff-a408-a099d2f6f3ac@hz-online-balancer.nyxenpro.ir:2080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=edge&pbk=A2-_TVXJkWh9CZ7aD4NT9CsfAalIAn9r3BYXNJ3vhlc&sid=6ee75d75c8607846&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1565,
+   "ts": 1791590450.2664807,
+   "ping": 515,
+   "score": 93,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
+  },
+  "72590dc10367095e": {
+   "cfg": "vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1566,
+   "ts": 1791590453.9631388,
+   "ping": 621,
+   "score": 92,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "bd2d82ad8c76d51e": {
+   "cfg": "vless://9cb5e799-f308-4d52-b761-9b4e9c2ff842@eghdesadi.vbservice.site:27283?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1567,
+   "ts": 1791590457.5781875,
+   "ping": 565,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -340,29 +343,32 @@
    "cc": "SE",
    "name": "Sweden",
    "ts": 1791590293.0152194
+  },
+  "hz-online-balancer.nyxenpro.ir": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791590449.699231
+  },
+  "200.165.231.209": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791590453.4582894
+  },
+  "eghdesadi.vbservice.site": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791590456.9867005
   }
  },
  "stats": {
-  "date": "2026-10-09",
-  "fetched": 48,
-  "healthy": 24,
-  "posted": 15,
+  "date": "2026-10-10",
+  "fetched": 0,
+  "healthy": 0,
+  "posted": 3,
   "removed": 0,
   "published_scores": [
-   99,
-   99,
-   96,
-   95,
-   97,
-   96,
-   96,
-   95,
-   96,
-   95,
-   95,
-   94,
-   95,
-   94,
+   93,
+   92,
    93
   ]
  }
