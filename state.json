@@ -49,35 +49,7 @@
   "a40cda4f83e94f12": 1791587908.153781,
   "b95aa03b0068bb70": 1791588634.713308
  },
- "queue": [
-  {
-   "id": "1235878a696f2f92",
-   "cfg": "vless://e937b92c-701f-420e-a621-3eb3b75de467@31.76.31.64:443?security=reality&encryption=none&pbk=HJDY6_qs1vZY2c7ExBa2ai4W2OwwD0EUDCUMIdzT9VQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fish.puffixhosting.com&sid=282a48e3b803fb2f#🔵@chillguy_vpn",
-   "ping": 743,
-   "best": 307,
-   "score": 90,
-   "stability": 100,
-   "ts": 1791587908.153781
-  },
-  {
-   "id": "836cd32206c399cd",
-   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@179.198.49.99:443?security=reality&encryption=none&pbk=iwHKqXfMtE61bupFq0qdpc8_uGwQswGc3JpLvDVB9Wo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pl1.nztvpn.com&sid=088b263ae349cc97#🔵@chillguy_vpn",
-   "ping": 1195,
-   "best": 341,
-   "score": 84,
-   "stability": 100,
-   "ts": 1791587908.153781
-  },
-  {
-   "id": "bc73521e9e2f17fb",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.214.173.62:41705?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#🔵@chillguy_vpn",
-   "ping": 1374,
-   "best": 1335,
-   "score": 82,
-   "stability": 100,
-   "ts": 1791587908.153781
-  }
- ],
+ "queue": [],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -288,6 +260,36 @@
    "stability": 100,
    "country": "Malaysia",
    "repost_count": 0
+  },
+  "1235878a696f2f92": {
+   "cfg": "vless://e937b92c-701f-420e-a621-3eb3b75de467@31.76.31.64:443?security=reality&encryption=none&pbk=HJDY6_qs1vZY2c7ExBa2ai4W2OwwD0EUDCUMIdzT9VQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fish.puffixhosting.com&sid=282a48e3b803fb2f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1571,
+   "ts": 1791592186.9712417,
+   "ping": 305,
+   "score": 96,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
+  },
+  "836cd32206c399cd": {
+   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@179.198.49.99:443?security=reality&encryption=none&pbk=iwHKqXfMtE61bupFq0qdpc8_uGwQswGc3JpLvDVB9Wo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pl1.nztvpn.com&sid=088b263ae349cc97#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1572,
+   "ts": 1791592191.6406937,
+   "ping": 940,
+   "score": 88,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
+  },
+  "bc73521e9e2f17fb": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.214.173.62:41705?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1573,
+   "ts": 1791592198.143936,
+   "ping": 1557,
+   "score": 80,
+   "stability": 100,
+   "country": "Hong Kong",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -376,13 +378,28 @@
    "cc": "MY",
    "name": "Malaysia",
    "ts": 1791591339.051046
+  },
+  "31.76.31.64": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791592186.437028
+  },
+  "179.198.49.99": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1791592191.11907
+  },
+  "103.214.173.62": {
+   "cc": "HK",
+   "name": "Hong Kong",
+   "ts": 1791592197.638917
   }
  },
  "stats": {
   "date": "2026-10-10",
   "fetched": 0,
   "healthy": 0,
-  "posted": 6,
+  "posted": 9,
   "removed": 0,
   "published_scores": [
    93,
@@ -390,7 +407,10 @@
    93,
    91,
    95,
-   91
+   91,
+   96,
+   88,
+   80
   ]
  }
 }
