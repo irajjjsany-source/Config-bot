@@ -51,7 +51,11 @@
   "1a500de747e3b6e1": 1791593127.4686615,
   "b8c74976e5746611": 1791593127.4686615,
   "4d75cdb5cca4754f": 1791593127.4686615,
-  "78f473117c5b75a5": 1791599435.9393966
+  "78f473117c5b75a5": 1791599435.9393966,
+  "dea215efe8874db5": 1791601020.6759453,
+  "5cd7a3783514e956": 1791601020.6759453,
+  "0fea3beaffef507c": 1791601020.6759453,
+  "f843488c9e90537a": 1791601020.6759453
  },
  "queue": [],
  "posted": {
@@ -324,6 +328,36 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "dea215efe8874db5": {
+   "cfg": "vless://aa7461af-3176-42a3-8974-59930189c521@icook.tw:8880?type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=round-block-e864.326.workers.dev&sni=icook.tw&fp=chrome&alpn=http/1.1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1577,
+   "ts": 1791601027.792002,
+   "ping": 62,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "f843488c9e90537a": {
+   "cfg": "vless://a0906133-bc17-49da-aa1a-d5ea99ee2e3e@www.speedtest.net:2095?&type=ws&headerType=none&host=prop0yauife5z9t5sa5681bq1.rjsc50uq2-b6gdjw21gm-c154p.workers.dev&path=%2Fvl%2FpVQHiSYWRFVmiwrg%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1578,
+   "ts": 1791601028.5284247,
+   "ping": 82,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
+  },
+  "5cd7a3783514e956": {
+   "cfg": "vless://8f53fce2-6c17-4e37-9ae9-d969fd85117c@104.21.87.238:8080?&type=ws&headerType=none&host=ApI-hub-C9A393.ALiMiRZAi539-484.WOrKerS.DeV&path=%2Fvl%2FWp4FqWLcoYNYXCovu4%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1579,
+   "ts": 1791601029.1417596,
+   "ping": 97,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -432,13 +466,23 @@
    "cc": "IN",
    "name": "India",
    "ts": 1791593138.3134987
+  },
+  "icook.tw": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791601027.0937223
+  },
+  "www.speedtest.net": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791601027.792102
   }
  },
  "stats": {
   "date": "2026-10-10",
-  "fetched": 4,
-  "healthy": 3,
-  "posted": 12,
+  "fetched": 8,
+  "healthy": 6,
+  "posted": 15,
   "removed": 0,
   "published_scores": [
    93,
@@ -452,6 +496,9 @@
    80,
    91,
    88,
+   99,
+   99,
+   99,
    99
   ]
  }
