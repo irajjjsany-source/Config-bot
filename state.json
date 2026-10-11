@@ -320,7 +320,9 @@
   "faa13c638fdbcd64": 1791705847.6817362,
   "2aef009e031706ea": 1791707172.803149,
   "47faa585cc3a591b": 1791707172.803149,
-  "293849eb0b5f2358": 1791707172.803149
+  "293849eb0b5f2358": 1791707172.803149,
+  "6a7e2dd035dc8618": 1791708100.0180724,
+  "96c941a109ddc82d": 1791708100.0180724
  },
  "queue": [
   {
@@ -358,6 +360,15 @@
    "score": 95,
    "stability": 100,
    "ts": 1791697991.1899352
+  },
+  {
+   "id": "96c941a109ddc82d",
+   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.31.242.61:443?security=reality&encryption=none&pbk=7mRrVzTchVLWWBru5fCgTvtdkL7lVJ_qRj9HW8Rd8X0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=est.nztvpn.com&sid=0da7e14db353e7d0#🔵@chillguy_vpn",
+   "ping": 363,
+   "best": 345,
+   "score": 95,
+   "stability": 100,
+   "ts": 1791708100.0180724
   },
   {
    "id": "f721c25411ed9218",
@@ -1597,6 +1608,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "6a7e2dd035dc8618": {
+   "cfg": "vless://f45d7c9f-54b1-4ac9-a691-c65f8007593f@104.21.66.138:80?&type=ws&headerType=none&host=ez2e6cjldxp01cim4g8.dfghdsfghdsf-43621.workers.dev&path=%2Fvl%2Flm0JTPoJ006x2WOz%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1662,
+   "ts": 1791708105.6772687,
+   "ping": 30,
+   "score": 100,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1939,9 +1960,9 @@
  },
  "stats": {
   "date": "2026-10-11",
-  "fetched": 73,
-  "healthy": 53,
-  "posted": 19,
+  "fetched": 75,
+  "healthy": 55,
+  "posted": 20,
   "removed": 5,
   "published_scores": [
    100,
@@ -1958,7 +1979,8 @@
    99,
    70,
    95,
-   99
+   99,
+   100
   ]
  }
 }
