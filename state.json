@@ -317,7 +317,10 @@
   "0f09dd7b95e693cc": 1791705847.6817362,
   "b50b57428d6e83a6": 1791705847.6817362,
   "f679ba1211007277": 1791705847.6817362,
-  "faa13c638fdbcd64": 1791705847.6817362
+  "faa13c638fdbcd64": 1791705847.6817362,
+  "2aef009e031706ea": 1791707172.803149,
+  "47faa585cc3a591b": 1791707172.803149,
+  "293849eb0b5f2358": 1791707172.803149
  },
  "queue": [
   {
@@ -463,6 +466,15 @@
    "score": 94,
    "stability": 100,
    "ts": 1791692945.4257214
+  },
+  {
+   "id": "47faa585cc3a591b",
+   "cfg": "vless://249cce58-48ab-49a0-8aa1-fb8cd68a1104@de2.my-cdn.org:443?security=reality&encryption=none&pbk=4EUWyCLFjgb-cDwj8ws2nC82mCY_L5VvoCia7mHPH2o&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=de2.my-cdn.org&sid=adbbecad#🔵@chillguy_vpn",
+   "ping": 478,
+   "best": 471,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791707172.803149
   },
   {
    "id": "a9466cfa2e31528d",
@@ -1575,6 +1587,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "293849eb0b5f2358": {
+   "cfg": "vless://d0387fbc-299b-4a4e-bbc4-4fa6a26d0db5@libraries.pylib.workers.dev:443?encryption=none&security=tls&sni=libraries.pylib.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=libraries.pylib.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1661,
+   "ts": 1791707182.6412563,
+   "ping": 103,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1908,13 +1930,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791705859.6456504
+  },
+  "libraries.pylib.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791707181.9161518
   }
  },
  "stats": {
   "date": "2026-10-11",
-  "fetched": 70,
-  "healthy": 51,
-  "posted": 18,
+  "fetched": 73,
+  "healthy": 53,
+  "posted": 19,
   "removed": 5,
   "published_scores": [
    100,
@@ -1930,7 +1957,8 @@
    99,
    99,
    70,
-   95
+   95,
+   99
   ]
  }
 }
