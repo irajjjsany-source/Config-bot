@@ -312,7 +312,8 @@
   "f60383c39cdd6923": 1791702594.517583,
   "351f5bf32e1f906c": 1791702594.517583,
   "02f1c424b978a072": 1791703622.5372944,
-  "c30f2342b0879f1b": 1791703622.5372944
+  "c30f2342b0879f1b": 1791703622.5372944,
+  "9b46366ad4c83be0": 1791704460.1476119
  },
  "queue": [
   {
@@ -1549,6 +1550,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "9b46366ad4c83be0": {
+   "cfg": "vless://bb82fa3c-7577-4f82-af5e-d06d2807841a@172.67.157.131:2086?&type=ws&headerType=none&host=tewktcy0e7mb0wc47ybk30sk7p.huj9yyse8zu72oohdcsvt-z4tuagwvh.workers.dev&path=%2Fvl%2FjDpXgGS8AmFwKNmh3yevSr54%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1658,
+   "ts": 1791704463.5502234,
+   "ping": 68,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1876,9 +1887,9 @@
  },
  "stats": {
   "date": "2026-10-11",
-  "fetched": 65,
-  "healthy": 47,
-  "posted": 15,
+  "fetched": 66,
+  "healthy": 48,
+  "posted": 16,
   "removed": 5,
   "published_scores": [
    100,
@@ -1888,6 +1899,7 @@
    98,
    99,
    94,
+   99,
    99,
    99,
    99,
