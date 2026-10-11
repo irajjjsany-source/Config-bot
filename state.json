@@ -299,7 +299,10 @@
   "59e622d20bb4be41": 1791700248.5890074,
   "9deaf60f76ca0bea": 1791700248.5890074,
   "f7e987642dd6d0eb": 1791700248.5890074,
-  "cef040581e612096": 1791700248.5890074
+  "cef040581e612096": 1791700248.5890074,
+  "6ca1acbaf3e056ec": 1791701860.5827222,
+  "374bbe1a7a6b2ef5": 1791701860.5827222,
+  "f721c25411ed9218": 1791701860.5827222
  },
  "queue": [
   {
@@ -355,6 +358,15 @@
    "score": 95,
    "stability": 100,
    "ts": 1791697991.1899352
+  },
+  {
+   "id": "f721c25411ed9218",
+   "cfg": "vless://cea0f525-0b93-4a5d-8b98-9256023ff86d@dns4.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#🔵@chillguy_vpn",
+   "ping": 366,
+   "best": 351,
+   "score": 95,
+   "stability": 100,
+   "ts": 1791701860.5827222
   },
   {
    "id": "1f5e0909a90f6198",
@@ -427,6 +439,15 @@
    "score": 94,
    "stability": 100,
    "ts": 1791700248.5890074
+  },
+  {
+   "id": "374bbe1a7a6b2ef5",
+   "cfg": "vless://cea0f525-0b93-4a5d-8b98-9256023ff86d@dns5.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#🔵@chillguy_vpn",
+   "ping": 528,
+   "best": 478,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791701860.5827222
   },
   {
    "id": "54816785c1f297d8",
@@ -1416,6 +1437,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "6ca1acbaf3e056ec": {
+   "cfg": "vless://25844c02-a1fe-43ec-a6b9-44e3bf375b83@172.67.209.127:8880?encryption=none&type=ws&host=dark-breeze-a59a.494.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1655,
+   "ts": 1791701869.7223122,
+   "ping": 101,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1743,9 +1774,9 @@
  },
  "stats": {
   "date": "2026-10-11",
-  "fetched": 52,
-  "healthy": 34,
-  "posted": 12,
+  "fetched": 55,
+  "healthy": 37,
+  "posted": 13,
   "removed": 5,
   "published_scores": [
    100,
@@ -1755,6 +1786,7 @@
    98,
    99,
    94,
+   99,
    99
   ]
  }
