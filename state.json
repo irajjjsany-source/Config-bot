@@ -374,15 +374,6 @@
  },
  "queue": [
   {
-   "id": "903617083cf013bb",
-   "cfg": "vless://16c7b7fa-153e-4c7c-851d-9857bcab48ad@188.114.98.0:8880?encryption=none&security=none&type=ws&host=kh8.javanrooo.ir&path=%2F%3Fed%3D2560#🔵@chillguy_vpn",
-   "ping": 352,
-   "best": 344,
-   "score": 95,
-   "stability": 100,
-   "ts": 1791715134.0228071
-  },
-  {
    "id": "97507c02b2cf8162",
    "cfg": "vless://86096188-0ece-41af-922d-792c5f96c3ad@89.125.100.59:443?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&sni=anime.caloribro.uno&pbk=BzXQPqKb1waqaBR4b2GGyE6VWX4LGd9iCOkyuMc8IGs&fp=chrome&sid=14aa9b370c30c55d#🔵@chillguy_vpn",
    "ping": 374,
@@ -588,15 +579,6 @@
    "score": 94,
    "stability": 100,
    "ts": 1791707172.803149
-  },
-  {
-   "id": "a9466cfa2e31528d",
-   "cfg": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi.pythonsetupbib.online:443?security=reality&encryption=none&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.pythonsetupbib.online&sid=bdf5852d1423e694#🔵@chillguy_vpn",
-   "ping": 489,
-   "best": 476,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791693938.1843119
   },
   {
    "id": "9deaf60f76ca0bea",
@@ -1980,6 +1962,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "903617083cf013bb": {
+   "cfg": "vless://16c7b7fa-153e-4c7c-851d-9857bcab48ad@188.114.98.0:8880?encryption=none&security=none&type=ws&host=kh8.javanrooo.ir&path=%2F%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1671,
+   "ts": 1791715978.7616658,
+   "ping": 243,
+   "score": 97,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2349,7 +2341,7 @@
   "date": "2026-10-11",
   "fetched": 123,
   "healthy": 93,
-  "posted": 28,
+  "posted": 29,
   "removed": 5,
   "published_scores": [
    100,
@@ -2375,7 +2367,8 @@
    92,
    43,
    99,
-   98
+   98,
+   97
   ]
  }
 }
