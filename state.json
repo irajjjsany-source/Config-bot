@@ -384,18 +384,11 @@
   "4404b341dd51477a": 1791716593.649519,
   "8ec33e9ff37a6b50": 1791716593.649519,
   "9c9b282e990147e0": 1791716593.649519,
-  "023b2da654740b5d": 1791716593.649519
+  "023b2da654740b5d": 1791716593.649519,
+  "3cfeb570656f6c88": 1791717842.1021986,
+  "468e7ae2ce2bb29c": 1791717842.1021986
  },
  "queue": [
-  {
-   "id": "faa13c638fdbcd64",
-   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@pl-5.ardesnode.ru:443?fp=chrome&security=reality&flow=xtls-rprx-vision&sni=pl-5.ardesnode.ru&encryption=none&headerType=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&type=tcp&sid=9ea74b83f4993ca9#🔵@chillguy_vpn",
-   "ping": 382,
-   "best": 378,
-   "score": 95,
-   "stability": 100,
-   "ts": 1791705847.6817362
-  },
   {
    "id": "f679ba1211007277",
    "cfg": "vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#🔵@chillguy_vpn",
@@ -631,6 +624,15 @@
    "ts": 1791701860.5827222
   },
   {
+   "id": "3cfeb570656f6c88",
+   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@pl-1.ardesnode.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pl-1.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 537,
+   "best": 516,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791717842.1021986
+  },
+  {
    "id": "1934146bb2972bc1",
    "cfg": "vless://16c7b7fa-153e-4c7c-851d-9857bcab48ad@199.232.78.159:80?path=%2F&security=none&encryption=none&host=yaSharClasss.global.ssl.fastly.net&type=ws#🔵@chillguy_vpn",
    "ping": 552,
@@ -829,6 +831,15 @@
    "ts": 1791702594.517583
   },
   {
+   "id": "468e7ae2ce2bb29c",
+   "cfg": "vless://30e11400-dc69-4903-ac10-a2124929cc01@sub.skyshopnet.ir:443?encryption=mlkem768x25519plus.native.0rtt.ylWaNV7JiVE1OUF1VfMPRL_6Wakrx28Q2J1JLJL0ujU&security=reality&sni=www.sony.it&fp=chrome&pbk=hpqn8r_F_YEnWuzRgNtRM5uHgUkrIzx99VEwzJH-PTI&sid=4de48be2f1&spx=%2Fa59b1afd88c827b&type=xhttp&mode=auto&host=panel.skyshopnet.ir&path=%2Fsky&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🔵@chillguy_vpn",
+   "ping": 857,
+   "best": 821,
+   "score": 89,
+   "stability": 100,
+   "ts": 1791717842.1021986
+  },
+  {
    "id": "671c42cb4dde6e22",
    "cfg": "vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@13.143.166.18:443?security=reality&encryption=none&pbk=0F1gTB2erb0KWXeMUp06kbj887WVHYd3lt-i8OSHBCI&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=84fe6d42d253f1b1#🔵@chillguy_vpn",
    "ping": 871,
@@ -872,15 +883,6 @@
    "score": 87,
    "stability": 100,
    "ts": 1791697991.1899352
-  },
-  {
-   "id": "8f705c1893dd6414",
-   "cfg": "vless://f6308222-871c-447c-90df-fef9d6393b16@2c807acb4eb7a73b.tunvi.w-ert.org:442?mode=auto&path=%2F&security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&fp=chrome&type=xhttp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
-   "ping": 1008,
-   "best": 921,
-   "score": 87,
-   "stability": 100,
-   "ts": 1791695066.1664
   },
   {
    "id": "ff0cb81c24da4052",
@@ -2113,6 +2115,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "faa13c638fdbcd64": {
+   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@pl-5.ardesnode.ru:443?fp=chrome&security=reality&flow=xtls-rprx-vision&sni=pl-5.ardesnode.ru&encryption=none&headerType=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&type=tcp&sid=9ea74b83f4993ca9#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1673,
+   "ts": 1791717855.4318957,
+   "ping": 626,
+   "score": 92,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2481,13 +2493,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791716659.8990848
+  },
+  "pl-5.ardesnode.ru": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1791717854.2988226
   }
  },
  "stats": {
   "date": "2026-10-11",
-  "fetched": 137,
-  "healthy": 107,
-  "posted": 30,
+  "fetched": 139,
+  "healthy": 109,
+  "posted": 31,
   "removed": 5,
   "published_scores": [
    100,
@@ -2515,7 +2532,8 @@
    99,
    98,
    97,
-   77
+   77,
+   92
   ]
  }
 }
