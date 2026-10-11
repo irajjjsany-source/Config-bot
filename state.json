@@ -401,15 +401,6 @@
  },
  "queue": [
   {
-   "id": "6a467b07feaed637",
-   "cfg": "vless://249cce58-48ab-49a0-8aa1-fb8cd68a1104@84.200.62.56:443?security=reality&encryption=none&pbk=4EUWyCLFjgb-cDwj8ws2nC82mCY_L5VvoCia7mHPH2o&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=de2.my-cdn.org&sid=adbbecad#🔵@chillguy_vpn",
-   "ping": 399,
-   "best": 399,
-   "score": 95,
-   "stability": 100,
-   "ts": 1791708854.1017992
-  },
-  {
    "id": "d08435b151731729",
    "cfg": "vless://249cce58-48ab-49a0-8aa1-fb8cd68a1104@84.200.62.50:443?security=reality&encryption=none&pbk=4EUWyCLFjgb-cDwj8ws2nC82mCY_L5VvoCia7mHPH2o&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=de2.my-cdn.org&sid=adbbecad#🔵@chillguy_vpn",
    "ping": 401,
@@ -912,15 +903,6 @@
    "score": 87,
    "stability": 100,
    "ts": 1791716593.649519
-  },
-  {
-   "id": "06719e3e623e7114",
-   "cfg": "vless://f6308222-871c-447c-90df-fef9d6393b16@4d3f6f8316a821b8.tunvi.w-ert.org:448?mode=auto&path=%2F&security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&fp=chrome&type=xhttp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
-   "ping": 1003,
-   "best": 921,
-   "score": 87,
-   "stability": 100,
-   "ts": 1791697991.1899352
   },
   {
    "id": "ff0cb81c24da4052",
@@ -2210,6 +2192,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "6a467b07feaed637": {
+   "cfg": "vless://249cce58-48ab-49a0-8aa1-fb8cd68a1104@84.200.62.56:443?security=reality&encryption=none&pbk=4EUWyCLFjgb-cDwj8ws2nC82mCY_L5VvoCia7mHPH2o&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=de2.my-cdn.org&sid=adbbecad#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1676,
+   "ts": 1791720253.5351684,
+   "ping": 3464,
+   "score": 55,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2588,13 +2580,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791718707.0316095
+  },
+  "84.200.62.56": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791720252.9541905
   }
  },
  "stats": {
   "date": "2026-10-11",
   "fetched": 150,
   "healthy": 119,
-  "posted": 33,
+  "posted": 34,
   "removed": 5,
   "published_scores": [
    100,
@@ -2625,7 +2622,8 @@
    77,
    92,
    97,
-   90
+   90,
+   55
   ]
  }
 }
