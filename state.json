@@ -334,18 +334,10 @@
   "6a467b07feaed637": 1791708854.1017992,
   "06edfccb8406526f": 1791708854.1017992,
   "ff0cb81c24da4052": 1791710719.2484255,
-  "655a35b125e2a51e": 1791710719.2484255
+  "655a35b125e2a51e": 1791710719.2484255,
+  "cf7f8d83ad23c0a3": 1791712401.7696948
  },
  "queue": [
-  {
-   "id": "1f5e0909a90f6198",
-   "cfg": "vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=94.249.188.202&fp=random&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&sid=7887c27d&type=tcp#🔵@chillguy_vpn",
-   "ping": 370,
-   "best": 354,
-   "score": 95,
-   "stability": 100,
-   "ts": 1791697991.1899352
-  },
   {
    "id": "243b7daff0be9ff0",
    "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@188.253.26.216:443?security=reality&encryption=none&pbk=noszGxmy754-TNyz9eM8EyHiaCRF2T4cu3El6GKb6n0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl3.nztvpn.com&sid=0da7e14db353e7d0#🔵@chillguy_vpn",
@@ -525,6 +517,15 @@
    "score": 91,
    "stability": 100,
    "ts": 1791702594.517583
+  },
+  {
+   "id": "cf7f8d83ad23c0a3",
+   "cfg": "vless://2e91cfe5-8969-426f-8ebd-e77b579a56ab@bro.bestbro.ir:2053?encryption=none&security=none&type=tcp#🔵@chillguy_vpn",
+   "ping": 806,
+   "best": 271,
+   "score": 90,
+   "stability": 100,
+   "ts": 1791712401.7696948
   },
   {
    "id": "351f5bf32e1f906c",
@@ -1679,6 +1680,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "1f5e0909a90f6198": {
+   "cfg": "vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=94.249.188.202&fp=random&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&sid=7887c27d&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1667,
+   "ts": 1791712412.7804236,
+   "ping": 633,
+   "score": 92,
+   "stability": 100,
+   "country": "United Arab Emirates",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2032,13 +2043,18 @@
    "cc": "EE",
    "name": "Estonia",
    "ts": 1791710740.6606922
+  },
+  "94.249.188.202": {
+   "cc": "AE",
+   "name": "United Arab Emirates",
+   "ts": 1791712412.2449536
   }
  },
  "stats": {
   "date": "2026-10-11",
-  "fetched": 87,
-  "healthy": 63,
-  "posted": 24,
+  "fetched": 88,
+  "healthy": 64,
+  "posted": 25,
   "removed": 5,
   "published_scores": [
    100,
@@ -2060,7 +2076,8 @@
    93,
    92,
    95,
-   81
+   81,
+   92
   ]
  }
 }
