@@ -332,18 +332,11 @@
   "7c04abab504d4173": 1791708854.1017992,
   "d08435b151731729": 1791708854.1017992,
   "6a467b07feaed637": 1791708854.1017992,
-  "06edfccb8406526f": 1791708854.1017992
+  "06edfccb8406526f": 1791708854.1017992,
+  "ff0cb81c24da4052": 1791710719.2484255,
+  "655a35b125e2a51e": 1791710719.2484255
  },
  "queue": [
-  {
-   "id": "a41ddc04cdeaaf00",
-   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.252.177.216:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&security=reality&sid=9ea74b83f4993ca9&sni=est-1.ardesnode.ru&type=tcp#🔵@chillguy_vpn",
-   "ping": 352,
-   "best": 352,
-   "score": 95,
-   "stability": 100,
-   "ts": 1791692945.4257214
-  },
   {
    "id": "22f1fb6e772ebb40",
    "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@45.82.56.253:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nd-2.ardesnode.ru&sid=9ea74b83f4993ca9#🔵@chillguy_vpn",
@@ -606,6 +599,15 @@
    "ts": 1791695066.1664
   },
   {
+   "id": "ff0cb81c24da4052",
+   "cfg": "vless://b7942662-e581-4bee-ab52-02a1bf34e4c4@91.107.154.55:5485?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔵@chillguy_vpn",
+   "ping": 1037,
+   "best": 320,
+   "score": 87,
+   "stability": 100,
+   "ts": 1791710719.2484255
+  },
+  {
    "id": "cef040581e612096",
    "cfg": "vless://942b0b07-4396-4243-aa65-18623295ffde@e9ac296b61eb1ef6.tunvi.w-ert.org:36414?mode=auto&path=%2F&security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&fp=chrome&type=xhttp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
    "ping": 1060,
@@ -658,6 +660,15 @@
    "score": 64,
    "stability": 100,
    "ts": 1791702594.517583
+  },
+  {
+   "id": "655a35b125e2a51e",
+   "cfg": "vless://fd1d80da-3b27-457a-810b-2b28a309edc1@195.123.6.19:8443?security=reality&encryption=none&pbk=EDXtIJRcxgBXd32fNHSWcd8GUarM3aZeYf_xDD5gSXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=6a42dc3d#🔵@chillguy_vpn",
+   "ping": 3089,
+   "best": 2603,
+   "score": 60,
+   "stability": 100,
+   "ts": 1791710719.2484255
   }
  ],
  "posted": {
@@ -1684,6 +1695,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "a41ddc04cdeaaf00": {
+   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.252.177.216:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&security=reality&sid=9ea74b83f4993ca9&sni=est-1.ardesnode.ru&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1665,
+   "ts": 1791710741.137774,
+   "ping": 352,
+   "score": 95,
+   "stability": 100,
+   "country": "Estonia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2032,13 +2053,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791709442.5207329
+  },
+  "185.252.177.216": {
+   "cc": "EE",
+   "name": "Estonia",
+   "ts": 1791710740.6606922
   }
  },
  "stats": {
   "date": "2026-10-11",
-  "fetched": 85,
-  "healthy": 61,
-  "posted": 22,
+  "fetched": 87,
+  "healthy": 63,
+  "posted": 23,
   "removed": 5,
   "published_scores": [
    100,
@@ -2058,7 +2084,8 @@
    99,
    100,
    93,
-   92
+   92,
+   95
   ]
  }
 }
