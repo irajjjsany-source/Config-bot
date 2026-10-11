@@ -291,7 +291,15 @@
   "97507c02b2cf8162": 1791697991.1899352,
   "22f1fb6e772ebb40": 1791697991.1899352,
   "1f5e0909a90f6198": 1791697991.1899352,
-  "b43f367d188899ab": 1791698681.6929033
+  "b43f367d188899ab": 1791698681.6929033,
+  "b5b414a775eeacdc": 1791700248.5890074,
+  "54816785c1f297d8": 1791700248.5890074,
+  "8740bd88adeb2d76": 1791700248.5890074,
+  "138954b3299fcfa5": 1791700248.5890074,
+  "59e622d20bb4be41": 1791700248.5890074,
+  "9deaf60f76ca0bea": 1791700248.5890074,
+  "f7e987642dd6d0eb": 1791700248.5890074,
+  "cef040581e612096": 1791700248.5890074
  },
  "queue": [
   {
@@ -412,6 +420,42 @@
    "ts": 1791693938.1843119
   },
   {
+   "id": "9deaf60f76ca0bea",
+   "cfg": "vless://86096188-0ece-41af-922d-792c5f96c3ad@89.125.100.59:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=anime.caloribro.uno&fp=chrome&pbk=BzXQPqKb1waqaBR4b2GGyE6VWX4LGd9iCOkyuMc8IGs&sid=14aa9b370c30c55d&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 491,
+   "best": 467,
+   "score": 94,
+   "stability": 100,
+   "ts": 1791700248.5890074
+  },
+  {
+   "id": "54816785c1f297d8",
+   "cfg": "vless://c50686f1-c55d-410c-b72c-4e158f843ca3@164.5.224.90:8880?security=reality&encryption=none&pbk=XIGNHX7LtjPiNHMdgFjoGdlsqWpRzdRRHYFVHqa4aTM&headerType=none&fp=chrome&spx=%2F7e74bbd7bfb4be0&type=tcp&sni=dl.l.google.com&sid=1138a31efd3db6#🔵@chillguy_vpn",
+   "ping": 554,
+   "best": 505,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791700248.5890074
+  },
+  {
+   "id": "59e622d20bb4be41",
+   "cfg": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi.pythonsetupbib.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.pythonsetupbib.online&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=bdf5852d1423e694&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🔵@chillguy_vpn",
+   "ping": 568,
+   "best": 523,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791700248.5890074
+  },
+  {
+   "id": "f7e987642dd6d0eb",
+   "cfg": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi.pythonsetupbib.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.pythonsetupbib.online&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=bdf5852d1423e694&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 608,
+   "best": 505,
+   "score": 92,
+   "stability": 100,
+   "ts": 1791700248.5890074
+  },
+  {
    "id": "3f0ba056c49b1e69",
    "cfg": "vless://f6308222-871c-447c-90df-fef9d6393b16@261f987baa93435a.tunvi.w-ert.org:442?mode=auto&path=%2F&security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&fp=chrome&type=xhttp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
    "ping": 992,
@@ -437,6 +481,15 @@
    "score": 87,
    "stability": 100,
    "ts": 1791695066.1664
+  },
+  {
+   "id": "cef040581e612096",
+   "cfg": "vless://942b0b07-4396-4243-aa65-18623295ffde@e9ac296b61eb1ef6.tunvi.w-ert.org:36414?mode=auto&path=%2F&security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&fp=chrome&type=xhttp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
+   "ping": 1060,
+   "best": 1019,
+   "score": 86,
+   "stability": 100,
+   "ts": 1791700248.5890074
   }
  ],
  "posted": {
@@ -1353,6 +1406,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "8740bd88adeb2d76": {
+   "cfg": "vless://2f5c68d9-182f-4d8b-ab53-9358a04387b7@broad-truth-e988.258-217.workers.dev:8880?encryption=none&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1654,
+   "ts": 1791700283.1954954,
+   "ping": 53,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -1680,9 +1743,9 @@
  },
  "stats": {
   "date": "2026-10-11",
-  "fetched": 44,
-  "healthy": 28,
-  "posted": 11,
+  "fetched": 52,
+  "healthy": 34,
+  "posted": 12,
   "removed": 5,
   "published_scores": [
    100,
@@ -1691,7 +1754,8 @@
    100,
    98,
    99,
-   94
+   94,
+   99
   ]
  }
 }
