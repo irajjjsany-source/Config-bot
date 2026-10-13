@@ -266,24 +266,6 @@
  },
  "queue": [
   {
-   "id": "0b92cb6b33464191",
-   "cfg": "vless://ae8aa74e-e344-45e6-a87a-04b8b9349a5d@176.108.242.15:1505?mode=gun&security=reality&encryption=none&pbk=5nRL3eh_pQWHdej0It-V9mOapVLSi4PgkgjG9iqhpSw&fp=qq&spx=%2F&type=grpc&serviceName=grpc&sni=iv.kommersant.ru&sid=a5bd715862513387#🔵@chillguy_vpn",
-   "ping": 1013,
-   "best": 875,
-   "score": 87,
-   "stability": 100,
-   "ts": 1791918932.4793916
-  },
-  {
-   "id": "999d16955e68b77b",
-   "cfg": "vless://03218c7c-acd1-45c0-87a1-9cc77101c6b4@mobile-api-12.sova.toys:443?mode=multi&security=reality&encryption=none&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&fp=firefox&type=grpc&serviceName=google.storage.v2.Storage&sni=mobile-api-12.sova.toys&sid=70c20a2f5a7d542e#🔵@chillguy_vpn",
-   "ping": 1032,
-   "best": 935,
-   "score": 87,
-   "stability": 100,
-   "ts": 1791924326.8322594
-  },
-  {
    "id": "de94d8b314123eed",
    "cfg": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@fert6.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#🔵@chillguy_vpn",
    "ping": 1048,
@@ -1994,6 +1976,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "999d16955e68b77b": {
+   "cfg": "vless://03218c7c-acd1-45c0-87a1-9cc77101c6b4@mobile-api-12.sova.toys:443?mode=multi&security=reality&encryption=none&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&fp=firefox&type=grpc&serviceName=google.storage.v2.Storage&sni=mobile-api-12.sova.toys&sid=70c20a2f5a7d542e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1726,
+   "ts": 1791927046.3964987,
+   "ping": 1062,
+   "score": 86,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2532,13 +2524,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791926137.801395
+  },
+  "mobile-api-12.sova.toys": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791927045.5689094
   }
  },
  "stats": {
   "date": "2026-10-13",
   "fetched": 113,
   "healthy": 75,
-  "posted": 44,
+  "posted": 45,
   "removed": 0,
   "published_scores": [
    99,
@@ -2584,7 +2581,8 @@
    93,
    79,
    100,
-   98
+   98,
+   86
   ]
  }
 }
