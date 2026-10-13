@@ -220,7 +220,10 @@
   "de94d8b314123eed": 1791913531.7213023,
   "484a509c61d63ad5": 1791913531.7213023,
   "f7538498041f2823": 1791913531.7213023,
-  "233179bb651028a8": 1791913531.7213023
+  "233179bb651028a8": 1791913531.7213023,
+  "27060ec68b8ded74": 1791915326.8042643,
+  "fcfb2f3df854d9a6": 1791915326.8042643,
+  "38f5ad16a6600a6e": 1791915326.8042643
  },
  "queue": [
   {
@@ -231,6 +234,15 @@
    "score": 93,
    "stability": 100,
    "ts": 1791913531.7213023
+  },
+  {
+   "id": "38f5ad16a6600a6e",
+   "cfg": "vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@46.246.125.153:443?security=reality&encryption=none&pbk=ftglT-Ghp2FPiPlwyEAldfiAE1IL_AJ9UCkfCj0zk2I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=res.cdn.office.net&sid=a83b77e064761e3c#🔵@chillguy_vpn",
+   "ping": 615,
+   "best": 596,
+   "score": 92,
+   "stability": 100,
+   "ts": 1791915326.8042643
   },
   {
    "id": "c0844bbf06646483",
@@ -1716,6 +1728,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "fcfb2f3df854d9a6": {
+   "cfg": "vmess://eyJhZGQiOiAiMzEuNzYuMTEuODMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjJkOGY1N2JkLTEyYjUtNDFhZC1hODA2LTY1MDE3NTNjMjY0YyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjIyMjY2IiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "msg": 1706,
+   "ts": 1791915334.5668335,
+   "ping": 291,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2194,13 +2216,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791914452.0579584
+  },
+  "31.76.11.83": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791915333.901565
   }
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 71,
-  "healthy": 43,
-  "posted": 24,
+  "fetched": 74,
+  "healthy": 45,
+  "posted": 25,
   "removed": 0,
   "published_scores": [
    99,
@@ -2226,7 +2253,8 @@
    92,
    94,
    94,
-   95
+   95,
+   96
   ]
  }
 }
