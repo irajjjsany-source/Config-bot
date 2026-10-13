@@ -235,15 +235,6 @@
  },
  "queue": [
   {
-   "id": "8e638e251763a79a",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#🔵@chillguy_vpn",
-   "ping": 876,
-   "best": 864,
-   "score": 89,
-   "stability": 100,
-   "ts": 1791916241.3890092
-  },
-  {
    "id": "c0844bbf06646483",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
    "ping": 969,
@@ -1794,6 +1785,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "8e638e251763a79a": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1710,
+   "ts": 1791917674.5293858,
+   "ping": 1288,
+   "score": 83,
+   "stability": 100,
+   "country": "Singapore",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2293,7 +2294,7 @@
   "date": "2026-10-13",
   "fetched": 82,
   "healthy": 51,
-  "posted": 28,
+  "posted": 29,
   "removed": 0,
   "published_scores": [
    99,
@@ -2323,7 +2324,8 @@
    96,
    81,
    91,
-   93
+   93,
+   83
   ]
  }
 }
