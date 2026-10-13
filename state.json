@@ -227,24 +227,6 @@
  },
  "queue": [
   {
-   "id": "a2e789e973f7e23a",
-   "cfg": "vless://d9eb02da-a469-44a7-a393-ba1c5fbbc8c4@177.1.187.139:1984?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ikKnBJfcuPy1U0O3Cb71zv_G1liM5QcAYhR10A0Ech0&security=reality&sid=0f00666a&sni=ruori.ai&type=tcp#🔵@chillguy_vpn",
-   "ping": 536,
-   "best": 523,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791913531.7213023
-  },
-  {
-   "id": "38f5ad16a6600a6e",
-   "cfg": "vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@46.246.125.153:443?security=reality&encryption=none&pbk=ftglT-Ghp2FPiPlwyEAldfiAE1IL_AJ9UCkfCj0zk2I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=res.cdn.office.net&sid=a83b77e064761e3c#🔵@chillguy_vpn",
-   "ping": 615,
-   "best": 596,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791915326.8042643
-  },
-  {
    "id": "c0844bbf06646483",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
    "ping": 969,
@@ -1738,6 +1720,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "38f5ad16a6600a6e": {
+   "cfg": "vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@46.246.125.153:443?security=reality&encryption=none&pbk=ftglT-Ghp2FPiPlwyEAldfiAE1IL_AJ9UCkfCj0zk2I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=res.cdn.office.net&sid=a83b77e064761e3c#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1707,
+   "ts": 1791915589.000418,
+   "ping": 1450,
+   "score": 81,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2221,13 +2213,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791915333.901565
+  },
+  "46.246.125.153": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791915588.168528
   }
  },
  "stats": {
   "date": "2026-10-13",
   "fetched": 74,
   "healthy": 45,
-  "posted": 25,
+  "posted": 26,
   "removed": 0,
   "published_scores": [
    99,
@@ -2254,7 +2251,8 @@
    94,
    94,
    95,
-   96
+   96,
+   81
   ]
  }
 }
