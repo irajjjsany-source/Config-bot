@@ -263,15 +263,6 @@
  },
  "queue": [
   {
-   "id": "67f81166cf0329c1",
-   "cfg": "vless://2c8296e2-71b5-455d-8eaf-35c4f05486fa@199.232.237.67:80?path=%2F%3FTELEGRAM--BYA--CHANEL---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM&security=none&encryption=none&host=icjucvsgoqjwmtw.global.ssl.fastly.net&type=ws#🔵@chillguy_vpn",
-   "ping": 369,
-   "best": 341,
-   "score": 95,
-   "stability": 100,
-   "ts": 1791924326.8322594
-  },
-  {
    "id": "f87e2e8903a9675f",
    "cfg": "vless://ec572cf0-1337-4c51-b4ec-ff2f538c1f4c@82.197.73.139:26226?mode=gun&security=reality&encryption=none&pbk=zsSr4H-YgykAOYdIYFaAnFQtIguRhP825FodeKSoxjA&fp=firefox&type=grpc&serviceName=69effd3120f4&sni=www.dn.se&sid=2ddf3f1151012c98#🔵@chillguy_vpn",
    "ping": 572,
@@ -1978,6 +1969,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "67f81166cf0329c1": {
+   "cfg": "vless://2c8296e2-71b5-455d-8eaf-35c4f05486fa@199.232.237.67:80?path=%2F%3FTELEGRAM--BYA--CHANEL---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM&security=none&encryption=none&host=icjucvsgoqjwmtw.global.ssl.fastly.net&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1722,
+   "ts": 1791925153.2263346,
+   "ping": 541,
+   "score": 93,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2501,13 +2502,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791924369.35562
+  },
+  "199.232.237.67": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791925152.444948
   }
  },
  "stats": {
   "date": "2026-10-13",
   "fetched": 110,
   "healthy": 72,
-  "posted": 40,
+  "posted": 41,
   "removed": 0,
   "published_scores": [
    99,
@@ -2549,7 +2555,8 @@
    98,
    99,
    77,
-   97
+   97,
+   93
   ]
  }
 }
