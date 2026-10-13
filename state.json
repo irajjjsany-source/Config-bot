@@ -241,15 +241,6 @@
  },
  "queue": [
   {
-   "id": "1e91d577bc88d02a",
-   "cfg": "vless://c3db7657-88ce-42a6-b998-1e0364b277ac@95.181.173.68:9443?security=reality&encryption=none&pbk=ELJzJkc4SiCeCn6OF-8V9oeoJqXcD1y9WUntP3It53g&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=usa.edgeses.org&sid=649ab61e575fdbc9#🔵@chillguy_vpn",
-   "ping": 217,
-   "best": 195,
-   "score": 97,
-   "stability": 100,
-   "ts": 1791901215.3571599
-  },
-  {
    "id": "a87ed85ac7ce9893",
    "cfg": "vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=brointelengence.com&sid=1c3e8241a8743df9#🔵@chillguy_vpn",
    "ping": 371,
@@ -1642,6 +1633,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "1e91d577bc88d02a": {
+   "cfg": "vless://c3db7657-88ce-42a6-b998-1e0364b277ac@95.181.173.68:9443?security=reality&encryption=none&pbk=ELJzJkc4SiCeCn6OF-8V9oeoJqXcD1y9WUntP3It53g&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=usa.edgeses.org&sid=649ab61e575fdbc9#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1687,
+   "ts": 1791904533.3146756,
+   "ping": 423,
+   "score": 95,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2051,14 +2052,15 @@
   "date": "2026-10-13",
   "fetched": 52,
   "healthy": 28,
-  "posted": 5,
+  "posted": 6,
   "removed": 0,
   "published_scores": [
    99,
    99,
    98,
    98,
-   98
+   98,
+   95
   ]
  }
 }
