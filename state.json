@@ -266,18 +266,10 @@
   "ec052a2837808daf": 1791927928.063031,
   "8a1cd98d7ce1e78d": 1791927928.063031,
   "bbdd1ef6b4809f54": 1791929725.974353,
-  "319e40ebf5b0bf8f": 1791929725.974353
+  "319e40ebf5b0bf8f": 1791929725.974353,
+  "d3c0fc6f08f095f9": 1791930636.2175012
  },
  "queue": [
-  {
-   "id": "fc70cb8a020f4310",
-   "cfg": "vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@salt0.khovanski.mom:443?security=reality&encryption=none&pbk=III2StgFziJtisbaKDYlEF2qYwBHJZnzZH5DHdwuFQ8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=salt0.khovanski.mom&sid=d110331f200987ae#🔵@chillguy_vpn",
-   "ping": 1164,
-   "best": 578,
-   "score": 85,
-   "stability": 100,
-   "ts": 1791918932.4793916
-  },
   {
    "id": "c9b6e34b83549c1a",
    "cfg": "vless://302bd5e2-c21d-4fbb-9409-222ebc8283ac@fde9da18470e7e1a.tunvi.w-ert.org:451?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
@@ -322,6 +314,15 @@
    "score": 66,
    "stability": 100,
    "ts": 1791913531.7213023
+  },
+  {
+   "id": "d3c0fc6f08f095f9",
+   "cfg": "vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@app-mi-27.spbstudentlife.com:443?security=reality&encryption=none&pbk=kInywP138eVlHbS7wodX2Q_R1OC0JdViypEeguSvpQ0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=assets-mi-27.spbstudentlife.com&sid=33e6fe7545082926#🔵@chillguy_vpn",
+   "ping": 2713,
+   "best": 1978,
+   "score": 65,
+   "stability": 100,
+   "ts": 1791930636.2175012
   },
   {
    "id": "6c33cec379da703c",
@@ -1986,6 +1987,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "fc70cb8a020f4310": {
+   "cfg": "vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@salt0.khovanski.mom:443?security=reality&encryption=none&pbk=III2StgFziJtisbaKDYlEF2qYwBHJZnzZH5DHdwuFQ8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=salt0.khovanski.mom&sid=d110331f200987ae#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1732,
+   "ts": 1791930654.4377675,
+   "ping": 611,
+   "score": 92,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2549,13 +2560,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791929928.265371
+  },
+  "salt0.khovanski.mom": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791930653.6618822
   }
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 117,
-  "healthy": 77,
-  "posted": 50,
+  "fetched": 118,
+  "healthy": 78,
+  "posted": 51,
   "removed": 0,
   "published_scores": [
    99,
@@ -2607,7 +2623,8 @@
    94,
    86,
    81,
-   85
+   85,
+   92
   ]
  }
 }
