@@ -237,33 +237,6 @@
  },
  "queue": [
   {
-   "id": "0d3612c10acd1995",
-   "cfg": "vless://7e68e32f-8015-4f37-9082-70e8b0b58043@13.125.180.150:443?security=reality&encryption=none&pbk=DHOrfoin7TeRpnIoU3d6qT5Yrq3QPVFp49kApATA4iE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=az2.rtps.cell-1.prod.ap-northeast-2.prod.connect.aws.a2z.com&sid=e04a526b0b09c765#🔵@chillguy_vpn",
-   "ping": 733,
-   "best": 656,
-   "score": 90,
-   "stability": 100,
-   "ts": 1791902927.4886684
-  },
-  {
-   "id": "93c05e23d38a94d8",
-   "cfg": "vless://da08f1b8-6d7c-4281-945f-1f892b4b4052@c41048d726963752.tunvi.w-ert.org:444?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
-   "ping": 913,
-   "best": 841,
-   "score": 88,
-   "stability": 100,
-   "ts": 1791901215.3571599
-  },
-  {
-   "id": "e45cb08e4b1577d0",
-   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@193.233.82.201:443?security=reality&encryption=none&pbk=fsEatg3Hi0O3NPHIg1xQYjmcYRmEgvnSW-i_ZwaL7XI&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nl4.nztvpn.com&sid=b054ade250673c91#🔵@chillguy_vpn",
-   "ping": 979,
-   "best": 509,
-   "score": 87,
-   "stability": 100,
-   "ts": 1791902749.1841283
-  },
-  {
    "id": "1ec4887f596c4e3b",
    "cfg": "vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#🔵@chillguy_vpn",
    "ping": 1058,
@@ -1682,6 +1655,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "e45cb08e4b1577d0": {
+   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@193.233.82.201:443?security=reality&encryption=none&pbk=fsEatg3Hi0O3NPHIg1xQYjmcYRmEgvnSW-i_ZwaL7XI&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nl4.nztvpn.com&sid=b054ade250673c91#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1695,
+   "ts": 1791909083.3526652,
+   "ping": 3361,
+   "score": 56,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2110,13 +2093,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1791908506.2726715
+  },
+  "193.233.82.201": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791909082.568941
   }
  },
  "stats": {
   "date": "2026-10-13",
   "fetched": 56,
   "healthy": 32,
-  "posted": 13,
+  "posted": 14,
   "removed": 0,
   "published_scores": [
    99,
@@ -2131,7 +2119,8 @@
    76,
    92,
    91,
-   74
+   74,
+   56
   ]
  }
 }
