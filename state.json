@@ -253,24 +253,6 @@
  },
  "queue": [
   {
-   "id": "1887773f41c702c7",
-   "cfg": "vless://f4c2dd69-124f-4134-bcf3-8b56e96b2bd3@firstitaly.iranfreemarz.com:7005?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 972,
-   "best": 591,
-   "score": 87,
-   "stability": 100,
-   "ts": 1791913531.7213023
-  },
-  {
-   "id": "eaa00bb164f3f3c9",
-   "cfg": "vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@d0c5.khovanski.mom:443?security=reality&encryption=none&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=d0c5.khovanski.mom&sid=fb442438e2223836#🔵@chillguy_vpn",
-   "ping": 982,
-   "best": 596,
-   "score": 87,
-   "stability": 100,
-   "ts": 1791916241.3890092
-  },
-  {
    "id": "0b92cb6b33464191",
    "cfg": "vless://ae8aa74e-e344-45e6-a87a-04b8b9349a5d@176.108.242.15:1505?mode=gun&security=reality&encryption=none&pbk=5nRL3eh_pQWHdej0It-V9mOapVLSi4PgkgjG9iqhpSw&fp=qq&spx=%2F&type=grpc&serviceName=grpc&sni=iv.kommersant.ru&sid=a5bd715862513387#🔵@chillguy_vpn",
    "ping": 1013,
@@ -1894,6 +1876,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "eaa00bb164f3f3c9": {
+   "cfg": "vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@d0c5.khovanski.mom:443?security=reality&encryption=none&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=d0c5.khovanski.mom&sid=fb442438e2223836#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1720,
+   "ts": 1791923471.0513124,
+   "ping": 1775,
+   "score": 77,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2407,13 +2399,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1791921650.6013885
+  },
+  "d0c5.khovanski.mom": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791923470.5404725
   }
  },
  "stats": {
   "date": "2026-10-13",
   "fetched": 100,
   "healthy": 63,
-  "posted": 38,
+  "posted": 39,
   "removed": 0,
   "published_scores": [
    99,
@@ -2453,7 +2450,8 @@
    84,
    97,
    98,
-   99
+   99,
+   77
   ]
  }
 }
