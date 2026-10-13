@@ -223,9 +223,25 @@
   "233179bb651028a8": 1791913531.7213023,
   "27060ec68b8ded74": 1791915326.8042643,
   "fcfb2f3df854d9a6": 1791915326.8042643,
-  "38f5ad16a6600a6e": 1791915326.8042643
+  "38f5ad16a6600a6e": 1791915326.8042643,
+  "cf8558251665834d": 1791916241.3890092,
+  "feac30f91ef3b68d": 1791916241.3890092,
+  "2846eaabd249bc18": 1791916241.3890092,
+  "75f382492a33570b": 1791916241.3890092,
+  "eaa00bb164f3f3c9": 1791916241.3890092,
+  "8e638e251763a79a": 1791916241.3890092,
+  "6d346d7d9a0f8e04": 1791916241.3890092
  },
  "queue": [
+  {
+   "id": "8e638e251763a79a",
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#🔵@chillguy_vpn",
+   "ping": 876,
+   "best": 864,
+   "score": 89,
+   "stability": 100,
+   "ts": 1791916241.3890092
+  },
   {
    "id": "c0844bbf06646483",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
@@ -245,6 +261,15 @@
    "ts": 1791913531.7213023
   },
   {
+   "id": "eaa00bb164f3f3c9",
+   "cfg": "vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@d0c5.khovanski.mom:443?security=reality&encryption=none&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=d0c5.khovanski.mom&sid=fb442438e2223836#🔵@chillguy_vpn",
+   "ping": 982,
+   "best": 596,
+   "score": 87,
+   "stability": 100,
+   "ts": 1791916241.3890092
+  },
+  {
    "id": "de94d8b314123eed",
    "cfg": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@fert6.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#🔵@chillguy_vpn",
    "ping": 1048,
@@ -252,6 +277,24 @@
    "score": 86,
    "stability": 100,
    "ts": 1791913531.7213023
+  },
+  {
+   "id": "2846eaabd249bc18",
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#🔵@chillguy_vpn",
+   "ping": 1094,
+   "best": 884,
+   "score": 86,
+   "stability": 100,
+   "ts": 1791916241.3890092
+  },
+  {
+   "id": "75f382492a33570b",
+   "cfg": "vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@d0c5.khovanski.mom:443?security=reality&encryption=none&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&headerType=&type=tcp&flow=xtls-rprx-vision&sni=d0c5.khovanski.mom&sid=fb442438e2223836#🔵@chillguy_vpn",
+   "ping": 2449,
+   "best": 609,
+   "score": 68,
+   "stability": 100,
+   "ts": 1791916241.3890092
   },
   {
    "id": "f7538498041f2823",
@@ -1730,6 +1773,16 @@
    "stability": 100,
    "country": "Sweden",
    "repost_count": 0
+  },
+  "feac30f91ef3b68d": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:57541?security=reality&encryption=none&pbk=hAtfAzXQrbxyqiK3b2XrsxZ35sWiN8iqp0LvjKr9_DE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=22b19630280c3f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1708,
+   "ts": 1791916275.1258545,
+   "ping": 678,
+   "score": 91,
+   "stability": 100,
+   "country": "Singapore",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2218,13 +2271,18 @@
    "cc": "SE",
    "name": "Sweden",
    "ts": 1791915588.168528
+  },
+  "funagfrdfs.alixxplay.com": {
+   "cc": "SG",
+   "name": "Singapore",
+   "ts": 1791916274.504729
   }
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 74,
-  "healthy": 45,
-  "posted": 26,
+  "fetched": 81,
+  "healthy": 50,
+  "posted": 27,
   "removed": 0,
   "published_scores": [
    99,
@@ -2252,7 +2310,8 @@
    94,
    95,
    96,
-   81
+   81,
+   91
   ]
  }
 }
