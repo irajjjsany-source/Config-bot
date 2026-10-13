@@ -1,10 +1,5 @@
 {
  "seen": {
-  "4e7047b089569690": 1791647724.3277578,
-  "63d9de3a5fa8a609": 1791647724.3277578,
-  "4cb3afc2fd1b93ac": 1791647724.3277578,
-  "4a1f453c51d8c85d": 1791647724.3277578,
-  "b5763831b3229641": 1791647724.3277578,
   "bce21385b1d7aba5": 1791651386.3770218,
   "ec9009b2b07a957a": 1791651386.3770218,
   "e639920641c3b6a2": 1791651386.3770218,
@@ -236,17 +231,18 @@
   "a87ed85ac7ce9893": 1791902927.4886684,
   "64f1b280716a78ff": 1791903649.1274962,
   "af00872c7a96f55d": 1791905831.3438766,
-  "967665f5e41b321e": 1791906330.5608225
+  "967665f5e41b321e": 1791906330.5608225,
+  "4e7047b089569690": 1791907181.3991961
  },
  "queue": [
   {
-   "id": "d81a1728799819ea",
-   "cfg": "vless://fafc7c16-f890-45ee-a856-02df225172dd@2.26.49.222:8445?encryption=none&security=reality&sni=api-cdn.sendmsg.ru&fp=firefox&pbk=jMDThuFl4gsyeVwAdgLSCDKQFYp4r2e2BbIhrq_KYEU&sid=a1b2c3d4e5f6a7b8&type=xhttp&path=%2Fapi%2Fv1%2F8445%2Fsync%2F&mode=auto#🔵@chillguy_vpn",
-   "ping": 541,
-   "best": 527,
-   "score": 93,
+   "id": "4e7047b089569690",
+   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@203.202.232.211:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🔵@chillguy_vpn",
+   "ping": 584,
+   "best": 566,
+   "score": 92,
    "stability": 100,
-   "ts": 1791901215.3571599
+   "ts": 1791907181.3991961
   },
   {
    "id": "a0b0f98624a3be3b",
@@ -1663,6 +1659,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "d81a1728799819ea": {
+   "cfg": "vless://fafc7c16-f890-45ee-a856-02df225172dd@2.26.49.222:8445?encryption=none&security=reality&sni=api-cdn.sendmsg.ru&fp=firefox&pbk=jMDThuFl4gsyeVwAdgLSCDKQFYp4r2e2BbIhrq_KYEU&sid=a1b2c3d4e5f6a7b8&type=xhttp&path=%2Fapi%2Fv1%2F8445%2Fsync%2F&mode=auto#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1691,
+   "ts": 1791907193.7536962,
+   "ping": 1882,
+   "score": 76,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2071,13 +2077,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791905444.5612638
+  },
+  "2.26.49.222": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791907193.224802
   }
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 54,
-  "healthy": 30,
-  "posted": 9,
+  "fetched": 55,
+  "healthy": 31,
+  "posted": 10,
   "removed": 0,
   "published_scores": [
    99,
@@ -2088,7 +2099,8 @@
    95,
    94,
    94,
-   93
+   93,
+   76
   ]
  }
 }
