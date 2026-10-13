@@ -229,15 +229,6 @@
  },
  "queue": [
   {
-   "id": "cb5ff5edc0b62548",
-   "cfg": "vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMzUwNDMiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=",
-   "ping": 1306,
-   "best": 879,
-   "score": 83,
-   "stability": 100,
-   "ts": 1791901215.3571599
-  },
-  {
    "id": "6aee8c407c425d99",
    "cfg": "vless://c3db7657-88ce-42a6-b998-1e0364b277ac@213.165.50.44:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=usa.edgeses.org&pbk=ELJzJkc4SiCeCn6OF-8V9oeoJqXcD1y9WUntP3It53g&sid=649ab61e575fdbc9&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 1629,
@@ -1687,6 +1678,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "cb5ff5edc0b62548": {
+   "cfg": "vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMzUwNDMiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9",
+   "msg": 1699,
+   "ts": 1791911462.7318044,
+   "ping": 3584,
+   "score": 53,
+   "stability": 100,
+   "country": "Hong Kong",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2130,13 +2131,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1791910865.4050255
+  },
+  "156.245.232.239": {
+   "cc": "HK",
+   "name": "Hong Kong",
+   "ts": 1791911461.9568
   }
  },
  "stats": {
   "date": "2026-10-13",
   "fetched": 60,
   "healthy": 35,
-  "posted": 17,
+  "posted": 18,
   "removed": 0,
   "published_scores": [
    99,
@@ -2155,7 +2161,8 @@
    56,
    93,
    92,
-   67
+   67,
+   53
   ]
  }
 }
