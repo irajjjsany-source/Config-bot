@@ -239,9 +239,24 @@
   "c33cc47820fe7020": 1791918932.4793916,
   "4a86470a25db60e5": 1791918932.4793916,
   "8dcc5e4013a6b9ca": 1791919429.4822109,
-  "d4b504357def1fbb": 1791919429.4822109
+  "d4b504357def1fbb": 1791919429.4822109,
+  "56df622724f47f82": 1791919839.5261538,
+  "1485ba1ce52e822b": 1791919839.5261538,
+  "c1a0dafb8418de7c": 1791919839.5261538,
+  "bb5cca205f7cc271": 1791919839.5261538,
+  "60f8fc334633e4f5": 1791919839.5261538,
+  "c58a47b99ab893c7": 1791919839.5261538
  },
  "queue": [
+  {
+   "id": "60f8fc334633e4f5",
+   "cfg": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=%2F%3FTelegram---mehrosaboran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#🔵@chillguy_vpn",
+   "ping": 87,
+   "best": 53,
+   "score": 99,
+   "stability": 100,
+   "ts": 1791919839.5261538
+  },
   {
    "id": "1887773f41c702c7",
    "cfg": "vless://f4c2dd69-124f-4134-bcf3-8b56e96b2bd3@firstitaly.iranfreemarz.com:7005?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&type=tcp&headerType=none#🔵@chillguy_vpn",
@@ -1860,6 +1875,16 @@
    "stability": 100,
    "country": "Spain",
    "repost_count": 0
+  },
+  "56df622724f47f82": {
+   "cfg": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.0.181:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws&sni=hhlfy.twiladaphne.ndjp.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1714,
+   "ts": 1791919851.967845,
+   "ping": 57,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2372,9 +2397,9 @@
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 90,
-  "healthy": 57,
-  "posted": 32,
+  "fetched": 96,
+  "healthy": 59,
+  "posted": 33,
   "removed": 0,
   "published_scores": [
    99,
@@ -2408,7 +2433,8 @@
    83,
    80,
    96,
-   96
+   96,
+   99
   ]
  }
 }
