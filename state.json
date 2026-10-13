@@ -270,15 +270,6 @@
  },
  "queue": [
   {
-   "id": "424140bc04840c59",
-   "cfg": "vless://f8efa59f-005f-4af4-b683-5df293fc982b@cd.zovip2.ir:443?path=%2Fgropcdn&security=tls&encryption=none&insecure=0&host=gadfather.zovip2.ir&type=ws&allowInsecure=0&sni=gadfather.zovip2.ir#🔵@chillguy_vpn",
-   "ping": 1107,
-   "best": 1017,
-   "score": 86,
-   "stability": 100,
-   "ts": 1791924326.8322594
-  },
-  {
    "id": "fc70cb8a020f4310",
    "cfg": "vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@salt0.khovanski.mom:443?security=reality&encryption=none&pbk=III2StgFziJtisbaKDYlEF2qYwBHJZnzZH5DHdwuFQ8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=salt0.khovanski.mom&sid=d110331f200987ae#🔵@chillguy_vpn",
    "ping": 1164,
@@ -1985,6 +1976,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "424140bc04840c59": {
+   "cfg": "vless://f8efa59f-005f-4af4-b683-5df293fc982b@cd.zovip2.ir:443?path=%2Fgropcdn&security=tls&encryption=none&insecure=0&host=gadfather.zovip2.ir&type=ws&allowInsecure=0&sni=gadfather.zovip2.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1731,
+   "ts": 1791929929.4385943,
+   "ping": 1116,
+   "score": 85,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2543,13 +2544,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791928854.0011652
+  },
+  "cd.zovip2.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791929928.265371
   }
  },
  "stats": {
   "date": "2026-10-13",
   "fetched": 117,
   "healthy": 77,
-  "posted": 49,
+  "posted": 50,
   "removed": 0,
   "published_scores": [
    99,
@@ -2600,7 +2606,8 @@
    90,
    94,
    86,
-   81
+   81,
+   85
   ]
  }
 }
