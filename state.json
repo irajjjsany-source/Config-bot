@@ -247,9 +247,20 @@
   "60f8fc334633e4f5": 1791919839.5261538,
   "c58a47b99ab893c7": 1791919839.5261538,
   "a3484b5cc194c32a": 1791920728.271762,
-  "feef2aea8f027386": 1791921647.1497724
+  "feef2aea8f027386": 1791921647.1497724,
+  "7395f6f3d56e4294": 1791922526.4569995,
+  "e9aa18ef440e0c79": 1791922526.4569995
  },
  "queue": [
+  {
+   "id": "e9aa18ef440e0c79",
+   "cfg": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?flow=&type=ws&host=snip.edgeoneai.cc.cd&path=/?Telegram---DailyConfigs---DailyConfigs---DailyConfigs&security=tls&sni=snip.edgeoneai.cc.cd&alpn=http/1.1&fp=chrome&echcl=cloudflare-ech.com+udp://1.1.1.1#🔵@chillguy_vpn",
+   "ping": 194,
+   "best": 183,
+   "score": 97,
+   "stability": 100,
+   "ts": 1791922526.4569995
+  },
   {
    "id": "1887773f41c702c7",
    "cfg": "vless://f4c2dd69-124f-4134-bcf3-8b56e96b2bd3@firstitaly.iranfreemarz.com:7005?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&type=tcp&headerType=none#🔵@chillguy_vpn",
@@ -1908,6 +1919,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "7395f6f3d56e4294": {
+   "cfg": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?flow=&type=ws&host=snip.edgeoneai.cc.cd&path=/&security=tls&sni=snip.edgeoneai.cc.cd&alpn=http/1.1&fp=chrome&echcl=cloudflare-ech.com+udp://1.1.1.1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1718,
+   "ts": 1791922532.4152393,
+   "ping": 178,
+   "score": 98,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2425,9 +2446,9 @@
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 98,
-  "healthy": 61,
-  "posted": 36,
+  "fetched": 100,
+  "healthy": 63,
+  "posted": 37,
   "removed": 0,
   "published_scores": [
    99,
@@ -2465,7 +2486,8 @@
    99,
    99,
    84,
-   97
+   97,
+   98
   ]
  }
 }
