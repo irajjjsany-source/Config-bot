@@ -231,18 +231,10 @@
   "eaa00bb164f3f3c9": 1791916241.3890092,
   "8e638e251763a79a": 1791916241.3890092,
   "6d346d7d9a0f8e04": 1791916241.3890092,
-  "a7af2c45a4a492c1": 1791917129.1793835
+  "a7af2c45a4a492c1": 1791917129.1793835,
+  "9b3d111f8e374e9e": 1791918048.0489306
  },
  "queue": [
-  {
-   "id": "c0844bbf06646483",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
-   "ping": 969,
-   "best": 380,
-   "score": 87,
-   "stability": 100,
-   "ts": 1791913531.7213023
-  },
   {
    "id": "1887773f41c702c7",
    "cfg": "vless://f4c2dd69-124f-4134-bcf3-8b56e96b2bd3@firstitaly.iranfreemarz.com:7005?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&type=tcp&headerType=none#🔵@chillguy_vpn",
@@ -1795,6 +1787,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "c0844bbf06646483": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1711,
+   "ts": 1791918062.3188896,
+   "ping": 1526,
+   "score": 80,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2288,13 +2290,18 @@
    "cc": "SG",
    "name": "Singapore",
    "ts": 1791916274.504729
+  },
+  "169.40.42.184": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791918061.6516848
   }
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 82,
+  "fetched": 83,
   "healthy": 51,
-  "posted": 29,
+  "posted": 30,
   "removed": 0,
   "published_scores": [
    99,
@@ -2325,7 +2332,8 @@
    81,
    91,
    93,
-   83
+   83,
+   80
   ]
  }
 }
