@@ -235,18 +235,10 @@
   "0d3612c10acd1995": 1791902927.4886684,
   "a87ed85ac7ce9893": 1791902927.4886684,
   "64f1b280716a78ff": 1791903649.1274962,
-  "af00872c7a96f55d": 1791905831.3438766
+  "af00872c7a96f55d": 1791905831.3438766,
+  "967665f5e41b321e": 1791906330.5608225
  },
  "queue": [
-  {
-   "id": "ff3aef4335380ec6",
-   "cfg": "vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=brointelengence.com&sid=1c3e8241a8743df9#🔵@chillguy_vpn",
-   "ping": 470,
-   "best": 468,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791901215.3571599
-  },
   {
    "id": "d81a1728799819ea",
    "cfg": "vless://fafc7c16-f890-45ee-a856-02df225172dd@2.26.49.222:8445?encryption=none&security=reality&sni=api-cdn.sendmsg.ru&fp=firefox&pbk=jMDThuFl4gsyeVwAdgLSCDKQFYp4r2e2BbIhrq_KYEU&sid=a1b2c3d4e5f6a7b8&type=xhttp&path=%2Fapi%2Fv1%2F8445%2Fsync%2F&mode=auto#🔵@chillguy_vpn",
@@ -390,6 +382,15 @@
    "score": 59,
    "stability": 100,
    "ts": 1791901215.3571599
+  },
+  {
+   "id": "967665f5e41b321e",
+   "cfg": "vless://tyxyrytyro@tyxyrytyro-51255165170-direct.araghchy.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=tyxyrytyro-51255165170-direct.araghchy.com#🔵@chillguy_vpn",
+   "ping": 3317,
+   "best": 2373,
+   "score": 57,
+   "stability": 100,
+   "ts": 1791906330.5608225
   },
   {
    "id": "d4d8d95cdb963b91",
@@ -1652,6 +1653,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "ff3aef4335380ec6": {
+   "cfg": "vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=brointelengence.com&sid=1c3e8241a8743df9#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1690,
+   "ts": 1791906349.0922549,
+   "ping": 508,
+   "score": 93,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2064,9 +2075,9 @@
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 53,
-  "healthy": 29,
-  "posted": 8,
+  "fetched": 54,
+  "healthy": 30,
+  "posted": 9,
   "removed": 0,
   "published_scores": [
    99,
@@ -2076,7 +2087,8 @@
    98,
    95,
    94,
-   94
+   94,
+   93
   ]
  }
 }
