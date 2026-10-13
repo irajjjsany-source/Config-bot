@@ -224,24 +224,6 @@
  },
  "queue": [
   {
-   "id": "629330f9c78caa8b",
-   "cfg": "vless://c3db7657-88ce-42a6-b998-1e0364b277ac@213.165.50.44:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=usa.edgeses.org&fp=firefox&pbk=ELJzJkc4SiCeCn6OF-8V9oeoJqXcD1y9WUntP3It53g&sid=649ab61e575fdbc9&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 1951,
-   "best": 1644,
-   "score": 75,
-   "stability": 100,
-   "ts": 1791901215.3571599
-  },
-  {
-   "id": "a124ab766a1729da",
-   "cfg": "vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@80.209.237.144:443?encryption=none&fp=&pbk=MbRONgV8ADD5B_aKDBv15LAW2a8QZok5bkkZexRRVAs&security=reality&sid=2301ac8aee8bf6d4&sni=b58e68t.lt1.h1clayd.click&type=tcp#🔵@chillguy_vpn",
-   "ping": 2000,
-   "best": 1661,
-   "score": 74,
-   "stability": 100,
-   "ts": 1791908128.204612
-  },
-  {
    "id": "261138dbd03ec146",
    "cfg": "vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@31.76.227.58:443?security=reality&encryption=none&pbk=kInywP138eVlHbS7wodX2Q_R1OC0JdViypEeguSvpQ0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=assets-mi-27.spbstudentlife.com&sid=33e6fe7545082926#🔵@chillguy_vpn",
    "ping": 2216,
@@ -1675,6 +1657,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "a124ab766a1729da": {
+   "cfg": "vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@80.209.237.144:443?encryption=none&fp=&pbk=MbRONgV8ADD5B_aKDBv15LAW2a8QZok5bkkZexRRVAs&security=reality&sid=2301ac8aee8bf6d4&sni=b58e68t.lt1.h1clayd.click&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1701,
+   "ts": 1791912654.0386317,
+   "ping": 443,
+   "score": 94,
+   "stability": 100,
+   "country": "Lithuania",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2128,13 +2120,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791911749.1875837
+  },
+  "80.209.237.144": {
+   "cc": "LT",
+   "name": "Lithuania",
+   "ts": 1791912653.5593085
   }
  },
  "stats": {
   "date": "2026-10-13",
   "fetched": 60,
   "healthy": 35,
-  "posted": 19,
+  "posted": 20,
   "removed": 0,
   "published_scores": [
    99,
@@ -2155,7 +2152,8 @@
    92,
    67,
    53,
-   65
+   65,
+   94
   ]
  }
 }
