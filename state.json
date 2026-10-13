@@ -1,10 +1,5 @@
 {
  "seen": {
-  "aaddf2a17d7e8da3": 1791652411.5563765,
-  "dbe548537f189bae": 1791652411.5563765,
-  "8d27ec724901005a": 1791652411.5563765,
-  "df89935a51a49d5f": 1791652411.5563765,
-  "4bb6e9073b21f566": 1791652411.5563765,
   "93c651f1ce7d3b46": 1791653458.0192907,
   "d56ec89a2c9b2dbd": 1791653458.0192907,
   "b9bb281fb921288d": 1791653458.0192907,
@@ -228,24 +223,6 @@
   "6ea0e6c40ac457e6": 1791910854.2511272
  },
  "queue": [
-  {
-   "id": "6aee8c407c425d99",
-   "cfg": "vless://c3db7657-88ce-42a6-b998-1e0364b277ac@213.165.50.44:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=usa.edgeses.org&pbk=ELJzJkc4SiCeCn6OF-8V9oeoJqXcD1y9WUntP3It53g&sid=649ab61e575fdbc9&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 1629,
-   "best": 564,
-   "score": 79,
-   "stability": 100,
-   "ts": 1791901215.3571599
-  },
-  {
-   "id": "93b3cb3ee3b4b180",
-   "cfg": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#🔵@chillguy_vpn",
-   "ping": 1775,
-   "best": 1353,
-   "score": 77,
-   "stability": 100,
-   "ts": 1791901215.3571599
-  },
   {
    "id": "629330f9c78caa8b",
    "cfg": "vless://c3db7657-88ce-42a6-b998-1e0364b277ac@213.165.50.44:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=usa.edgeses.org&fp=firefox&pbk=ELJzJkc4SiCeCn6OF-8V9oeoJqXcD1y9WUntP3It53g&sid=649ab61e575fdbc9&type=tcp&headerType=none#🔵@chillguy_vpn",
@@ -1688,6 +1665,16 @@
    "stability": 100,
    "country": "Hong Kong",
    "repost_count": 0
+  },
+  "93b3cb3ee3b4b180": {
+   "cfg": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1700,
+   "ts": 1791911749.940332,
+   "ping": 2679,
+   "score": 65,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2136,13 +2123,18 @@
    "cc": "HK",
    "name": "Hong Kong",
    "ts": 1791911461.9568
+  },
+  "150.241.101.80": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791911749.1875837
   }
  },
  "stats": {
   "date": "2026-10-13",
   "fetched": 60,
   "healthy": 35,
-  "posted": 18,
+  "posted": 19,
   "removed": 0,
   "published_scores": [
    99,
@@ -2162,7 +2154,8 @@
    93,
    92,
    67,
-   53
+   53,
+   65
   ]
  }
 }
