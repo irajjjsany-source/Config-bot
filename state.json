@@ -264,27 +264,11 @@
   "4194ec428738188a": 1791926127.3025296,
   "964b49962abeb502": 1791926127.3025296,
   "ec052a2837808daf": 1791927928.063031,
-  "8a1cd98d7ce1e78d": 1791927928.063031
+  "8a1cd98d7ce1e78d": 1791927928.063031,
+  "bbdd1ef6b4809f54": 1791929725.974353,
+  "319e40ebf5b0bf8f": 1791929725.974353
  },
  "queue": [
-  {
-   "id": "c33cc47820fe7020",
-   "cfg": "vless://f4c2dd69-124f-4134-bcf3-8b56e96b2bd3@firstitaly.iranfreemarz.com:7005?security=reality&encryption=none&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com#🔵@chillguy_vpn",
-   "ping": 1076,
-   "best": 594,
-   "score": 86,
-   "stability": 100,
-   "ts": 1791918932.4793916
-  },
-  {
-   "id": "2846eaabd249bc18",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#🔵@chillguy_vpn",
-   "ping": 1094,
-   "best": 884,
-   "score": 86,
-   "stability": 100,
-   "ts": 1791916241.3890092
-  },
   {
    "id": "424140bc04840c59",
    "cfg": "vless://f8efa59f-005f-4af4-b683-5df293fc982b@cd.zovip2.ir:443?path=%2Fgropcdn&security=tls&encryption=none&insecure=0&host=gadfather.zovip2.ir&type=ws&allowInsecure=0&sni=gadfather.zovip2.ir#🔵@chillguy_vpn",
@@ -1991,6 +1975,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "2846eaabd249bc18": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1730,
+   "ts": 1791929766.6873384,
+   "ping": 1446,
+   "score": 81,
+   "stability": 100,
+   "country": "Singapore",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2553,9 +2547,9 @@
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 115,
+  "fetched": 117,
   "healthy": 77,
-  "posted": 48,
+  "posted": 49,
   "removed": 0,
   "published_scores": [
    99,
@@ -2605,7 +2599,8 @@
    86,
    90,
    94,
-   86
+   86,
+   81
   ]
  }
 }
