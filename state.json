@@ -1,17 +1,5 @@
 {
  "seen": {
-  "bce21385b1d7aba5": 1791651386.3770218,
-  "ec9009b2b07a957a": 1791651386.3770218,
-  "e639920641c3b6a2": 1791651386.3770218,
-  "97ceed00575d4b03": 1791651386.3770218,
-  "be2ea54e116aad82": 1791651386.3770218,
-  "9de50d1096b7c905": 1791651386.3770218,
-  "f1ba12815b8f63d6": 1791651386.3770218,
-  "498abf607a6d4ec8": 1791651386.3770218,
-  "4e69fb3e908c8576": 1791651386.3770218,
-  "6804cfdf0f954139": 1791651386.3770218,
-  "9779bbcc65e37945": 1791651386.3770218,
-  "b5c7ada089f5a7ba": 1791651386.3770218,
   "aaddf2a17d7e8da3": 1791652411.5563765,
   "dbe548537f189bae": 1791652411.5563765,
   "8d27ec724901005a": 1791652411.5563765,
@@ -236,18 +224,10 @@
   "a124ab766a1729da": 1791908128.204612,
   "4fd82c40ee4b48c7": 1791909929.3750088,
   "fefabbabadf39933": 1791909929.3750088,
-  "6c33cec379da703c": 1791909929.3750088
+  "6c33cec379da703c": 1791909929.3750088,
+  "6ea0e6c40ac457e6": 1791910854.2511272
  },
  "queue": [
-  {
-   "id": "1ec4887f596c4e3b",
-   "cfg": "vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#🔵@chillguy_vpn",
-   "ping": 1058,
-   "best": 720,
-   "score": 86,
-   "stability": 100,
-   "ts": 1791901215.3571599
-  },
   {
    "id": "cb5ff5edc0b62548",
    "cfg": "vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMzUwNDMiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=",
@@ -1697,6 +1677,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "1ec4887f596c4e3b": {
+   "cfg": "vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1698,
+   "ts": 1791910866.1130855,
+   "ping": 2559,
+   "score": 67,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2135,13 +2125,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791909948.5577207
+  },
+  "tg1.cdnphotos.org": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791910865.4050255
   }
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 59,
+  "fetched": 60,
   "healthy": 35,
-  "posted": 16,
+  "posted": 17,
   "removed": 0,
   "published_scores": [
    99,
@@ -2159,7 +2154,8 @@
    74,
    56,
    93,
-   92
+   92,
+   67
   ]
  }
 }
