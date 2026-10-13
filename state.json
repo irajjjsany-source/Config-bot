@@ -268,15 +268,6 @@
  },
  "queue": [
   {
-   "id": "de94d8b314123eed",
-   "cfg": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@fert6.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#🔵@chillguy_vpn",
-   "ping": 1048,
-   "best": 994,
-   "score": 86,
-   "stability": 100,
-   "ts": 1791913531.7213023
-  },
-  {
    "id": "c33cc47820fe7020",
    "cfg": "vless://f4c2dd69-124f-4134-bcf3-8b56e96b2bd3@firstitaly.iranfreemarz.com:7005?security=reality&encryption=none&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com#🔵@chillguy_vpn",
    "ping": 1076,
@@ -1990,6 +1981,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "de94d8b314123eed": {
+   "cfg": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@fert6.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1729,
+   "ts": 1791928854.93245,
+   "ping": 1064,
+   "score": 86,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2543,13 +2544,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791928544.0378885
+  },
+  "fert6.localip.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791928854.0011652
   }
  },
  "stats": {
   "date": "2026-10-13",
   "fetched": 115,
   "healthy": 77,
-  "posted": 47,
+  "posted": 48,
   "removed": 0,
   "published_scores": [
    99,
@@ -2598,7 +2604,8 @@
    98,
    86,
    90,
-   94
+   94,
+   86
   ]
  }
 }
