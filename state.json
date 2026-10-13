@@ -1,12 +1,5 @@
 {
  "seen": {
-  "acb1e513ad823446": 1791644128.6230435,
-  "166b5040a2105a9b": 1791644128.6230435,
-  "a2c4c96c4928f83d": 1791644128.6230435,
-  "427ceb3693be72e1": 1791644128.6230435,
-  "a5cc0a0bf0ded8b2": 1791644128.6230435,
-  "5919686bd66a279b": 1791644128.6230435,
-  "36e9db6128537e92": 1791644128.6230435,
   "9b935115cff82532": 1791645154.7676814,
   "b0617681e0780e71": 1791645154.7676814,
   "5fa14e292f94dda1": 1791645154.7676814,
@@ -246,18 +239,10 @@
   "cb1a1cc3cef499b2": 1791902749.1841283,
   "261138dbd03ec146": 1791902927.4886684,
   "0d3612c10acd1995": 1791902927.4886684,
-  "a87ed85ac7ce9893": 1791902927.4886684
+  "a87ed85ac7ce9893": 1791902927.4886684,
+  "64f1b280716a78ff": 1791903649.1274962
  },
  "queue": [
-  {
-   "id": "fd86cdff1d0438c7",
-   "cfg": "vless://c3db7657-88ce-42a6-b998-1e0364b277ac@95.181.173.68:9443?security=reality&encryption=none&pbk=ELJzJkc4SiCeCn6OF-8V9oeoJqXcD1y9WUntP3It53g&headerType=&type=tcp&flow=xtls-rprx-vision&sni=usa.edgeses.org&sid=649ab61e575fdbc9#🔵@chillguy_vpn",
-   "ping": 204,
-   "best": 198,
-   "score": 97,
-   "stability": 100,
-   "ts": 1791901215.3571599
-  },
   {
    "id": "a4ab011e0aaa90b8",
    "cfg": "vless://c3db7657-88ce-42a6-b998-1e0364b277ac@95.181.173.68:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=usa.edgeses.org&pbk=ELJzJkc4SiCeCn6OF-8V9oeoJqXcD1y9WUntP3It53g&sid=649ab61e575fdbc9&type=tcp&headerType=none#🔵@chillguy_vpn",
@@ -1649,6 +1634,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "fd86cdff1d0438c7": {
+   "cfg": "vless://c3db7657-88ce-42a6-b998-1e0364b277ac@95.181.173.68:9443?security=reality&encryption=none&pbk=ELJzJkc4SiCeCn6OF-8V9oeoJqXcD1y9WUntP3It53g&headerType=&type=tcp&flow=xtls-rprx-vision&sni=usa.edgeses.org&sid=649ab61e575fdbc9#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1685,
+   "ts": 1791903660.3498049,
+   "ping": 150,
+   "score": 98,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2047,17 +2042,23 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791902946.1407933
+  },
+  "95.181.173.68": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1791903659.8145478
   }
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 51,
+  "fetched": 52,
   "healthy": 28,
-  "posted": 3,
+  "posted": 4,
   "removed": 0,
   "published_scores": [
    99,
    99,
+   98,
    98
   ]
  }
