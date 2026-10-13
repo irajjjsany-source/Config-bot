@@ -233,9 +233,21 @@
   "af00872c7a96f55d": 1791905831.3438766,
   "967665f5e41b321e": 1791906330.5608225,
   "4e7047b089569690": 1791907181.3991961,
-  "a124ab766a1729da": 1791908128.204612
+  "a124ab766a1729da": 1791908128.204612,
+  "4fd82c40ee4b48c7": 1791909929.3750088,
+  "fefabbabadf39933": 1791909929.3750088,
+  "6c33cec379da703c": 1791909929.3750088
  },
  "queue": [
+  {
+   "id": "fefabbabadf39933",
+   "cfg": "vless://26842225-7354-4014-b955-d202c62ae936@ge.zanzelo.ir:2196?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo&fp=chrome&type=xhttp&sni=race.egistration.ir&sid=31c73fbd73dacd59#🔵@chillguy_vpn",
+   "ping": 579,
+   "best": 561,
+   "score": 92,
+   "stability": 100,
+   "ts": 1791909929.3750088
+  },
   {
    "id": "1ec4887f596c4e3b",
    "cfg": "vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#🔵@chillguy_vpn",
@@ -325,6 +337,15 @@
    "score": 63,
    "stability": 100,
    "ts": 1791901215.3571599
+  },
+  {
+   "id": "6c33cec379da703c",
+   "cfg": "vless://225b16ba-e227-4901-9380-8def61c91a36@pu5.zibaroyanjahan.ir:30047?security=reality&encryption=none&pbk=gUx-2C6qE6a2H_dj6D0ngomY0x3PWtTdithGG1TEO1Q&headerType=none&fp=chrome&spx=%2FILjGVCfx2B8HyZB&type=tcp&sni=www.speedtest.net&sid=6582eb66#🔵@chillguy_vpn",
+   "ping": 3010,
+   "best": 1624,
+   "score": 61,
+   "stability": 100,
+   "ts": 1791909929.3750088
   },
   {
    "id": "1ebd1eb4db53c853",
@@ -1665,6 +1686,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "4fd82c40ee4b48c7": {
+   "cfg": "vless://26842225-7354-4014-b955-d202c62ae936@ge.zanzelo.ir:2196?sid=31c73fbd73dacd59&security=reality&fp=chrome&path=%2F&sni=race.egistration.ir&encryption=none&type=xhttp&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1696,
+   "ts": 1791909949.6832223,
+   "ping": 530,
+   "score": 93,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2098,13 +2129,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791909082.568941
+  },
+  "ge.zanzelo.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791909948.5577207
   }
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 56,
-  "healthy": 32,
-  "posted": 14,
+  "fetched": 59,
+  "healthy": 35,
+  "posted": 15,
   "removed": 0,
   "published_scores": [
    99,
@@ -2120,7 +2156,8 @@
    92,
    91,
    74,
-   56
+   56,
+   93
   ]
  }
 }
