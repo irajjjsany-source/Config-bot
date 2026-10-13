@@ -241,15 +241,6 @@
  },
  "queue": [
   {
-   "id": "a87ed85ac7ce9893",
-   "cfg": "vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=brointelengence.com&sid=1c3e8241a8743df9#🔵@chillguy_vpn",
-   "ping": 371,
-   "best": 360,
-   "score": 95,
-   "stability": 100,
-   "ts": 1791902927.4886684
-  },
-  {
    "id": "94e1e9e2976d0512",
    "cfg": "vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=brointelengence.com&sid=1c3e8241a8743df9#🔵@chillguy_vpn",
    "ping": 468,
@@ -1643,6 +1634,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "a87ed85ac7ce9893": {
+   "cfg": "vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=brointelengence.com&sid=1c3e8241a8743df9#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1688,
+   "ts": 1791905445.2121854,
+   "ping": 494,
+   "score": 94,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2046,13 +2047,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791903659.8145478
+  },
+  "152.233.71.81": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1791905444.5612638
   }
  },
  "stats": {
   "date": "2026-10-13",
   "fetched": 52,
   "healthy": 28,
-  "posted": 6,
+  "posted": 7,
   "removed": 0,
   "published_scores": [
    99,
@@ -2060,7 +2066,8 @@
    98,
    98,
    98,
-   95
+   95,
+   94
   ]
  }
 }
