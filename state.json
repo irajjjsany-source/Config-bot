@@ -230,7 +230,8 @@
   "75f382492a33570b": 1791916241.3890092,
   "eaa00bb164f3f3c9": 1791916241.3890092,
   "8e638e251763a79a": 1791916241.3890092,
-  "6d346d7d9a0f8e04": 1791916241.3890092
+  "6d346d7d9a0f8e04": 1791916241.3890092,
+  "a7af2c45a4a492c1": 1791917129.1793835
  },
  "queue": [
   {
@@ -1783,6 +1784,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "a7af2c45a4a492c1": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:57541?security=reality&encryption=none&pbk=hAtfAzXQrbxyqiK3b2XrsxZ35sWiN8iqp0LvjKr9_DE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=22b19630280c3f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1709,
+   "ts": 1791917135.1011124,
+   "ping": 575,
+   "score": 93,
+   "stability": 100,
+   "country": "Singapore",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2280,9 +2291,9 @@
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 81,
-  "healthy": 50,
-  "posted": 27,
+  "fetched": 82,
+  "healthy": 51,
+  "posted": 28,
   "removed": 0,
   "published_scores": [
    99,
@@ -2311,7 +2322,8 @@
    95,
    96,
    81,
-   91
+   91,
+   93
   ]
  }
 }
