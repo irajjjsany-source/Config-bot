@@ -263,33 +263,6 @@
  },
  "queue": [
   {
-   "id": "f87e2e8903a9675f",
-   "cfg": "vless://ec572cf0-1337-4c51-b4ec-ff2f538c1f4c@82.197.73.139:26226?mode=gun&security=reality&encryption=none&pbk=zsSr4H-YgykAOYdIYFaAnFQtIguRhP825FodeKSoxjA&fp=firefox&type=grpc&serviceName=69effd3120f4&sni=www.dn.se&sid=2ddf3f1151012c98#🔵@chillguy_vpn",
-   "ping": 572,
-   "best": 539,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791924326.8322594
-  },
-  {
-   "id": "0b55237671ec7c71",
-   "cfg": "vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@153.56.210.61:443?security=reality&encryption=none&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=a696de84963656de#🔵@chillguy_vpn",
-   "ping": 655,
-   "best": 577,
-   "score": 91,
-   "stability": 100,
-   "ts": 1791924326.8322594
-  },
-  {
-   "id": "1ca614d3cd177163",
-   "cfg": "vless://e5904abe-3fc4-4470-bba0-f790a1fb614d@7f3fba1b78a422ff.tunvi.w-ert.org:444?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
-   "ping": 1013,
-   "best": 988,
-   "score": 87,
-   "stability": 100,
-   "ts": 1791924326.8322594
-  },
-  {
    "id": "0b92cb6b33464191",
    "cfg": "vless://ae8aa74e-e344-45e6-a87a-04b8b9349a5d@176.108.242.15:1505?mode=gun&security=reality&encryption=none&pbk=5nRL3eh_pQWHdej0It-V9mOapVLSi4PgkgjG9iqhpSw&fp=qq&spx=%2F&type=grpc&serviceName=grpc&sni=iv.kommersant.ru&sid=a5bd715862513387#🔵@chillguy_vpn",
    "ping": 1013,
@@ -1979,6 +1952,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "1ca614d3cd177163": {
+   "cfg": "vless://e5904abe-3fc4-4470-bba0-f790a1fb614d@7f3fba1b78a422ff.tunvi.w-ert.org:444?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca4134a0ed2592b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1723,
+   "ts": 1791925288.7208974,
+   "ping": 1630,
+   "score": 79,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2507,13 +2490,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791925152.444948
+  },
+  "7f3fba1b78a422ff.tunvi.w-ert.org": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1791925288.0181215
   }
  },
  "stats": {
   "date": "2026-10-13",
   "fetched": 110,
   "healthy": 72,
-  "posted": 41,
+  "posted": 42,
   "removed": 0,
   "published_scores": [
    99,
@@ -2556,7 +2544,8 @@
    99,
    77,
    97,
-   93
+   93,
+   79
   ]
  }
 }
