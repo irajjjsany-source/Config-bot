@@ -262,9 +262,20 @@
   "67f81166cf0329c1": 1791924326.8322594,
   "421c08a390450ea4": 1791926127.3025296,
   "4194ec428738188a": 1791926127.3025296,
-  "964b49962abeb502": 1791926127.3025296
+  "964b49962abeb502": 1791926127.3025296,
+  "ec052a2837808daf": 1791927928.063031,
+  "8a1cd98d7ce1e78d": 1791927928.063031
  },
  "queue": [
+  {
+   "id": "ec052a2837808daf",
+   "cfg": "vless://eacd1f67-5f70-425a-a424-8c95e12a92c1@fastly.vexogf.ir:9443?security=reality&encryption=none&pbk=YO2IIMfb_rukoknmG-91KRGGNb7BE1aBcr_-XKQkVXY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=f0c56d4f73d757f0#🔵@chillguy_vpn",
+   "ping": 796,
+   "best": 644,
+   "score": 90,
+   "stability": 100,
+   "ts": 1791927928.063031
+  },
   {
    "id": "de94d8b314123eed",
    "cfg": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@fert6.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#🔵@chillguy_vpn",
@@ -381,15 +392,6 @@
    "score": 52,
    "stability": 100,
    "ts": 1791919429.4822109
-  },
-  {
-   "id": "af00872c7a96f55d",
-   "cfg": "vless://6db77f35-c161-42dc-9547-17d34dc2a5b3@dns4.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#🔵@chillguy_vpn",
-   "ping": 3877,
-   "best": 446,
-   "score": 50,
-   "stability": 100,
-   "ts": 1791905831.3438766
   }
  ],
  "posted": {
@@ -1986,6 +1988,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "8a1cd98d7ce1e78d": {
+   "cfg": "vless://eacd1f67-5f70-425a-a424-8c95e12a92c1@de2.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1727,
+   "ts": 1791927938.5641856,
+   "ping": 793,
+   "score": 90,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2529,13 +2541,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1791927045.5689094
+  },
+  "de2.bexait.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791927937.5803242
   }
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 113,
-  "healthy": 75,
-  "posted": 45,
+  "fetched": 115,
+  "healthy": 77,
+  "posted": 46,
   "removed": 0,
   "published_scores": [
    99,
@@ -2582,7 +2599,8 @@
    79,
    100,
    98,
-   86
+   86,
+   90
   ]
  }
 }
