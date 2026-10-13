@@ -246,7 +246,8 @@
   "bb5cca205f7cc271": 1791919839.5261538,
   "60f8fc334633e4f5": 1791919839.5261538,
   "c58a47b99ab893c7": 1791919839.5261538,
-  "a3484b5cc194c32a": 1791920728.271762
+  "a3484b5cc194c32a": 1791920728.271762,
+  "feef2aea8f027386": 1791921647.1497724
  },
  "queue": [
   {
@@ -1897,6 +1898,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "feef2aea8f027386": {
+   "cfg": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@184.107.88.177:8080?path=%2F&security=none&encryption=none&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1717,
+   "ts": 1791921651.3184295,
+   "ping": 261,
+   "score": 97,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2405,13 +2416,18 @@
    "cc": "ES",
    "name": "Spain",
    "ts": 1791919458.837579
+  },
+  "184.107.88.177": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1791921650.6013885
   }
  },
  "stats": {
   "date": "2026-10-13",
-  "fetched": 97,
-  "healthy": 60,
-  "posted": 35,
+  "fetched": 98,
+  "healthy": 61,
+  "posted": 36,
   "removed": 0,
   "published_scores": [
    99,
@@ -2448,7 +2464,8 @@
    96,
    99,
    99,
-   84
+   84,
+   97
   ]
  }
 }
