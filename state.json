@@ -238,18 +238,10 @@
   "0ad2c6c3e1660b85": 1791994528.0310552,
   "75587cd453055c51": 1791994528.0310552,
   "14f1a6bc65f82fe0": 1791994528.0310552,
-  "1454b5cd809f0209": 1791994528.0310552
+  "1454b5cd809f0209": 1791994528.0310552,
+  "404c3a8c6514bd35": 1791995811.474546
  },
  "queue": [
-  {
-   "id": "75587cd453055c51",
-   "cfg": "vless://938bee33-7319-4c39-99bf-1128fab04c7d@g--p.soreanapanel.com:25566?security=&encryption=mlkem768x25519plus.native.0rtt.T-gHfXonmN4GiwBIHvADVc8uAEQyff099ST33D7IzA0&host=b--g.bntabriz.ir&headerType=http&type=tcp#🔵@chillguy_vpn",
-   "ping": 369,
-   "best": 357,
-   "score": 95,
-   "stability": 100,
-   "ts": 1791994528.0310552
-  },
   {
    "id": "a55653548ed04a01",
    "cfg": "vmess://eyJhZGQiOiAiMTg4LjEyMS4xMjAuODYiLCAiaWQiOiAiN2EyNTYxNjMtMTBhNC00NDJhLTkwNTMtOWExNDcwMmI4MmNmIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDExMzU4LCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
@@ -330,6 +322,15 @@
    "score": 92,
    "stability": 100,
    "ts": 1791987326.907704
+  },
+  {
+   "id": "404c3a8c6514bd35",
+   "cfg": "vless://a44f3be0-2b1b-4a27-b158-9f1161d7cef8@46.8.228.66:53978?encryption=none&fp=chrome&pbk=lr4OVOvWiE9RSa_JgFvrXcuhFxl84V18qbrLkVLaQRQ&security=reality&sid=2d12711e0d&sni=play.google.com&spx=%2F3f2b54482138809&support-x25519mlkem768=true&type=tcp#🔵@chillguy_vpn",
+   "ping": 625,
+   "best": 619,
+   "score": 92,
+   "stability": 100,
+   "ts": 1791995811.474546
   },
   {
    "id": "49ee23752b5d69cf",
@@ -2418,6 +2419,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "75587cd453055c51": {
+   "cfg": "vless://938bee33-7319-4c39-99bf-1128fab04c7d@g--p.soreanapanel.com:25566?security=&encryption=mlkem768x25519plus.native.0rtt.T-gHfXonmN4GiwBIHvADVc8uAEQyff099ST33D7IzA0&host=b--g.bntabriz.ir&headerType=http&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1765,
+   "ts": 1791995820.2394288,
+   "ping": 522,
+   "score": 93,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3041,13 +3052,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1791993654.536461
+  },
+  "g--p.soreanapanel.com": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791995819.3487153
   }
  },
  "stats": {
   "date": "2026-10-14",
-  "fetched": 119,
-  "healthy": 66,
-  "posted": 26,
+  "fetched": 120,
+  "healthy": 67,
+  "posted": 27,
   "removed": 0,
   "published_scores": [
    98,
@@ -3075,7 +3091,8 @@
    95,
    85,
    97,
-   94
+   94,
+   93
   ]
  }
 }
