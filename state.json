@@ -278,15 +278,6 @@
  },
  "queue": [
   {
-   "id": "49ee23752b5d69cf",
-   "cfg": "vmess://eyJhZGQiOiAiNTQuMzcuMTMxLjEyNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCAiaWQiOiAiNmRlZWY5YWQtMTM1Ny00NDNkLWY5NWMtY2IxODk1MmMyMGIzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9",
-   "ping": 630,
-   "best": 549,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791986448.071716
-  },
-  {
    "id": "2884ba73a1b1b1bc",
    "cfg": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&headerType=none&host=95.174.68.188&path=%2Fvless#🔵@chillguy_vpn",
    "ping": 709,
@@ -2554,6 +2545,16 @@
    "stability": 100,
    "country": "Lithuania",
    "repost_count": 0
+  },
+  "49ee23752b5d69cf": {
+   "cfg": "vmess://eyJhZGQiOiAiNTQuMzcuMTMxLjEyNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCAiaWQiOiAiNmRlZWY5YWQtMTM1Ny00NDNkLWY5NWMtY2IxODk1MmMyMGIzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==",
+   "msg": 1775,
+   "ts": 1792002648.634215,
+   "ping": 841,
+   "score": 89,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3212,13 +3213,18 @@
    "cc": "LT",
    "name": "Lithuania",
    "ts": 1792001739.884286
+  },
+  "54.37.131.126": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1792002648.0029337
   }
  },
  "stats": {
   "date": "2026-10-14",
   "fetched": 155,
   "healthy": 82,
-  "posted": 36,
+  "posted": 37,
   "removed": 0,
   "published_scores": [
    98,
@@ -3256,7 +3262,8 @@
    90,
    95,
    91,
-   93
+   93,
+   89
   ]
  }
 }
