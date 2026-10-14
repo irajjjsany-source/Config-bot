@@ -272,7 +272,9 @@
   "93fb3c4272c01b88": 1792000381.1730022,
   "cba999b581497095": 1792000381.1730022,
   "a186180e29122093": 1792000847.1404905,
-  "8757df4da799f01b": 1792000847.1404905
+  "8757df4da799f01b": 1792000847.1404905,
+  "e6e53c53c55f6685": 1792001729.1203027,
+  "ea1100b4a1296720": 1792001729.1203027
  },
  "queue": [
   {
@@ -328,6 +330,15 @@
    "score": 88,
    "stability": 100,
    "ts": 1791986448.071716
+  },
+  {
+   "id": "e6e53c53c55f6685",
+   "cfg": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@stop.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=stop.localip.ir&type=ws&allowInsecure=0&sni=stop.localip.ir#🔵@chillguy_vpn",
+   "ping": 926,
+   "best": 831,
+   "score": 88,
+   "stability": 100,
+   "ts": 1792001729.1203027
   },
   {
    "id": "a59877ace1f5974a",
@@ -2533,6 +2544,16 @@
    "stability": 100,
    "country": "Latvia",
    "repost_count": 0
+  },
+  "ea1100b4a1296720": {
+   "cfg": "vless://9bbf927b-f950-4c67-ac8a-c6ff779ce8a2@images.paner-145.online:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=images.paner-145.online#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1774,
+   "ts": 1792001740.7366154,
+   "ping": 559,
+   "score": 93,
+   "stability": 100,
+   "country": "Lithuania",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3186,13 +3207,18 @@
    "cc": "LV",
    "name": "Latvia",
    "ts": 1792000856.2154398
+  },
+  "images.paner-145.online": {
+   "cc": "LT",
+   "name": "Lithuania",
+   "ts": 1792001739.884286
   }
  },
  "stats": {
   "date": "2026-10-14",
-  "fetched": 153,
-  "healthy": 80,
-  "posted": 35,
+  "fetched": 155,
+  "healthy": 82,
+  "posted": 36,
   "removed": 0,
   "published_scores": [
    98,
@@ -3229,7 +3255,8 @@
    59,
    90,
    95,
-   91
+   91,
+   93
   ]
  }
 }
