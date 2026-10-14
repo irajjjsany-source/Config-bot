@@ -241,15 +241,6 @@
  },
  "queue": [
   {
-   "id": "c6587381d7b27270",
-   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@nl2.balancer.vbuste-bot.com:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl2.balancer.vbuste-bot.com&sid=4be4110078ebed4a#🔵@chillguy_vpn",
-   "ping": 1135,
-   "best": 541,
-   "score": 85,
-   "stability": 100,
-   "ts": 1791963928.473082
-  },
-  {
    "id": "b1610428cb85ecfb",
    "cfg": "vless://93cd1f94-3c76-4b6e-a217-716df028f8e7@4b5fcf33f769fa42.tunde.w-ert.org:450?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
    "ping": 1254,
@@ -2088,6 +2079,16 @@
    "stability": 100,
    "country": "Czechia",
    "repost_count": 0
+  },
+  "c6587381d7b27270": {
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@nl2.balancer.vbuste-bot.com:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl2.balancer.vbuste-bot.com&sid=4be4110078ebed4a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1749,
+   "ts": 1791971142.467425,
+   "ping": 2878,
+   "score": 63,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2697,7 +2698,7 @@
   "date": "2026-10-14",
   "fetched": 55,
   "healthy": 25,
-  "posted": 12,
+  "posted": 13,
   "removed": 0,
   "published_scores": [
    98,
@@ -2711,6 +2712,7 @@
    90,
    57,
    87,
+   63,
    63
   ]
  }
