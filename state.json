@@ -229,15 +229,6 @@
  },
  "queue": [
   {
-   "id": "b4e60c89ff35d9d6",
-   "cfg": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?path=%2Ffdip&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#🔵@chillguy_vpn",
-   "ping": 202,
-   "best": 69,
-   "score": 97,
-   "stability": 100,
-   "ts": 1791986448.071716
-  },
-  {
    "id": "f528329495affdae",
    "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🔵@chillguy_vpn",
    "ping": 230,
@@ -380,15 +371,6 @@
    "score": 77,
    "stability": 100,
    "ts": 1791987326.907704
-  },
-  {
-   "id": "e8822771061c5613",
-   "cfg": "vless://cdb26740-5270-46bd-a5f8-60b9fd1624c5@9e29.velqixa.ir:39231?security=reality&encryption=none&pbk=tCLL7A2DsZwfm0yhDw9mqIDCP3ssVHqaYaiS10v2smw&headerType=none&fp=chrome&type=tcp&sni=www3.velqixa.ir&sid=6c4efc99da79ff3d#🔵@chillguy_vpn",
-   "ping": 1983,
-   "best": 1370,
-   "score": 74,
-   "stability": 100,
-   "ts": 1791967528.261575
   },
   {
    "id": "2493f39c5bfbeae8",
@@ -2316,6 +2298,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "b4e60c89ff35d9d6": {
+   "cfg": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?path=%2Ffdip&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1756,
+   "ts": 1791990082.667058,
+   "ping": 174,
+   "score": 98,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2925,7 +2917,7 @@
   "date": "2026-10-14",
   "fetched": 106,
   "healthy": 56,
-  "posted": 18,
+  "posted": 19,
   "removed": 0,
   "published_scores": [
    98,
@@ -2945,7 +2937,8 @@
    97,
    97,
    97,
-   96
+   96,
+   98
   ]
  }
 }
