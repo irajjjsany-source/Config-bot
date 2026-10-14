@@ -278,15 +278,6 @@
  },
  "queue": [
   {
-   "id": "e6e53c53c55f6685",
-   "cfg": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@stop.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=stop.localip.ir&type=ws&allowInsecure=0&sni=stop.localip.ir#🔵@chillguy_vpn",
-   "ping": 926,
-   "best": 831,
-   "score": 88,
-   "stability": 100,
-   "ts": 1792001729.1203027
-  },
-  {
    "id": "a59877ace1f5974a",
    "cfg": "vless://c3db7657-88ce-42a6-b998-1e0364b277ac@87.242.127.176:4510?security=reality&encryption=none&pbk=hkvjyE8WMKHvdGfMta7PAIGz6HAv2WiXvWvAQmsE_DM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=9c99da.usecache.net&sid=2d0c188798bae174#🔵@chillguy_vpn",
    "ping": 996,
@@ -2550,6 +2541,16 @@
    "stability": 100,
    "country": "Hong Kong",
    "repost_count": 0
+  },
+  "e6e53c53c55f6685": {
+   "cfg": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@stop.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=stop.localip.ir&type=ws&allowInsecure=0&sni=stop.localip.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1780,
+   "ts": 1792005516.9158742,
+   "ping": 1010,
+   "score": 87,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3228,13 +3229,18 @@
    "cc": "HK",
    "name": "Hong Kong",
    "ts": 1792005331.4364736
+  },
+  "stop.localip.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1792005516.0113268
   }
  },
  "stats": {
   "date": "2026-10-14",
   "fetched": 155,
   "healthy": 82,
-  "posted": 41,
+  "posted": 42,
   "removed": 0,
   "published_scores": [
    98,
@@ -3277,7 +3283,8 @@
    86,
    86,
    91,
-   89
+   89,
+   87
   ]
  }
 }
