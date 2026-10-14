@@ -236,18 +236,11 @@
   "0895b798f658e7ce": 1791964846.409509,
   "a462439862b46550": 1791964846.409509,
   "e54c5f709dee700c": 1791966639.0235975,
-  "194fa8a03e893ff3": 1791966639.0235975
+  "194fa8a03e893ff3": 1791966639.0235975,
+  "53bfdc9b6479d8b0": 1791967276.498484,
+  "cf23308757622d05": 1791967276.498484
  },
  "queue": [
-  {
-   "id": "0895b798f658e7ce",
-   "cfg": "vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@94.249.180.86:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=amd.com&security=reality&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#🔵@chillguy_vpn",
-   "ping": 538,
-   "best": 531,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791964846.409509
-  },
   {
    "id": "8969b4d42d05583a",
    "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#🔵@chillguy_vpn",
@@ -2098,6 +2091,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "0895b798f658e7ce": {
+   "cfg": "vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@94.249.180.86:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=amd.com&security=reality&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1742,
+   "ts": 1791967289.3803034,
+   "ping": 539,
+   "score": 93,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2681,20 +2684,26 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1791965729.9997182
+  },
+  "94.249.180.86": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1791967288.7095466
   }
  },
  "stats": {
   "date": "2026-10-14",
-  "fetched": 40,
+  "fetched": 42,
   "healthy": 21,
-  "posted": 5,
+  "posted": 6,
   "removed": 0,
   "published_scores": [
    98,
    93,
    92,
    94,
-   94
+   94,
+   93
   ]
  }
 }
