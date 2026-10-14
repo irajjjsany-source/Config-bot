@@ -270,18 +270,11 @@
   "e1100f59cf5ae3ae": 1792000381.1730022,
   "7a6e5ef05fbfc97b": 1792000381.1730022,
   "93fb3c4272c01b88": 1792000381.1730022,
-  "cba999b581497095": 1792000381.1730022
+  "cba999b581497095": 1792000381.1730022,
+  "a186180e29122093": 1792000847.1404905,
+  "8757df4da799f01b": 1792000847.1404905
  },
  "queue": [
-  {
-   "id": "404c3a8c6514bd35",
-   "cfg": "vless://a44f3be0-2b1b-4a27-b158-9f1161d7cef8@46.8.228.66:53978?encryption=none&fp=chrome&pbk=lr4OVOvWiE9RSa_JgFvrXcuhFxl84V18qbrLkVLaQRQ&security=reality&sid=2d12711e0d&sni=play.google.com&spx=%2F3f2b54482138809&support-x25519mlkem768=true&type=tcp#🔵@chillguy_vpn",
-   "ping": 625,
-   "best": 619,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791995811.474546
-  },
   {
    "id": "49ee23752b5d69cf",
    "cfg": "vmess://eyJhZGQiOiAiNTQuMzcuMTMxLjEyNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCAiaWQiOiAiNmRlZWY5YWQtMTM1Ny00NDNkLWY5NWMtY2IxODk1MmMyMGIzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9",
@@ -308,6 +301,15 @@
    "score": 90,
    "stability": 100,
    "ts": 1791986448.071716
+  },
+  {
+   "id": "8757df4da799f01b",
+   "cfg": "vless://9bbf927b-f950-4c67-ac8a-c6ff779ce8a2@gallery.paner-145.online:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=gallery.paner-145.online#🔵@chillguy_vpn",
+   "ping": 781,
+   "best": 670,
+   "score": 90,
+   "stability": 100,
+   "ts": 1792000847.1404905
   },
   {
    "id": "6172d20a4aabdcff",
@@ -2521,6 +2523,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "404c3a8c6514bd35": {
+   "cfg": "vless://a44f3be0-2b1b-4a27-b158-9f1161d7cef8@46.8.228.66:53978?encryption=none&fp=chrome&pbk=lr4OVOvWiE9RSa_JgFvrXcuhFxl84V18qbrLkVLaQRQ&security=reality&sid=2d12711e0d&sni=play.google.com&spx=%2F3f2b54482138809&support-x25519mlkem768=true&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1773,
+   "ts": 1792000857.010925,
+   "ping": 661,
+   "score": 91,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3169,13 +3181,18 @@
    "cc": "NL",
    "name": "Netherlands",
    "ts": 1791999938.1782677
+  },
+  "46.8.228.66": {
+   "cc": "LV",
+   "name": "Latvia",
+   "ts": 1792000856.2154398
   }
  },
  "stats": {
   "date": "2026-10-14",
-  "fetched": 151,
-  "healthy": 79,
-  "posted": 34,
+  "fetched": 153,
+  "healthy": 80,
+  "posted": 35,
   "removed": 0,
   "published_scores": [
    98,
@@ -3211,7 +3228,8 @@
    94,
    59,
    90,
-   95
+   95,
+   91
   ]
  }
 }
