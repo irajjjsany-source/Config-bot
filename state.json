@@ -1,7 +1,5 @@
 {
  "seen": {
-  "6a7e2dd035dc8618": 1791708100.0180724,
-  "96c941a109ddc82d": 1791708100.0180724,
   "bec8d7a76d2d9404": 1791708854.1017992,
   "b51866400b2b963f": 1791708854.1017992,
   "243e69b7a819b969": 1791708854.1017992,
@@ -238,7 +236,9 @@
   "e54c5f709dee700c": 1791966639.0235975,
   "194fa8a03e893ff3": 1791966639.0235975,
   "53bfdc9b6479d8b0": 1791967276.498484,
-  "cf23308757622d05": 1791967276.498484
+  "cf23308757622d05": 1791967276.498484,
+  "e8822771061c5613": 1791967528.261575,
+  "e3728ed48bc3caac": 1791967528.261575
  },
  "queue": [
   {
@@ -366,6 +366,15 @@
    "score": 76,
    "stability": 100,
    "ts": 1791963928.473082
+  },
+  {
+   "id": "e8822771061c5613",
+   "cfg": "vless://cdb26740-5270-46bd-a5f8-60b9fd1624c5@9e29.velqixa.ir:39231?security=reality&encryption=none&pbk=tCLL7A2DsZwfm0yhDw9mqIDCP3ssVHqaYaiS10v2smw&headerType=none&fp=chrome&type=tcp&sni=www3.velqixa.ir&sid=6c4efc99da79ff3d#🔵@chillguy_vpn",
+   "ping": 1983,
+   "best": 1370,
+   "score": 74,
+   "stability": 100,
+   "ts": 1791967528.261575
   },
   {
    "id": "9bd5be22b07240ab",
@@ -2101,6 +2110,16 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "e3728ed48bc3caac": {
+   "cfg": "vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?security=&encryption=none&headerType=&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1743,
+   "ts": 1791967543.4286335,
+   "ping": 322,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2689,13 +2708,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1791967288.7095466
+  },
+  "2.28.232.213": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1791967542.6732254
   }
  },
  "stats": {
   "date": "2026-10-14",
-  "fetched": 42,
-  "healthy": 21,
-  "posted": 6,
+  "fetched": 44,
+  "healthy": 23,
+  "posted": 7,
   "removed": 0,
   "published_scores": [
    98,
@@ -2703,7 +2727,8 @@
    92,
    94,
    94,
-   93
+   93,
+   96
   ]
  }
 }
