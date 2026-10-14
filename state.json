@@ -225,15 +225,6 @@
  },
  "queue": [
   {
-   "id": "5c3203bb164c8edf",
-   "cfg": "vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 201,
-   "best": 200,
-   "score": 97,
-   "stability": 100,
-   "ts": 1791986448.071716
-  },
-  {
    "id": "0d6d3ad8d5409c93",
    "cfg": "vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
    "ping": 202,
@@ -2282,6 +2273,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "5c3203bb164c8edf": {
+   "cfg": "vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1753,
+   "ts": 1791988241.1923554,
+   "ping": 202,
+   "score": 97,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2891,7 +2892,7 @@
   "date": "2026-10-14",
   "fetched": 102,
   "healthy": 53,
-  "posted": 15,
+  "posted": 16,
   "removed": 0,
   "published_scores": [
    98,
@@ -2908,6 +2909,7 @@
    63,
    63,
    99,
+   97,
    97
   ]
  }
