@@ -230,7 +230,9 @@
   "92b9a80c35ccb4b0": 1791990900.1550312,
   "5a254f7897520596": 1791990900.1550312,
   "b0601816ec3da33e": 1791990900.1550312,
-  "f2f27b84ed9dd2d1": 1791990900.1550312
+  "f2f27b84ed9dd2d1": 1791990900.1550312,
+  "a55653548ed04a01": 1791992728.2399883,
+  "8f47e7d64a482589": 1791992728.2399883
  },
  "queue": [
   {
@@ -250,6 +252,15 @@
    "score": 94,
    "stability": 100,
    "ts": 1791987326.907704
+  },
+  {
+   "id": "a55653548ed04a01",
+   "cfg": "vmess://eyJhZGQiOiAiMTg4LjEyMS4xMjAuODYiLCAiaWQiOiAiN2EyNTYxNjMtMTBhNC00NDJhLTkwNTMtOWExNDcwMmI4MmNmIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDExMzU4LCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
+   "ping": 503,
+   "best": 501,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791992728.2399883
   },
   {
    "id": "d5e63e281c34e2b4",
@@ -2333,6 +2344,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "8f47e7d64a482589": {
+   "cfg": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1760,
+   "ts": 1791992735.8554232,
+   "ping": 349,
+   "score": 95,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2941,13 +2962,18 @@
    "cc": "FR",
    "name": "France",
    "ts": 1791991841.7368922
+  },
+  "205.237.110.254": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1791992735.2357628
   }
  },
  "stats": {
   "date": "2026-10-14",
-  "fetched": 111,
-  "healthy": 58,
-  "posted": 21,
+  "fetched": 113,
+  "healthy": 60,
+  "posted": 22,
   "removed": 0,
   "published_scores": [
    98,
@@ -2970,7 +2996,8 @@
    96,
    98,
    97,
-   94
+   94,
+   95
   ]
  }
 }
