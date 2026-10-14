@@ -239,36 +239,18 @@
   "75587cd453055c51": 1791994528.0310552,
   "14f1a6bc65f82fe0": 1791994528.0310552,
   "1454b5cd809f0209": 1791994528.0310552,
-  "404c3a8c6514bd35": 1791995811.474546
+  "404c3a8c6514bd35": 1791995811.474546,
+  "10ced823bd0dcb97": 1791996329.2729728,
+  "f7c1078325325554": 1791996329.2729728,
+  "01685691ffb7546e": 1791996329.2729728,
+  "f6077aa24c0d32f4": 1791996329.2729728,
+  "8fc4473e9bda4aaa": 1791996329.2729728,
+  "2f3f605c0fe27227": 1791996329.2729728,
+  "6695ba9e454b878a": 1791996329.2729728,
+  "2884ba73a1b1b1bc": 1791996329.2729728,
+  "8dc2504dae244d8a": 1791996329.2729728
  },
  "queue": [
-  {
-   "id": "a55653548ed04a01",
-   "cfg": "vmess://eyJhZGQiOiAiMTg4LjEyMS4xMjAuODYiLCAiaWQiOiAiN2EyNTYxNjMtMTBhNC00NDJhLTkwNTMtOWExNDcwMmI4MmNmIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDExMzU4LCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
-   "ping": 503,
-   "best": 501,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791992728.2399883
-  },
-  {
-   "id": "d5e63e281c34e2b4",
-   "cfg": "vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@185.242.245.152:443?security=reality&encryption=none&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=a696de84963656de#🔵@chillguy_vpn",
-   "ping": 513,
-   "best": 415,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791986448.071716
-  },
-  {
-   "id": "dac30d232d3168e6",
-   "cfg": "vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#🔵@chillguy_vpn",
-   "ping": 519,
-   "best": 516,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791986448.071716
-  },
   {
    "id": "217fa279d87b1a51",
    "cfg": "vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=co-de.speedtec.ru&sid=226509f017e4c36d#🔵@chillguy_vpn",
@@ -286,6 +268,15 @@
    "score": 93,
    "stability": 100,
    "ts": 1791994528.0310552
+  },
+  {
+   "id": "f7c1078325325554",
+   "cfg": "vless://f37f88ef-c57e-0268-9b16-659ff67530b7@2.56.126.43:10443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#🔵@chillguy_vpn",
+   "ping": 532,
+   "best": 518,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791996329.2729728
   },
   {
    "id": "2f9f26ba282fc4c6",
@@ -342,6 +333,15 @@
    "ts": 1791986448.071716
   },
   {
+   "id": "2884ba73a1b1b1bc",
+   "cfg": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&headerType=none&host=95.174.68.188&path=%2Fvless#🔵@chillguy_vpn",
+   "ping": 709,
+   "best": 696,
+   "score": 91,
+   "stability": 100,
+   "ts": 1791996329.2729728
+  },
+  {
    "id": "b7d857ed8c2e5029",
    "cfg": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@ops4asfseretuiyk.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ops4asfseretuiyk.localip.ir#🔵@chillguy_vpn",
    "ping": 740,
@@ -378,6 +378,33 @@
    "ts": 1791986448.071716
   },
   {
+   "id": "8dc2504dae244d8a",
+   "cfg": "vless://b4cc503a-c352-4775-85ad-fc982086884a@45.137.43.168:14430?sni=45.137.43.168&type=ws&headerType=none&host=45.137.43.168&path=%2Fvless#🔵@chillguy_vpn",
+   "ping": 1081,
+   "best": 1021,
+   "score": 86,
+   "stability": 100,
+   "ts": 1791996329.2729728
+  },
+  {
+   "id": "2f3f605c0fe27227",
+   "cfg": "vless://3a654d0b-a3ec-438b-9e14-942d15a6e27a@dns5.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#🔵@chillguy_vpn",
+   "ping": 1397,
+   "best": 756,
+   "score": 82,
+   "stability": 100,
+   "ts": 1791996329.2729728
+  },
+  {
+   "id": "10ced823bd0dcb97",
+   "cfg": "vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#🔵@chillguy_vpn",
+   "ping": 1596,
+   "best": 1324,
+   "score": 79,
+   "stability": 100,
+   "ts": 1791996329.2729728
+  },
+  {
    "id": "ef2e28a0fee56cc8",
    "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?security=reality&encryption=none&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=b76a6309#🔵@chillguy_vpn",
    "ping": 1739,
@@ -385,6 +412,15 @@
    "score": 77,
    "stability": 100,
    "ts": 1791987326.907704
+  },
+  {
+   "id": "8fc4473e9bda4aaa",
+   "cfg": "vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@193.233.217.20:57443?mode=gun&security=reality&encryption=none&pbk=SPX2Uhw5AAifbNUjZf2zwpfvDUlUw3C7waDNMO48lSE&fp=random&type=grpc&serviceName=grpc&sni=media.polina.lol#🔵@chillguy_vpn",
+   "ping": 1898,
+   "best": 1219,
+   "score": 75,
+   "stability": 100,
+   "ts": 1791996329.2729728
   },
   {
    "id": "2493f39c5bfbeae8",
@@ -466,6 +502,15 @@
    "score": 57,
    "stability": 100,
    "ts": 1791987326.907704
+  },
+  {
+   "id": "6695ba9e454b878a",
+   "cfg": "vless://3a654d0b-a3ec-438b-9e14-942d15a6e27a@dns4.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#🔵@chillguy_vpn",
+   "ping": 4539,
+   "best": 483,
+   "score": 41,
+   "stability": 100,
+   "ts": 1791996329.2729728
   },
   {
    "id": "1c8e4e7d3f139bc0",
@@ -2429,6 +2474,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "dac30d232d3168e6": {
+   "cfg": "vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1766,
+   "ts": 1791996422.2251081,
+   "ping": 2952,
+   "score": 62,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3061,9 +3116,9 @@
  },
  "stats": {
   "date": "2026-10-14",
-  "fetched": 120,
-  "healthy": 67,
-  "posted": 27,
+  "fetched": 129,
+  "healthy": 74,
+  "posted": 28,
   "removed": 0,
   "published_scores": [
    98,
@@ -3092,7 +3147,8 @@
    85,
    97,
    94,
-   93
+   93,
+   62
   ]
  }
 }
