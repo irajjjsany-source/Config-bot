@@ -278,15 +278,6 @@
  },
  "queue": [
   {
-   "id": "2884ba73a1b1b1bc",
-   "cfg": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&headerType=none&host=95.174.68.188&path=%2Fvless#🔵@chillguy_vpn",
-   "ping": 709,
-   "best": 696,
-   "score": 91,
-   "stability": 100,
-   "ts": 1791996329.2729728
-  },
-  {
    "id": "b7d857ed8c2e5029",
    "cfg": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@ops4asfseretuiyk.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ops4asfseretuiyk.localip.ir#🔵@chillguy_vpn",
    "ping": 740,
@@ -2555,6 +2546,16 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "2884ba73a1b1b1bc": {
+   "cfg": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&headerType=none&host=95.174.68.188&path=%2Fvless#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1776,
+   "ts": 1792002958.6064646,
+   "ping": 1055,
+   "score": 86,
+   "stability": 100,
+   "country": "United Arab Emirates",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3218,13 +3219,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1792002648.0029337
+  },
+  "95.174.68.188": {
+   "cc": "AE",
+   "name": "United Arab Emirates",
+   "ts": 1792002957.7216766
   }
  },
  "stats": {
   "date": "2026-10-14",
   "fetched": 155,
   "healthy": 82,
-  "posted": 37,
+  "posted": 38,
   "removed": 0,
   "published_scores": [
    98,
@@ -3263,7 +3269,8 @@
    95,
    91,
    93,
-   89
+   89,
+   86
   ]
  }
 }
