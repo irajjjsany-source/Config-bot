@@ -236,15 +236,6 @@
  },
  "queue": [
   {
-   "id": "27a78b07c593f484",
-   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@nl.srv.vbuste-bot.com:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=chrome&type=grpc&sni=nl.srv.vbuste-bot.com&sid=4be4110078ebed4a#🔵@chillguy_vpn",
-   "ping": 431,
-   "best": 402,
-   "score": 94,
-   "stability": 100,
-   "ts": 1791987326.907704
-  },
-  {
    "id": "a55653548ed04a01",
    "cfg": "vmess://eyJhZGQiOiAiMTg4LjEyMS4xMjAuODYiLCAiaWQiOiAiN2EyNTYxNjMtMTBhNC00NDJhLTkwNTMtOWExNDcwMmI4MmNmIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDExMzU4LCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
    "ping": 503,
@@ -2355,6 +2346,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "27a78b07c593f484": {
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@nl.srv.vbuste-bot.com:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=chrome&type=grpc&sni=nl.srv.vbuste-bot.com&sid=4be4110078ebed4a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1762,
+   "ts": 1791993655.3319738,
+   "ping": 1131,
+   "score": 85,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2973,13 +2974,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791993526.1630769
+  },
+  "nl.srv.vbuste-bot.com": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791993654.536461
   }
  },
  "stats": {
   "date": "2026-10-14",
   "fetched": 113,
   "healthy": 60,
-  "posted": 23,
+  "posted": 24,
   "removed": 0,
   "published_scores": [
    98,
@@ -3004,7 +3010,8 @@
    97,
    94,
    95,
-   95
+   95,
+   85
   ]
  }
 }
