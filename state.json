@@ -1,15 +1,5 @@
 {
  "seen": {
-  "bec8d7a76d2d9404": 1791708854.1017992,
-  "b51866400b2b963f": 1791708854.1017992,
-  "243e69b7a819b969": 1791708854.1017992,
-  "6e1cc03ed7e514c1": 1791708854.1017992,
-  "2242c963794b01e6": 1791708854.1017992,
-  "c6a65d0bf7e1192a": 1791708854.1017992,
-  "7c04abab504d4173": 1791708854.1017992,
-  "d08435b151731729": 1791708854.1017992,
-  "6a467b07feaed637": 1791708854.1017992,
-  "06edfccb8406526f": 1791708854.1017992,
   "ff0cb81c24da4052": 1791710719.2484255,
   "655a35b125e2a51e": 1791710719.2484255,
   "cf7f8d83ad23c0a3": 1791712401.7696948,
@@ -238,7 +228,13 @@
   "53bfdc9b6479d8b0": 1791967276.498484,
   "cf23308757622d05": 1791967276.498484,
   "e8822771061c5613": 1791967528.261575,
-  "e3728ed48bc3caac": 1791967528.261575
+  "e3728ed48bc3caac": 1791967528.261575,
+  "6b67da495932dda3": 1791968446.0856626,
+  "7d43db57eb0a0b1e": 1791968446.0856626,
+  "db8a0bbb51e10538": 1791968446.0856626,
+  "a21c5204754e5bfa": 1791968446.0856626,
+  "f7e987642dd6d0eb": 1791968446.0856626,
+  "f60383c39cdd6923": 1791968446.0856626
  },
  "queue": [
   {
@@ -267,6 +263,15 @@
    "score": 92,
    "stability": 100,
    "ts": 1791963928.473082
+  },
+  {
+   "id": "f7e987642dd6d0eb",
+   "cfg": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi.pythonsetupbib.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.pythonsetupbib.online&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=bdf5852d1423e694&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 596,
+   "best": 451,
+   "score": 92,
+   "stability": 100,
+   "ts": 1791968446.0856626
   },
   {
    "id": "11e2c2586b5a5635",
@@ -2120,6 +2125,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "7d43db57eb0a0b1e": {
+   "cfg": "vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?security=&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1744,
+   "ts": 1791968497.7089012,
+   "ping": 263,
+   "score": 97,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2717,9 +2732,9 @@
  },
  "stats": {
   "date": "2026-10-14",
-  "fetched": 44,
-  "healthy": 23,
-  "posted": 7,
+  "fetched": 50,
+  "healthy": 25,
+  "posted": 8,
   "removed": 0,
   "published_scores": [
    98,
@@ -2728,7 +2743,8 @@
    94,
    94,
    93,
-   96
+   96,
+   97
   ]
  }
 }
