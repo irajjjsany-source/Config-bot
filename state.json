@@ -278,24 +278,6 @@
  },
  "queue": [
   {
-   "id": "8757df4da799f01b",
-   "cfg": "vless://9bbf927b-f950-4c67-ac8a-c6ff779ce8a2@gallery.paner-145.online:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=gallery.paner-145.online#🔵@chillguy_vpn",
-   "ping": 781,
-   "best": 670,
-   "score": 90,
-   "stability": 100,
-   "ts": 1792000847.1404905
-  },
-  {
-   "id": "6172d20a4aabdcff",
-   "cfg": "vless://50410ae1-fd32-4553-8dcf-dc83e0aba20e@104.245.103.30:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=portal.citygrainla.com&sid=051f20c2344a2dfd#🔵@chillguy_vpn",
-   "ping": 788,
-   "best": 766,
-   "score": 90,
-   "stability": 100,
-   "ts": 1791989128.0826454
-  },
-  {
    "id": "9f934048159d5aff",
    "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#🔵@chillguy_vpn",
    "ping": 890,
@@ -2557,6 +2539,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "6172d20a4aabdcff": {
+   "cfg": "vless://50410ae1-fd32-4553-8dcf-dc83e0aba20e@104.245.103.30:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=portal.citygrainla.com&sid=051f20c2344a2dfd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1778,
+   "ts": 1792004478.1726217,
+   "ping": 697,
+   "score": 91,
+   "stability": 100,
+   "country": "Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3236,7 +3228,7 @@
   "date": "2026-10-14",
   "fetched": 155,
   "healthy": 82,
-  "posted": 39,
+  "posted": 40,
   "removed": 0,
   "published_scores": [
    98,
@@ -3277,7 +3269,8 @@
    93,
    89,
    86,
-   86
+   86,
+   91
   ]
  }
 }
