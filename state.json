@@ -278,15 +278,6 @@
  },
  "queue": [
   {
-   "id": "9f934048159d5aff",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#🔵@chillguy_vpn",
-   "ping": 890,
-   "best": 881,
-   "score": 88,
-   "stability": 100,
-   "ts": 1791986448.071716
-  },
-  {
    "id": "e6e53c53c55f6685",
    "cfg": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@stop.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=stop.localip.ir&type=ws&allowInsecure=0&sni=stop.localip.ir#🔵@chillguy_vpn",
    "ping": 926,
@@ -2549,6 +2540,16 @@
    "stability": 100,
    "country": "Netherlands",
    "repost_count": 0
+  },
+  "9f934048159d5aff": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1779,
+   "ts": 1792005332.0278862,
+   "ping": 877,
+   "score": 89,
+   "stability": 100,
+   "country": "Hong Kong",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3222,13 +3223,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792003533.528643
+  },
+  "154.21.203.106": {
+   "cc": "HK",
+   "name": "Hong Kong",
+   "ts": 1792005331.4364736
   }
  },
  "stats": {
   "date": "2026-10-14",
   "fetched": 155,
   "healthy": 82,
-  "posted": 40,
+  "posted": 41,
   "removed": 0,
   "published_scores": [
    98,
@@ -3270,7 +3276,8 @@
    89,
    86,
    86,
-   91
+   91,
+   89
   ]
  }
 }
