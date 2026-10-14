@@ -234,15 +234,6 @@
  },
  "queue": [
   {
-   "id": "c9761496fcd8a560",
-   "cfg": "vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#🔵@chillguy_vpn",
-   "ping": 306,
-   "best": 278,
-   "score": 96,
-   "stability": 100,
-   "ts": 1791987326.907704
-  },
-  {
    "id": "b0601816ec3da33e",
    "cfg": "vless://3b9acf89-c8f2-4080-82bf-e97ce91efabf@208.83.236.249:4433?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=3vBRCDJzbYdn7qOkxZzxWIXf966vhT0QIeybvbKrtxo&sid=99d4afd174ccbf04&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 380,
@@ -2332,6 +2323,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "c9761496fcd8a560": {
+   "cfg": "vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1759,
+   "ts": 1791991842.4100988,
+   "ping": 425,
+   "score": 94,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2935,13 +2936,18 @@
    "cc": "CZ",
    "name": "Czechia",
    "ts": 1791970805.5350966
+  },
+  "edge.bookmai.com": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1791991841.7368922
   }
  },
  "stats": {
   "date": "2026-10-14",
   "fetched": 111,
   "healthy": 58,
-  "posted": 20,
+  "posted": 21,
   "removed": 0,
   "published_scores": [
    98,
@@ -2963,7 +2969,8 @@
    97,
    96,
    98,
-   97
+   97,
+   94
   ]
  }
 }
