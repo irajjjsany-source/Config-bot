@@ -237,18 +237,13 @@
   "e5b2de4d8d717c0f": 1791963928.473082,
   "f9e758010962f042": 1791963928.473082,
   "22f4776f22eba684": 1791963928.473082,
-  "8abeff65ad2abbf2": 1791963928.473082
+  "8abeff65ad2abbf2": 1791963928.473082,
+  "b1610428cb85ecfb": 1791964846.409509,
+  "10f8d7355f75d063": 1791964846.409509,
+  "0895b798f658e7ce": 1791964846.409509,
+  "a462439862b46550": 1791964846.409509
  },
  "queue": [
-  {
-   "id": "4a4a7eed2f35cc5f",
-   "cfg": "vless://a00e48ce-e56e-4ac1-8272-38983f0d8f99@150.241.87.196:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nh-pl-01.farmerly.cc&fp=random&pbk=cp947CBxZl6dHGM5epfaXvKyj7Gh3CVBnprViDFL6Rk&sid=2174c487a4c9664b&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 505,
-   "best": 503,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791963928.473082
-  },
   {
    "id": "e126c879168306b6",
    "cfg": "vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81#🔵@chillguy_vpn",
@@ -275,6 +270,15 @@
    "score": 93,
    "stability": 100,
    "ts": 1791963928.473082
+  },
+  {
+   "id": "0895b798f658e7ce",
+   "cfg": "vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@94.249.180.86:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=amd.com&security=reality&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#🔵@chillguy_vpn",
+   "ping": 538,
+   "best": 531,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791964846.409509
   },
   {
    "id": "8969b4d42d05583a",
@@ -365,6 +369,24 @@
    "score": 85,
    "stability": 100,
    "ts": 1791963928.473082
+  },
+  {
+   "id": "b1610428cb85ecfb",
+   "cfg": "vless://93cd1f94-3c76-4b6e-a217-716df028f8e7@4b5fcf33f769fa42.tunde.w-ert.org:450?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
+   "ping": 1254,
+   "best": 1196,
+   "score": 84,
+   "stability": 100,
+   "ts": 1791964846.409509
+  },
+  {
+   "id": "10f8d7355f75d063",
+   "cfg": "vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@185.242.245.152:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=amd.com&security=reality&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#🔵@chillguy_vpn",
+   "ping": 1417,
+   "best": 1090,
+   "score": 82,
+   "stability": 100,
+   "ts": 1791964846.409509
   },
   {
    "id": "8abeff65ad2abbf2",
@@ -2068,6 +2090,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "4a4a7eed2f35cc5f": {
+   "cfg": "vless://a00e48ce-e56e-4ac1-8272-38983f0d8f99@150.241.87.196:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nh-pl-01.farmerly.cc&fp=random&pbk=cp947CBxZl6dHGM5epfaXvKyj7Gh3CVBnprViDFL6Rk&sid=2174c487a4c9664b&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1738,
+   "ts": 1791964872.963935,
+   "ping": 526,
+   "score": 93,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2636,16 +2668,22 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1791930653.6618822
+  },
+  "150.241.87.196": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1791964872.220791
   }
  },
  "stats": {
   "date": "2026-10-14",
-  "fetched": 34,
-  "healthy": 18,
-  "posted": 1,
+  "fetched": 38,
+  "healthy": 21,
+  "posted": 2,
   "removed": 0,
   "published_scores": [
-   98
+   98,
+   93
   ]
  }
 }
