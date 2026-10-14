@@ -261,15 +261,6 @@
  },
  "queue": [
   {
-   "id": "bbc58fb8fe995cde",
-   "cfg": "vless://3b9acf89-c8f2-4080-82bf-e97ce91efabf@208.83.236.249:4433?security=reality&encryption=none&pbk=3vBRCDJzbYdn7qOkxZzxWIXf966vhT0QIeybvbKrtxo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99d4afd174ccbf04#🔵@chillguy_vpn",
-   "ping": 530,
-   "best": 517,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791994528.0310552
-  },
-  {
    "id": "f7c1078325325554",
    "cfg": "vless://f37f88ef-c57e-0268-9b16-659ff67530b7@2.56.126.43:10443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#🔵@chillguy_vpn",
    "ping": 532,
@@ -2531,6 +2522,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "bbc58fb8fe995cde": {
+   "cfg": "vless://3b9acf89-c8f2-4080-82bf-e97ce91efabf@208.83.236.249:4433?security=reality&encryption=none&pbk=3vBRCDJzbYdn7qOkxZzxWIXf966vhT0QIeybvbKrtxo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99d4afd174ccbf04#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1769,
+   "ts": 1791998132.6769814,
+   "ping": 486,
+   "score": 94,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3175,7 +3176,7 @@
   "date": "2026-10-14",
   "fetched": 138,
   "healthy": 78,
-  "posted": 30,
+  "posted": 31,
   "removed": 0,
   "published_scores": [
    98,
@@ -3207,7 +3208,8 @@
    93,
    62,
    98,
-   87
+   87,
+   94
   ]
  }
 }
