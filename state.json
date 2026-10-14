@@ -232,9 +232,33 @@
   "b0601816ec3da33e": 1791990900.1550312,
   "f2f27b84ed9dd2d1": 1791990900.1550312,
   "a55653548ed04a01": 1791992728.2399883,
-  "8f47e7d64a482589": 1791992728.2399883
+  "8f47e7d64a482589": 1791992728.2399883,
+  "bbc58fb8fe995cde": 1791994528.0310552,
+  "4230185cf22b2521": 1791994528.0310552,
+  "0ad2c6c3e1660b85": 1791994528.0310552,
+  "75587cd453055c51": 1791994528.0310552,
+  "14f1a6bc65f82fe0": 1791994528.0310552,
+  "1454b5cd809f0209": 1791994528.0310552
  },
  "queue": [
+  {
+   "id": "14f1a6bc65f82fe0",
+   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=%2F%3FTELEGRAM--V2ray_confiig%3Fed&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#🔵@chillguy_vpn",
+   "ping": 285,
+   "best": 285,
+   "score": 96,
+   "stability": 100,
+   "ts": 1791994528.0310552
+  },
+  {
+   "id": "75587cd453055c51",
+   "cfg": "vless://938bee33-7319-4c39-99bf-1128fab04c7d@g--p.soreanapanel.com:25566?security=&encryption=mlkem768x25519plus.native.0rtt.T-gHfXonmN4GiwBIHvADVc8uAEQyff099ST33D7IzA0&host=b--g.bntabriz.ir&headerType=http&type=tcp#🔵@chillguy_vpn",
+   "ping": 369,
+   "best": 357,
+   "score": 95,
+   "stability": 100,
+   "ts": 1791994528.0310552
+  },
   {
    "id": "a55653548ed04a01",
    "cfg": "vmess://eyJhZGQiOiAiMTg4LjEyMS4xMjAuODYiLCAiaWQiOiAiN2EyNTYxNjMtMTBhNC00NDJhLTkwNTMtOWExNDcwMmI4MmNmIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDExMzU4LCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
@@ -270,6 +294,15 @@
    "score": 93,
    "stability": 100,
    "ts": 1791986448.071716
+  },
+  {
+   "id": "bbc58fb8fe995cde",
+   "cfg": "vless://3b9acf89-c8f2-4080-82bf-e97ce91efabf@208.83.236.249:4433?security=reality&encryption=none&pbk=3vBRCDJzbYdn7qOkxZzxWIXf966vhT0QIeybvbKrtxo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99d4afd174ccbf04#🔵@chillguy_vpn",
+   "ping": 530,
+   "best": 517,
+   "score": 93,
+   "stability": 100,
+   "ts": 1791994528.0310552
   },
   {
    "id": "2f9f26ba282fc4c6",
@@ -371,6 +404,15 @@
    "ts": 1791986448.071716
   },
   {
+   "id": "0ad2c6c3e1660b85",
+   "cfg": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@80.76.32.165:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#🔵@chillguy_vpn",
+   "ping": 2051,
+   "best": 463,
+   "score": 73,
+   "stability": 100,
+   "ts": 1791994528.0310552
+  },
+  {
    "id": "20b266d7a133885c",
    "cfg": "vless://c3db7657-88ce-42a6-b998-1e0364b277ac@cdn-ixr.whitenw.net:4510?security=reality&encryption=none&pbk=hkvjyE8WMKHvdGfMta7PAIGz6HAv2WiXvWvAQmsE_DM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=9c99da.usecache.net&sid=2d0c188798bae174#🔵@chillguy_vpn",
    "ping": 2126,
@@ -414,6 +456,15 @@
    "score": 67,
    "stability": 100,
    "ts": 1791986448.071716
+  },
+  {
+   "id": "4230185cf22b2521",
+   "cfg": "vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#🔵@chillguy_vpn",
+   "ping": 2657,
+   "best": 413,
+   "score": 65,
+   "stability": 100,
+   "ts": 1791994528.0310552
   },
   {
    "id": "2bd75d54e1707ad8",
@@ -2356,6 +2407,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "1454b5cd809f0209": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1763,
+   "ts": 1791994557.344704,
+   "ping": 250,
+   "score": 97,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2983,9 +3044,9 @@
  },
  "stats": {
   "date": "2026-10-14",
-  "fetched": 113,
-  "healthy": 60,
-  "posted": 24,
+  "fetched": 119,
+  "healthy": 66,
+  "posted": 25,
   "removed": 0,
   "published_scores": [
    98,
@@ -3011,7 +3072,8 @@
    94,
    95,
    95,
-   85
+   85,
+   97
   ]
  }
 }
