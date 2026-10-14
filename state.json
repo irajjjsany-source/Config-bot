@@ -1,9 +1,5 @@
 {
  "seen": {
-  "0f09dd7b95e693cc": 1791705847.6817362,
-  "b50b57428d6e83a6": 1791705847.6817362,
-  "f679ba1211007277": 1791705847.6817362,
-  "faa13c638fdbcd64": 1791705847.6817362,
   "2aef009e031706ea": 1791707172.803149,
   "47faa585cc3a591b": 1791707172.803149,
   "293849eb0b5f2358": 1791707172.803149,
@@ -244,15 +240,6 @@
   "a462439862b46550": 1791964846.409509
  },
  "queue": [
-  {
-   "id": "e126c879168306b6",
-   "cfg": "vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81#🔵@chillguy_vpn",
-   "ping": 516,
-   "best": 511,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791963928.473082
-  },
   {
    "id": "5a1256c3081b6d46",
    "cfg": "vless://5aefad36-749b-401c-8b3b-547ef7d2253e@45.131.212.151:443?security=reality&encryption=none&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&headerType=&type=tcp&flow=xtls-rprx-vision&sni=de.lstu.ru#🔵@chillguy_vpn",
@@ -2100,6 +2087,16 @@
    "stability": 100,
    "country": "Sweden",
    "repost_count": 0
+  },
+  "e126c879168306b6": {
+   "cfg": "vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1739,
+   "ts": 1791965467.2128396,
+   "ping": 593,
+   "score": 92,
+   "stability": 100,
+   "country": "South Korea",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2673,17 +2670,23 @@
    "cc": "SE",
    "name": "Sweden",
    "ts": 1791964872.220791
+  },
+  "141.164.43.178": {
+   "cc": "KR",
+   "name": "South Korea",
+   "ts": 1791965466.526315
   }
  },
  "stats": {
   "date": "2026-10-14",
   "fetched": 38,
   "healthy": 21,
-  "posted": 2,
+  "posted": 3,
   "removed": 0,
   "published_scores": [
    98,
-   93
+   93,
+   92
   ]
  }
 }
