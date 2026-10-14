@@ -256,18 +256,10 @@
   "6dfcb22463004418": 1791997246.5491064,
   "a66708bb02db5a67": 1791997246.5491064,
   "5ef56da5bf7f781b": 1791997246.5491064,
-  "8beceaa0086d9621": 1791997246.5491064
+  "8beceaa0086d9621": 1791997246.5491064,
+  "9d5e981de7b05505": 1791998058.4592621
  },
  "queue": [
-  {
-   "id": "217fa279d87b1a51",
-   "cfg": "vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=co-de.speedtec.ru&sid=226509f017e4c36d#🔵@chillguy_vpn",
-   "ping": 524,
-   "best": 512,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791986448.071716
-  },
   {
    "id": "bbc58fb8fe995cde",
    "cfg": "vless://3b9acf89-c8f2-4080-82bf-e97ce91efabf@208.83.236.249:4433?security=reality&encryption=none&pbk=3vBRCDJzbYdn7qOkxZzxWIXf966vhT0QIeybvbKrtxo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99d4afd174ccbf04#🔵@chillguy_vpn",
@@ -2529,6 +2521,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "217fa279d87b1a51": {
+   "cfg": "vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=co-de.speedtec.ru&sid=226509f017e4c36d#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1768,
+   "ts": 1791998072.4290469,
+   "ping": 1004,
+   "score": 87,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3162,13 +3164,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1791997288.557162
+  },
+  "77.110.105.122": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1791998071.8048563
   }
  },
  "stats": {
   "date": "2026-10-14",
-  "fetched": 137,
+  "fetched": 138,
   "healthy": 78,
-  "posted": 29,
+  "posted": 30,
   "removed": 0,
   "published_scores": [
    98,
@@ -3199,7 +3206,8 @@
    94,
    93,
    62,
-   98
+   98,
+   87
   ]
  }
 }
