@@ -234,18 +234,10 @@
   "db8a0bbb51e10538": 1791968446.0856626,
   "a21c5204754e5bfa": 1791968446.0856626,
   "f7e987642dd6d0eb": 1791968446.0856626,
-  "f60383c39cdd6923": 1791968446.0856626
+  "f60383c39cdd6923": 1791968446.0856626,
+  "1ed73249ee7fddd2": 1791969327.5369513
  },
  "queue": [
-  {
-   "id": "8ca9c721c010f5f3",
-   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@nl2.balancer.vbuste-bot.com:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nl2.balancer.vbuste-bot.com&sid=4be4110078ebed4a#🔵@chillguy_vpn",
-   "ping": 570,
-   "best": 493,
-   "score": 93,
-   "stability": 100,
-   "ts": 1791963928.473082
-  },
   {
    "id": "b9beb32939a172c6",
    "cfg": "vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=%2F%3F&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#🔵@chillguy_vpn",
@@ -2136,6 +2128,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "8ca9c721c010f5f3": {
+   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@nl2.balancer.vbuste-bot.com:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nl2.balancer.vbuste-bot.com&sid=4be4110078ebed4a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1746,
+   "ts": 1791969348.5726507,
+   "ping": 3346,
+   "score": 57,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -2729,13 +2731,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791967542.6732254
+  },
+  "nl2.balancer.vbuste-bot.com": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1791969347.9164264
   }
  },
  "stats": {
   "date": "2026-10-14",
-  "fetched": 50,
+  "fetched": 51,
   "healthy": 25,
-  "posted": 9,
+  "posted": 10,
   "removed": 0,
   "published_scores": [
    98,
@@ -2746,7 +2753,8 @@
    93,
    96,
    97,
-   90
+   90,
+   57
   ]
  }
 }
