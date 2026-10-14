@@ -270,24 +270,6 @@
  },
  "queue": [
   {
-   "id": "efaf667994410208",
-   "cfg": "vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@153.56.210.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=firefox&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 601,
-   "best": 596,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791986448.071716
-  },
-  {
-   "id": "10bcbaf385aa87d2",
-   "cfg": "vless://50410ae1-fd32-4553-8dcf-dc83e0aba20e@104.245.103.30:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=portal.citygrainla.com&sid=051f20c2344a2dfd#🔵@chillguy_vpn",
-   "ping": 605,
-   "best": 582,
-   "score": 92,
-   "stability": 100,
-   "ts": 1791987326.907704
-  },
-  {
    "id": "404c3a8c6514bd35",
    "cfg": "vless://a44f3be0-2b1b-4a27-b158-9f1161d7cef8@46.8.228.66:53978?encryption=none&fp=chrome&pbk=lr4OVOvWiE9RSa_JgFvrXcuhFxl84V18qbrLkVLaQRQ&security=reality&sid=2d12711e0d&sni=play.google.com&spx=%2F3f2b54482138809&support-x25519mlkem768=true&type=tcp#🔵@chillguy_vpn",
    "ping": 625,
@@ -2515,6 +2497,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "10bcbaf385aa87d2": {
+   "cfg": "vless://50410ae1-fd32-4553-8dcf-dc83e0aba20e@104.245.103.30:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=portal.citygrainla.com&sid=051f20c2344a2dfd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1771,
+   "ts": 1791999939.0451422,
+   "ping": 736,
+   "score": 90,
+   "stability": 100,
+   "country": "Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3158,13 +3150,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1791999092.1303742
+  },
+  "104.245.103.30": {
+   "cc": "NL",
+   "name": "Netherlands",
+   "ts": 1791999938.1782677
   }
  },
  "stats": {
   "date": "2026-10-14",
   "fetched": 147,
   "healthy": 78,
-  "posted": 32,
+  "posted": 33,
   "removed": 0,
   "published_scores": [
    98,
@@ -3198,7 +3195,8 @@
    98,
    87,
    94,
-   59
+   59,
+   90
   ]
  }
 }
