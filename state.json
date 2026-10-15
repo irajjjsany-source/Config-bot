@@ -305,15 +305,6 @@
  },
  "queue": [
   {
-   "id": "b74741f39d0fbf7e",
-   "cfg": "vless://a441c530-8c8b-4ef9-8d98-0571ad49c433@85.9.209.229:8880?security=reality&encryption=none&pbk=7ftU0SggASCqf9TsUminHpucXB1LEQ1dPrcYFV7Dny4&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&spx=%2F&type=tcp&sni=www.forvo.com#🔵@chillguy_vpn",
-   "ping": 477,
-   "best": 467,
-   "score": 94,
-   "stability": 100,
-   "ts": 1792042237.2816777
-  },
-  {
    "id": "f414acd94ae49321",
    "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#🔵@chillguy_vpn",
    "ping": 624,
@@ -2485,6 +2476,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "b74741f39d0fbf7e": {
+   "cfg": "vless://a441c530-8c8b-4ef9-8d98-0571ad49c433@85.9.209.229:8880?security=reality&encryption=none&pbk=7ftU0SggASCqf9TsUminHpucXB1LEQ1dPrcYFV7Dny4&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&spx=%2F&type=tcp&sni=www.forvo.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1788,
+   "ts": 1792043133.0268085,
+   "ping": 369,
+   "score": 95,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3193,16 +3194,22 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1792008982.9733903
+  },
+  "85.9.209.229": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1792043132.4325552
   }
  },
  "stats": {
   "date": "2026-10-15",
   "fetched": 21,
   "healthy": 5,
-  "posted": 1,
+  "posted": 2,
   "removed": 0,
   "published_scores": [
-   96
+   96,
+   95
   ]
  }
 }
