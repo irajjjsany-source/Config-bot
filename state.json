@@ -307,7 +307,9 @@
   "c07f69e1db16c7d2": 1792048528.0616071,
   "228d50d9a3073bfd": 1792048528.0616071,
   "356b9be34cdef975": 1792048528.0616071,
-  "1a3a87a7b93282f0": 1792048528.0616071
+  "1a3a87a7b93282f0": 1792048528.0616071,
+  "c3aca0a86338316d": 1792050326.3561897,
+  "41dded614dc73073": 1792050326.3561897
  },
  "queue": [
   {
@@ -2478,6 +2480,16 @@
    "stability": 100,
    "country": "Hong Kong",
    "repost_count": 0
+  },
+  "c3aca0a86338316d": {
+   "cfg": "vless://36918dcb-18ed-4857-91b5-c23c04aff614@104.105.108.105:443?security=reality&encryption=none&pbk=NpLxdCOOBjBKekpZEe4U2lsnLO1nd6g2dyN_qpRsO3o&headerType=none&fp=chrome&spx=%2FEhzLJqhoyQxv&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=66fc26309a36b121#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1799,
+   "ts": 1792050331.1410558,
+   "ping": 331,
+   "score": 96,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3216,13 +3228,18 @@
    "cc": "HK",
    "name": "Hong Kong",
    "ts": 1792049441.1140842
+  },
+  "104.105.108.105": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1792050330.6729467
   }
  },
  "stats": {
   "date": "2026-10-15",
-  "fetched": 27,
-  "healthy": 9,
-  "posted": 12,
+  "fetched": 29,
+  "healthy": 10,
+  "posted": 13,
   "removed": 4,
   "published_scores": [
    96,
@@ -3232,7 +3249,8 @@
    93,
    90,
    90,
-   91
+   91,
+   96
   ]
  }
 }
