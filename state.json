@@ -311,15 +311,6 @@
  },
  "queue": [
   {
-   "id": "228d50d9a3073bfd",
-   "cfg": "vless://73712dc9-c3de-4e46-9063-cdc88b7a45f6@103.180.20.132:20005?security=reality&encryption=none&pbk=NdpLwhOfALzPx26QT985xAncCWejWJBrcREI8I2lrHM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=2bd5ea1422613a24#🔵@chillguy_vpn",
-   "ping": 800,
-   "best": 796,
-   "score": 90,
-   "stability": 100,
-   "ts": 1792048528.0616071
-  },
-  {
    "id": "356b9be34cdef975",
    "cfg": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?security=reality&encryption=none&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=hk4e-launcher-static.hoyoverse.com&sid=b81edf7fdee4#🔵@chillguy_vpn",
    "ping": 886,
@@ -2476,6 +2467,16 @@
    "stability": 100,
    "country": "Japan",
    "repost_count": 0
+  },
+  "228d50d9a3073bfd": {
+   "cfg": "vless://73712dc9-c3de-4e46-9063-cdc88b7a45f6@103.180.20.132:20005?security=reality&encryption=none&pbk=NdpLwhOfALzPx26QT985xAncCWejWJBrcREI8I2lrHM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=2bd5ea1422613a24#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1797,
+   "ts": 1792049156.4007301,
+   "ping": 804,
+   "score": 90,
+   "stability": 100,
+   "country": "Hong Kong",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3204,13 +3205,18 @@
    "cc": "JP",
    "name": "Japan",
    "ts": 1792048550.6377628
+  },
+  "103.180.20.132": {
+   "cc": "HK",
+   "name": "Hong Kong",
+   "ts": 1792049155.564615
   }
  },
  "stats": {
   "date": "2026-10-15",
   "fetched": 27,
   "healthy": 9,
-  "posted": 10,
+  "posted": 11,
   "removed": 4,
   "published_scores": [
    96,
@@ -3218,6 +3224,7 @@
    86,
    71,
    93,
+   90,
    90
   ]
  }
