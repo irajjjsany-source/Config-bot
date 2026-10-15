@@ -302,9 +302,42 @@
   "6ffde69842b01d75": 1792042237.2816777,
   "f414acd94ae49321": 1792042237.2816777,
   "8798ff8292553fe1": 1792042237.2816777,
-  "acefad0a1a5db851": 1792045837.372516
+  "acefad0a1a5db851": 1792045837.372516,
+  "341cc6549f727f1c": 1792048528.0616071,
+  "c07f69e1db16c7d2": 1792048528.0616071,
+  "228d50d9a3073bfd": 1792048528.0616071,
+  "356b9be34cdef975": 1792048528.0616071,
+  "1a3a87a7b93282f0": 1792048528.0616071
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "228d50d9a3073bfd",
+   "cfg": "vless://73712dc9-c3de-4e46-9063-cdc88b7a45f6@103.180.20.132:20005?security=reality&encryption=none&pbk=NdpLwhOfALzPx26QT985xAncCWejWJBrcREI8I2lrHM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=2bd5ea1422613a24#🔵@chillguy_vpn",
+   "ping": 800,
+   "best": 796,
+   "score": 90,
+   "stability": 100,
+   "ts": 1792048528.0616071
+  },
+  {
+   "id": "356b9be34cdef975",
+   "cfg": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?security=reality&encryption=none&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=hk4e-launcher-static.hoyoverse.com&sid=b81edf7fdee4#🔵@chillguy_vpn",
+   "ping": 886,
+   "best": 808,
+   "score": 88,
+   "stability": 100,
+   "ts": 1792048528.0616071
+  },
+  {
+   "id": "c07f69e1db16c7d2",
+   "cfg": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@kr2.oh-node.com:443?security=reality&encryption=none&pbk=6pZxjabeHoyJlsc2cP3Q5YK7G0bIOQwzWFyiarbUQXc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.coway.com&sid=c8af1462debbc1#🔵@chillguy_vpn",
+   "ping": 1006,
+   "best": 966,
+   "score": 87,
+   "stability": 100,
+   "ts": 1792048528.0616071
+  }
+ ],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -2433,6 +2466,16 @@
    "stability": 100,
    "country": "United Arab Emirates",
    "repost_count": 0
+  },
+  "1a3a87a7b93282f0": {
+   "cfg": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@jp2.oh-node.com:443?security=reality&encryption=none&pbk=3yorIs_psiYbIeESwMdne5mPe2JVzeNOpDa2IJxQ-Es&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.capcom.co.jp&sid=21fa8a1ebf#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1796,
+   "ts": 1792048551.648325,
+   "ping": 756,
+   "score": 90,
+   "stability": 100,
+   "country": "Japan",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3156,20 +3199,26 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1792044058.4582083
+  },
+  "jp2.oh-node.com": {
+   "cc": "JP",
+   "name": "Japan",
+   "ts": 1792048550.6377628
   }
  },
  "stats": {
   "date": "2026-10-15",
-  "fetched": 22,
-  "healthy": 5,
-  "posted": 9,
+  "fetched": 27,
+  "healthy": 9,
+  "posted": 10,
   "removed": 4,
   "published_scores": [
    96,
    95,
    86,
    71,
-   93
+   93,
+   90
   ]
  }
 }
