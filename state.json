@@ -305,15 +305,6 @@
  },
  "queue": [
   {
-   "id": "6ffde69842b01d75",
-   "cfg": "vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@fi.quic.best:443?security=tls&alpn=h2%2Ch3&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fi.quic.best#🔵@chillguy_vpn",
-   "ping": 643,
-   "best": 584,
-   "score": 92,
-   "stability": 100,
-   "ts": 1792042237.2816777
-  },
-  {
    "id": "379ab34357b78070",
    "cfg": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=none&encryption=none&host=95.174.68.188&type=ws&sni=95.174.68.188#🔵@chillguy_vpn",
    "ping": 674,
@@ -2487,6 +2478,16 @@
    "stability": 100,
    "country": "Hong Kong",
    "repost_count": 0
+  },
+  "6ffde69842b01d75": {
+   "cfg": "vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@fi.quic.best:443?security=tls&alpn=h2%2Ch3&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fi.quic.best#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1790,
+   "ts": 1792044059.2994888,
+   "ping": 2210,
+   "score": 71,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3205,18 +3206,24 @@
    "cc": "HK",
    "name": "Hong Kong",
    "ts": 1792043996.7625299
+  },
+  "fi.quic.best": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1792044058.4582083
   }
  },
  "stats": {
   "date": "2026-10-15",
   "fetched": 21,
   "healthy": 5,
-  "posted": 3,
+  "posted": 4,
   "removed": 0,
   "published_scores": [
    96,
    95,
-   86
+   86,
+   71
   ]
  }
 }
