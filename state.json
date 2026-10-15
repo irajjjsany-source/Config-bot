@@ -303,17 +303,7 @@
   "f414acd94ae49321": 1792042237.2816777,
   "8798ff8292553fe1": 1792042237.2816777
  },
- "queue": [
-  {
-   "id": "379ab34357b78070",
-   "cfg": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=none&encryption=none&host=95.174.68.188&type=ws&sni=95.174.68.188#🔵@chillguy_vpn",
-   "ping": 674,
-   "best": 660,
-   "score": 91,
-   "stability": 100,
-   "ts": 1792042237.2816777
-  }
- ],
+ "queue": [],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -2488,6 +2478,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "379ab34357b78070": {
+   "cfg": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=none&encryption=none&host=95.174.68.188&type=ws&sni=95.174.68.188#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1791,
+   "ts": 1792044930.8226552,
+   "ping": 520,
+   "score": 93,
+   "stability": 100,
+   "country": "United Arab Emirates",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3217,13 +3217,14 @@
   "date": "2026-10-15",
   "fetched": 21,
   "healthy": 5,
-  "posted": 4,
+  "posted": 5,
   "removed": 0,
   "published_scores": [
    96,
    95,
    86,
-   71
+   71,
+   93
   ]
  }
 }
