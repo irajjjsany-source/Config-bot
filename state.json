@@ -305,15 +305,6 @@
  },
  "queue": [
   {
-   "id": "f414acd94ae49321",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#🔵@chillguy_vpn",
-   "ping": 624,
-   "best": 623,
-   "score": 92,
-   "stability": 100,
-   "ts": 1792042237.2816777
-  },
-  {
    "id": "6ffde69842b01d75",
    "cfg": "vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@fi.quic.best:443?security=tls&alpn=h2%2Ch3&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fi.quic.best#🔵@chillguy_vpn",
    "ping": 643,
@@ -2486,6 +2477,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "f414acd94ae49321": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1789,
+   "ts": 1792043997.526937,
+   "ping": 1071,
+   "score": 86,
+   "stability": 100,
+   "country": "Hong Kong",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3199,17 +3200,23 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1792043132.4325552
+  },
+  "39.109.110.80": {
+   "cc": "HK",
+   "name": "Hong Kong",
+   "ts": 1792043996.7625299
   }
  },
  "stats": {
   "date": "2026-10-15",
   "fetched": 21,
   "healthy": 5,
-  "posted": 2,
+  "posted": 3,
   "removed": 0,
   "published_scores": [
    96,
-   95
+   95,
+   86
   ]
  }
 }
