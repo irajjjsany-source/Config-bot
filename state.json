@@ -211,15 +211,6 @@
  },
  "queue": [
   {
-   "id": "3889e5d01021edcf",
-   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=%2F%3FTELEGRAM--%3Fed&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#🔵@chillguy_vpn",
-   "ping": 268,
-   "best": 268,
-   "score": 97,
-   "stability": 100,
-   "ts": 1792226725.8860698
-  },
-  {
    "id": "4220fa095f282f34",
    "cfg": "vless://MiMiTDL@78.47.104.114:34547?security=reality&encryption=none&pbk=g8El58hnqzZbLjKEQNusFXaKB4FR7RgqgdmiTTK7PXI&headerType=none&fp=firefox&spx=%2F14fb374326ae8dc&type=tcp&sni=play.googleapis.com&sid=ae49b6adf7c21ab7#🔵@chillguy_vpn",
    "ping": 333,
@@ -2683,6 +2674,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "3889e5d01021edcf": {
+   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=%2F%3FTELEGRAM--%3Fed&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1825,
+   "ts": 1792227650.4184165,
+   "ping": 450,
+   "score": 94,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3487,7 +3488,7 @@
   "date": "2026-10-17",
   "fetched": 62,
   "healthy": 39,
-  "posted": 22,
+  "posted": 23,
   "removed": 5,
   "published_scores": [
    99,
@@ -3511,7 +3512,8 @@
    87,
    93,
    99,
-   99
+   99,
+   94
   ]
  }
 }
