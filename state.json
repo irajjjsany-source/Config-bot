@@ -1,16 +1,5 @@
 {
  "seen": {
-  "2bd75d54e1707ad8": 1791987326.907704,
-  "27a78b07c593f484": 1791987326.907704,
-  "ef2e28a0fee56cc8": 1791987326.907704,
-  "c9761496fcd8a560": 1791987326.907704,
-  "15d6663e769d0044": 1791987326.907704,
-  "10bcbaf385aa87d2": 1791987326.907704,
-  "4c2c0e7b527b2fec": 1791987326.907704,
-  "20b266d7a133885c": 1791987326.907704,
-  "22c3ec1d122e19ae": 1791987326.907704,
-  "befd39ec9e26bae4": 1791987326.907704,
-  "f9df66c59c66778c": 1791987326.907704,
   "6172d20a4aabdcff": 1791989128.0826454,
   "1c8e4e7d3f139bc0": 1791989128.0826454,
   "acb6dd3179843f13": 1791989128.0826454,
@@ -212,7 +201,8 @@
   "d225a3d55ac81a70": 1792245644.0128725,
   "a6889c497fde817e": 1792245644.0128725,
   "9260f1924eb61a96": 1792245644.0128725,
-  "4a68f37900c4ad73": 1792246526.2601082
+  "4a68f37900c4ad73": 1792246526.2601082,
+  "1d379b45ac57cbce": 1792247436.463747
  },
  "queue": [
   {
@@ -2850,6 +2840,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "1d379b45ac57cbce": {
+   "cfg": "vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?security=reality&encryption=none&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&headerType=&type=tcp&flow=xtls-rprx-vision&sni=poland.travel#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1852,
+   "ts": 1792247443.7843337,
+   "ping": 1178,
+   "score": 85,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3718,13 +3718,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1792246529.8193173
+  },
+  "revers.bachidze.com": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1792247442.9827902
   }
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 114,
-  "healthy": 68,
-  "posted": 49,
+  "fetched": 115,
+  "healthy": 69,
+  "posted": 50,
   "removed": 5,
   "published_scores": [
    99,
@@ -3775,7 +3780,8 @@
    92,
    95,
    81,
-   95
+   95,
+   85
   ]
  }
 }
