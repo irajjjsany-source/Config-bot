@@ -207,15 +207,6 @@
  },
  "queue": [
   {
-   "id": "9c6edac8311725b7",
-   "cfg": "vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@fi.quic.best:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fi.quic.best#🔵@chillguy_vpn",
-   "ping": 2187,
-   "best": 689,
-   "score": 72,
-   "stability": 100,
-   "ts": 1792219526.7540555
-  },
-  {
    "id": "7249719c0414fee8",
    "cfg": "vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🔵@chillguy_vpn",
    "ping": 2522,
@@ -2669,6 +2660,16 @@
    "stability": 100,
    "country": "Armenia",
    "repost_count": 0
+  },
+  "9c6edac8311725b7": {
+   "cfg": "vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@fi.quic.best:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fi.quic.best#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1833,
+   "ts": 1792232308.379715,
+   "ping": 2379,
+   "score": 69,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3493,7 +3494,7 @@
   "date": "2026-10-17",
   "fetched": 69,
   "healthy": 43,
-  "posted": 30,
+  "posted": 31,
   "removed": 5,
   "published_scores": [
    99,
@@ -3525,7 +3526,8 @@
    97,
    91,
    99,
-   79
+   79,
+   69
   ]
  }
 }
