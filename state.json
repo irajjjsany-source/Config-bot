@@ -1,10 +1,5 @@
 {
  "seen": {
-  "47b78cca77a28ef9": 1791990900.1550312,
-  "92b9a80c35ccb4b0": 1791990900.1550312,
-  "5a254f7897520596": 1791990900.1550312,
-  "b0601816ec3da33e": 1791990900.1550312,
-  "f2f27b84ed9dd2d1": 1791990900.1550312,
   "a55653548ed04a01": 1791992728.2399883,
   "8f47e7d64a482589": 1791992728.2399883,
   "bbc58fb8fe995cde": 1791994528.0310552,
@@ -203,9 +198,41 @@
   "4189a84f8f6e74ab": 1792248327.1287558,
   "680e682e3f877dd5": 1792248327.1287558,
   "e7a4365ad5251bff": 1792248327.1287558,
-  "543b62b10c9ee811": 1792248327.1287558
+  "543b62b10c9ee811": 1792248327.1287558,
+  "cb077ad3ec986989": 1792250126.0416813,
+  "d49c10a4652961c2": 1792250126.0416813,
+  "138a7dbc356e5713": 1792250126.0416813,
+  "21352b80513ae1b6": 1792250126.0416813
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "cb077ad3ec986989",
+   "cfg": "vless://732ec777-bf4a-4fee-835a-25d6a8b58563@farancenew.mamadhpbot.ir:8080?path=%2Freal&security=none&encryption=none&host=farancenew.mamadhpbot.ir&type=ws#🔵@chillguy_vpn",
+   "ping": 493,
+   "best": 360,
+   "score": 94,
+   "stability": 100,
+   "ts": 1792250126.0416813
+  },
+  {
+   "id": "21352b80513ae1b6",
+   "cfg": "vmess://eyJhZGQiOiAiOTQuMTgzLjE2NS40NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICI5NC4xODMuMTY1LjQ1IiwgImlkIjogImI3ZDhiYjgyLWQwMzktNDQxNC1iN2YxLTNjYzJmZWZkNTY2NSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDIwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9",
+   "ping": 829,
+   "best": 781,
+   "score": 89,
+   "stability": 100,
+   "ts": 1792250126.0416813
+  },
+  {
+   "id": "d49c10a4652961c2",
+   "cfg": "vless://d8abd668-0b7d-47da-b59f-a6566e69fb16@37.32.31.16:1300?security=none&encryption=mlkem768x25519plus.native.0rtt.5grU7g5v7z5UsdXanYsV6K6xIEJbIjYes51g-rhNAjQ&headerType=none&type=tcp#🔵@chillguy_vpn",
+   "ping": 1473,
+   "best": 933,
+   "score": 81,
+   "stability": 100,
+   "ts": 1792250126.0416813
+  }
+ ],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -2862,6 +2889,16 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "138a7dbc356e5713": {
+   "cfg": "vless://732ec777-bf4a-4fee-835a-25d6a8b58563@usandvipnewpnlsz.mamadhpbot.ir:8080?path=%2Freal&security=none&encryption=none&host=www.goo.gl&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1856,
+   "ts": 1792250145.0883873,
+   "ping": 425,
+   "score": 94,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3750,13 +3787,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1792249253.6436791
+  },
+  "usandvipnewpnlsz.mamadhpbot.ir": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792250144.4267251
   }
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 120,
-  "healthy": 72,
-  "posted": 53,
+  "fetched": 124,
+  "healthy": 76,
+  "posted": 54,
   "removed": 5,
   "published_scores": [
    99,
@@ -3811,7 +3853,8 @@
    85,
    81,
    92,
-   76
+   76,
+   94
   ]
  }
 }
