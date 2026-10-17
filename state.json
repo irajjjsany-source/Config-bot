@@ -1,7 +1,5 @@
 {
  "seen": {
-  "e8822771061c5613": 1791967528.261575,
-  "e3728ed48bc3caac": 1791967528.261575,
   "6b67da495932dda3": 1791968446.0856626,
   "7d43db57eb0a0b1e": 1791968446.0856626,
   "db8a0bbb51e10538": 1791968446.0856626,
@@ -208,18 +206,10 @@
   "5423ea2ffc220251": 1792226725.8860698,
   "3889e5d01021edcf": 1792226725.8860698,
   "c551c3eee9183b97": 1792226725.8860698,
-  "54098e2f7bc29b84": 1792226725.8860698
+  "54098e2f7bc29b84": 1792226725.8860698,
+  "4220fa095f282f34": 1792227280.5954626
  },
  "queue": [
-  {
-   "id": "338599a429a46037",
-   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:2053?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🔵@chillguy_vpn",
-   "ping": 66,
-   "best": 49,
-   "score": 99,
-   "stability": 100,
-   "ts": 1792226725.8860698
-  },
   {
    "id": "3889e5d01021edcf",
    "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=%2F%3FTELEGRAM--%3Fed&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#🔵@chillguy_vpn",
@@ -228,6 +218,15 @@
    "score": 97,
    "stability": 100,
    "ts": 1792226725.8860698
+  },
+  {
+   "id": "4220fa095f282f34",
+   "cfg": "vless://MiMiTDL@78.47.104.114:34547?security=reality&encryption=none&pbk=g8El58hnqzZbLjKEQNusFXaKB4FR7RgqgdmiTTK7PXI&headerType=none&fp=firefox&spx=%2F14fb374326ae8dc&type=tcp&sni=play.googleapis.com&sid=ae49b6adf7c21ab7#🔵@chillguy_vpn",
+   "ping": 333,
+   "best": 330,
+   "score": 96,
+   "stability": 100,
+   "ts": 1792227280.5954626
   },
   {
    "id": "ab2d9a43440b1b35",
@@ -2674,6 +2673,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "338599a429a46037": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:2053?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1824,
+   "ts": 1792227286.2031815,
+   "ping": 68,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3476,9 +3485,9 @@
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 61,
-  "healthy": 38,
-  "posted": 21,
+  "fetched": 62,
+  "healthy": 39,
+  "posted": 22,
   "removed": 5,
   "published_scores": [
    99,
@@ -3501,6 +3510,7 @@
    91,
    87,
    93,
+   99,
    99
   ]
  }
