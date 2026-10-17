@@ -203,9 +203,76 @@
   "b2d928b1fd34343f": 1792228526.1059039,
   "9499b15a53fa2b2a": 1792228762.6313634,
   "381f73fcbbb23ff2": 1792228762.6313634,
-  "094820ed28e3e5a2": 1792231245.5791314
+  "094820ed28e3e5a2": 1792231245.5791314,
+  "17850d91cd5ebf2f": 1792233036.8785737,
+  "1142be29afb7e65c": 1792233036.8785737,
+  "b6a7d52deee4aafc": 1792233036.8785737,
+  "8560fdb6e43e7c09": 1792233036.8785737,
+  "dc27ca56eccf93df": 1792233036.8785737,
+  "cf7c00908863076a": 1792233036.8785737,
+  "6c8e7a465566ecb9": 1792233036.8785737,
+  "96b739283cf4824d": 1792233036.8785737,
+  "6d32824b1e1b1df4": 1792233036.8785737,
+  "cf0dac8ba0bb1b2c": 1792233036.8785737,
+  "0487436b2eb57c28": 1792233036.8785737,
+  "c48fb9449de2b59c": 1792233036.8785737,
+  "861a90939841f2d8": 1792233036.8785737
  },
  "queue": [
+  {
+   "id": "6c8e7a465566ecb9",
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🔵@chillguy_vpn",
+   "ping": 83,
+   "best": 76,
+   "score": 99,
+   "stability": 100,
+   "ts": 1792233036.8785737
+  },
+  {
+   "id": "0487436b2eb57c28",
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
+   "ping": 184,
+   "best": 164,
+   "score": 98,
+   "stability": 100,
+   "ts": 1792233036.8785737
+  },
+  {
+   "id": "861a90939841f2d8",
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
+   "ping": 326,
+   "best": 110,
+   "score": 96,
+   "stability": 100,
+   "ts": 1792233036.8785737
+  },
+  {
+   "id": "b6a7d52deee4aafc",
+   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&host=%2F%3FTELEGRAM---V2ray_confiig&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#🔵@chillguy_vpn",
+   "ping": 510,
+   "best": 459,
+   "score": 93,
+   "stability": 100,
+   "ts": 1792233036.8785737
+  },
+  {
+   "id": "96b739283cf4824d",
+   "cfg": "vless://16188ecf-2dcd-40d7-898b-60461f125978@de3.onlinernet.ir:40018?security=&encryption=mlkem768x25519plus.native.0rtt.fY8z33cAh9Nb0X4JZQ0IK19FkjA-F_z2NeJNUGWAwBs&host=connectivitycheck.android.com&headerType=http&type=tcp#🔵@chillguy_vpn",
+   "ping": 559,
+   "best": 553,
+   "score": 93,
+   "stability": 100,
+   "ts": 1792233036.8785737
+  },
+  {
+   "id": "c48fb9449de2b59c",
+   "cfg": "vless://20ff936a-8eb5-4d27-9cce-93f2016d467b@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=free.nadun.store&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=free.nadun.store#🔵@chillguy_vpn",
+   "ping": 1678,
+   "best": 1132,
+   "score": 78,
+   "stability": 100,
+   "ts": 1792233036.8785737
+  },
   {
    "id": "7249719c0414fee8",
    "cfg": "vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🔵@chillguy_vpn",
@@ -2670,6 +2737,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "cf7c00908863076a": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1834,
+   "ts": 1792233081.0151432,
+   "ping": 82,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3492,9 +3569,9 @@
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 69,
-  "healthy": 43,
-  "posted": 31,
+  "fetched": 82,
+  "healthy": 50,
+  "posted": 32,
   "removed": 5,
   "published_scores": [
    99,
@@ -3527,7 +3604,8 @@
    91,
    99,
    79,
-   69
+   69,
+   99
   ]
  }
 }
