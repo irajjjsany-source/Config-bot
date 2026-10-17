@@ -211,15 +211,6 @@
  },
  "queue": [
   {
-   "id": "a9b10d3c73887bcb",
-   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:2053?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🔵@chillguy_vpn",
-   "ping": 73,
-   "best": 53,
-   "score": 99,
-   "stability": 100,
-   "ts": 1792255180.502156
-  },
-  {
    "id": "8b925e133685c4d0",
    "cfg": "vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@144.31.4.234:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#🔵@chillguy_vpn",
    "ping": 327,
@@ -3001,6 +2992,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "a9b10d3c73887bcb": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:2053?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1864,
+   "ts": 1792255528.9394112,
+   "ping": 89,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3920,7 +3921,7 @@
   "date": "2026-10-17",
   "fetched": 138,
   "healthy": 87,
-  "posted": 61,
+  "posted": 62,
   "removed": 5,
   "published_scores": [
    99,
@@ -3983,6 +3984,7 @@
    44,
    94,
    93,
+   99,
    99
   ]
  }
