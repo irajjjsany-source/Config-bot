@@ -205,26 +205,7 @@
   "e7a4365ad5251bff": 1792248327.1287558,
   "543b62b10c9ee811": 1792248327.1287558
  },
- "queue": [
-  {
-   "id": "07fe40de98954cc4",
-   "cfg": "vless://3c055671-0633-4b8c-8c6b-ab6fe5fd9862@81b52e72fcd7b5c0.tunde.w-ert.org:501?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
-   "ping": 2041,
-   "best": 1191,
-   "score": 73,
-   "stability": 100,
-   "ts": 1792248327.1287558
-  },
-  {
-   "id": "e7a4365ad5251bff",
-   "cfg": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&type=tcp&sni=tcpswed1.figurapn.ru&sid=868419504747f6de#🔵@chillguy_vpn",
-   "ping": 4006,
-   "best": 2720,
-   "score": 48,
-   "stability": 100,
-   "ts": 1792248327.1287558
-  }
- ],
+ "queue": [],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
