@@ -231,33 +231,6 @@
  },
  "queue": [
   {
-   "id": "946421ca2cb33e33",
-   "cfg": "vmess://eyJhZGQiOiAiZGFzaGJvYXJkLm9qZXN0b3JlLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNjk0MDhjN2EtN2VkNy00OGUxLThmMzQtZDlhOTRmZGFmMmU1IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTM4MSIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
-   "ping": 664,
-   "best": 612,
-   "score": 91,
-   "stability": 100,
-   "ts": 1792234844.4600208
-  },
-  {
-   "id": "ad274866164afa54",
-   "cfg": "vmess://eyJhZGQiOiAiZGFzaGJvYXJkLm9qZXNob3AudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI2OTQwOGM3YS03ZWQ3LTQ4ZTEtOGYzNC1kOWE5NGZkYWYyZTUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1MzgwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
-   "ping": 673,
-   "best": 644,
-   "score": 91,
-   "stability": 100,
-   "ts": 1792234844.4600208
-  },
-  {
-   "id": "2cb174f7245f0a5d",
-   "cfg": "vless://cf89fddb-e76b-430e-8952-61e33d4da4a6@f36.tivexabot.ir:8443?encryption=none&fp=chrome&pbk=QJ0hQw2eD-EVhhGSr28CN10dVFDNGKgaIZ8spSZFO3M&security=reality&sid=19fad7d75677e2&sni=stg-ru-images.shop.samsung.com&spx=%2F9b9f529f9cc2b67&support-x25519mlkem768=true&type=tcp#🔵@chillguy_vpn",
-   "ping": 723,
-   "best": 632,
-   "score": 91,
-   "stability": 100,
-   "ts": 1792234325.1003118
-  },
-  {
    "id": "4dfc0875910b7307",
    "cfg": "vless://03162983-cdfb-48b9-8367-f4e4d5e5822a@tun2.w-ert.org:447?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
    "ping": 1224,
@@ -2828,6 +2801,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "2cb174f7245f0a5d": {
+   "cfg": "vless://cf89fddb-e76b-430e-8952-61e33d4da4a6@f36.tivexabot.ir:8443?encryption=none&fp=chrome&pbk=QJ0hQw2eD-EVhhGSr28CN10dVFDNGKgaIZ8spSZFO3M&security=reality&sid=19fad7d75677e2&sni=stg-ru-images.shop.samsung.com&spx=%2F9b9f529f9cc2b67&support-x25519mlkem768=true&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1842,
+   "ts": 1792237931.2958677,
+   "ping": 2500,
+   "score": 68,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3656,13 +3639,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792237563.9611056
+  },
+  "f36.tivexabot.ir": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1792237930.2851973
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 93,
   "healthy": 58,
-  "posted": 39,
+  "posted": 40,
   "removed": 5,
   "published_scores": [
    99,
@@ -3703,7 +3691,8 @@
    95,
    95,
    73,
-   91
+   91,
+   68
   ]
  }
 }
