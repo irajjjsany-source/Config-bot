@@ -231,7 +231,14 @@
   "34b45d5e2aa00cd4": 1792239327.0230582,
   "9a28d70aca27c78a": 1792239327.0230582,
   "b251bec8bf3c1239": 1792240237.6250222,
-  "6eb096ec812f2a94": 1792240237.6250222
+  "6eb096ec812f2a94": 1792240237.6250222,
+  "1bda02aa9eea6568": 1792242046.581231,
+  "9a9bd33ea62d4c7b": 1792242046.581231,
+  "92cf397c88244242": 1792242046.581231,
+  "4e2106b36918dc90": 1792242046.581231,
+  "5219f3454527b912": 1792242046.581231,
+  "cbad83047ddd015e": 1792242046.581231,
+  "6df03fc624ff68c6": 1792242046.581231
  },
  "queue": [],
  "posted": {
@@ -2790,6 +2797,16 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "6df03fc624ff68c6": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3Fed%23Telegram---mehrosaboran&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1846,
+   "ts": 1792242057.9429004,
+   "ping": 71,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3642,9 +3659,9 @@
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 97,
-  "healthy": 59,
-  "posted": 43,
+  "fetched": 104,
+  "healthy": 60,
+  "posted": 44,
   "removed": 5,
   "published_scores": [
    99,
@@ -3689,7 +3706,8 @@
    68,
    73,
    90,
-   91
+   91,
+   99
   ]
  }
 }
