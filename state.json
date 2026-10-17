@@ -1,6 +1,5 @@
 {
  "seen": {
-  "1ed73249ee7fddd2": 1791969327.5369513,
   "74d0d4f499f03d3f": 1791970772.792995,
   "0a46a137c5f25010": 1791970772.792995,
   "86f33550bb9f3472": 1791970772.792995,
@@ -205,18 +204,11 @@
   "41a3e64533663ab0": 1792228526.1059039,
   "734294b3e2a52397": 1792228526.1059039,
   "ebe55781f27c97f9": 1792228526.1059039,
-  "b2d928b1fd34343f": 1792228526.1059039
+  "b2d928b1fd34343f": 1792228526.1059039,
+  "9499b15a53fa2b2a": 1792228762.6313634,
+  "381f73fcbbb23ff2": 1792228762.6313634
  },
  "queue": [
-  {
-   "id": "ab2d9a43440b1b35",
-   "cfg": "vless://e7a4decb-631e-422b-9749-7e8f54618308@rusx2.braidx.tech:443?security=reality&encryption=none&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#🔵@chillguy_vpn",
-   "ping": 627,
-   "best": 590,
-   "score": 92,
-   "stability": 100,
-   "ts": 1792223794.9003131
-  },
   {
    "id": "07ed3ee645b8f454",
    "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#🔵@chillguy_vpn",
@@ -270,6 +262,15 @@
    "score": 88,
    "stability": 100,
    "ts": 1792228526.1059039
+  },
+  {
+   "id": "381f73fcbbb23ff2",
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47672?security=reality&encryption=none&pbk=tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4&headerType=&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=70ab6d813e#🔵@chillguy_vpn",
+   "ping": 938,
+   "best": 758,
+   "score": 88,
+   "stability": 100,
+   "ts": 1792228762.6313634
   },
   {
    "id": "049849fa1212fc89",
@@ -2701,6 +2702,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "ab2d9a43440b1b35": {
+   "cfg": "vless://e7a4decb-631e-422b-9749-7e8f54618308@rusx2.braidx.tech:443?security=reality&encryption=none&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1827,
+   "ts": 1792228799.8590286,
+   "ping": 924,
+   "score": 88,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3504,13 +3515,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792228545.7522125
+  },
+  "rusx2.braidx.tech": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1792228799.1120381
   }
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 66,
-  "healthy": 41,
-  "posted": 24,
+  "fetched": 68,
+  "healthy": 42,
+  "posted": 25,
   "removed": 5,
   "published_scores": [
    99,
@@ -3536,7 +3552,8 @@
    99,
    99,
    94,
-   94
+   94,
+   88
   ]
  }
 }
