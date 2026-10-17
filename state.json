@@ -239,9 +239,21 @@
   "5219f3454527b912": 1792242046.581231,
   "cbad83047ddd015e": 1792242046.581231,
   "6df03fc624ff68c6": 1792242046.581231,
-  "84e8471f59164e3f": 1792242926.345497
+  "84e8471f59164e3f": 1792242926.345497,
+  "8532a81ec404e9b9": 1792244726.1460397,
+  "0931ca7830f4f112": 1792244726.1460397
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "0931ca7830f4f112",
+   "cfg": "vless://a78b5c11-8d65-4030-8c12-42fce6d43749@tun2.w-ert.org:450?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
+   "ping": 1105,
+   "best": 1022,
+   "score": 86,
+   "stability": 100,
+   "ts": 1792244726.1460397
+  }
+ ],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -2818,6 +2830,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "8532a81ec404e9b9": {
+   "cfg": "vless://63b1aea9-30b4-3dd0-2819-0b4e04390cb6@83.136.253.129:443?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=amp-api-search-edge.apps.apple.com&sid=35938c4e546cd459#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1848,
+   "ts": 1792244736.352436,
+   "ping": 614,
+   "score": 92,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3671,13 +3693,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1792242930.690872
+  },
+  "83.136.253.129": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1792244735.870825
   }
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 105,
-  "healthy": 61,
-  "posted": 45,
+  "fetched": 107,
+  "healthy": 63,
+  "posted": 46,
   "removed": 5,
   "published_scores": [
    99,
@@ -3724,7 +3751,8 @@
    90,
    91,
    99,
-   93
+   93,
+   92
   ]
  }
 }
