@@ -222,18 +222,10 @@
   "ad274866164afa54": 1792234844.4600208,
   "f8a303bab8717c69": 1792234844.4600208,
   "ee7bbfc696070453": 1792235728.5577333,
-  "1adcd2df6012f0f5": 1792235728.5577333
+  "1adcd2df6012f0f5": 1792235728.5577333,
+  "2948a16e235b8941": 1792236645.5830295
  },
  "queue": [
-  {
-   "id": "b6a7d52deee4aafc",
-   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&host=%2F%3FTELEGRAM---V2ray_confiig&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#🔵@chillguy_vpn",
-   "ping": 510,
-   "best": 459,
-   "score": 93,
-   "stability": 100,
-   "ts": 1792233036.8785737
-  },
   {
    "id": "96b739283cf4824d",
    "cfg": "vless://16188ecf-2dcd-40d7-898b-60461f125978@de3.onlinernet.ir:40018?security=&encryption=mlkem768x25519plus.native.0rtt.fY8z33cAh9Nb0X4JZQ0IK19FkjA-F_z2NeJNUGWAwBs&host=connectivitycheck.android.com&headerType=http&type=tcp#🔵@chillguy_vpn",
@@ -2794,6 +2786,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "b6a7d52deee4aafc": {
+   "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&host=%2F%3FTELEGRAM---V2ray_confiig&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1840,
+   "ts": 1792236664.623712,
+   "ping": 2082,
+   "score": 73,
+   "stability": 100,
+   "country": "Japan",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3621,9 +3623,9 @@
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 88,
+  "fetched": 89,
   "healthy": 55,
-  "posted": 37,
+  "posted": 38,
   "removed": 5,
   "published_scores": [
    99,
@@ -3662,7 +3664,8 @@
    96,
    96,
    95,
-   95
+   95,
+   73
   ]
  }
 }
