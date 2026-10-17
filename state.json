@@ -1,13 +1,5 @@
 {
  "seen": {
-  "f3bdadd096e7bbe3": 1791997246.5491064,
-  "1e53d187ea670afa": 1791997246.5491064,
-  "36a3bf96a7194138": 1791997246.5491064,
-  "563c0ff28fdb93f7": 1791997246.5491064,
-  "6dfcb22463004418": 1791997246.5491064,
-  "a66708bb02db5a67": 1791997246.5491064,
-  "5ef56da5bf7f781b": 1791997246.5491064,
-  "8beceaa0086d9621": 1791997246.5491064,
   "9d5e981de7b05505": 1791998058.4592621,
   "fa1c6b7c5b91c20d": 1791999040.6683414,
   "f0156c6da209d033": 1791999040.6683414,
@@ -201,15 +193,6 @@
   "b370d563da4ddc4c": 1792255180.502156
  },
  "queue": [
-  {
-   "id": "d33b7b4f4e6905d9",
-   "cfg": "vless://90c08c98-7ec8-4fab-da36-cf140d18c708@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi&security=tls&alpn=h2&encryption=none&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#🔵@chillguy_vpn",
-   "ping": 444,
-   "best": 422,
-   "score": 94,
-   "stability": 100,
-   "ts": 1792255180.502156
-  },
   {
    "id": "55b479fc71e40165",
    "cfg": "vless://88b744bb-8ac7-484e-a376-136193452a2c@72.56.241.230:443?mode=gun&security=reality&encryption=none&pbk=SCQ-mhDUvmeQzJvctQYDDSha1R_rggGFkWK_9IRuvH4&type=grpc&serviceName=api.v1.StreamService&sni=max.ru&sid=aabbccdd#🔵@chillguy_vpn",
@@ -2994,6 +2977,16 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "d33b7b4f4e6905d9": {
+   "cfg": "vless://90c08c98-7ec8-4fab-da36-cf140d18c708@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi&security=tls&alpn=h2&encryption=none&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1866,
+   "ts": 1792256687.1595614,
+   "ping": 427,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3912,13 +3905,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1792256447.1931071
+  },
+  "host.taghvimtime.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1792256686.3782868
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 138,
   "healthy": 87,
-  "posted": 63,
+  "posted": 64,
   "removed": 5,
   "published_scores": [
    99,
@@ -3983,7 +3981,8 @@
    93,
    99,
    99,
-   95
+   95,
+   94
   ]
  }
 }
