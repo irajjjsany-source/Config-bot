@@ -202,7 +202,8 @@
   "ebe55781f27c97f9": 1792228526.1059039,
   "b2d928b1fd34343f": 1792228526.1059039,
   "9499b15a53fa2b2a": 1792228762.6313634,
-  "381f73fcbbb23ff2": 1792228762.6313634
+  "381f73fcbbb23ff2": 1792228762.6313634,
+  "094820ed28e3e5a2": 1792231245.5791314
  },
  "queue": [
   {
@@ -2693,6 +2694,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "094820ed28e3e5a2": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1831,
+   "ts": 1792231249.08932,
+   "ping": 100,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3510,9 +3521,9 @@
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 68,
-  "healthy": 42,
-  "posted": 28,
+  "fetched": 69,
+  "healthy": 43,
+  "posted": 29,
   "removed": 5,
   "published_scores": [
    99,
@@ -3542,7 +3553,8 @@
    88,
    93,
    97,
-   91
+   91,
+   99
   ]
  }
 }
