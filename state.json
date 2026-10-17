@@ -217,18 +217,12 @@
   "0487436b2eb57c28": 1792233036.8785737,
   "c48fb9449de2b59c": 1792233036.8785737,
   "861a90939841f2d8": 1792233036.8785737,
-  "2cb174f7245f0a5d": 1792234325.1003118
+  "2cb174f7245f0a5d": 1792234325.1003118,
+  "946421ca2cb33e33": 1792234844.4600208,
+  "ad274866164afa54": 1792234844.4600208,
+  "f8a303bab8717c69": 1792234844.4600208
  },
  "queue": [
-  {
-   "id": "861a90939841f2d8",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
-   "ping": 326,
-   "best": 110,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792233036.8785737
-  },
   {
    "id": "b6a7d52deee4aafc",
    "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&host=%2F%3FTELEGRAM---V2ray_confiig&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#🔵@chillguy_vpn",
@@ -246,6 +240,24 @@
    "score": 93,
    "stability": 100,
    "ts": 1792233036.8785737
+  },
+  {
+   "id": "946421ca2cb33e33",
+   "cfg": "vmess://eyJhZGQiOiAiZGFzaGJvYXJkLm9qZXN0b3JlLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNjk0MDhjN2EtN2VkNy00OGUxLThmMzQtZDlhOTRmZGFmMmU1IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTM4MSIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "ping": 664,
+   "best": 612,
+   "score": 91,
+   "stability": 100,
+   "ts": 1792234844.4600208
+  },
+  {
+   "id": "ad274866164afa54",
+   "cfg": "vmess://eyJhZGQiOiAiZGFzaGJvYXJkLm9qZXNob3AudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI2OTQwOGM3YS03ZWQ3LTQ4ZTEtOGYzNC1kOWE5NGZkYWYyZTUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1MzgwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "ping": 673,
+   "best": 644,
+   "score": 91,
+   "stability": 100,
+   "ts": 1792234844.4600208
   },
   {
    "id": "2cb174f7245f0a5d",
@@ -2759,6 +2771,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "861a90939841f2d8": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1837,
+   "ts": 1792234863.2160218,
+   "ping": 309,
+   "score": 96,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3577,13 +3599,18 @@
    "cc": "AM",
    "name": "Armenia",
    "ts": 1792232195.277339
+  },
+  "169.40.42.16": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792234862.5237753
   }
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 83,
-  "healthy": 51,
-  "posted": 34,
+  "fetched": 86,
+  "healthy": 53,
+  "posted": 35,
   "removed": 5,
   "published_scores": [
    99,
@@ -3619,6 +3646,7 @@
    69,
    99,
    99,
+   96,
    96
   ]
  }
