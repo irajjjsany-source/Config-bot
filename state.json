@@ -1,14 +1,5 @@
 {
  "seen": {
-  "10ced823bd0dcb97": 1791996329.2729728,
-  "f7c1078325325554": 1791996329.2729728,
-  "01685691ffb7546e": 1791996329.2729728,
-  "f6077aa24c0d32f4": 1791996329.2729728,
-  "8fc4473e9bda4aaa": 1791996329.2729728,
-  "2f3f605c0fe27227": 1791996329.2729728,
-  "6695ba9e454b878a": 1791996329.2729728,
-  "2884ba73a1b1b1bc": 1791996329.2729728,
-  "8dc2504dae244d8a": 1791996329.2729728,
   "f3bdadd096e7bbe3": 1791997246.5491064,
   "1e53d187ea670afa": 1791997246.5491064,
   "36a3bf96a7194138": 1791997246.5491064,
@@ -210,15 +201,6 @@
   "b370d563da4ddc4c": 1792255180.502156
  },
  "queue": [
-  {
-   "id": "8b925e133685c4d0",
-   "cfg": "vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@144.31.4.234:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#🔵@chillguy_vpn",
-   "ping": 327,
-   "best": 310,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792255180.502156
-  },
   {
    "id": "d33b7b4f4e6905d9",
    "cfg": "vless://90c08c98-7ec8-4fab-da36-cf140d18c708@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi&security=tls&alpn=h2&encryption=none&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#🔵@chillguy_vpn",
@@ -3002,6 +2984,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "8b925e133685c4d0": {
+   "cfg": "vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@144.31.4.234:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1865,
+   "ts": 1792256447.8581614,
+   "ping": 417,
+   "score": 95,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3915,13 +3907,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1792252999.1396828
+  },
+  "144.31.4.234": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1792256447.1931071
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 138,
   "healthy": 87,
-  "posted": 62,
+  "posted": 63,
   "removed": 5,
   "published_scores": [
    99,
@@ -3985,7 +3982,8 @@
    94,
    93,
    99,
-   99
+   99,
+   95
   ]
  }
 }
