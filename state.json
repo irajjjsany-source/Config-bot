@@ -225,18 +225,10 @@
   "049849fa1212fc89": 1792215926.000067,
   "07ed3ee645b8f454": 1792215926.000067,
   "40ac820586484e4b": 1792215926.000067,
-  "e4b4979e489aba99": 1792217726.3919783
+  "e4b4979e489aba99": 1792217726.3919783,
+  "9c6edac8311725b7": 1792219526.7540555
  },
  "queue": [
-  {
-   "id": "e15f5559e88dff0e",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
-   "ping": 294,
-   "best": 209,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792214126.745962
-  },
   {
    "id": "ba3599e166515aa3",
    "cfg": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@84.32.100.149:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=tcpde7.figurapn.ru&sid=868419504747f6de#🔵@chillguy_vpn",
@@ -335,6 +327,15 @@
    "score": 79,
    "stability": 100,
    "ts": 1792214126.745962
+  },
+  {
+   "id": "9c6edac8311725b7",
+   "cfg": "vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@fi.quic.best:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fi.quic.best#🔵@chillguy_vpn",
+   "ping": 2187,
+   "best": 689,
+   "score": 72,
+   "stability": 100,
+   "ts": 1792219526.7540555
   },
   {
    "id": "7249719c0414fee8",
@@ -2552,6 +2553,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "e15f5559e88dff0e": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1811,
+   "ts": 1792219541.9113808,
+   "ping": 1215,
+   "score": 84,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3315,13 +3326,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1792218638.3366845
+  },
+  "169.40.42.74": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792219541.252974
   }
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 36,
-  "healthy": 21,
-  "posted": 8,
+  "fetched": 37,
+  "healthy": 22,
+  "posted": 9,
   "removed": 5,
   "published_scores": [
    99,
@@ -3331,7 +3347,8 @@
    86,
    99,
    97,
-   98
+   98,
+   84
   ]
  }
 }
