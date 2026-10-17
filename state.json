@@ -220,9 +220,20 @@
   "2cb174f7245f0a5d": 1792234325.1003118,
   "946421ca2cb33e33": 1792234844.4600208,
   "ad274866164afa54": 1792234844.4600208,
-  "f8a303bab8717c69": 1792234844.4600208
+  "f8a303bab8717c69": 1792234844.4600208,
+  "ee7bbfc696070453": 1792235728.5577333,
+  "1adcd2df6012f0f5": 1792235728.5577333
  },
  "queue": [
+  {
+   "id": "1adcd2df6012f0f5",
+   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#🔵@chillguy_vpn",
+   "ping": 351,
+   "best": 342,
+   "score": 95,
+   "stability": 100,
+   "ts": 1792235728.5577333
+  },
   {
    "id": "b6a7d52deee4aafc",
    "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&host=%2F%3FTELEGRAM---V2ray_confiig&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#🔵@chillguy_vpn",
@@ -276,15 +287,6 @@
    "score": 78,
    "stability": 100,
    "ts": 1792233036.8785737
-  },
-  {
-   "id": "7249719c0414fee8",
-   "cfg": "vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🔵@chillguy_vpn",
-   "ping": 2522,
-   "best": 2381,
-   "score": 67,
-   "stability": 100,
-   "ts": 1792214126.745962
   },
   {
    "id": "1ceb7c651b6f3a67",
@@ -2781,6 +2783,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "ee7bbfc696070453": {
+   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1838,
+   "ts": 1792235735.3484323,
+   "ping": 348,
+   "score": 95,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3608,9 +3620,9 @@
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 86,
-  "healthy": 53,
-  "posted": 35,
+  "fetched": 88,
+  "healthy": 55,
+  "posted": 36,
   "removed": 5,
   "published_scores": [
    99,
@@ -3647,7 +3659,8 @@
    99,
    99,
    96,
-   96
+   96,
+   95
   ]
  }
 }
