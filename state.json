@@ -236,15 +236,6 @@
  },
  "queue": [
   {
-   "id": "9560310ab9faf386",
-   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#🔵@chillguy_vpn",
-   "ping": 553,
-   "best": 526,
-   "score": 93,
-   "stability": 100,
-   "ts": 1792214126.745962
-  },
-  {
    "id": "71eec3dd2f4d1a6a",
    "cfg": "vless://16188ecf-2dcd-40d7-898b-60461f125978@ger-allnet.onlinernet.ir:22000?security=reality&encryption=none&pbk=IffRRgkO2Kn06y1prY-NT2TfW-Ezm_RBi__F_jhKoSw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=connectivitycheck.android.com&sid=1b0fa065866978d2#🔵@chillguy_vpn",
    "ping": 567,
@@ -2591,6 +2582,16 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "9560310ab9faf386": {
+   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1816,
+   "ts": 1792222241.9511702,
+   "ping": 990,
+   "score": 87,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3385,7 +3386,7 @@
   "date": "2026-10-17",
   "fetched": 43,
   "healthy": 26,
-  "posted": 13,
+  "posted": 14,
   "removed": 5,
   "published_scores": [
    99,
@@ -3400,7 +3401,8 @@
    93,
    92,
    92,
-   93
+   93,
+   87
   ]
  }
 }
