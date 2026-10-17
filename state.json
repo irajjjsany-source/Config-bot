@@ -228,15 +228,6 @@
  },
  "queue": [
   {
-   "id": "b86f729072b93a10",
-   "cfg": "vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 119,
-   "best": 119,
-   "score": 98,
-   "stability": 100,
-   "ts": 1792214126.745962
-  },
-  {
    "id": "24597169e39e6818",
    "cfg": "vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#🔵@chillguy_vpn",
    "ping": 181,
@@ -2580,6 +2571,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "b86f729072b93a10": {
+   "cfg": "vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1807,
+   "ts": 1792216849.4236906,
+   "ping": 1065,
+   "score": 86,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3323,19 +3324,25 @@
    "cc": "SE",
    "name": "Sweden",
    "ts": 1792050330.6729467
+  },
+  "45.138.100.248": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792216848.786276
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 35,
   "healthy": 20,
-  "posted": 4,
+  "posted": 5,
   "removed": 0,
   "published_scores": [
    99,
    97,
    98,
-   99
+   99,
+   86
   ]
  }
 }
