@@ -216,18 +216,10 @@
   "cf0dac8ba0bb1b2c": 1792233036.8785737,
   "0487436b2eb57c28": 1792233036.8785737,
   "c48fb9449de2b59c": 1792233036.8785737,
-  "861a90939841f2d8": 1792233036.8785737
+  "861a90939841f2d8": 1792233036.8785737,
+  "2cb174f7245f0a5d": 1792234325.1003118
  },
  "queue": [
-  {
-   "id": "0487436b2eb57c28",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
-   "ping": 184,
-   "best": 164,
-   "score": 98,
-   "stability": 100,
-   "ts": 1792233036.8785737
-  },
   {
    "id": "861a90939841f2d8",
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🔵@chillguy_vpn",
@@ -254,6 +246,15 @@
    "score": 93,
    "stability": 100,
    "ts": 1792233036.8785737
+  },
+  {
+   "id": "2cb174f7245f0a5d",
+   "cfg": "vless://cf89fddb-e76b-430e-8952-61e33d4da4a6@f36.tivexabot.ir:8443?encryption=none&fp=chrome&pbk=QJ0hQw2eD-EVhhGSr28CN10dVFDNGKgaIZ8spSZFO3M&security=reality&sid=19fad7d75677e2&sni=stg-ru-images.shop.samsung.com&spx=%2F9b9f529f9cc2b67&support-x25519mlkem768=true&type=tcp#🔵@chillguy_vpn",
+   "ping": 723,
+   "best": 632,
+   "score": 91,
+   "stability": 100,
+   "ts": 1792234325.1003118
   },
   {
    "id": "c48fb9449de2b59c",
@@ -2748,6 +2749,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "0487436b2eb57c28": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1836,
+   "ts": 1792234334.007311,
+   "ping": 285,
+   "score": 96,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3570,9 +3581,9 @@
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 82,
-  "healthy": 50,
-  "posted": 33,
+  "fetched": 83,
+  "healthy": 51,
+  "posted": 34,
   "removed": 5,
   "published_scores": [
    99,
@@ -3607,7 +3618,8 @@
    79,
    69,
    99,
-   99
+   99,
+   96
   ]
  }
 }
