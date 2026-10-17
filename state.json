@@ -227,7 +227,9 @@
   "68029ac356858d1a": 1792237527.3143823,
   "27c4a02d78ff2cb6": 1792237527.3143823,
   "4dfc0875910b7307": 1792237527.3143823,
-  "41024ecd0ad943c8": 1792237527.3143823
+  "41024ecd0ad943c8": 1792237527.3143823,
+  "34b45d5e2aa00cd4": 1792239327.0230582,
+  "9a28d70aca27c78a": 1792239327.0230582
  },
  "queue": [
   {
@@ -2812,6 +2814,16 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "9a28d70aca27c78a": {
+   "cfg": "vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?path=%2Fapi%2Fv1%2Fevents&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl5.hap-plus.ru&fp=firefox&type=ws&allowInsecure=0&sni=nl5.hap-plus.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1844,
+   "ts": 1792239333.9515207,
+   "ping": 794,
+   "score": 90,
+   "stability": 100,
+   "country": "Cambodia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3650,13 +3662,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1792238452.987625
+  },
+  "nl5.hap-plus.ru": {
+   "cc": "KH",
+   "name": "Cambodia",
+   "ts": 1792239333.2387578
   }
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 93,
-  "healthy": 58,
-  "posted": 41,
+  "fetched": 95,
+  "healthy": 59,
+  "posted": 42,
   "removed": 5,
   "published_scores": [
    99,
@@ -3699,7 +3716,8 @@
    73,
    91,
    68,
-   73
+   73,
+   90
   ]
  }
 }
