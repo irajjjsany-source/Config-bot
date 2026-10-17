@@ -1,9 +1,5 @@
 {
  "seen": {
-  "74d0d4f499f03d3f": 1791970772.792995,
-  "0a46a137c5f25010": 1791970772.792995,
-  "86f33550bb9f3472": 1791970772.792995,
-  "ffd2070ad356e9a2": 1791970772.792995,
   "0d6d3ad8d5409c93": 1791986448.071716,
   "49ee23752b5d69cf": 1791986448.071716,
   "b821a16be573c087": 1791986448.071716,
@@ -209,15 +205,6 @@
   "381f73fcbbb23ff2": 1792228762.6313634
  },
  "queue": [
-  {
-   "id": "b2d928b1fd34343f",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 749,
-   "best": 354,
-   "score": 90,
-   "stability": 100,
-   "ts": 1792228526.1059039
-  },
   {
    "id": "5f8716e4c79f9e9e",
    "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#🔵@chillguy_vpn",
@@ -2704,6 +2691,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "b2d928b1fd34343f": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1829,
+   "ts": 1792230331.419256,
+   "ping": 226,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3512,13 +3509,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1792228799.1120381
+  },
+  "169.40.42.225": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792230330.6636927
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 68,
   "healthy": 42,
-  "posted": 26,
+  "posted": 27,
   "removed": 5,
   "published_scores": [
    99,
@@ -3546,7 +3548,8 @@
    94,
    94,
    88,
-   93
+   93,
+   97
   ]
  }
 }
