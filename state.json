@@ -175,7 +175,8 @@
   "b370d563da4ddc4c": 1792255180.502156,
   "92790e4b9b517a82": 1792258641.7241926,
   "a85a6aecc6d9edff": 1792260926.185094,
-  "453caee29fec734b": 1792262726.366764
+  "453caee29fec734b": 1792262726.366764,
+  "f05aea121d21cd54": 1792263498.088885
  },
  "queue": [],
  "posted": {
@@ -2984,6 +2985,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "f05aea121d21cd54": {
+   "cfg": "vless://771e25d5-6f45-4270-87a5-963afb2dd251@ece25302dafcd536.tunde.w-ert.org:501?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca4134a0ed2592b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1871,
+   "ts": 1792263519.6389573,
+   "ping": 4939,
+   "score": 36,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3917,13 +3928,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1792262733.1799374
+  },
+  "ece25302dafcd536.tunde.w-ert.org": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1792263518.892763
   }
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 141,
-  "healthy": 88,
-  "posted": 68,
+  "fetched": 142,
+  "healthy": 89,
+  "posted": 69,
   "removed": 5,
   "published_scores": [
    99,
@@ -3993,7 +4009,8 @@
    89,
    88,
    90,
-   87
+   87,
+   36
   ]
  }
 }
