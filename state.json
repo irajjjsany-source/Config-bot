@@ -2341,12 +2341,6 @@
    "country": "Netherlands",
    "repost_count": 0
   },
-  "7a6e5ef05fbfc97b": {
-   "cfg": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1792,
-   "ts": 1792046721.1150293,
-   "repost_count": 1
-  },
   "49ee23752b5d69cf": {
    "cfg": "vmess://eyJhZGQiOiAiNTQuMzcuMTMxLjEyNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCAiaWQiOiAiNmRlZWY5YWQtMTM1Ny00NDNkLWY5NWMtY2IxODk1MmMyMGIzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==",
    "msg": 1793,
@@ -2419,12 +2413,6 @@
    "country": "The Netherlands",
    "repost_count": 0
   },
-  "8fc4473e9bda4aaa": {
-   "cfg": "vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@193.233.217.20:57443?mode=gun&security=reality&encryption=none&pbk=SPX2Uhw5AAifbNUjZf2zwpfvDUlUw3C7waDNMO48lSE&fp=random&type=grpc&serviceName=grpc&sni=media.polina.lol#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1795,
-   "ts": 1792046733.052741,
-   "repost_count": 1
-  },
   "8798ff8292553fe1": {
    "cfg": "vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125/?type=tcp&encryption=none&flow=#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1787,
@@ -2473,36 +2461,6 @@
    "score": 93,
    "stability": 100,
    "country": "United Arab Emirates",
-   "repost_count": 0
-  },
-  "1a3a87a7b93282f0": {
-   "cfg": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@jp2.oh-node.com:443?security=reality&encryption=none&pbk=3yorIs_psiYbIeESwMdne5mPe2JVzeNOpDa2IJxQ-Es&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.capcom.co.jp&sid=21fa8a1ebf#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1796,
-   "ts": 1792048551.648325,
-   "ping": 756,
-   "score": 90,
-   "stability": 100,
-   "country": "Japan",
-   "repost_count": 0
-  },
-  "228d50d9a3073bfd": {
-   "cfg": "vless://73712dc9-c3de-4e46-9063-cdc88b7a45f6@103.180.20.132:20005?security=reality&encryption=none&pbk=NdpLwhOfALzPx26QT985xAncCWejWJBrcREI8I2lrHM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=2bd5ea1422613a24#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1797,
-   "ts": 1792049156.4007301,
-   "ping": 804,
-   "score": 90,
-   "stability": 100,
-   "country": "Hong Kong",
-   "repost_count": 0
-  },
-  "356b9be34cdef975": {
-   "cfg": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?security=reality&encryption=none&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=hk4e-launcher-static.hoyoverse.com&sid=b81edf7fdee4#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1798,
-   "ts": 1792049441.7610993,
-   "ping": 679,
-   "score": 91,
-   "stability": 100,
-   "country": "Hong Kong",
    "repost_count": 0
   },
   "c3aca0a86338316d": {
@@ -3364,7 +3322,7 @@
   "fetched": 36,
   "healthy": 21,
   "posted": 8,
-  "removed": 0,
+  "removed": 5,
   "published_scores": [
    99,
    97,
