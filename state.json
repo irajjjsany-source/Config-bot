@@ -209,15 +209,6 @@
  },
  "queue": [
   {
-   "id": "bad433cc67343656",
-   "cfg": "vless://16188ecf-2dcd-40d7-898b-60461f125978@de3-allnet.onlinernet.ir:22000?security=reality&encryption=none&pbk=IffRRgkO2Kn06y1prY-NT2TfW-Ezm_RBi__F_jhKoSw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=connectivitycheck.android.com&sid=1b0fa065866978d2#🔵@chillguy_vpn",
-   "ping": 607,
-   "best": 455,
-   "score": 92,
-   "stability": 100,
-   "ts": 1792219768.9248724
-  },
-  {
    "id": "081c29aa26d9c028",
    "cfg": "vless://16a946fa-6ea8-48a6-915a-d9028b97b45a@6327.velqixa.ir:36233?encryption=none&security=reality&type=tcp&headerType=none&sni=www3.velqixa.ir&fp=chrome&pbk=MtixyKIdkLlFH3-9MwocywuYPBMwMmqcKLoFSU-5NXg&sid=ae8f4a77c23a7b2c#🔵@chillguy_vpn",
    "ping": 608,
@@ -2641,6 +2632,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "bad433cc67343656": {
+   "cfg": "vless://16188ecf-2dcd-40d7-898b-60461f125978@de3-allnet.onlinernet.ir:22000?security=reality&encryption=none&pbk=IffRRgkO2Kn06y1prY-NT2TfW-Ezm_RBi__F_jhKoSw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=connectivitycheck.android.com&sid=1b0fa065866978d2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1821,
+   "ts": 1792225292.518539,
+   "ping": 998,
+   "score": 87,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3434,13 +3435,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792223129.771647
+  },
+  "de3-allnet.onlinernet.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1792225291.7796466
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 54,
   "healthy": 34,
-  "posted": 18,
+  "posted": 19,
   "removed": 5,
   "published_scores": [
    99,
@@ -3460,7 +3466,8 @@
    95,
    99,
    93,
-   91
+   91,
+   87
   ]
  }
 }
