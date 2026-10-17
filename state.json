@@ -1,6 +1,5 @@
 {
  "seen": {
-  "065ea40eda8a6677": 1792007129.1321151,
   "a8d396cad6785f6d": 1792008045.9148211,
   "90c2e94b772c9c0a": 1792042237.2816777,
   "0ea5463e4295b75d": 1792042237.2816777,
@@ -199,15 +198,6 @@
   "70ec3d5c60e4a8b3": 1792266325.8147974
  },
  "queue": [
-  {
-   "id": "8253d3238da08efd",
-   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=%2F&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#🔵@chillguy_vpn",
-   "ping": 593,
-   "best": 589,
-   "score": 92,
-   "stability": 100,
-   "ts": 1792263645.7414298
-  },
   {
    "id": "824cba9d222cd0e4",
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#🔵@chillguy_vpn",
@@ -3174,6 +3164,16 @@
    "stability": 100,
    "country": "Montenegro",
    "repost_count": 0
+  },
+  "8253d3238da08efd": {
+   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=%2F&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1877,
+   "ts": 1792266505.0806282,
+   "ping": 597,
+   "score": 92,
+   "stability": 100,
+   "country": "Montenegro",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4132,13 +4132,18 @@
    "cc": "ME",
    "name": "Montenegro",
    "ts": 1792266344.9810903
+  },
+  "31.57.190.15": {
+   "cc": "ME",
+   "name": "Montenegro",
+   "ts": 1792266504.0875382
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 166,
   "healthy": 107,
-  "posted": 74,
+  "posted": 75,
   "removed": 5,
   "published_scores": [
    99,
@@ -4214,7 +4219,8 @@
    95,
    53,
    95,
-   75
+   75,
+   92
   ]
  }
 }
