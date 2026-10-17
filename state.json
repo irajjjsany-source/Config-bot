@@ -211,7 +211,8 @@
   "9112b287abdec7e8": 1792245644.0128725,
   "d225a3d55ac81a70": 1792245644.0128725,
   "a6889c497fde817e": 1792245644.0128725,
-  "9260f1924eb61a96": 1792245644.0128725
+  "9260f1924eb61a96": 1792245644.0128725,
+  "4a68f37900c4ad73": 1792246526.2601082
  },
  "queue": [
   {
@@ -2839,6 +2840,16 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "4a68f37900c4ad73": {
+   "cfg": "vless://adc788dc-332c-41c1-8148-03a5bd092a6f@3.140.185.66:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HN3vSvTNrcW9ZYJJR_nFCi_luUww0dmx9iW8wD-leWU&security=reality&sid=33&sni=www.pypi.org&spx=%2Fbcca87c01553870&support-x25519mlkem768=true&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1851,
+   "ts": 1792246530.3634675,
+   "ping": 413,
+   "score": 95,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3702,13 +3713,18 @@
    "cc": "FR",
    "name": "France",
    "ts": 1792245665.1096518
+  },
+  "3.140.185.66": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792246529.8193173
   }
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 113,
-  "healthy": 67,
-  "posted": 48,
+  "fetched": 114,
+  "healthy": 68,
+  "posted": 49,
   "removed": 5,
   "published_scores": [
    99,
@@ -3758,7 +3774,8 @@
    93,
    92,
    95,
-   81
+   81,
+   95
   ]
  }
 }
