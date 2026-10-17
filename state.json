@@ -1,11 +1,5 @@
 {
  "seen": {
-  "bbc58fb8fe995cde": 1791994528.0310552,
-  "4230185cf22b2521": 1791994528.0310552,
-  "0ad2c6c3e1660b85": 1791994528.0310552,
-  "75587cd453055c51": 1791994528.0310552,
-  "14f1a6bc65f82fe0": 1791994528.0310552,
-  "1454b5cd809f0209": 1791994528.0310552,
   "404c3a8c6514bd35": 1791995811.474546,
   "10ced823bd0dcb97": 1791996329.2729728,
   "f7c1078325325554": 1791996329.2729728,
@@ -204,7 +198,8 @@
   "0c27b06d96fbb85e": 1792252850.8136363,
   "9dcd3febdf885752": 1792252850.8136363,
   "138a293aff5fd3ea": 1792252850.8136363,
-  "3bb595c40759e5f2": 1792253726.0661705
+  "3bb595c40759e5f2": 1792253726.0661705,
+  "9c634d7024df6e9e": 1792254639.3453546
  },
  "queue": [],
  "posted": {
@@ -2923,6 +2918,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "9c634d7024df6e9e": {
+   "cfg": "vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?security=reality&encryption=none&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.travel#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1862,
+   "ts": 1792254644.7905421,
+   "ping": 572,
+   "score": 93,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3840,9 +3845,9 @@
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 128,
-  "healthy": 79,
-  "posted": 59,
+  "fetched": 129,
+  "healthy": 80,
+  "posted": 60,
   "removed": 5,
   "published_scores": [
    99,
@@ -3903,7 +3908,8 @@
    66,
    90,
    44,
-   94
+   94,
+   93
   ]
  }
 }
