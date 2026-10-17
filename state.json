@@ -199,15 +199,6 @@
  },
  "queue": [
   {
-   "id": "c2be6a8d724074db",
-   "cfg": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpswed1.figurapn.ru&sid=868419504747f6de#🔵@chillguy_vpn",
-   "ping": 445,
-   "best": 443,
-   "score": 94,
-   "stability": 100,
-   "ts": 1792263645.7414298
-  },
-  {
    "id": "819010a3b1cd0d4a",
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#🔵@chillguy_vpn",
    "ping": 487,
@@ -3170,6 +3161,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "c2be6a8d724074db": {
+   "cfg": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpswed1.figurapn.ru&sid=868419504747f6de#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1874,
+   "ts": 1792264933.0469532,
+   "ping": 3636,
+   "score": 53,
+   "stability": 100,
+   "country": "Sweden",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4113,13 +4114,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792264554.66926
+  },
+  "88.216.223.66": {
+   "cc": "SE",
+   "name": "Sweden",
+   "ts": 1792264932.2772706
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 161,
   "healthy": 106,
-  "posted": 71,
+  "posted": 72,
   "removed": 5,
   "published_scores": [
    99,
@@ -4192,7 +4198,8 @@
    87,
    36,
    95,
-   95
+   95,
+   53
   ]
  }
 }
