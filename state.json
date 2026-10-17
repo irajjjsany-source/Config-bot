@@ -202,7 +202,12 @@
   "a6889c497fde817e": 1792245644.0128725,
   "9260f1924eb61a96": 1792245644.0128725,
   "4a68f37900c4ad73": 1792246526.2601082,
-  "1d379b45ac57cbce": 1792247436.463747
+  "1d379b45ac57cbce": 1792247436.463747,
+  "07fe40de98954cc4": 1792248327.1287558,
+  "4189a84f8f6e74ab": 1792248327.1287558,
+  "680e682e3f877dd5": 1792248327.1287558,
+  "e7a4365ad5251bff": 1792248327.1287558,
+  "543b62b10c9ee811": 1792248327.1287558
  },
  "queue": [
   {
@@ -213,6 +218,24 @@
    "score": 75,
    "stability": 100,
    "ts": 1792245644.0128725
+  },
+  {
+   "id": "07fe40de98954cc4",
+   "cfg": "vless://3c055671-0633-4b8c-8c6b-ab6fe5fd9862@81b52e72fcd7b5c0.tunde.w-ert.org:501?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
+   "ping": 2041,
+   "best": 1191,
+   "score": 73,
+   "stability": 100,
+   "ts": 1792248327.1287558
+  },
+  {
+   "id": "e7a4365ad5251bff",
+   "cfg": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&type=tcp&sni=tcpswed1.figurapn.ru&sid=868419504747f6de#🔵@chillguy_vpn",
+   "ping": 4006,
+   "best": 2720,
+   "score": 48,
+   "stability": 100,
+   "ts": 1792248327.1287558
   }
  ],
  "posted": {
@@ -2851,6 +2874,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "543b62b10c9ee811": {
+   "cfg": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@84.32.100.149:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&type=tcp&sni=tcpde7.figurapn.ru&sid=868419504747f6de#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1854,
+   "ts": 1792248356.3295481,
+   "ping": 594,
+   "score": 92,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3729,13 +3762,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1792247912.5226207
+  },
+  "84.32.100.149": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1792248355.6500888
   }
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 115,
-  "healthy": 69,
-  "posted": 51,
+  "fetched": 120,
+  "healthy": 72,
+  "posted": 52,
   "removed": 5,
   "published_scores": [
    99,
@@ -3788,7 +3826,8 @@
    81,
    95,
    85,
-   81
+   81,
+   92
   ]
  }
 }
