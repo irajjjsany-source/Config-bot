@@ -236,15 +236,6 @@
  },
  "queue": [
   {
-   "id": "831d8f04192daa21",
-   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&host=%2F%40Net2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#🔵@chillguy_vpn",
-   "ping": 547,
-   "best": 541,
-   "score": 93,
-   "stability": 100,
-   "ts": 1792214126.745962
-  },
-  {
    "id": "9560310ab9faf386",
    "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#🔵@chillguy_vpn",
    "ping": 553,
@@ -2590,6 +2581,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "831d8f04192daa21": {
+   "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&host=%2F%40Net2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1815,
+   "ts": 1792222026.9564655,
+   "ping": 525,
+   "score": 93,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3373,13 +3374,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1792221335.7176683
+  },
+  "177.1.192.74": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1792222026.4613252
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 43,
   "healthy": 26,
-  "posted": 12,
+  "posted": 13,
   "removed": 5,
   "published_scores": [
    99,
@@ -3393,7 +3399,8 @@
    84,
    93,
    92,
-   92
+   92,
+   93
   ]
  }
 }
