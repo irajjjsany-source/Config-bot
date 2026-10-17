@@ -203,7 +203,8 @@
   "21352b80513ae1b6": 1792250126.0416813,
   "0c27b06d96fbb85e": 1792252850.8136363,
   "9dcd3febdf885752": 1792252850.8136363,
-  "138a293aff5fd3ea": 1792252850.8136363
+  "138a293aff5fd3ea": 1792252850.8136363,
+  "3bb595c40759e5f2": 1792253726.0661705
  },
  "queue": [],
  "posted": {
@@ -2912,6 +2913,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "3bb595c40759e5f2": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1861,
+   "ts": 1792253731.2548935,
+   "ping": 495,
+   "score": 94,
+   "stability": 100,
+   "country": "Singapore",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3829,9 +3840,9 @@
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 127,
-  "healthy": 78,
-  "posted": 58,
+  "fetched": 128,
+  "healthy": 79,
+  "posted": 59,
   "removed": 5,
   "published_scores": [
    99,
@@ -3891,7 +3902,8 @@
    87,
    66,
    90,
-   44
+   44,
+   94
   ]
  }
 }
