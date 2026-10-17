@@ -205,27 +205,10 @@
   "e1af1034620e0e7f": 1792223794.9003131,
   "a462439862b46550": 1792224928.9171095,
   "1ceb7c651b6f3a67": 1792224928.9171095,
-  "dec9b060f9c96ed9": 1792224928.9171095
+  "dec9b060f9c96ed9": 1792224928.9171095,
+  "620a1599cc7f6de0": 1792225835.4060903
  },
  "queue": [
-  {
-   "id": "081c29aa26d9c028",
-   "cfg": "vless://16a946fa-6ea8-48a6-915a-d9028b97b45a@6327.velqixa.ir:36233?encryption=none&security=reality&type=tcp&headerType=none&sni=www3.velqixa.ir&fp=chrome&pbk=MtixyKIdkLlFH3-9MwocywuYPBMwMmqcKLoFSU-5NXg&sid=ae8f4a77c23a7b2c#🔵@chillguy_vpn",
-   "ping": 608,
-   "best": 604,
-   "score": 92,
-   "stability": 100,
-   "ts": 1792219768.9248724
-  },
-  {
-   "id": "e1af1034620e0e7f",
-   "cfg": "vless://20ff936a-8eb5-4d27-9cce-93f2016d467b@188.114.98.0:443?encryption=none&security=tls&sni=free.nadun.store&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=free.nadun.store&path=%2F#🔵@chillguy_vpn",
-   "ping": 625,
-   "best": 557,
-   "score": 92,
-   "stability": 100,
-   "ts": 1792223794.9003131
-  },
   {
    "id": "ab2d9a43440b1b35",
    "cfg": "vless://e7a4decb-631e-422b-9749-7e8f54618308@rusx2.braidx.tech:443?security=reality&encryption=none&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#🔵@chillguy_vpn",
@@ -2642,6 +2625,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "e1af1034620e0e7f": {
+   "cfg": "vless://20ff936a-8eb5-4d27-9cce-93f2016d467b@188.114.98.0:443?encryption=none&security=tls&sni=free.nadun.store&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=free.nadun.store&path=%2F#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1822,
+   "ts": 1792225847.1486382,
+   "ping": 561,
+   "score": 93,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3444,9 +3437,9 @@
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 54,
+  "fetched": 55,
   "healthy": 34,
-  "posted": 19,
+  "posted": 20,
   "removed": 5,
   "published_scores": [
    99,
@@ -3467,7 +3460,8 @@
    99,
    93,
    91,
-   87
+   87,
+   93
   ]
  }
 }
