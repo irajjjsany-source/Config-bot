@@ -1,41 +1,5 @@
 {
  "seen": {
-  "0d6d3ad8d5409c93": 1791986448.071716,
-  "49ee23752b5d69cf": 1791986448.071716,
-  "b821a16be573c087": 1791986448.071716,
-  "f74d61b1a0ed9fef": 1791986448.071716,
-  "3f2f6e7fd0cdcce6": 1791986448.071716,
-  "f79ba51b6c13711e": 1791986448.071716,
-  "b576534bac96252f": 1791986448.071716,
-  "d5e63e281c34e2b4": 1791986448.071716,
-  "cee3f7443349c211": 1791986448.071716,
-  "b7d857ed8c2e5029": 1791986448.071716,
-  "f528329495affdae": 1791986448.071716,
-  "456a202d31b3c8b8": 1791986448.071716,
-  "2493f39c5bfbeae8": 1791986448.071716,
-  "2f9f26ba282fc4c6": 1791986448.071716,
-  "efaf667994410208": 1791986448.071716,
-  "a59877ace1f5974a": 1791986448.071716,
-  "a3d4a9a4ecd93c83": 1791986448.071716,
-  "803f1000df778612": 1791986448.071716,
-  "0d065bcfa4b3006d": 1791986448.071716,
-  "5c3203bb164c8edf": 1791986448.071716,
-  "dac30d232d3168e6": 1791986448.071716,
-  "448659e3edb1a0ca": 1791986448.071716,
-  "ec89198ae0d510a3": 1791986448.071716,
-  "49e8327f8c61ae19": 1791986448.071716,
-  "03ba712efaa9a8a9": 1791986448.071716,
-  "d7b2db82427289e4": 1791986448.071716,
-  "9932b8243d1bf30c": 1791986448.071716,
-  "c0a3bc401f7521f7": 1791986448.071716,
-  "bd1aae18543eb4f5": 1791986448.071716,
-  "0a01c2447a26b7d3": 1791986448.071716,
-  "96147b14e25bc0fc": 1791986448.071716,
-  "217fa279d87b1a51": 1791986448.071716,
-  "ce53cb7978f15ee2": 1791986448.071716,
-  "b4e60c89ff35d9d6": 1791986448.071716,
-  "fe9ccd86acb4bbfb": 1791986448.071716,
-  "9f934048159d5aff": 1791986448.071716,
   "2bd75d54e1707ad8": 1791987326.907704,
   "27a78b07c593f484": 1791987326.907704,
   "ef2e28a0fee56cc8": 1791987326.907704,
@@ -250,24 +214,6 @@
   "9260f1924eb61a96": 1792245644.0128725
  },
  "queue": [
-  {
-   "id": "d225a3d55ac81a70",
-   "cfg": "vless://df2d6626-90e4-4599-a4da-d84352c4907d@tamiiiiz.aryan-sport.ir:443?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=dd.servicevip.cc.cd#🔵@chillguy_vpn",
-   "ping": 420,
-   "best": 241,
-   "score": 95,
-   "stability": 100,
-   "ts": 1792245644.0128725
-  },
-  {
-   "id": "0931ca7830f4f112",
-   "cfg": "vless://a78b5c11-8d65-4030-8c12-42fce6d43749@tun2.w-ert.org:450?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
-   "ping": 1105,
-   "best": 1022,
-   "score": 86,
-   "stability": 100,
-   "ts": 1792244726.1460397
-  },
   {
    "id": "9260f1924eb61a96",
    "cfg": "vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=node-uk.connectsuite.org#🔵@chillguy_vpn",
@@ -2883,6 +2829,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "0931ca7830f4f112": {
+   "cfg": "vless://a78b5c11-8d65-4030-8c12-42fce6d43749@tun2.w-ert.org:450?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1850,
+   "ts": 1792245868.299208,
+   "ping": 1459,
+   "score": 81,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3752,7 +3708,7 @@
   "date": "2026-10-17",
   "fetched": 113,
   "healthy": 67,
-  "posted": 47,
+  "posted": 48,
   "removed": 5,
   "published_scores": [
    99,
@@ -3801,7 +3757,8 @@
    99,
    93,
    92,
-   95
+   95,
+   81
   ]
  }
 }
