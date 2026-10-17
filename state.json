@@ -238,7 +238,8 @@
   "4e2106b36918dc90": 1792242046.581231,
   "5219f3454527b912": 1792242046.581231,
   "cbad83047ddd015e": 1792242046.581231,
-  "6df03fc624ff68c6": 1792242046.581231
+  "6df03fc624ff68c6": 1792242046.581231,
+  "84e8471f59164e3f": 1792242926.345497
  },
  "queue": [],
  "posted": {
@@ -2807,6 +2808,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "84e8471f59164e3f": {
+   "cfg": "vless://b11cc02a-6d06-4721-8ba0-b98373e7f4fe@cyrus.0bzeloenu7ks.workers.dev:443?path=%2Flink%3Fed%3D2048%26a%3Dcyrus.0bzeloenu7ks.workers.dev&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cYrUs.0BzElOeNu7kS.WoRkErS.DeV&fp=chrome&type=ws&allowInsecure=0&sni=cYrUs.0BzElOeNu7kS.WoRkErS.DeV#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1847,
+   "ts": 1792242931.394925,
+   "ping": 554,
+   "score": 93,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3655,13 +3666,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1792239552.3888326
+  },
+  "cyrus.0bzeloenu7ks.workers.dev": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1792242930.690872
   }
  },
  "stats": {
   "date": "2026-10-17",
-  "fetched": 104,
-  "healthy": 60,
-  "posted": 44,
+  "fetched": 105,
+  "healthy": 61,
+  "posted": 45,
   "removed": 5,
   "published_scores": [
    99,
@@ -3707,7 +3723,8 @@
    73,
    90,
    91,
-   99
+   99,
+   93
   ]
  }
 }
