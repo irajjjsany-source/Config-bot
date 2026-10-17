@@ -206,15 +206,6 @@
  },
  "queue": [
   {
-   "id": "21352b80513ae1b6",
-   "cfg": "vmess://eyJhZGQiOiAiOTQuMTgzLjE2NS40NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICI5NC4xODMuMTY1LjQ1IiwgImlkIjogImI3ZDhiYjgyLWQwMzktNDQxNC1iN2YxLTNjYzJmZWZkNTY2NSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDIwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9",
-   "ping": 829,
-   "best": 781,
-   "score": 89,
-   "stability": 100,
-   "ts": 1792250126.0416813
-  },
-  {
    "id": "d49c10a4652961c2",
    "cfg": "vless://d8abd668-0b7d-47da-b59f-a6566e69fb16@37.32.31.16:1300?security=none&encryption=mlkem768x25519plus.native.0rtt.5grU7g5v7z5UsdXanYsV6K6xIEJbIjYes51g-rhNAjQ&headerType=none&type=tcp#🔵@chillguy_vpn",
    "ping": 1473,
@@ -2900,6 +2891,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "21352b80513ae1b6": {
+   "cfg": "vmess://eyJhZGQiOiAiOTQuMTgzLjE2NS40NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICI5NC4xODMuMTY1LjQ1IiwgImlkIjogImI3ZDhiYjgyLWQwMzktNDQxNC1iN2YxLTNjYzJmZWZkNTY2NSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDIwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==",
+   "msg": 1858,
+   "ts": 1792251523.5727184,
+   "ping": 2588,
+   "score": 66,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3798,13 +3799,18 @@
    "cc": "FR",
    "name": "France",
    "ts": 1792251043.4122407
+  },
+  "94.183.165.45": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1792251522.8191006
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 124,
   "healthy": 76,
-  "posted": 55,
+  "posted": 56,
   "removed": 5,
   "published_scores": [
    99,
@@ -3861,7 +3867,8 @@
    92,
    76,
    94,
-   87
+   87,
+   66
   ]
  }
 }
