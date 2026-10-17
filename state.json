@@ -1,9 +1,5 @@
 {
  "seen": {
-  "6172d20a4aabdcff": 1791989128.0826454,
-  "1c8e4e7d3f139bc0": 1791989128.0826454,
-  "acb6dd3179843f13": 1791989128.0826454,
-  "4b213794b7f0f718": 1791989128.0826454,
   "47b78cca77a28ef9": 1791990900.1550312,
   "92b9a80c35ccb4b0": 1791990900.1550312,
   "5a254f7897520596": 1791990900.1550312,
@@ -210,15 +206,6 @@
   "543b62b10c9ee811": 1792248327.1287558
  },
  "queue": [
-  {
-   "id": "bfacb32265aad6f6",
-   "cfg": "vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl.flen-vpn.xyz#🔵@chillguy_vpn",
-   "ping": 1939,
-   "best": 1322,
-   "score": 75,
-   "stability": 100,
-   "ts": 1792245644.0128725
-  },
   {
    "id": "07fe40de98954cc4",
    "cfg": "vless://3c055671-0633-4b8c-8c6b-ab6fe5fd9862@81b52e72fcd7b5c0.tunde.w-ert.org:501?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
@@ -2884,6 +2871,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "bfacb32265aad6f6": {
+   "cfg": "vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl.flen-vpn.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1855,
+   "ts": 1792249254.3048363,
+   "ping": 1882,
+   "score": 76,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3767,13 +3764,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792248355.6500888
+  },
+  "2.26.225.89": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1792249253.6436791
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 120,
   "healthy": 72,
-  "posted": 52,
+  "posted": 53,
   "removed": 5,
   "published_scores": [
    99,
@@ -3827,7 +3829,8 @@
    95,
    85,
    81,
-   92
+   92,
+   76
   ]
  }
 }
