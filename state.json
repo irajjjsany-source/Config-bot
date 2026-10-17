@@ -206,15 +206,6 @@
  },
  "queue": [
   {
-   "id": "9260f1924eb61a96",
-   "cfg": "vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=node-uk.connectsuite.org#🔵@chillguy_vpn",
-   "ping": 1242,
-   "best": 730,
-   "score": 84,
-   "stability": 100,
-   "ts": 1792245644.0128725
-  },
-  {
    "id": "bfacb32265aad6f6",
    "cfg": "vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl.flen-vpn.xyz#🔵@chillguy_vpn",
    "ping": 1939,
@@ -2850,6 +2841,16 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "9260f1924eb61a96": {
+   "cfg": "vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=node-uk.connectsuite.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1853,
+   "ts": 1792247913.2840536,
+   "ping": 1474,
+   "score": 81,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3723,13 +3724,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1792247442.9827902
+  },
+  "node-uk.connectsuite.org": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1792247912.5226207
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 115,
   "healthy": 69,
-  "posted": 50,
+  "posted": 51,
   "removed": 5,
   "published_scores": [
    99,
@@ -3781,7 +3787,8 @@
    95,
    81,
    95,
-   85
+   85,
+   81
   ]
  }
 }
