@@ -231,15 +231,6 @@
  },
  "queue": [
   {
-   "id": "4dfc0875910b7307",
-   "cfg": "vless://03162983-cdfb-48b9-8367-f4e4d5e5822a@tun2.w-ert.org:447?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
-   "ping": 1224,
-   "best": 1160,
-   "score": 84,
-   "stability": 100,
-   "ts": 1792237527.3143823
-  },
-  {
    "id": "68029ac356858d1a",
    "cfg": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=addons.mozilla.org&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 1282,
@@ -2811,6 +2802,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "4dfc0875910b7307": {
+   "cfg": "vless://03162983-cdfb-48b9-8367-f4e4d5e5822a@tun2.w-ert.org:447?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1843,
+   "ts": 1792238453.6350384,
+   "ping": 2088,
+   "score": 73,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3644,13 +3645,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1792237930.2851973
+  },
+  "tun2.w-ert.org": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1792238452.987625
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 93,
   "healthy": 58,
-  "posted": 40,
+  "posted": 41,
   "removed": 5,
   "published_scores": [
    99,
@@ -3692,7 +3698,8 @@
    95,
    73,
    91,
-   68
+   68,
+   73
   ]
  }
 }
