@@ -1,6 +1,5 @@
 {
  "seen": {
-  "9d5e981de7b05505": 1791998058.4592621,
   "fa1c6b7c5b91c20d": 1791999040.6683414,
   "f0156c6da209d033": 1791999040.6683414,
   "3855cecd37fd03f7": 1791999040.6683414,
@@ -193,15 +192,6 @@
   "b370d563da4ddc4c": 1792255180.502156
  },
  "queue": [
-  {
-   "id": "55b479fc71e40165",
-   "cfg": "vless://88b744bb-8ac7-484e-a376-136193452a2c@72.56.241.230:443?mode=gun&security=reality&encryption=none&pbk=SCQ-mhDUvmeQzJvctQYDDSha1R_rggGFkWK_9IRuvH4&type=grpc&serviceName=api.v1.StreamService&sni=max.ru&sid=aabbccdd#🔵@chillguy_vpn",
-   "ping": 672,
-   "best": 666,
-   "score": 91,
-   "stability": 100,
-   "ts": 1792255180.502156
-  },
   {
    "id": "9fa5303965bc2a0a",
    "cfg": "vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?path=%2Fapi%2Fv1%2Fevents&security=tls&encryption=none&insecure=0&host=nl5.hap-plus.ru&fp=chrome&type=ws&allowInsecure=0&sni=nl5.hap-plus.ru#🔵@chillguy_vpn",
@@ -2987,6 +2977,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "55b479fc71e40165": {
+   "cfg": "vless://88b744bb-8ac7-484e-a376-136193452a2c@72.56.241.230:443?mode=gun&security=reality&encryption=none&pbk=SCQ-mhDUvmeQzJvctQYDDSha1R_rggGFkWK_9IRuvH4&type=grpc&serviceName=api.v1.StreamService&sni=max.ru&sid=aabbccdd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1867,
+   "ts": 1792257331.7452383,
+   "ping": 854,
+   "score": 89,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3910,13 +3910,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792256686.3782868
+  },
+  "72.56.241.230": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1792257331.1617267
   }
  },
  "stats": {
   "date": "2026-10-17",
   "fetched": 138,
   "healthy": 87,
-  "posted": 64,
+  "posted": 65,
   "removed": 5,
   "published_scores": [
    99,
@@ -3982,7 +3987,8 @@
    99,
    99,
    95,
-   94
+   94,
+   89
   ]
  }
 }
