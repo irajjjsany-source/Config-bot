@@ -223,15 +223,6 @@
  },
  "queue": [
   {
-   "id": "a0790a44012a9b47",
-   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🔵@chillguy_vpn",
-   "ping": 81,
-   "best": 73,
-   "score": 99,
-   "stability": 100,
-   "ts": 1792214126.745962
-  },
-  {
    "id": "d2cd96d67d2998e7",
    "cfg": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?path=%2Ffdip&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#🔵@chillguy_vpn",
    "ping": 86,
@@ -2537,6 +2528,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "a0790a44012a9b47": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1805,
+   "ts": 1792215691.0295556,
+   "ping": 125,
+   "score": 98,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -3286,11 +3287,12 @@
   "date": "2026-10-17",
   "fetched": 30,
   "healthy": 16,
-  "posted": 2,
+  "posted": 3,
   "removed": 0,
   "published_scores": [
    99,
-   97
+   97,
+   98
   ]
  }
 }
