@@ -205,15 +205,6 @@
  },
  "queue": [
   {
-   "id": "36b476685056f32d",
-   "cfg": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=si1.lazeroe.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 609,
-   "best": 608,
-   "score": 92,
-   "stability": 100,
-   "ts": 1792315836.1992157
-  },
-  {
    "id": "ccf5d56a89ee4df1",
    "cfg": "vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.149:25535?security=reality&encryption=none&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&headerType=&type=tcp&sni=www.microsoft.com&sid=7642ce57308852e7#🔵@chillguy_vpn",
    "ping": 4740,
@@ -3199,6 +3190,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "36b476685056f32d": {
+   "cfg": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=si1.lazeroe.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1891,
+   "ts": 1792316275.2650614,
+   "ping": 535,
+   "score": 93,
+   "stability": 100,
+   "country": "Singapore",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4208,7 +4209,7 @@
   "date": "2026-10-18",
   "fetched": 36,
   "healthy": 15,
-  "posted": 10,
+  "posted": 11,
   "removed": 0,
   "published_scores": [
    99,
@@ -4220,6 +4221,7 @@
    66,
    39,
    73,
+   93,
    93
   ]
  }
