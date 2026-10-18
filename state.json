@@ -201,9 +201,67 @@
   "36b476685056f32d": 1792315836.1992157,
   "df1e10963e8ea9b0": 1792315836.1992157,
   "7232ee94276d9f0c": 1792315836.1992157,
-  "8e6a9b9a3d576460": 1792315836.1992157
+  "8e6a9b9a3d576460": 1792315836.1992157,
+  "e38911f2f31791f0": 1792324845.6997716,
+  "4e6a40e9e918c85c": 1792324845.6997716,
+  "aa15aac413e7d772": 1792324845.6997716,
+  "1e8a66edede5b329": 1792324845.6997716,
+  "a66d9af380537edd": 1792324845.6997716,
+  "0954864999fd8252": 1792324845.6997716,
+  "e9efbb3193a375dc": 1792324845.6997716,
+  "089311d9ee5a072a": 1792324845.6997716,
+  "d54f6470f0a26002": 1792324845.6997716,
+  "25d9751bc3917853": 1792324845.6997716,
+  "1860449d74a47150": 1792324845.6997716,
+  "35320d2a3a9f2b9c": 1792324845.6997716
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "1860449d74a47150",
+   "cfg": "vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@45.91.248.127:8443?mode=gun&security=reality&encryption=none&pbk=75SvxhvlOLct7K2eSg4-a1o6Z6N3JMTqp3wIQmLSqTA&fp=chrome&type=grpc&serviceName=grpc-api-v2&sni=node.nodebrcsp.ru&sid=8c609726e0233f08#🔵@chillguy_vpn",
+   "ping": 110,
+   "best": 62,
+   "score": 99,
+   "stability": 100,
+   "ts": 1792324845.6997716
+  },
+  {
+   "id": "35320d2a3a9f2b9c",
+   "cfg": "vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&host=3h-unitedstates1.09vpn.com&type=ws#🔵@chillguy_vpn",
+   "ping": 436,
+   "best": 116,
+   "score": 94,
+   "stability": 100,
+   "ts": 1792324845.6997716
+  },
+  {
+   "id": "25d9751bc3917853",
+   "cfg": "vless://261cdc0d-9a73-4b75-b61b-e99980e3d668@51.38.127.93:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.05JPC3_8Wu_AICg4N1Iwi-wygGesw78y5dQUFNT_UwE&pbk=vKnJBC8MN4hGDqu7_C6luBwjVnhq9Wjb6BWkuK_8_z0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=dee5ab9e#🔵@chillguy_vpn",
+   "ping": 464,
+   "best": 388,
+   "score": 94,
+   "stability": 100,
+   "ts": 1792324845.6997716
+  },
+  {
+   "id": "a66d9af380537edd",
+   "cfg": "vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🔵@chillguy_vpn",
+   "ping": 535,
+   "best": 297,
+   "score": 93,
+   "stability": 100,
+   "ts": 1792324845.6997716
+  },
+  {
+   "id": "089311d9ee5a072a",
+   "cfg": "vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#🔵@chillguy_vpn",
+   "ping": 576,
+   "best": 558,
+   "score": 93,
+   "stability": 100,
+   "ts": 1792324845.6997716
+  }
+ ],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3200,6 +3258,16 @@
    "stability": 100,
    "country": "Spain",
    "repost_count": 0
+  },
+  "e9efbb3193a375dc": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.877774.xyz:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1893,
+   "ts": 1792324891.2273393,
+   "ping": 57,
+   "score": 99,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4203,13 +4271,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1792315857.938124
+  },
+  "cf.877774.xyz": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1792324890.437121
   }
  },
  "stats": {
   "date": "2026-10-18",
-  "fetched": 36,
-  "healthy": 15,
-  "posted": 12,
+  "fetched": 48,
+  "healthy": 21,
+  "posted": 13,
   "removed": 0,
   "published_scores": [
    99,
@@ -4223,7 +4296,8 @@
    73,
    93,
    93,
-   90
+   90,
+   99
   ]
  }
 }
