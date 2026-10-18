@@ -221,9 +221,62 @@
   "b51d6f8394836373": 1792329328.7838194,
   "2d144a8dce8439f9": 1792329328.7838194,
   "6bdd615e58b82ef9": 1792329328.7838194,
-  "1edab5ec87d992d9": 1792330928.3427293
+  "1edab5ec87d992d9": 1792330928.3427293,
+  "0ac9e905b03e3166": 1792332045.3869183,
+  "e79f551cbc0ab2d3": 1792332045.3869183,
+  "4d2944b9c23e4b63": 1792332045.3869183,
+  "b4b8ca1c798dc407": 1792332045.3869183,
+  "8d342aeb2da9a13f": 1792332045.3869183,
+  "28764dc1b3d28a65": 1792332045.3869183,
+  "d57ae936de9f5d91": 1792332045.3869183
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "8d342aeb2da9a13f",
+   "cfg": "vless://ad7966f9-7710-47b9-90d9-2f33e539b06a@37.9.4.48:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🔵@chillguy_vpn",
+   "ping": 466,
+   "best": 462,
+   "score": 94,
+   "stability": 100,
+   "ts": 1792332045.3869183
+  },
+  {
+   "id": "e79f551cbc0ab2d3",
+   "cfg": "vless://8fbbdbb2-1758-457c-85d7-02d186069ec8@87.58.201.161:32857?encryption=none&security=reality&sni=ert161.slovovpn.com&fp=chrome&pbk=V43XhDjqJZI7X5mIaBuur9aYn3gwHePzyWWs4EiU8kE&sid=76c7412f&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 470,
+   "best": 373,
+   "score": 94,
+   "stability": 100,
+   "ts": 1792332045.3869183
+  },
+  {
+   "id": "4d2944b9c23e4b63",
+   "cfg": "vless://ad7966f9-7710-47b9-90d9-2f33e539b06a@46.254.17.76:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🔵@chillguy_vpn",
+   "ping": 1140,
+   "best": 458,
+   "score": 85,
+   "stability": 100,
+   "ts": 1792332045.3869183
+  },
+  {
+   "id": "d57ae936de9f5d91",
+   "cfg": "vless://4dc01fb2-dd87-413a-b712-47fe016c7641@188.225.73.107:20005?mode=auto&path=%2F&security=reality&encryption=none&pbk=tJaZ8vXoAN-32aowNJtgVHWMay1bYyW3P8sR0aToxDQ&host=vko-177-3-220-161.nubov.org&fp=firefox&type=xhttp&sni=vko-177-3-220-161.nubov.org&sid=a0c2112ae867215c#🔵@chillguy_vpn",
+   "ping": 1561,
+   "best": 1283,
+   "score": 80,
+   "stability": 100,
+   "ts": 1792332045.3869183
+  },
+  {
+   "id": "28764dc1b3d28a65",
+   "cfg": "vless://4c44b85a-71f8-41d8-b6bc-01d4c2f08dd0@185.86.145.128:8443?security=reality&encryption=none&pbk=NEaLMYvat0TO8YX1FuR1yt11UT5iUQmrUNRpSTvT0xA&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cinderrack.app&sid=a0d140fa25f56be2#🔵@chillguy_vpn",
+   "ping": 1858,
+   "best": 645,
+   "score": 76,
+   "stability": 100,
+   "ts": 1792332045.3869183
+  }
+ ],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3300,6 +3353,16 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "0ac9e905b03e3166": {
+   "cfg": "vmess://eyJhZGQiOiAiNTcuMTMxLjE2OC4yMDIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImZkYzgwNzQxLWEzMmItNDg5MC1hNmExLTVlYThiM2U2MGFiMSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjU3MTYwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "msg": 1902,
+   "ts": 1792332073.5034904,
+   "ping": 222,
+   "score": 97,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4343,13 +4406,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1792331132.8292887
+  },
+  "57.131.168.202": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1792332072.940559
   }
  },
  "stats": {
   "date": "2026-10-18",
-  "fetched": 56,
-  "healthy": 26,
-  "posted": 20,
+  "fetched": 63,
+  "healthy": 32,
+  "posted": 21,
   "removed": 0,
   "published_scores": [
    99,
@@ -4371,7 +4439,8 @@
    94,
    94,
    93,
-   88
+   88,
+   97
   ]
  }
 }
