@@ -239,9 +239,31 @@
   "184befd1540054d6": 1792337438.572762,
   "15214b2ce78d5d37": 1792339567.0237813,
   "b23ce96e342eb2f6": 1792339567.0237813,
-  "0608fa58d831c8ee": 1792341866.0445344
+  "0608fa58d831c8ee": 1792341866.0445344,
+  "3a4ef9b016789e34": 1792343728.366233,
+  "fccbaf33a47526d2": 1792343728.366233,
+  "6eff596392e58a41": 1792343728.366233
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "fccbaf33a47526d2",
+   "cfg": "vless://00de64b2-2be7-44c5-8534-66d46b4ba6f1@vip.deventuras.ir:8081?security=reality&encryption=mlkem768x25519plus.native.0rtt.ZtukYQBbotnDqUFMh2mI5ogS1ANzU-LwsB0JMmASrxU&pbk=CwlmT6bf31z63kJdVr3GfL38dTUMI5rogde9UlFXhCg&headerType=none&fp=chrome&spx=%2F9e382100f4e8a43&type=tcp&sni=blog.api.www.cloudflare.com&sid=3a2b09debeb9#🔵@chillguy_vpn",
+   "ping": 1584,
+   "best": 1064,
+   "score": 79,
+   "stability": 100,
+   "ts": 1792343728.366233
+  },
+  {
+   "id": "3a4ef9b016789e34",
+   "cfg": "vmess://eyJhZGQiOiAiOTEuMTA3LjEzMC43MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJkeW51LmNvbSIsICJpZCI6ICJ0ZWxlZ3JhbS1pZC0tLS0tTWlNaVRETC0tLS0tIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9pbmRleC5waHAiLCAicG9ydCI6ICIyOTE2MyIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==",
+   "ping": 2707,
+   "best": 1239,
+   "score": 65,
+   "stability": 100,
+   "ts": 1792343728.366233
+  }
+ ],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3398,6 +3420,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "6eff596392e58a41": {
+   "cfg": "vless://0d4c981f-687e-4e33-b934-4cbe64e896ed@104.143.219.173:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1911,
+   "ts": 1792343749.7350724,
+   "ping": 449,
+   "score": 94,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4476,13 +4508,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1792340133.3607907
+  },
+  "104.143.219.173": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792343749.0235882
   }
  },
  "stats": {
   "date": "2026-10-18",
-  "fetched": 74,
-  "healthy": 37,
-  "posted": 28,
+  "fetched": 77,
+  "healthy": 40,
+  "posted": 29,
   "removed": 0,
   "published_scores": [
    99,
@@ -4512,7 +4549,8 @@
    95,
    92,
    94,
-   89
+   89,
+   94
   ]
  }
 }
