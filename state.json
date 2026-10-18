@@ -3261,13 +3261,9 @@
   },
   "1860449d74a47150": {
    "cfg": "vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@45.91.248.127:8443?mode=gun&security=reality&encryption=none&pbk=75SvxhvlOLct7K2eSg4-a1o6Z6N3JMTqp3wIQmLSqTA&fp=chrome&type=grpc&serviceName=grpc-api-v2&sni=node.nodebrcsp.ru&sid=8c609726e0233f08#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1894,
-   "ts": 1792325739.6233037,
-   "ping": 331,
-   "score": 96,
-   "stability": 100,
-   "country": "United States",
-   "repost_count": 0
+   "msg": 1915,
+   "ts": 1792348634.5888286,
+   "repost_count": 1
   },
   "089311d9ee5a072a": {
    "cfg": "vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3281,13 +3277,9 @@
   },
   "6341fe20a394623d": {
    "cfg": "vless://ed6c724c-435f-4f83-a781-f57579af320b@reaza.localip.ir:443?path=%2F9d9fdbc18c834cffab4276811501fbae&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=gbi.els1v0u3t31v.info&type=ws&allowInsecure=0&sni=gbi.els1v0u3t31v.info#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1896,
-   "ts": 1792326645.453303,
-   "ping": 1401,
-   "score": 82,
-   "stability": 100,
-   "country": "Canada",
-   "repost_count": 0
+   "msg": 1916,
+   "ts": 1792348636.9158394,
+   "repost_count": 1
   },
   "b51d6f8394836373": {
    "cfg": "vmess://eyJhZGQiOiAiOTEuMTA3LjEzMC43MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJkeW51LmNvbSIsICJpZCI6ICJ0ZWxlZ3JhbS1pZC0tLS0tTWlNaVRETC0tLS0tIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2luZGV4LnBocCIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjkxNjMiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
@@ -4547,7 +4539,7 @@
   "date": "2026-10-18",
   "fetched": 84,
   "healthy": 42,
-  "posted": 32,
+  "posted": 34,
   "removed": 0,
   "published_scores": [
    99,
