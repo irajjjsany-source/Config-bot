@@ -199,15 +199,6 @@
  },
  "queue": [
   {
-   "id": "e7ad26c0da2d74cf",
-   "cfg": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@217.76.158.214:36326?security=none&type=ws&path=%2Fjdiedjiedjijd#🔵@chillguy_vpn",
-   "ping": 267,
-   "best": 265,
-   "score": 97,
-   "stability": 100,
-   "ts": 1792305926.0393505
-  },
-  {
    "id": "ef022e61149bbc5f",
    "cfg": "vless://656a11ef-c5e0-4b0d-9e2a-b72a00731195@dns5.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#🔵@chillguy_vpn",
    "ping": 397,
@@ -3131,6 +3122,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "e7ad26c0da2d74cf": {
+   "cfg": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@217.76.158.214:36326?security=none&type=ws&path=%2Fjdiedjiedjijd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1883,
+   "ts": 1792307732.1923063,
+   "ping": 802,
+   "score": 90,
+   "stability": 100,
+   "country": "Spain",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4099,17 +4100,23 @@
    "cc": "FR",
    "name": "France",
    "ts": 1792306856.2073877
+  },
+  "217.76.158.214": {
+   "cc": "ES",
+   "name": "Spain",
+   "ts": 1792307731.4233341
   }
  },
  "stats": {
   "date": "2026-10-18",
   "fetched": 23,
   "healthy": 6,
-  "posted": 2,
+  "posted": 3,
   "removed": 0,
   "published_scores": [
    99,
-   98
+   98,
+   90
   ]
  }
 }
