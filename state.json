@@ -201,15 +201,6 @@
  },
  "queue": [
   {
-   "id": "767d312a7f957c97",
-   "cfg": "vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@direct-nl.bachidze.com:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#🔵@chillguy_vpn",
-   "ping": 1260,
-   "best": 1106,
-   "score": 84,
-   "stability": 100,
-   "ts": 1792312598.355216
-  },
-  {
    "id": "c942b2f7586d7a07",
    "cfg": "vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.149:25535?security=reality&encryption=none&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&headerType=none&type=tcp&sni=www.microsoft.com&sid=7642ce57308852e7#🔵@chillguy_vpn",
    "ping": 2539,
@@ -3174,6 +3165,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "767d312a7f957c97": {
+   "cfg": "vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@direct-nl.bachidze.com:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1888,
+   "ts": 1792314310.7188416,
+   "ping": 4699,
+   "score": 39,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4162,13 +4163,18 @@
    "cc": "SG",
    "name": "Singapore",
    "ts": 1792313163.143068
+  },
+  "direct-nl.bachidze.com": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1792314310.2422423
   }
  },
  "stats": {
   "date": "2026-10-18",
   "fetched": 32,
   "healthy": 13,
-  "posted": 7,
+  "posted": 8,
   "removed": 0,
   "published_scores": [
    99,
@@ -4177,7 +4183,8 @@
    91,
    96,
    93,
-   66
+   66,
+   39
   ]
  }
 }
