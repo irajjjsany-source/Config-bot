@@ -247,7 +247,9 @@
   "8884a96b811c7ca2": 1792344636.838112,
   "b4d48da8c1a6dc4b": 1792344636.838112,
   "efa776777e20de96": 1792344636.838112,
-  "397922e526212806": 1792347326.4113097
+  "397922e526212806": 1792347326.4113097,
+  "a6a935fe2526ad30": 1792348238.5163038,
+  "a7494e6858628e5b": 1792348238.5163038
  },
  "queue": [],
  "posted": {
@@ -3436,6 +3438,16 @@
    "stability": 100,
    "country": "Bulgaria",
    "repost_count": 0
+  },
+  "a7494e6858628e5b": {
+   "cfg": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@fert6.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1914,
+   "ts": 1792348256.6528888,
+   "ping": 2391,
+   "score": 69,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4533,9 +4545,9 @@
  },
  "stats": {
   "date": "2026-10-18",
-  "fetched": 82,
-  "healthy": 41,
-  "posted": 31,
+  "fetched": 84,
+  "healthy": 42,
+  "posted": 32,
   "removed": 0,
   "published_scores": [
    99,
@@ -4568,7 +4580,8 @@
    89,
    94,
    87,
-   89
+   89,
+   69
   ]
  }
 }
