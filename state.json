@@ -246,7 +246,8 @@
   "1b330c62f7cf9770": 1792344636.838112,
   "8884a96b811c7ca2": 1792344636.838112,
   "b4d48da8c1a6dc4b": 1792344636.838112,
-  "efa776777e20de96": 1792344636.838112
+  "efa776777e20de96": 1792344636.838112,
+  "397922e526212806": 1792347326.4113097
  },
  "queue": [],
  "posted": {
@@ -3425,6 +3426,16 @@
    "stability": 100,
    "country": "Latvia",
    "repost_count": 0
+  },
+  "397922e526212806": {
+   "cfg": "vless://535e8568-4429-4c47-b6bc-2de46505c229@p11real3.greewebservices.ir:2202?encryption=none&type=tcp&host=play.googleapis.com&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1913,
+   "ts": 1792347332.6942003,
+   "ping": 877,
+   "score": 89,
+   "stability": 100,
+   "country": "Bulgaria",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4513,13 +4524,18 @@
    "cc": "LV",
    "name": "Latvia",
    "ts": 1792344649.9385107
+  },
+  "p11real3.greewebservices.ir": {
+   "cc": "BG",
+   "name": "Bulgaria",
+   "ts": 1792347332.0459843
   }
  },
  "stats": {
   "date": "2026-10-18",
-  "fetched": 81,
-  "healthy": 40,
-  "posted": 30,
+  "fetched": 82,
+  "healthy": 41,
+  "posted": 31,
   "removed": 0,
   "published_scores": [
    99,
@@ -4551,7 +4567,8 @@
    94,
    89,
    94,
-   87
+   87,
+   89
   ]
  }
 }
