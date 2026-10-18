@@ -230,7 +230,11 @@
   "28764dc1b3d28a65": 1792332045.3869183,
   "d57ae936de9f5d91": 1792332045.3869183,
   "23792f80c1472693": 1792332381.5514205,
-  "153488aa768c1c16": 1792332381.5514205
+  "153488aa768c1c16": 1792332381.5514205,
+  "905222ec8afd9380": 1792332925.7294848,
+  "7629347d29503f52": 1792332925.7294848,
+  "45646e5aa2360ec3": 1792332925.7294848,
+  "e57ac34a47481d33": 1792332925.7294848
  },
  "queue": [
   {
@@ -3366,6 +3370,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "e57ac34a47481d33": {
+   "cfg": "vless://MAconnectt@panelll-production-fba3.up.railway.app:443?path=%2Fws&security=tls&alpn=h2&encryption=none&insecure=0&host=panelll-production-fba3.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=panelll-production-fba3.up.railway.app#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1904,
+   "ts": 1792332931.9235435,
+   "ping": 391,
+   "score": 95,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4419,13 +4433,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1792332386.6008484
+  },
+  "panelll-production-fba3.up.railway.app": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792332931.224455
   }
  },
  "stats": {
   "date": "2026-10-18",
-  "fetched": 65,
-  "healthy": 32,
-  "posted": 22,
+  "fetched": 69,
+  "healthy": 33,
+  "posted": 23,
   "removed": 0,
   "published_scores": [
    99,
@@ -4449,7 +4468,8 @@
    93,
    88,
    97,
-   92
+   92,
+   95
   ]
  }
 }
