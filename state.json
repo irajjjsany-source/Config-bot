@@ -1,10 +1,5 @@
 {
  "seen": {
-  "341cc6549f727f1c": 1792048528.0616071,
-  "c07f69e1db16c7d2": 1792048528.0616071,
-  "228d50d9a3073bfd": 1792048528.0616071,
-  "356b9be34cdef975": 1792048528.0616071,
-  "1a3a87a7b93282f0": 1792048528.0616071,
   "c3aca0a86338316d": 1792050326.3561897,
   "41dded614dc73073": 1792050326.3561897,
   "d2cd96d67d2998e7": 1792214126.745962,
@@ -198,24 +193,6 @@
   "ef022e61149bbc5f": 1792306842.9639587
  },
  "queue": [
-  {
-   "id": "ef022e61149bbc5f",
-   "cfg": "vless://656a11ef-c5e0-4b0d-9e2a-b72a00731195@dns5.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#🔵@chillguy_vpn",
-   "ping": 397,
-   "best": 367,
-   "score": 95,
-   "stability": 100,
-   "ts": 1792306842.9639587
-  },
-  {
-   "id": "fdba173961a1f4ba",
-   "cfg": "vmess://eyJhZGQiOiAiMTIwLjQ4LjEzMy4xNjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjRmYzU0M2Q1LTIzY2UtNDU1Ni1hZTJiLTAxNjg1ZWRkNDM5NyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTAwODYiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
-   "ping": 1129,
-   "best": 812,
-   "score": 85,
-   "stability": 100,
-   "ts": 1792305926.0393505
-  },
   {
    "id": "2a102b0d2574d4a9",
    "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:55688?security=reality&encryption=none&pbk=KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bilibili-vn.biliimg.com&sid=a46bb5972cf50671#🔵@chillguy_vpn",
@@ -3132,6 +3109,16 @@
    "stability": 100,
    "country": "Spain",
    "repost_count": 0
+  },
+  "fdba173961a1f4ba": {
+   "cfg": "vmess://eyJhZGQiOiAiMTIwLjQ4LjEzMy4xNjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjRmYzU0M2Q1LTIzY2UtNDU1Ni1hZTJiLTAxNjg1ZWRkNDM5NyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTAwODYiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "msg": 1884,
+   "ts": 1792308005.9045348,
+   "ping": 707,
+   "score": 91,
+   "stability": 100,
+   "country": "China",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4105,18 +4092,24 @@
    "cc": "ES",
    "name": "Spain",
    "ts": 1792307731.4233341
+  },
+  "120.48.133.162": {
+   "cc": "CN",
+   "name": "China",
+   "ts": 1792308005.2193556
   }
  },
  "stats": {
   "date": "2026-10-18",
   "fetched": 23,
   "healthy": 6,
-  "posted": 3,
+  "posted": 4,
   "removed": 0,
   "published_scores": [
    99,
    98,
-   90
+   90,
+   91
   ]
  }
 }
