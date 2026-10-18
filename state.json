@@ -242,18 +242,13 @@
   "0608fa58d831c8ee": 1792341866.0445344,
   "3a4ef9b016789e34": 1792343728.366233,
   "fccbaf33a47526d2": 1792343728.366233,
-  "6eff596392e58a41": 1792343728.366233
+  "6eff596392e58a41": 1792343728.366233,
+  "1b330c62f7cf9770": 1792344636.838112,
+  "8884a96b811c7ca2": 1792344636.838112,
+  "b4d48da8c1a6dc4b": 1792344636.838112,
+  "efa776777e20de96": 1792344636.838112
  },
  "queue": [
-  {
-   "id": "fccbaf33a47526d2",
-   "cfg": "vless://00de64b2-2be7-44c5-8534-66d46b4ba6f1@vip.deventuras.ir:8081?security=reality&encryption=mlkem768x25519plus.native.0rtt.ZtukYQBbotnDqUFMh2mI5ogS1ANzU-LwsB0JMmASrxU&pbk=CwlmT6bf31z63kJdVr3GfL38dTUMI5rogde9UlFXhCg&headerType=none&fp=chrome&spx=%2F9e382100f4e8a43&type=tcp&sni=blog.api.www.cloudflare.com&sid=3a2b09debeb9#🔵@chillguy_vpn",
-   "ping": 1584,
-   "best": 1064,
-   "score": 79,
-   "stability": 100,
-   "ts": 1792343728.366233
-  },
   {
    "id": "3a4ef9b016789e34",
    "cfg": "vmess://eyJhZGQiOiAiOTEuMTA3LjEzMC43MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJkeW51LmNvbSIsICJpZCI6ICJ0ZWxlZ3JhbS1pZC0tLS0tTWlNaVRETC0tLS0tIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9pbmRleC5waHAiLCAicG9ydCI6ICIyOTE2MyIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==",
@@ -3430,6 +3425,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "fccbaf33a47526d2": {
+   "cfg": "vless://00de64b2-2be7-44c5-8534-66d46b4ba6f1@vip.deventuras.ir:8081?security=reality&encryption=mlkem768x25519plus.native.0rtt.ZtukYQBbotnDqUFMh2mI5ogS1ANzU-LwsB0JMmASrxU&pbk=CwlmT6bf31z63kJdVr3GfL38dTUMI5rogde9UlFXhCg&headerType=none&fp=chrome&spx=%2F9e382100f4e8a43&type=tcp&sni=blog.api.www.cloudflare.com&sid=3a2b09debeb9#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1912,
+   "ts": 1792344650.6020734,
+   "ping": 963,
+   "score": 87,
+   "stability": 100,
+   "country": "Latvia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4513,13 +4518,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1792343749.0235882
+  },
+  "vip.deventuras.ir": {
+   "cc": "LV",
+   "name": "Latvia",
+   "ts": 1792344649.9385107
   }
  },
  "stats": {
   "date": "2026-10-18",
-  "fetched": 77,
+  "fetched": 81,
   "healthy": 40,
-  "posted": 29,
+  "posted": 30,
   "removed": 0,
   "published_scores": [
    99,
@@ -4550,7 +4560,8 @@
    92,
    94,
    89,
-   94
+   94,
+   87
   ]
  }
 }
