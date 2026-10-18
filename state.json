@@ -197,9 +197,22 @@
   "5497faf59c1689e1": 1792313126.8464806,
   "ccf5d56a89ee4df1": 1792313126.8464806,
   "c942b2f7586d7a07": 1792313126.8464806,
-  "e4c6687a70d16fa8": 1792313126.8464806
+  "e4c6687a70d16fa8": 1792313126.8464806,
+  "36b476685056f32d": 1792315836.1992157,
+  "df1e10963e8ea9b0": 1792315836.1992157,
+  "7232ee94276d9f0c": 1792315836.1992157,
+  "8e6a9b9a3d576460": 1792315836.1992157
  },
  "queue": [
+  {
+   "id": "36b476685056f32d",
+   "cfg": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=si1.lazeroe.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 609,
+   "best": 608,
+   "score": 92,
+   "stability": 100,
+   "ts": 1792315836.1992157
+  },
   {
    "id": "ccf5d56a89ee4df1",
    "cfg": "vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.149:25535?security=reality&encryption=none&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&headerType=&type=tcp&sni=www.microsoft.com&sid=7642ce57308852e7#🔵@chillguy_vpn",
@@ -3176,6 +3189,16 @@
    "stability": 100,
    "country": "Spain",
    "repost_count": 0
+  },
+  "8e6a9b9a3d576460": {
+   "cfg": "vless://6a9bd5bf-7fb1-4f42-a49a-141077ea669f@216.24.57.3:443?encryption=none&security=tls&sni=mobile.zandix.ir&fp=chrome&type=xhttp&mode=auto&path=%2F&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1890,
+   "ts": 1792315858.5696263,
+   "ping": 542,
+   "score": 93,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4174,13 +4197,18 @@
    "cc": "ES",
    "name": "Spain",
    "ts": 1792314936.8924272
+  },
+  "216.24.57.3": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792315857.938124
   }
  },
  "stats": {
   "date": "2026-10-18",
-  "fetched": 32,
-  "healthy": 13,
-  "posted": 9,
+  "fetched": 36,
+  "healthy": 15,
+  "posted": 10,
   "removed": 0,
   "published_scores": [
    99,
@@ -4191,7 +4219,8 @@
    93,
    66,
    39,
-   73
+   73,
+   93
   ]
  }
 }
