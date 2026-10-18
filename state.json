@@ -220,18 +220,10 @@
   "70ac80e9aa7ba533": 1792329328.7838194,
   "b51d6f8394836373": 1792329328.7838194,
   "2d144a8dce8439f9": 1792329328.7838194,
-  "6bdd615e58b82ef9": 1792329328.7838194
+  "6bdd615e58b82ef9": 1792329328.7838194,
+  "1edab5ec87d992d9": 1792330928.3427293
  },
  "queue": [
-  {
-   "id": "70ac80e9aa7ba533",
-   "cfg": "vmess://eyJhZGQiOiAiOTUuMjE3LjI3LjE2MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJkeW51LmNvbSIsICJpZCI6ICJ0ZWxlZ3JhbS1pZC0tLS0tTWlNaVRETC0tLS0tIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2luZGV4LnBocCIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjkxNjMiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
-   "ping": 550,
-   "best": 547,
-   "score": 93,
-   "stability": 100,
-   "ts": 1792329328.7838194
-  },
   {
    "id": "6bdd615e58b82ef9",
    "cfg": "vless://5ac13f85-4243-45fc-a38a-8cdd03ef1efb@46c94d18655db03e.tunvi.w-ert.org:444?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
@@ -3298,6 +3290,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "70ac80e9aa7ba533": {
+   "cfg": "vmess://eyJhZGQiOiAiOTUuMjE3LjI3LjE2MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJkeW51LmNvbSIsICJpZCI6ICJ0ZWxlZ3JhbS1pZC0tLS0tTWlNaVRETC0tLS0tIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2luZGV4LnBocCIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjkxNjMiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "msg": 1900,
+   "ts": 1792330941.083038,
+   "ping": 504,
+   "score": 93,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4331,13 +4333,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792330243.2374249
+  },
+  "95.217.27.161": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1792330940.3652024
   }
  },
  "stats": {
   "date": "2026-10-18",
-  "fetched": 55,
+  "fetched": 56,
   "healthy": 26,
-  "posted": 18,
+  "posted": 19,
   "removed": 0,
   "published_scores": [
    99,
@@ -4357,7 +4364,8 @@
    91,
    82,
    94,
-   94
+   94,
+   93
   ]
  }
 }
