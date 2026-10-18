@@ -201,24 +201,6 @@
  },
  "queue": [
   {
-   "id": "5497faf59c1689e1",
-   "cfg": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=si1.lazeroe.com&sid=868419504747f6de#🔵@chillguy_vpn",
-   "ping": 541,
-   "best": 533,
-   "score": 93,
-   "stability": 100,
-   "ts": 1792313126.8464806
-  },
-  {
-   "id": "d892e4e3fab32813",
-   "cfg": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%40Net2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#🔵@chillguy_vpn",
-   "ping": 971,
-   "best": 440,
-   "score": 87,
-   "stability": 100,
-   "ts": 1792312598.355216
-  },
-  {
    "id": "767d312a7f957c97",
    "cfg": "vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@direct-nl.bachidze.com:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#🔵@chillguy_vpn",
    "ping": 1260,
@@ -3182,6 +3164,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "d892e4e3fab32813": {
+   "cfg": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%40Net2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1887,
+   "ts": 1792314058.1474376,
+   "ping": 2649,
+   "score": 66,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4176,7 +4168,7 @@
   "date": "2026-10-18",
   "fetched": 32,
   "healthy": 13,
-  "posted": 6,
+  "posted": 7,
   "removed": 0,
   "published_scores": [
    99,
@@ -4184,7 +4176,8 @@
    90,
    91,
    96,
-   93
+   93,
+   66
   ]
  }
 }
