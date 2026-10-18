@@ -192,18 +192,12 @@
   "2423a646f334b103": 1792305926.0393505,
   "cfea832d6c13ab87": 1792305926.0393505,
   "08637ce6b06eaaed": 1792305926.0393505,
-  "562d7e8227d8d92f": 1792305926.0393505
+  "562d7e8227d8d92f": 1792305926.0393505,
+  "d09253e98145a805": 1792306842.9639587,
+  "1eb7922199f37b44": 1792306842.9639587,
+  "ef022e61149bbc5f": 1792306842.9639587
  },
  "queue": [
-  {
-   "id": "cfea832d6c13ab87",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.122.146:22222?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn",
-   "ping": 177,
-   "best": 177,
-   "score": 98,
-   "stability": 100,
-   "ts": 1792305926.0393505
-  },
   {
    "id": "e7ad26c0da2d74cf",
    "cfg": "vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@217.76.158.214:36326?security=none&type=ws&path=%2Fjdiedjiedjijd#🔵@chillguy_vpn",
@@ -212,6 +206,15 @@
    "score": 97,
    "stability": 100,
    "ts": 1792305926.0393505
+  },
+  {
+   "id": "ef022e61149bbc5f",
+   "cfg": "vless://656a11ef-c5e0-4b0d-9e2a-b72a00731195@dns5.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#🔵@chillguy_vpn",
+   "ping": 397,
+   "best": 367,
+   "score": 95,
+   "stability": 100,
+   "ts": 1792306842.9639587
   },
   {
    "id": "fdba173961a1f4ba",
@@ -3118,6 +3121,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "cfea832d6c13ab87": {
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.122.146:22222?security=&encryption=none&headerType=&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1882,
+   "ts": 1792306856.6980977,
+   "ping": 179,
+   "score": 98,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4081,16 +4094,22 @@
    "cc": "ME",
    "name": "Montenegro",
    "ts": 1792266504.0875382
+  },
+  "51.44.122.146": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1792306856.2073877
   }
  },
  "stats": {
   "date": "2026-10-18",
-  "fetched": 20,
-  "healthy": 5,
-  "posted": 1,
+  "fetched": 23,
+  "healthy": 6,
+  "posted": 2,
   "removed": 0,
   "published_scores": [
-   99
+   99,
+   98
   ]
  }
 }
