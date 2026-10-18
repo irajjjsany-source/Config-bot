@@ -228,18 +228,11 @@
   "b4b8ca1c798dc407": 1792332045.3869183,
   "8d342aeb2da9a13f": 1792332045.3869183,
   "28764dc1b3d28a65": 1792332045.3869183,
-  "d57ae936de9f5d91": 1792332045.3869183
+  "d57ae936de9f5d91": 1792332045.3869183,
+  "23792f80c1472693": 1792332381.5514205,
+  "153488aa768c1c16": 1792332381.5514205
  },
  "queue": [
-  {
-   "id": "8d342aeb2da9a13f",
-   "cfg": "vless://ad7966f9-7710-47b9-90d9-2f33e539b06a@37.9.4.48:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🔵@chillguy_vpn",
-   "ping": 466,
-   "best": 462,
-   "score": 94,
-   "stability": 100,
-   "ts": 1792332045.3869183
-  },
   {
    "id": "e79f551cbc0ab2d3",
    "cfg": "vless://8fbbdbb2-1758-457c-85d7-02d186069ec8@87.58.201.161:32857?encryption=none&security=reality&sni=ert161.slovovpn.com&fp=chrome&pbk=V43XhDjqJZI7X5mIaBuur9aYn3gwHePzyWWs4EiU8kE&sid=76c7412f&type=tcp&headerType=none#🔵@chillguy_vpn",
@@ -3363,6 +3356,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "8d342aeb2da9a13f": {
+   "cfg": "vless://ad7966f9-7710-47b9-90d9-2f33e539b06a@37.9.4.48:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1903,
+   "ts": 1792332387.320577,
+   "ping": 583,
+   "score": 92,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4411,13 +4414,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792332072.940559
+  },
+  "37.9.4.48": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1792332386.6008484
   }
  },
  "stats": {
   "date": "2026-10-18",
-  "fetched": 63,
+  "fetched": 65,
   "healthy": 32,
-  "posted": 21,
+  "posted": 22,
   "removed": 0,
   "published_scores": [
    99,
@@ -4440,7 +4448,8 @@
    94,
    93,
    88,
-   97
+   97,
+   92
   ]
  }
 }
