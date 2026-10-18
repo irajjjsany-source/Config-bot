@@ -213,18 +213,12 @@
   "d54f6470f0a26002": 1792324845.6997716,
   "25d9751bc3917853": 1792324845.6997716,
   "1860449d74a47150": 1792324845.6997716,
-  "35320d2a3a9f2b9c": 1792324845.6997716
+  "35320d2a3a9f2b9c": 1792324845.6997716,
+  "332794339c2eab63": 1792325728.9232588,
+  "6341fe20a394623d": 1792325728.9232588,
+  "b5e8bf558bb53ec1": 1792325728.9232588
  },
  "queue": [
-  {
-   "id": "1860449d74a47150",
-   "cfg": "vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@45.91.248.127:8443?mode=gun&security=reality&encryption=none&pbk=75SvxhvlOLct7K2eSg4-a1o6Z6N3JMTqp3wIQmLSqTA&fp=chrome&type=grpc&serviceName=grpc-api-v2&sni=node.nodebrcsp.ru&sid=8c609726e0233f08#🔵@chillguy_vpn",
-   "ping": 110,
-   "best": 62,
-   "score": 99,
-   "stability": 100,
-   "ts": 1792324845.6997716
-  },
   {
    "id": "35320d2a3a9f2b9c",
    "cfg": "vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&host=3h-unitedstates1.09vpn.com&type=ws#🔵@chillguy_vpn",
@@ -260,6 +254,15 @@
    "score": 93,
    "stability": 100,
    "ts": 1792324845.6997716
+  },
+  {
+   "id": "6341fe20a394623d",
+   "cfg": "vless://ed6c724c-435f-4f83-a781-f57579af320b@reaza.localip.ir:443?path=%2F9d9fdbc18c834cffab4276811501fbae&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=gbi.els1v0u3t31v.info&type=ws&allowInsecure=0&sni=gbi.els1v0u3t31v.info#🔵@chillguy_vpn",
+   "ping": 1189,
+   "best": 776,
+   "score": 85,
+   "stability": 100,
+   "ts": 1792325728.9232588
   }
  ],
  "posted": {
@@ -3268,6 +3271,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "1860449d74a47150": {
+   "cfg": "vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@45.91.248.127:8443?mode=gun&security=reality&encryption=none&pbk=75SvxhvlOLct7K2eSg4-a1o6Z6N3JMTqp3wIQmLSqTA&fp=chrome&type=grpc&serviceName=grpc-api-v2&sni=node.nodebrcsp.ru&sid=8c609726e0233f08#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1894,
+   "ts": 1792325739.6233037,
+   "ping": 331,
+   "score": 96,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4276,13 +4289,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1792324890.437121
+  },
+  "45.91.248.127": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792325738.89087
   }
  },
  "stats": {
   "date": "2026-10-18",
-  "fetched": 48,
-  "healthy": 21,
-  "posted": 13,
+  "fetched": 51,
+  "healthy": 22,
+  "posted": 14,
   "removed": 0,
   "published_scores": [
    99,
@@ -4297,7 +4315,8 @@
    93,
    93,
    90,
-   99
+   99,
+   96
   ]
  }
 }
