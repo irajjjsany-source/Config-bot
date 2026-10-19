@@ -311,15 +311,6 @@
  },
  "queue": [
   {
-   "id": "48aeac67650027e7",
-   "cfg": "vmess://eyJhZGQiOiAiZ2VyLTEuYmVyenVsby5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjljNmY4NTQtMjA2OC00ODk5LThkNjgtN2E1ZjBmZmI5MmQxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTA0MDciLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
-   "ping": 386,
-   "best": 319,
-   "score": 95,
-   "stability": 100,
-   "ts": 1792408530.4068844
-  },
-  {
    "id": "7e271cc8a7f8d588",
    "cfg": "vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🔵@chillguy_vpn",
    "ping": 447,
@@ -3680,6 +3671,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "48aeac67650027e7": {
+   "cfg": "vmess://eyJhZGQiOiAiZ2VyLTEuYmVyenVsby5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjljNmY4NTQtMjA2OC00ODk5LThkNjgtN2E1ZjBmZmI5MmQxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTA0MDciLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "msg": 1929,
+   "ts": 1792410475.4323132,
+   "ping": 479,
+   "score": 94,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4798,13 +4799,18 @@
    "cc": "FR",
    "name": "France",
    "ts": 1792410344.3369727
+  },
+  "ger-1.berzulo.ir": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1792410473.894673
   }
  },
  "stats": {
   "date": "2026-10-19",
   "fetched": 55,
   "healthy": 21,
-  "posted": 10,
+  "posted": 11,
   "removed": 0,
   "published_scores": [
    99,
@@ -4816,7 +4822,8 @@
    98,
    100,
    96,
-   98
+   98,
+   94
   ]
  }
 }
