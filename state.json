@@ -298,18 +298,14 @@
   "48aeac67650027e7": 1792408530.4068844,
   "8b0dab9b99d5bede": 1792408530.4068844,
   "9ab8544814203170": 1792408530.4068844,
-  "36eb317c8d07d0a9": 1792408530.4068844
+  "36eb317c8d07d0a9": 1792408530.4068844,
+  "9cb5ccbf225cc799": 1792409436.974198,
+  "7d1699dbfce650be": 1792409436.974198,
+  "a89eb70d6a113fee": 1792409436.974198,
+  "0340e45c2d65b4f0": 1792409436.974198,
+  "ba902a4af25d7243": 1792409436.974198
  },
  "queue": [
-  {
-   "id": "9ab8544814203170",
-   "cfg": "vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@ww9.levikogjgfdd.ir:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🔵@chillguy_vpn",
-   "ping": 295,
-   "best": 220,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792408530.4068844
-  },
   {
    "id": "48aeac67650027e7",
    "cfg": "vmess://eyJhZGQiOiAiZ2VyLTEuYmVyenVsby5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjljNmY4NTQtMjA2OC00ODk5LThkNjgtN2E1ZjBmZmI5MmQxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTA0MDciLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
@@ -329,6 +325,15 @@
    "ts": 1792408530.4068844
   },
   {
+   "id": "7d1699dbfce650be",
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56656?security=reality&encryption=none&pbk=QFM3jTzb5n-E9L2cfFo6GHqioGmIkjmG60l8wXA4IXc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=aae6d935#🔵@chillguy_vpn",
+   "ping": 1191,
+   "best": 925,
+   "score": 85,
+   "stability": 100,
+   "ts": 1792409436.974198
+  },
+  {
    "id": "5446babad13fd66d",
    "cfg": "vmess://eyJhZGQiOiAibGl0by4xLnBvdnJhay5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjljNmY4NTQtMjA2OC00ODk5LThkNjgtN2E1ZjBmZmI5MmQxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTYyNjgiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
    "ping": 1305,
@@ -336,6 +341,15 @@
    "score": 83,
    "stability": 100,
    "ts": 1792408530.4068844
+  },
+  {
+   "id": "0340e45c2d65b4f0",
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#🔵@chillguy_vpn",
+   "ping": 1538,
+   "best": 1014,
+   "score": 80,
+   "stability": 100,
+   "ts": 1792409436.974198
   },
   {
    "id": "8b0dab9b99d5bede",
@@ -3615,6 +3629,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "9ab8544814203170": {
+   "cfg": "vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@ww9.levikogjgfdd.ir:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1927,
+   "ts": 1792409459.9143069,
+   "ping": 299,
+   "score": 96,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4723,13 +4747,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1792406730.116552
+  },
+  "ww9.levikogjgfdd.ir": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792409459.2370453
   }
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 46,
-  "healthy": 15,
-  "posted": 8,
+  "fetched": 51,
+  "healthy": 17,
+  "posted": 9,
   "removed": 0,
   "published_scores": [
    99,
@@ -4739,7 +4768,8 @@
    84,
    94,
    98,
-   100
+   100,
+   96
   ]
  }
 }
