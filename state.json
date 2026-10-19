@@ -322,15 +322,6 @@
  },
  "queue": [
   {
-   "id": "5356f6c40ea7f75d",
-   "cfg": "vless://01dc8f3c-2ebc-4908-aa10-d912519a5395@104.143.219.177:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#🔵@chillguy_vpn",
-   "ping": 366,
-   "best": 358,
-   "score": 95,
-   "stability": 100,
-   "ts": 1792415729.264432
-  },
-  {
    "id": "62791cfe7fd7bb75",
    "cfg": "vless://512e0d1a-3842-4c35-b7dd-8ecc77868f2e@dns4.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#🔵@chillguy_vpn",
    "ping": 456,
@@ -3667,6 +3658,16 @@
    "stability": 100,
    "country": "Spain",
    "repost_count": 0
+  },
+  "5356f6c40ea7f75d": {
+   "cfg": "vless://01dc8f3c-2ebc-4908-aa10-d912519a5395@104.143.219.177:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1936,
+   "ts": 1792416398.0322537,
+   "ping": 396,
+   "score": 95,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4805,13 +4806,18 @@
    "cc": "ES",
    "name": "Spain",
    "ts": 1792415746.0174751
+  },
+  "104.143.219.177": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792416397.3409126
   }
  },
  "stats": {
   "date": "2026-10-19",
   "fetched": 66,
   "healthy": 26,
-  "posted": 16,
+  "posted": 17,
   "removed": 3,
   "published_scores": [
    99,
@@ -4829,6 +4835,7 @@
    93,
    88,
    71,
+   95,
    95
   ]
  }
