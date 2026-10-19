@@ -330,7 +330,8 @@
   "454bc8cc288fdd9d": 1792418447.833789,
   "475194364fc92c91": 1792420240.7844481,
   "36a65766aae1d11e": 1792420240.7844481,
-  "ef6885bedb55431e": 1792420240.7844481
+  "ef6885bedb55431e": 1792420240.7844481,
+  "ff6c7a4a090014ef": 1792422048.6460867
  },
  "queue": [],
  "posted": {
@@ -3721,6 +3722,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "ff6c7a4a090014ef": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1943,
+   "ts": 1792422052.3739822,
+   "ping": 172,
+   "score": 98,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4893,9 +4904,9 @@
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 78,
-  "healthy": 32,
-  "posted": 23,
+  "fetched": 79,
+  "healthy": 33,
+  "posted": 24,
   "removed": 3,
   "published_scores": [
    99,
@@ -4920,7 +4931,8 @@
    95,
    79,
    46,
-   95
+   95,
+   98
   ]
  }
 }
