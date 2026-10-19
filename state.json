@@ -362,7 +362,12 @@
   "45635a4a206381ba": 1792432829.7453406,
   "021724499842c9be": 1792432829.7453406,
   "0d7bbf7acff58af5": 1792433730.9264467,
-  "60ddf5fc55c63f8d": 1792433730.9264467
+  "60ddf5fc55c63f8d": 1792433730.9264467,
+  "c0216be35f2ea5f8": 1792434641.447157,
+  "40dbf284db0d8417": 1792434641.447157,
+  "6a49a269df0aed3b": 1792434641.447157,
+  "77714291b8f416b7": 1792434641.447157,
+  "df3be075f05208ae": 1792434641.447157
  },
  "queue": [
   {
@@ -3893,6 +3898,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "77714291b8f416b7": {
+   "cfg": "vless://45da91b7-14f7-46e0-a4a2-a66c1dbd7543@areal2.greewebservices.ir:3435?encryption=none&type=tcp&security=reality&fp=ios&sni=play.googleapis.com&pbk=MnPGY1Vo4ZbYdpLRTYHoolv5s_pwO41karyJfnQ0F3o&sid=e3085d4fc679ba12#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1957,
+   "ts": 1792434678.9812045,
+   "ping": 615,
+   "score": 92,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5086,13 +5101,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1792429305.4133747
+  },
+  "areal2.greewebservices.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1792434677.9293952
   }
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 110,
-  "healthy": 51,
-  "posted": 36,
+  "fetched": 115,
+  "healthy": 52,
+  "posted": 37,
   "removed": 3,
   "published_scores": [
    99,
@@ -5130,7 +5150,8 @@
    81,
    70,
    99,
-   78
+   78,
+   92
   ]
  }
 }
