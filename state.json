@@ -337,7 +337,8 @@
   "3a424110a84b80ef": 1792425647.5095036,
   "314a31cffb089762": 1792425647.5095036,
   "8f4525dd7fb6a202": 1792425647.5095036,
-  "967665f5e41b321e": 1792426493.3531842
+  "967665f5e41b321e": 1792426493.3531842,
+  "8638ed19546584d5": 1792427438.9667325
  },
  "queue": [],
  "posted": {
@@ -3768,6 +3769,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "8638ed19546584d5": {
+   "cfg": "vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1947,
+   "ts": 1792427447.0496135,
+   "ping": 370,
+   "score": 95,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4955,9 +4966,9 @@
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 85,
-  "healthy": 37,
-  "posted": 27,
+  "fetched": 86,
+  "healthy": 38,
+  "posted": 28,
   "removed": 3,
   "published_scores": [
    99,
@@ -4986,6 +4997,7 @@
    98,
    92,
    96,
+   95,
    95
   ]
  }
