@@ -378,18 +378,10 @@
   "839c15f7be0bb3b5": 1792436450.762963,
   "e51bc7e1223e5608": 1792436450.762963,
   "5bf4b734198bd518": 1792436450.762963,
-  "7d374839f1db6225": 1792436450.762963
+  "7d374839f1db6225": 1792436450.762963,
+  "bc72193adb951803": 1792437333.1028066
  },
  "queue": [
-  {
-   "id": "7d374839f1db6225",
-   "cfg": "vmess://eyJhZGQiOiAiMTQ1LjIzOS41NS4yMTAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsICJpZCI6ICIwNjdmY2Q2My1iMjE1LTRhYmQtODUyOS1hZTkyOWE5OTcxYTkiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBjcyI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
-   "ping": 1298,
-   "best": 986,
-   "score": 83,
-   "stability": 100,
-   "ts": 1792436450.762963
-  },
   {
    "id": "07668f7283428b77",
    "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#🔵@chillguy_vpn",
@@ -3976,6 +3968,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "7d374839f1db6225": {
+   "cfg": "vmess://eyJhZGQiOiAiMTQ1LjIzOS41NS4yMTAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsICJpZCI6ICIwNjdmY2Q2My1iMjE1LTRhYmQtODUyOS1hZTkyOWE5OTcxYTkiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBjcyI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "msg": 1961,
+   "ts": 1792437342.7590199,
+   "ping": 2124,
+   "score": 72,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5184,13 +5186,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1792436161.924359
+  },
+  "145.239.55.210": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1792437342.0846763
   }
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 126,
+  "fetched": 127,
   "healthy": 58,
-  "posted": 40,
+  "posted": 41,
   "removed": 3,
   "published_scores": [
    99,
@@ -5232,7 +5239,8 @@
    92,
    96,
    92,
-   99
+   99,
+   72
   ]
  }
 }
