@@ -367,9 +367,21 @@
   "40dbf284db0d8417": 1792434641.447157,
   "6a49a269df0aed3b": 1792434641.447157,
   "77714291b8f416b7": 1792434641.447157,
-  "df3be075f05208ae": 1792434641.447157
+  "df3be075f05208ae": 1792434641.447157,
+  "05febf1505ef3397": 1792435529.2548363,
+  "6f2b101193f9e194": 1792435529.2548363,
+  "629ddac7e1179747": 1792435529.2548363
  },
  "queue": [
+  {
+   "id": "6f2b101193f9e194",
+   "cfg": "vmess://eyJhZGQiOiAiZGFzaGJvYXJkLm9qZXN0b3JlLnRvcCIsICJhaWQiOiAiMCIsICJpZCI6ICI2M2FkNjZmNi1iN2E2LTRkZjAtYmYxNS0wYzgyYTA0N2I3ZTMiLCAibmV0IjogInRjcCIsICJwb3J0IjogNTM4MSwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
+   "ping": 699,
+   "best": 659,
+   "score": 91,
+   "stability": 100,
+   "ts": 1792435529.2548363
+  },
   {
    "id": "88f8634a0f5d5e02",
    "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-185.spbstudentlife.com:443?security=reality&encryption=none&pbk=rM3p4mL72kcpvnxVRYxl5J0zPbxE2U3iZua0F29SHTQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-185.spbstudentlife.com&sid=8d942904d3e87323#🔵@chillguy_vpn",
@@ -3908,6 +3920,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "05febf1505ef3397": {
+   "cfg": "vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?encryption=none&security=none&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1958,
+   "ts": 1792435545.0380895,
+   "ping": 325,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5106,13 +5128,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792434677.9293952
+  },
+  "92.119.166.36": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1792435544.2647667
   }
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 115,
-  "healthy": 52,
-  "posted": 37,
+  "fetched": 118,
+  "healthy": 54,
+  "posted": 38,
   "removed": 3,
   "published_scores": [
    99,
@@ -5151,7 +5178,8 @@
    70,
    99,
    78,
-   92
+   92,
+   96
   ]
  }
 }
