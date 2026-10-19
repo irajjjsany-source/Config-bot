@@ -317,24 +317,6 @@
  },
  "queue": [
   {
-   "id": "5446babad13fd66d",
-   "cfg": "vmess://eyJhZGQiOiAibGl0by4xLnBvdnJhay5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjljNmY4NTQtMjA2OC00ODk5LThkNjgtN2E1ZjBmZmI5MmQxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTYyNjgiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
-   "ping": 1305,
-   "best": 639,
-   "score": 83,
-   "stability": 100,
-   "ts": 1792408530.4068844
-  },
-  {
-   "id": "0340e45c2d65b4f0",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#🔵@chillguy_vpn",
-   "ping": 1538,
-   "best": 1014,
-   "score": 80,
-   "stability": 100,
-   "ts": 1792409436.974198
-  },
-  {
    "id": "c99a4e4169388c66",
    "cfg": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#🔵@chillguy_vpn",
    "ping": 2210,
@@ -3681,6 +3663,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "0340e45c2d65b4f0": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1934,
+   "ts": 1792413347.6984496,
+   "ping": 2262,
+   "score": 71,
+   "stability": 100,
+   "country": "Singapore",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4820,7 +4812,7 @@
   "date": "2026-10-19",
   "fetched": 61,
   "healthy": 22,
-  "posted": 14,
+  "posted": 15,
   "removed": 0,
   "published_scores": [
    99,
@@ -4836,7 +4828,8 @@
    94,
    89,
    93,
-   88
+   88,
+   71
   ]
  }
 }
