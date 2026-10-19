@@ -386,7 +386,8 @@
   "d7892961c3726326": 1792440835.606203,
   "da5d8a6e242d7ea9": 1792440835.606203,
   "b214e1e20b08b4d6": 1792440930.877561,
-  "6a0a397c41c06e04": 1792440930.877561
+  "6a0a397c41c06e04": 1792440930.877561,
+  "4a079c10f9a1864d": 1792442729.8232548
  },
  "queue": [],
  "posted": {
@@ -4017,6 +4018,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "4a079c10f9a1864d": {
+   "cfg": "vless://45da91b7-14f7-46e0-a4a2-a66c1dbd7543@areal2.greewebservices.ir:3435?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=MnPGY1Vo4ZbYdpLRTYHoolv5s_pwO41karyJfnQ0F3o&sid=e3085d4fc679ba12&spx=%2FHesarWeb&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1968,
+   "ts": 1792442734.3160584,
+   "ping": 461,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5249,9 +5260,9 @@
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 134,
-  "healthy": 62,
-  "posted": 47,
+  "fetched": 135,
+  "healthy": 63,
+  "posted": 48,
   "removed": 3,
   "published_scores": [
    99,
@@ -5300,7 +5311,8 @@
    37,
    93,
    92,
-   87
+   87,
+   94
   ]
  }
 }
