@@ -402,53 +402,7 @@
   "7cf47e6d3e6641a6": 1792448126.657491,
   "4e2a0fe3004c7529": 1792448126.657491
  },
- "queue": [
-  {
-   "id": "7cf47e6d3e6641a6",
-   "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@se2.zanzelo.ir:2196?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo&fp=chrome&type=xhttp&sni=race.egistration.ir&sid=31c73fbd73dacd59#🔵@chillguy_vpn",
-   "ping": 734,
-   "best": 646,
-   "score": 90,
-   "stability": 100,
-   "ts": 1792448126.657491
-  },
-  {
-   "id": "c0cbfe9d976ffc62",
-   "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@ge.zanzelo.ir:9021?security=reality&encryption=none&pbk=KVrKzcMWnFc8-s2Cre3PUS3ojMvugd1BxS9on54vBW0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=f2e1c0296f7f5a8a#🔵@chillguy_vpn",
-   "ping": 777,
-   "best": 743,
-   "score": 90,
-   "stability": 100,
-   "ts": 1792447154.9926844
-  },
-  {
-   "id": "86888e803e696dc0",
-   "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@uk2.zanzelo.ir:9021?security=reality&encryption=none&pbk=KVrKzcMWnFc8-s2Cre3PUS3ojMvugd1BxS9on54vBW0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=f2e1c0296f7f5a8a#🔵@chillguy_vpn",
-   "ping": 795,
-   "best": 570,
-   "score": 90,
-   "stability": 100,
-   "ts": 1792447154.9926844
-  },
-  {
-   "id": "3c18670aa8e56361",
-   "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@fr.zanzelo.ir:2196?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo&fp=chrome&type=xhttp&sni=race.egistration.ir&sid=31c73fbd73dacd59#🔵@chillguy_vpn",
-   "ping": 999,
-   "best": 681,
-   "score": 87,
-   "stability": 100,
-   "ts": 1792447154.9926844
-  },
-  {
-   "id": "be97607fe3159856",
-   "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@fr.zanzelo.ir:3022?security=reality&encryption=none&pbk=KVrKzcMWnFc8-s2Cre3PUS3ojMvugd1BxS9on54vBW0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=f2e1c0296f7f5a8a#🔵@chillguy_vpn",
-   "ping": 1110,
-   "best": 849,
-   "score": 86,
-   "stability": 100,
-   "ts": 1792447154.9926844
-  }
- ],
+ "queue": [],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
