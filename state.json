@@ -290,15 +290,6 @@
  },
  "queue": [
   {
-   "id": "ff577b4c90a4fcc6",
-   "cfg": "vless://e2d340e9-fe10-401f-a270-4b069c113da0@dns11.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#🔵@chillguy_vpn",
-   "ping": 444,
-   "best": 406,
-   "score": 94,
-   "stability": 100,
-   "ts": 1792396883.6898255
-  },
-  {
    "id": "2f30bebe39b1aa75",
    "cfg": "vless://6039a5f5-d447-43c4-b784-f8ca1bfe6684@tun2.w-ert.org:447?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
    "ping": 873,
@@ -3555,6 +3546,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "ff577b4c90a4fcc6": {
+   "cfg": "vless://e2d340e9-fe10-401f-a270-4b069c113da0@dns11.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1924,
+   "ts": 1792400448.5347302,
+   "ping": 496,
+   "score": 94,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4664,14 +4665,15 @@
   "date": "2026-10-19",
   "fetched": 34,
   "healthy": 8,
-  "posted": 5,
+  "posted": 6,
   "removed": 0,
   "published_scores": [
    99,
    99,
    65,
    97,
-   84
+   84,
+   94
   ]
  }
 }
