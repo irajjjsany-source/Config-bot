@@ -397,7 +397,10 @@
   "208878a955704fdc": 1792447154.9926844,
   "86888e803e696dc0": 1792447154.9926844,
   "be97607fe3159856": 1792447154.9926844,
-  "3c18670aa8e56361": 1792447154.9926844
+  "3c18670aa8e56361": 1792447154.9926844,
+  "4cd8b5f6252e3b72": 1792448126.657491,
+  "7cf47e6d3e6641a6": 1792448126.657491,
+  "4e2a0fe3004c7529": 1792448126.657491
  },
  "queue": [
   {
@@ -408,6 +411,24 @@
    "score": 94,
    "stability": 100,
    "ts": 1792447154.9926844
+  },
+  {
+   "id": "4cd8b5f6252e3b72",
+   "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@uk2.zanzelo.ir:2196?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo&fp=chrome&type=xhttp&sni=race.egistration.ir&sid=31c73fbd73dacd59#🔵@chillguy_vpn",
+   "ping": 570,
+   "best": 502,
+   "score": 93,
+   "stability": 100,
+   "ts": 1792448126.657491
+  },
+  {
+   "id": "7cf47e6d3e6641a6",
+   "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@se2.zanzelo.ir:2196?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo&fp=chrome&type=xhttp&sni=race.egistration.ir&sid=31c73fbd73dacd59#🔵@chillguy_vpn",
+   "ping": 734,
+   "best": 646,
+   "score": 90,
+   "stability": 100,
+   "ts": 1792448126.657491
   },
   {
    "id": "c0cbfe9d976ffc62",
@@ -4124,6 +4145,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "4e2a0fe3004c7529": {
+   "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@ca.zanzelo.ir:3022?security=reality&encryption=none&pbk=KVrKzcMWnFc8-s2Cre3PUS3ojMvugd1BxS9on54vBW0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=f2e1c0296f7f5a8a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1973,
+   "ts": 1792448137.6655254,
+   "ping": 191,
+   "score": 98,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5357,13 +5388,18 @@
    "cc": "FR",
    "name": "France",
    "ts": 1792443175.9212863
+  },
+  "ca.zanzelo.ir": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1792448137.0493875
   }
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 145,
-  "healthy": 72,
-  "posted": 52,
+  "fetched": 148,
+  "healthy": 75,
+  "posted": 53,
   "removed": 3,
   "published_scores": [
    99,
@@ -5417,7 +5453,8 @@
    98,
    97,
    95,
-   94
+   94,
+   98
   ]
  }
 }
