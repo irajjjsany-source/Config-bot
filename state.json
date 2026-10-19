@@ -388,17 +388,7 @@
   "b214e1e20b08b4d6": 1792440930.877561,
   "6a0a397c41c06e04": 1792440930.877561
  },
- "queue": [
-  {
-   "id": "da5d8a6e242d7ea9",
-   "cfg": "vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#🔵@chillguy_vpn",
-   "ping": 1511,
-   "best": 836,
-   "score": 80,
-   "stability": 100,
-   "ts": 1792440835.606203
-  }
- ],
+ "queue": [],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4017,6 +4007,16 @@
    "stability": 100,
    "country": "Poland",
    "repost_count": 0
+  },
+  "da5d8a6e242d7ea9": {
+   "cfg": "vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1967,
+   "ts": 1792441844.6918242,
+   "ping": 967,
+   "score": 87,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5240,13 +5240,18 @@
    "cc": "PL",
    "name": "Poland",
    "ts": 1792440937.8918953
+  },
+  "185.200.199.199": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1792441844.117145
   }
  },
  "stats": {
   "date": "2026-10-19",
   "fetched": 134,
   "healthy": 62,
-  "posted": 46,
+  "posted": 47,
   "removed": 3,
   "published_scores": [
    99,
@@ -5294,7 +5299,8 @@
    82,
    37,
    93,
-   92
+   92,
+   87
   ]
  }
 }
