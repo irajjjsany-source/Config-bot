@@ -370,9 +370,44 @@
   "df3be075f05208ae": 1792434641.447157,
   "05febf1505ef3397": 1792435529.2548363,
   "6f2b101193f9e194": 1792435529.2548363,
-  "629ddac7e1179747": 1792435529.2548363
+  "629ddac7e1179747": 1792435529.2548363,
+  "07668f7283428b77": 1792436450.762963,
+  "c3dd2d013369c3c1": 1792436450.762963,
+  "9ff7d7519486fbad": 1792436450.762963,
+  "4438e4ff7ae52583": 1792436450.762963,
+  "839c15f7be0bb3b5": 1792436450.762963,
+  "e51bc7e1223e5608": 1792436450.762963,
+  "5bf4b734198bd518": 1792436450.762963,
+  "7d374839f1db6225": 1792436450.762963
  },
  "queue": [
+  {
+   "id": "7d374839f1db6225",
+   "cfg": "vmess://eyJhZGQiOiAiMTQ1LjIzOS41NS4yMTAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsICJpZCI6ICIwNjdmY2Q2My1iMjE1LTRhYmQtODUyOS1hZTkyOWE5OTcxYTkiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBjcyI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "ping": 1298,
+   "best": 986,
+   "score": 83,
+   "stability": 100,
+   "ts": 1792436450.762963
+  },
+  {
+   "id": "07668f7283428b77",
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#🔵@chillguy_vpn",
+   "ping": 1669,
+   "best": 1506,
+   "score": 78,
+   "stability": 100,
+   "ts": 1792436450.762963
+  },
+  {
+   "id": "4438e4ff7ae52583",
+   "cfg": "vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?path=%2Fmerky-connect%2Fde6%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sub.merky.top#🔵@chillguy_vpn",
+   "ping": 2473,
+   "best": 2169,
+   "score": 68,
+   "stability": 100,
+   "ts": 1792436450.762963
+  },
   {
    "id": "88f8634a0f5d5e02",
    "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-185.spbstudentlife.com:443?security=reality&encryption=none&pbk=rM3p4mL72kcpvnxVRYxl5J0zPbxE2U3iZua0F29SHTQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-185.spbstudentlife.com&sid=8d942904d3e87323#🔵@chillguy_vpn",
@@ -3931,6 +3966,16 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "e51bc7e1223e5608": {
+   "cfg": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.0.181:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1960,
+   "ts": 1792436508.08974,
+   "ping": 66,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5143,9 +5188,9 @@
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 118,
-  "healthy": 54,
-  "posted": 39,
+  "fetched": 126,
+  "healthy": 58,
+  "posted": 40,
   "removed": 3,
   "published_scores": [
    99,
@@ -5186,7 +5231,8 @@
    78,
    92,
    96,
-   92
+   92,
+   99
   ]
  }
 }
