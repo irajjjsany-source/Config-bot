@@ -331,15 +331,6 @@
  },
  "queue": [
   {
-   "id": "454bc8cc288fdd9d",
-   "cfg": "vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?security=reality&encryption=none&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=fe24f8a0a560056e#🔵@chillguy_vpn",
-   "ping": 907,
-   "best": 839,
-   "score": 88,
-   "stability": 100,
-   "ts": 1792418447.833789
-  },
-  {
    "id": "d362c057b68e9952",
    "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-143.wb-deep-ai-analytics.com:443?security=reality&encryption=none&pbk=_7SmdKnXeQ-pMOR4bbt6N6JJk5rIiRaFVcOTlhFxhEc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-143.wb-deep-ai-analytics.com&sid=21dbee1dc3c8ef04#🔵@chillguy_vpn",
    "ping": 2136,
@@ -3725,6 +3716,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "454bc8cc288fdd9d": {
+   "cfg": "vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?security=reality&encryption=none&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=fe24f8a0a560056e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1940,
+   "ts": 1792419291.2094178,
+   "ping": 1625,
+   "score": 79,
+   "stability": 100,
+   "country": "Romania",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4878,13 +4879,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1792418463.3030748
+  },
+  "146.70.124.85": {
+   "cc": "RO",
+   "name": "Romania",
+   "ts": 1792419290.5190737
   }
  },
  "stats": {
   "date": "2026-10-19",
   "fetched": 75,
   "healthy": 31,
-  "posted": 20,
+  "posted": 21,
   "removed": 3,
   "published_scores": [
    99,
@@ -4906,7 +4912,8 @@
    95,
    91,
    93,
-   95
+   95,
+   79
   ]
  }
 }
