@@ -384,7 +384,9 @@
   "c5f5df5b26d65198": 1792438239.8708742,
   "ef09fca4387e329c": 1792439130.5793788,
   "d7892961c3726326": 1792440835.606203,
-  "da5d8a6e242d7ea9": 1792440835.606203
+  "da5d8a6e242d7ea9": 1792440835.606203,
+  "b214e1e20b08b4d6": 1792440930.877561,
+  "6a0a397c41c06e04": 1792440930.877561
  },
  "queue": [
   {
@@ -4005,6 +4007,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "6a0a397c41c06e04": {
+   "cfg": "vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1966,
+   "ts": 1792440938.613555,
+   "ping": 608,
+   "score": 92,
+   "stability": 100,
+   "country": "Poland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5223,13 +5235,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792440846.4964828
+  },
+  "edge10.cyrionflare.com": {
+   "cc": "PL",
+   "name": "Poland",
+   "ts": 1792440937.8918953
   }
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 132,
-  "healthy": 61,
-  "posted": 45,
+  "fetched": 134,
+  "healthy": 62,
+  "posted": 46,
   "removed": 3,
   "published_scores": [
    99,
@@ -5276,7 +5293,8 @@
    92,
    82,
    37,
-   93
+   93,
+   92
   ]
  }
 }
