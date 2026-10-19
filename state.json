@@ -358,24 +358,6 @@
  },
  "queue": [
   {
-   "id": "659b8f066854d72d",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#🔵@chillguy_vpn",
-   "ping": 1125,
-   "best": 1070,
-   "score": 85,
-   "stability": 100,
-   "ts": 1792430944.6342733
-  },
-  {
-   "id": "96176155a12619a4",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&host=%2F%3FTELEGRAM--BYA--CHANEL---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#🔵@chillguy_vpn",
-   "ping": 1163,
-   "best": 836,
-   "score": 85,
-   "stability": 100,
-   "ts": 1792429249.384248
-  },
-  {
    "id": "9b36ef6ea74b8769",
    "cfg": "vless://2a1acb4b-fe6e-487c-ac63-c83b84c657ac@tun2.w-ert.org:44512?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
    "ping": 1292,
@@ -3891,6 +3873,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "96176155a12619a4": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&host=%2F%3FTELEGRAM--BYA--CHANEL---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1953,
+   "ts": 1792431947.5023367,
+   "ping": 2340,
+   "score": 70,
+   "stability": 100,
+   "country": "Singapore",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5090,7 +5082,7 @@
   "date": "2026-10-19",
   "fetched": 102,
   "healthy": 49,
-  "posted": 33,
+  "posted": 34,
   "removed": 3,
   "published_scores": [
    99,
@@ -5125,7 +5117,8 @@
    96,
    97,
    87,
-   81
+   81,
+   70
   ]
  }
 }
