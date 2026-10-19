@@ -404,15 +404,6 @@
  },
  "queue": [
   {
-   "id": "4cd8b5f6252e3b72",
-   "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@uk2.zanzelo.ir:2196?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo&fp=chrome&type=xhttp&sni=race.egistration.ir&sid=31c73fbd73dacd59#🔵@chillguy_vpn",
-   "ping": 570,
-   "best": 502,
-   "score": 93,
-   "stability": 100,
-   "ts": 1792448126.657491
-  },
-  {
    "id": "7cf47e6d3e6641a6",
    "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@se2.zanzelo.ir:2196?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo&fp=chrome&type=xhttp&sni=race.egistration.ir&sid=31c73fbd73dacd59#🔵@chillguy_vpn",
    "ping": 734,
@@ -4156,6 +4147,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "4cd8b5f6252e3b72": {
+   "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@uk2.zanzelo.ir:2196?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo&fp=chrome&type=xhttp&sni=race.egistration.ir&sid=31c73fbd73dacd59#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1975,
+   "ts": 1792449077.4118807,
+   "ping": 609,
+   "score": 92,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5399,13 +5400,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792449042.7831478
+  },
+  "uk2.zanzelo.ir": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1792449076.492994
   }
  },
  "stats": {
   "date": "2026-10-19",
   "fetched": 148,
   "healthy": 75,
-  "posted": 54,
+  "posted": 55,
   "removed": 3,
   "published_scores": [
    99,
@@ -5461,7 +5467,8 @@
    95,
    94,
    98,
-   87
+   87,
+   92
   ]
  }
 }
