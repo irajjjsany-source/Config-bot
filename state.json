@@ -332,7 +332,8 @@
   "36a65766aae1d11e": 1792420240.7844481,
   "ef6885bedb55431e": 1792420240.7844481,
   "ff6c7a4a090014ef": 1792422048.6460867,
-  "9962d94e04d05788": 1792422928.9359264
+  "9962d94e04d05788": 1792422928.9359264,
+  "f97e631ee90e8792": 1792424972.2675898
  },
  "queue": [],
  "posted": {
@@ -3743,6 +3744,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "f97e631ee90e8792": {
+   "cfg": "vless://07104d25-afc5-4b3b-a871-c729c57de047@94.26.41.225:443?security=reality&encryption=none&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=qq.remnahoysry.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1945,
+   "ts": 1792424976.249977,
+   "ping": 290,
+   "score": 96,
+   "stability": 100,
+   "country": "Bulgaria",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4916,13 +4927,18 @@
    "cc": "SG",
    "name": "Singapore",
    "ts": 1792422933.4648561
+  },
+  "94.26.41.225": {
+   "cc": "BG",
+   "name": "Bulgaria",
+   "ts": 1792424975.6558282
   }
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 80,
-  "healthy": 34,
-  "posted": 25,
+  "fetched": 81,
+  "healthy": 35,
+  "posted": 26,
   "removed": 3,
   "published_scores": [
    99,
@@ -4949,7 +4965,8 @@
    46,
    95,
    98,
-   92
+   92,
+   96
   ]
  }
 }
