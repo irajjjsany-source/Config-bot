@@ -404,15 +404,6 @@
  },
  "queue": [
   {
-   "id": "208878a955704fdc",
-   "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@gr3.zanzelo.ir:2196?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo&fp=chrome&type=xhttp&sni=race.egistration.ir&sid=31c73fbd73dacd59#🔵@chillguy_vpn",
-   "ping": 469,
-   "best": 394,
-   "score": 94,
-   "stability": 100,
-   "ts": 1792447154.9926844
-  },
-  {
    "id": "4cd8b5f6252e3b72",
    "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@uk2.zanzelo.ir:2196?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo&fp=chrome&type=xhttp&sni=race.egistration.ir&sid=31c73fbd73dacd59#🔵@chillguy_vpn",
    "ping": 570,
@@ -4155,6 +4146,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "208878a955704fdc": {
+   "cfg": "vless://7bf337e7-5034-452a-86c4-fb14bf86815d@gr3.zanzelo.ir:2196?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo&fp=chrome&type=xhttp&sni=race.egistration.ir&sid=31c73fbd73dacd59#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1974,
+   "ts": 1792449043.4787395,
+   "ping": 990,
+   "score": 87,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5393,13 +5394,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1792448137.0493875
+  },
+  "gr3.zanzelo.ir": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1792449042.7831478
   }
  },
  "stats": {
   "date": "2026-10-19",
   "fetched": 148,
   "healthy": 75,
-  "posted": 53,
+  "posted": 54,
   "removed": 3,
   "published_scores": [
    99,
@@ -5454,7 +5460,8 @@
    97,
    95,
    94,
-   98
+   98,
+   87
   ]
  }
 }
