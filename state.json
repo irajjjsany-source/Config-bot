@@ -307,18 +307,11 @@
   "3a05a674668cedc5": 1792410327.0794613,
   "7e271cc8a7f8d588": 1792410327.0794613,
   "e1100f59cf5ae3ae": 1792410327.0794613,
-  "c99a4e4169388c66": 1792410327.0794613
+  "c99a4e4169388c66": 1792410327.0794613,
+  "e76af09ce378c27d": 1792411247.7668624,
+  "12be41a367ce5235": 1792411247.7668624
  },
  "queue": [
-  {
-   "id": "7e271cc8a7f8d588",
-   "cfg": "vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🔵@chillguy_vpn",
-   "ping": 447,
-   "best": 416,
-   "score": 94,
-   "stability": 100,
-   "ts": 1792410327.0794613
-  },
   {
    "id": "e1100f59cf5ae3ae",
    "cfg": "vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=none&fp=chrome&spx=%2FEL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#🔵@chillguy_vpn",
@@ -3681,6 +3674,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "7e271cc8a7f8d588": {
+   "cfg": "vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1930,
+   "ts": 1792411256.3304076,
+   "ping": 819,
+   "score": 89,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4804,13 +4807,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1792410473.894673
+  },
+  "sino.bestsellers1.site": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1792411255.5675974
   }
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 55,
+  "fetched": 57,
   "healthy": 21,
-  "posted": 11,
+  "posted": 12,
   "removed": 0,
   "published_scores": [
    99,
@@ -4823,7 +4831,8 @@
    100,
    96,
    98,
-   94
+   94,
+   89
   ]
  }
 }
