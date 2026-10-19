@@ -323,9 +323,22 @@
   "467338f9ce523643": 1792416640.6886458,
   "d362c057b68e9952": 1792416640.6886458,
   "212f94456892ed4c": 1792417528.9548113,
-  "462fef419ace6b9f": 1792417528.9548113
+  "462fef419ace6b9f": 1792417528.9548113,
+  "1485ba1ce52e822b": 1792418447.833789,
+  "25973f031059e544": 1792418447.833789,
+  "fd9b4850237ff149": 1792418447.833789,
+  "454bc8cc288fdd9d": 1792418447.833789
  },
  "queue": [
+  {
+   "id": "454bc8cc288fdd9d",
+   "cfg": "vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?security=reality&encryption=none&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=fe24f8a0a560056e#🔵@chillguy_vpn",
+   "ping": 907,
+   "best": 839,
+   "score": 88,
+   "stability": 100,
+   "ts": 1792418447.833789
+  },
   {
    "id": "d362c057b68e9952",
    "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-143.wb-deep-ai-analytics.com:443?security=reality&encryption=none&pbk=_7SmdKnXeQ-pMOR4bbt6N6JJk5rIiRaFVcOTlhFxhEc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-143.wb-deep-ai-analytics.com&sid=21dbee1dc3c8ef04#🔵@chillguy_vpn",
@@ -3702,6 +3715,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "25973f031059e544": {
+   "cfg": "vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1939,
+   "ts": 1792418463.9481177,
+   "ping": 359,
+   "score": 95,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4850,13 +4873,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1792416667.1214275
+  },
+  "185.121.179.122": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1792418463.3030748
   }
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 71,
-  "healthy": 29,
-  "posted": 19,
+  "fetched": 75,
+  "healthy": 31,
+  "posted": 20,
   "removed": 3,
   "published_scores": [
    99,
@@ -4877,7 +4905,8 @@
    95,
    95,
    91,
-   93
+   93,
+   95
   ]
  }
 }
