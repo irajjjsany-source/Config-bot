@@ -360,36 +360,11 @@
   "b07484335c22f749": 1792432829.7453406,
   "21b3bf06f4cd5568": 1792432829.7453406,
   "45635a4a206381ba": 1792432829.7453406,
-  "021724499842c9be": 1792432829.7453406
+  "021724499842c9be": 1792432829.7453406,
+  "0d7bbf7acff58af5": 1792433730.9264467,
+  "60ddf5fc55c63f8d": 1792433730.9264467
  },
  "queue": [
-  {
-   "id": "45635a4a206381ba",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22224?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 608,
-   "best": 257,
-   "score": 92,
-   "stability": 100,
-   "ts": 1792432829.7453406
-  },
-  {
-   "id": "9b36ef6ea74b8769",
-   "cfg": "vless://2a1acb4b-fe6e-487c-ac63-c83b84c657ac@tun2.w-ert.org:44512?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
-   "ping": 1292,
-   "best": 1199,
-   "score": 83,
-   "stability": 100,
-   "ts": 1792430944.6342733
-  },
-  {
-   "id": "d20f4f8dd9497e8d",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47691?security=reality&encryption=none&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=m.media-amazon.com&sid=2905326a#🔵@chillguy_vpn",
-   "ping": 1364,
-   "best": 1187,
-   "score": 82,
-   "stability": 100,
-   "ts": 1792430944.6342733
-  },
   {
    "id": "88f8634a0f5d5e02",
    "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-185.spbstudentlife.com:443?security=reality&encryption=none&pbk=rM3p4mL72kcpvnxVRYxl5J0zPbxE2U3iZua0F29SHTQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-185.spbstudentlife.com&sid=8d942904d3e87323#🔵@chillguy_vpn",
@@ -3908,6 +3883,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "d20f4f8dd9497e8d": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47691?security=reality&encryption=none&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=m.media-amazon.com&sid=2905326a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1956,
+   "ts": 1792433775.4519937,
+   "ping": 1691,
+   "score": 78,
+   "stability": 100,
+   "country": "Singapore",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5105,9 +5090,9 @@
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 108,
+  "fetched": 110,
   "healthy": 51,
-  "posted": 35,
+  "posted": 36,
   "removed": 3,
   "published_scores": [
    99,
@@ -5144,7 +5129,8 @@
    87,
    81,
    70,
-   99
+   99,
+   78
   ]
  }
 }
