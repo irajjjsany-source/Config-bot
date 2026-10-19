@@ -321,18 +321,11 @@
   "eff8e2cf8ea601fe": 1792415729.264432,
   "8b844ba1fd147cc5": 1792416640.6886458,
   "467338f9ce523643": 1792416640.6886458,
-  "d362c057b68e9952": 1792416640.6886458
+  "d362c057b68e9952": 1792416640.6886458,
+  "212f94456892ed4c": 1792417528.9548113,
+  "462fef419ace6b9f": 1792417528.9548113
  },
  "queue": [
-  {
-   "id": "b5d9602a449e7efc",
-   "cfg": "vless://512e0d1a-3842-4c35-b7dd-8ecc77868f2e@dns11.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#🔵@chillguy_vpn",
-   "ping": 596,
-   "best": 584,
-   "score": 92,
-   "stability": 100,
-   "ts": 1792415729.264432
-  },
   {
    "id": "d362c057b68e9952",
    "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-143.wb-deep-ai-analytics.com:443?security=reality&encryption=none&pbk=_7SmdKnXeQ-pMOR4bbt6N6JJk5rIiRaFVcOTlhFxhEc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-143.wb-deep-ai-analytics.com&sid=21dbee1dc3c8ef04#🔵@chillguy_vpn",
@@ -350,6 +343,15 @@
    "score": 63,
    "stability": 100,
    "ts": 1792416640.6886458
+  },
+  {
+   "id": "462fef419ace6b9f",
+   "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-185.spbstudentlife.com:443?security=reality&encryption=none&pbk=rM3p4mL72kcpvnxVRYxl5J0zPbxE2U3iZua0F29SHTQ&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-185.spbstudentlife.com&sid=8d942904d3e87323#🔵@chillguy_vpn",
+   "ping": 2945,
+   "best": 2580,
+   "score": 62,
+   "stability": 100,
+   "ts": 1792417528.9548113
   }
  ],
  "posted": {
@@ -3690,6 +3692,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "b5d9602a449e7efc": {
+   "cfg": "vless://512e0d1a-3842-4c35-b7dd-8ecc77868f2e@dns11.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1938,
+   "ts": 1792417551.5109944,
+   "ping": 505,
+   "score": 93,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4842,9 +4854,9 @@
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 69,
-  "healthy": 28,
-  "posted": 18,
+  "fetched": 71,
+  "healthy": 29,
+  "posted": 19,
   "removed": 3,
   "published_scores": [
    99,
@@ -4864,7 +4876,8 @@
    71,
    95,
    95,
-   91
+   91,
+   93
   ]
  }
 }
