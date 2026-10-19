@@ -327,7 +327,10 @@
   "1485ba1ce52e822b": 1792418447.833789,
   "25973f031059e544": 1792418447.833789,
   "fd9b4850237ff149": 1792418447.833789,
-  "454bc8cc288fdd9d": 1792418447.833789
+  "454bc8cc288fdd9d": 1792418447.833789,
+  "475194364fc92c91": 1792420240.7844481,
+  "36a65766aae1d11e": 1792420240.7844481,
+  "ef6885bedb55431e": 1792420240.7844481
  },
  "queue": [],
  "posted": {
@@ -3708,6 +3711,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "36a65766aae1d11e": {
+   "cfg": "vless://583c7684-5059-427c-a50e-bdd73e81f24e@s9-pan.redmbred.ir:52491?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1942,
+   "ts": 1792420246.8551824,
+   "ping": 382,
+   "score": 95,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4871,13 +4884,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1792419389.3181562
+  },
+  "s9-pan.redmbred.ir": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1792420246.121699
   }
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 75,
-  "healthy": 31,
-  "posted": 22,
+  "fetched": 78,
+  "healthy": 32,
+  "posted": 23,
   "removed": 3,
   "published_scores": [
    99,
@@ -4901,7 +4919,8 @@
    93,
    95,
    79,
-   46
+   46,
+   95
   ]
  }
 }
