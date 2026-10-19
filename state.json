@@ -385,15 +385,6 @@
  },
  "queue": [
   {
-   "id": "07668f7283428b77",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#🔵@chillguy_vpn",
-   "ping": 1669,
-   "best": 1506,
-   "score": 78,
-   "stability": 100,
-   "ts": 1792436450.762963
-  },
-  {
    "id": "4438e4ff7ae52583",
    "cfg": "vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?path=%2Fmerky-connect%2Fde6%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sub.merky.top#🔵@chillguy_vpn",
    "ping": 2473,
@@ -3990,6 +3981,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "07668f7283428b77": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1963,
+   "ts": 1792438310.9271736,
+   "ping": 1397,
+   "score": 82,
+   "stability": 100,
+   "country": "Singapore",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5209,7 +5210,7 @@
   "date": "2026-10-19",
   "fetched": 129,
   "healthy": 59,
-  "posted": 42,
+  "posted": 43,
   "removed": 3,
   "published_scores": [
    99,
@@ -5253,7 +5254,8 @@
    92,
    99,
    72,
-   92
+   92,
+   82
   ]
  }
 }
