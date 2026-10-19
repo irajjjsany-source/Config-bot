@@ -287,7 +287,8 @@
   "2f30bebe39b1aa75": 1792396883.6898255,
   "64966f567e2b4f9e": 1792397728.148458,
   "e90f4437894ba42f": 1792399529.205225,
-  "0833062bd6832324": 1792405839.77262
+  "0833062bd6832324": 1792405839.77262,
+  "954548aad46faddd": 1792406727.2859824
  },
  "queue": [],
  "posted": {
@@ -3538,6 +3539,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "954548aad46faddd": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@b2n.ir:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23TELEGRAM---@MTMVPN---@MTMVPN---@MTMVPN---@MTMVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1925,
+   "ts": 1792406730.6519432,
+   "ping": 148,
+   "score": 98,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4641,13 +4652,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1792400023.808248
+  },
+  "b2n.ir": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1792406730.116552
   }
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 35,
-  "healthy": 8,
-  "posted": 6,
+  "fetched": 36,
+  "healthy": 9,
+  "posted": 7,
   "removed": 0,
   "published_scores": [
    99,
@@ -4655,7 +4671,8 @@
    65,
    97,
    84,
-   94
+   94,
+   98
   ]
  }
 }
