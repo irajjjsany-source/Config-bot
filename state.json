@@ -352,15 +352,6 @@
  },
  "queue": [
   {
-   "id": "e2dd3d2e5afb2119",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22222?encryption=none&security=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 220,
-   "best": 214,
-   "score": 97,
-   "stability": 100,
-   "ts": 1792429249.384248
-  },
-  {
    "id": "08e75ef378499cc7",
    "cfg": "vless://a9aed6a7-0295-4df4-8d29-c66677d7ea08@tun2.w-ert.org:42924?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
    "ping": 1010,
@@ -3855,6 +3846,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "e2dd3d2e5afb2119": {
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22222?encryption=none&security=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1950,
+   "ts": 1792430133.6423316,
+   "ping": 263,
+   "score": 97,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5054,7 +5055,7 @@
   "date": "2026-10-19",
   "fetched": 96,
   "healthy": 45,
-  "posted": 30,
+  "posted": 31,
   "removed": 3,
   "published_scores": [
    99,
@@ -5086,7 +5087,8 @@
    95,
    95,
    97,
-   96
+   96,
+   97
   ]
  }
 }
