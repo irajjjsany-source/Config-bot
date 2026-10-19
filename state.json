@@ -374,15 +374,6 @@
  },
  "queue": [
   {
-   "id": "6f2b101193f9e194",
-   "cfg": "vmess://eyJhZGQiOiAiZGFzaGJvYXJkLm9qZXN0b3JlLnRvcCIsICJhaWQiOiAiMCIsICJpZCI6ICI2M2FkNjZmNi1iN2E2LTRkZjAtYmYxNS0wYzgyYTA0N2I3ZTMiLCAibmV0IjogInRjcCIsICJwb3J0IjogNTM4MSwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
-   "ping": 699,
-   "best": 659,
-   "score": 91,
-   "stability": 100,
-   "ts": 1792435529.2548363
-  },
-  {
    "id": "88f8634a0f5d5e02",
    "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-185.spbstudentlife.com:443?security=reality&encryption=none&pbk=rM3p4mL72kcpvnxVRYxl5J0zPbxE2U3iZua0F29SHTQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-185.spbstudentlife.com&sid=8d942904d3e87323#🔵@chillguy_vpn",
    "ping": 5732,
@@ -3930,6 +3921,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "6f2b101193f9e194": {
+   "cfg": "vmess://eyJhZGQiOiAiZGFzaGJvYXJkLm9qZXN0b3JlLnRvcCIsICJhaWQiOiAiMCIsICJpZCI6ICI2M2FkNjZmNi1iN2E2LTRkZjAtYmYxNS0wYzgyYTA0N2I3ZTMiLCAibmV0IjogInRjcCIsICJwb3J0IjogNTM4MSwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==",
+   "msg": 1959,
+   "ts": 1792436162.708183,
+   "ping": 652,
+   "score": 92,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5133,13 +5134,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792435544.2647667
+  },
+  "dashboard.ojestore.top": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1792436161.924359
   }
  },
  "stats": {
   "date": "2026-10-19",
   "fetched": 118,
   "healthy": 54,
-  "posted": 38,
+  "posted": 39,
   "removed": 3,
   "published_scores": [
    99,
@@ -5179,7 +5185,8 @@
    99,
    78,
    92,
-   96
+   96,
+   92
   ]
  }
 }
