@@ -329,35 +329,7 @@
   "fd9b4850237ff149": 1792418447.833789,
   "454bc8cc288fdd9d": 1792418447.833789
  },
- "queue": [
-  {
-   "id": "d362c057b68e9952",
-   "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-143.wb-deep-ai-analytics.com:443?security=reality&encryption=none&pbk=_7SmdKnXeQ-pMOR4bbt6N6JJk5rIiRaFVcOTlhFxhEc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-143.wb-deep-ai-analytics.com&sid=21dbee1dc3c8ef04#🔵@chillguy_vpn",
-   "ping": 2136,
-   "best": 1945,
-   "score": 72,
-   "stability": 100,
-   "ts": 1792416640.6886458
-  },
-  {
-   "id": "8b844ba1fd147cc5",
-   "cfg": "vless://aec51c1d-4f3c-480f-82a7-34daad8361b5@89.125.212.69:443?mode=gun&security=reality&encryption=none&pbk=s6NccfQN-sGM2thyPc0HmKQHntFGch6v_x7e1lCDXGI&fp=chrome&type=grpc&serviceName=grpc&sni=grpc.io&sid=7f3c91a8d42e6b10#🔵@chillguy_vpn",
-   "ping": 2860,
-   "best": 461,
-   "score": 63,
-   "stability": 100,
-   "ts": 1792416640.6886458
-  },
-  {
-   "id": "462fef419ace6b9f",
-   "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-185.spbstudentlife.com:443?security=reality&encryption=none&pbk=rM3p4mL72kcpvnxVRYxl5J0zPbxE2U3iZua0F29SHTQ&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-185.spbstudentlife.com&sid=8d942904d3e87323#🔵@chillguy_vpn",
-   "ping": 2945,
-   "best": 2580,
-   "score": 62,
-   "stability": 100,
-   "ts": 1792417528.9548113
-  }
- ],
+ "queue": [],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3726,6 +3698,16 @@
    "stability": 100,
    "country": "Romania",
    "repost_count": 0
+  },
+  "462fef419ace6b9f": {
+   "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-185.spbstudentlife.com:443?security=reality&encryption=none&pbk=rM3p4mL72kcpvnxVRYxl5J0zPbxE2U3iZua0F29SHTQ&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-185.spbstudentlife.com&sid=8d942904d3e87323#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1941,
+   "ts": 1792419389.9774811,
+   "ping": 4155,
+   "score": 46,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4884,13 +4866,18 @@
    "cc": "RO",
    "name": "Romania",
    "ts": 1792419290.5190737
+  },
+  "app-sh-185.spbstudentlife.com": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1792419389.3181562
   }
  },
  "stats": {
   "date": "2026-10-19",
   "fetched": 75,
   "healthy": 31,
-  "posted": 21,
+  "posted": 22,
   "removed": 3,
   "published_scores": [
    99,
@@ -4913,7 +4900,8 @@
    91,
    93,
    95,
-   79
+   79,
+   46
   ]
  }
 }
