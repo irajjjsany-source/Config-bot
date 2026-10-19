@@ -381,28 +381,10 @@
   "7d374839f1db6225": 1792436450.762963,
   "bc72193adb951803": 1792437333.1028066,
   "1d3c5d099e6a534a": 1792438239.8708742,
-  "c5f5df5b26d65198": 1792438239.8708742
+  "c5f5df5b26d65198": 1792438239.8708742,
+  "ef09fca4387e329c": 1792439130.5793788
  },
- "queue": [
-  {
-   "id": "4438e4ff7ae52583",
-   "cfg": "vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?path=%2Fmerky-connect%2Fde6%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sub.merky.top#🔵@chillguy_vpn",
-   "ping": 2473,
-   "best": 2169,
-   "score": 68,
-   "stability": 100,
-   "ts": 1792436450.762963
-  },
-  {
-   "id": "88f8634a0f5d5e02",
-   "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-185.spbstudentlife.com:443?security=reality&encryption=none&pbk=rM3p4mL72kcpvnxVRYxl5J0zPbxE2U3iZua0F29SHTQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-185.spbstudentlife.com&sid=8d942904d3e87323#🔵@chillguy_vpn",
-   "ping": 5732,
-   "best": 5306,
-   "score": 35,
-   "stability": 100,
-   "ts": 1792429249.384248
-  }
- ],
+ "queue": [],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3991,6 +3973,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "88f8634a0f5d5e02": {
+   "cfg": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-185.spbstudentlife.com:443?security=reality&encryption=none&pbk=rM3p4mL72kcpvnxVRYxl5J0zPbxE2U3iZua0F29SHTQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=assets-sh-185.spbstudentlife.com&sid=8d942904d3e87323#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1964,
+   "ts": 1792439172.6705244,
+   "ping": 4851,
+   "score": 37,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5208,9 +5200,9 @@
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 129,
+  "fetched": 130,
   "healthy": 59,
-  "posted": 43,
+  "posted": 44,
   "removed": 3,
   "published_scores": [
    99,
@@ -5255,7 +5247,8 @@
    99,
    72,
    92,
-   82
+   82,
+   37
   ]
  }
 }
