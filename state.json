@@ -354,9 +354,24 @@
   "d20f4f8dd9497e8d": 1792430944.6342733,
   "659b8f066854d72d": 1792430944.6342733,
   "77b309ed1aa13cbc": 1792430944.6342733,
-  "9b36ef6ea74b8769": 1792430944.6342733
+  "9b36ef6ea74b8769": 1792430944.6342733,
+  "f00ec399a90c09f7": 1792432829.7453406,
+  "69c2ebeccd13db5d": 1792432829.7453406,
+  "b07484335c22f749": 1792432829.7453406,
+  "21b3bf06f4cd5568": 1792432829.7453406,
+  "45635a4a206381ba": 1792432829.7453406,
+  "021724499842c9be": 1792432829.7453406
  },
  "queue": [
+  {
+   "id": "45635a4a206381ba",
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22224?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
+   "ping": 608,
+   "best": 257,
+   "score": 92,
+   "stability": 100,
+   "ts": 1792432829.7453406
+  },
   {
    "id": "9b36ef6ea74b8769",
    "cfg": "vless://2a1acb4b-fe6e-487c-ac63-c83b84c657ac@tun2.w-ert.org:44512?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
@@ -3883,6 +3898,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "21b3bf06f4cd5568": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1954,
+   "ts": 1792432858.9309604,
+   "ping": 104,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5080,9 +5105,9 @@
  },
  "stats": {
   "date": "2026-10-19",
-  "fetched": 102,
-  "healthy": 49,
-  "posted": 34,
+  "fetched": 108,
+  "healthy": 51,
+  "posted": 35,
   "removed": 3,
   "published_scores": [
    99,
@@ -5118,7 +5143,8 @@
    97,
    87,
    81,
-   70
+   70,
+   99
   ]
  }
 }
