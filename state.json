@@ -371,7 +371,8 @@
   "9b10d784019becb5": 1792477838.5547647,
   "11192e6aff9566ef": 1792477838.5547647,
   "1711e212159f5229": 1792478729.4071958,
-  "7afa65eb3d525cae": 1792478729.4071958
+  "7afa65eb3d525cae": 1792478729.4071958,
+  "4cc84be7d07e9ec2": 1792480527.3232968
  },
  "queue": [],
  "posted": {
@@ -4032,6 +4033,16 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "4cc84be7d07e9ec2": {
+   "cfg": "vless://7f01e44f-3f8a-4351-a5de-2114ab1c6831@cz2.srv.safes-infrastructure.com:8443?security=reality&encryption=none&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz2.srv.safes-infrastructure.com&sid=e7d8f0aa#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1988,
+   "ts": 1792480532.629502,
+   "ping": 509,
+   "score": 93,
+   "stability": 100,
+   "country": "Czechia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5290,13 +5301,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1792479458.7053747
+  },
+  "cz2.srv.safes-infrastructure.com": {
+   "cc": "CZ",
+   "name": "Czechia",
+   "ts": 1792480531.831493
   }
  },
  "stats": {
   "date": "2026-10-20",
-  "fetched": 13,
-  "healthy": 6,
-  "posted": 11,
+  "fetched": 14,
+  "healthy": 7,
+  "posted": 12,
   "removed": 9,
   "published_scores": [
    96,
@@ -5304,7 +5320,8 @@
    99,
    95,
    89,
-   88
+   88,
+   93
   ]
  }
 }
