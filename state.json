@@ -373,9 +373,21 @@
   "41b514ffc94c0e65": 1792474010.0950165,
   "20d8eb69724cd53d": 1792474010.0950165,
   "ffbcd1f25cca95b4": 1792476927.0367675,
-  "27af689ec064cf46": 1792476927.0367675
+  "27af689ec064cf46": 1792476927.0367675,
+  "9b10d784019becb5": 1792477838.5547647,
+  "11192e6aff9566ef": 1792477838.5547647
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "9b10d784019becb5",
+   "cfg": "vless://0cdf443e-9242-41c7-a817-3aaffe825d93@dns5.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#🔵@chillguy_vpn",
+   "ping": 417,
+   "best": 314,
+   "score": 95,
+   "stability": 100,
+   "ts": 1792477838.5547647
+  }
+ ],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4114,6 +4126,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "11192e6aff9566ef": {
+   "cfg": "vless://0cdf443e-9242-41c7-a817-3aaffe825d93@dns4.m3hrzd.ir:2800?security=reality&encryption=none&pbk=Y6EGB3qFcmBFAfL-gHaB4emJzC5fXq5ov9Ri4JqHenc&headerType=none&fp=safari&type=tcp&sni=play.google.com&sid=81d0d80c09088a91#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1980,
+   "ts": 1792477847.6605587,
+   "ping": 410,
+   "score": 95,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5371,14 +5393,15 @@
  },
  "stats": {
   "date": "2026-10-20",
-  "fetched": 9,
-  "healthy": 3,
-  "posted": 3,
+  "fetched": 11,
+  "healthy": 5,
+  "posted": 4,
   "removed": 0,
   "published_scores": [
    96,
    95,
-   99
+   99,
+   95
   ]
  }
 }
