@@ -403,7 +403,8 @@
   "4e2a0fe3004c7529": 1792448126.657491,
   "f01a1cf10c231c9d": 1792454450.402273,
   "df41d84598a57f38": 1792468845.153912,
-  "048baccad6433a7e": 1792469727.9738903
+  "048baccad6433a7e": 1792469727.9738903,
+  "8816971b583d00c4": 1792472446.373992
  },
  "queue": [],
  "posted": {
@@ -4134,6 +4135,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "8816971b583d00c4": {
+   "cfg": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn771984099.opengw.net%3A1770%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1979,
+   "ts": 1792472449.7651067,
+   "ping": 94,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5391,13 +5402,14 @@
  },
  "stats": {
   "date": "2026-10-20",
-  "fetched": 3,
-  "healthy": 2,
-  "posted": 2,
+  "fetched": 4,
+  "healthy": 3,
+  "posted": 3,
   "removed": 0,
   "published_scores": [
    96,
-   95
+   95,
+   99
   ]
  }
 }
