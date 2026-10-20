@@ -1,10 +1,5 @@
 {
  "seen": {
-  "081c29aa26d9c028": 1792219768.9248724,
-  "de920db9bc5d8a15": 1792219768.9248724,
-  "71eec3dd2f4d1a6a": 1792219768.9248724,
-  "bad433cc67343656": 1792219768.9248724,
-  "e65b37d643c915c5": 1792219768.9248724,
   "be3a00dd3481ee7a": 1792221329.294896,
   "1a500de747e3b6e1": 1792223794.9003131,
   "7018376d2ffc10a6": 1792223794.9003131,
@@ -378,17 +373,7 @@
   "1711e212159f5229": 1792478729.4071958,
   "7afa65eb3d525cae": 1792478729.4071958
  },
- "queue": [
-  {
-   "id": "1711e212159f5229",
-   "cfg": "vless://524b6fd3-2aef-4e11-995f-4d6243a5ae9a@32831f83b52565c1.tunvi.w-ert.org:448?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
-   "ping": 1010,
-   "best": 826,
-   "score": 87,
-   "stability": 100,
-   "ts": 1792478729.4071958
-  }
- ],
+ "queue": [],
  "posted": {
   "a8e9aee413c40e42": {
    "cfg": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4037,6 +4022,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "1711e212159f5229": {
+   "cfg": "vless://524b6fd3-2aef-4e11-995f-4d6243a5ae9a@32831f83b52565c1.tunvi.w-ert.org:448?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1987,
+   "ts": 1792479459.5328264,
+   "ping": 925,
+   "score": 88,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5290,20 +5285,26 @@
    "cc": "US",
    "name": "United States",
    "ts": 1792454454.2043192
+  },
+  "32831f83b52565c1.tunvi.w-ert.org": {
+   "cc": "IR",
+   "name": "Iran",
+   "ts": 1792479458.7053747
   }
  },
  "stats": {
   "date": "2026-10-20",
   "fetched": 13,
   "healthy": 6,
-  "posted": 10,
+  "posted": 11,
   "removed": 9,
   "published_scores": [
    96,
    95,
    99,
    95,
-   89
+   89,
+   88
   ]
  }
 }
