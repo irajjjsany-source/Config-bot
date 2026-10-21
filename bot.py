@@ -46,7 +46,11 @@ GEO_TTL = 7 * 86400      # کشور هر سرور تا ۷ روز دوباره ل
 STATE_FILE = "state.json"
 # ========================================================
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "")  # توکن فعلی برای ارسال کانفیگ به کانال
+ADMIN_BOT_TOKEN = os.environ.get("ADMIN_BOT_TOKEN", "")  # توکن جداگانه برای پنل مدیریت
+ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID", "").strip()
+POST_INTERVAL = 15 * 60
+CLEAN_INTERVAL = 6 * 3600
 XRAY = os.path.abspath("xray")
 PORTS = itertools.count()
 CFG_RE = re.compile(r"(?<![A-Za-z0-9])(?:vmess|vless|trojan|ss)://[^\s<>\"']+")
@@ -474,6 +478,7 @@ def roll_stats(st):
 # ---------------- حالت‌ها ----------------
 def mode_post():
     st = load_state()
+    apply_settings(st)
     now = time.time()
     seen, queue, posted = st["seen"], st["queue"], st["posted"]
     geo = st.setdefault("geo", {})
@@ -609,6 +614,7 @@ def channel_post_views(page_html, message_id):
 
 def mode_clean():
     st = load_state()
+    apply_settings(st)
     stats = roll_stats(st)
     posted = st["posted"]
     items = list(posted.items())
@@ -757,8 +763,243 @@ def mode_clean():
     save_state(st)
 
 
+# ---------------- پنل مدیریت تلگرام (بدون سرور جدا) ----------------
+def admin_tg(method, **params):
+    """API تلگرام با توکن جداگانه پنل مدیریت تا با webhook ربات اصلی تداخل نکند."""
+    if not ADMIN_BOT_TOKEN:
+        return {"ok": False, "description": "ADMIN_BOT_TOKEN missing"}
+    data = urllib.parse.urlencode(params).encode()
+    req = urllib.request.Request(
+        "https://api.telegram.org/bot%s/%s" % (ADMIN_BOT_TOKEN, method), data=data)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as e:
+        try:
+            return json.load(e)
+        except Exception:
+            return {"ok": False, "description": "HTTP %s" % e.code}
+    except Exception as e:
+        return {"ok": False, "description": type(e).__name__}
+
+
+def apply_settings(st):
+    """اعمال تنظیمات ذخیره‌شده از state.json روی مقادیر اجرایی."""
+    global MIN_VIEWS, MAX_PING, MAX_POSTS_PER_RUN
+    cfg = st.setdefault("admin_settings", {})
+    MIN_VIEWS = max(0, min(100000, int(cfg.get("min_views", MIN_VIEWS))))
+    MAX_PING = max(100, min(30000, int(cfg.get("max_ping", MAX_PING))))
+    MAX_POSTS_PER_RUN = max(1, min(10, int(cfg.get("max_posts_per_run", MAX_POSTS_PER_RUN))))
+
+
+def admin_menu(st, message="پنل مدیریت K2 Guard"):
+    auto = st.get("auto_enabled", True)
+    mark = "🟢 روشن" if auto else "🔴 خاموش"
+    keyboard = {"inline_keyboard": [
+        [{"text": "🚀 اجرای انتشار همین الان", "callback_data": "act:post"}],
+        [{"text": "🧹 اجرای پاک‌سازی همین الان", "callback_data": "act:clean"}],
+        [{"text": "⏯ اجرای خودکار: " + mark, "callback_data": "toggle:auto"}],
+        [{"text": "📊 آمار", "callback_data": "view:stats"},
+         {"text": "ℹ️ وضعیت", "callback_data": "view:status"}],
+        [{"text": "⚙️ تنظیمات", "callback_data": "view:settings"}],
+    ]}
+    return admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text=message,
+              reply_markup=json.dumps(keyboard, ensure_ascii=False))
+
+
+def settings_menu(st):
+    cfg = st.setdefault("admin_settings", {})
+    apply_settings(st)
+    keyboard = {"inline_keyboard": [
+        [{"text": "بازدید حداقل: %s  −50" % MIN_VIEWS, "callback_data": "set:min_views:-50"},
+         {"text": "+50", "callback_data": "set:min_views:50"}],
+        [{"text": "حداکثر پینگ: %sms  −500" % MAX_PING, "callback_data": "set:max_ping:-500"},
+         {"text": "+500", "callback_data": "set:max_ping:500"}],
+        [{"text": "تعداد انتشار: %s  −1" % MAX_POSTS_PER_RUN, "callback_data": "set:max_posts_per_run:-1"},
+         {"text": "+1", "callback_data": "set:max_posts_per_run:1"}],
+        [{"text": "⬅️ منوی اصلی", "callback_data": "view:menu"}],
+    ]}
+    return admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID,
+              text="⚙️ تنظیمات فعلی\n\nبازدید حداقل: %d\nحداکثر پینگ: %d ms\nحداکثر انتشار در هر اجرا: %d" %
+                   (MIN_VIEWS, MAX_PING, MAX_POSTS_PER_RUN),
+              reply_markup=json.dumps(keyboard, ensure_ascii=False))
+
+
+def admin_stats(st):
+    stats = st.get("stats", {})
+    posted = st.get("posted", {})
+    queue = st.get("queue", [])
+    return ("📊 آمار K2 Guard\n\n"
+            "📅 روز آمار: %s\n"
+            "🔎 کانفیگ‌های بررسی‌شده: %s\n"
+            "🟢 سالم شناسایی‌شده: %s\n"
+            "📮 منتشرشده: %s\n"
+            "🗑 حذف‌شده: %s\n"
+            "📌 کانفیگ‌های تحت مدیریت: %d\n"
+            "⏳ در صف انتشار: %d") % (
+                stats.get("date", "هنوز ثبت نشده"), stats.get("fetched", 0),
+                stats.get("healthy", 0), stats.get("posted", 0),
+                stats.get("removed", 0), len(posted), len(queue))
+
+
+def admin_status(st):
+    auto = "روشن 🟢" if st.get("auto_enabled", True) else "خاموش 🔴"
+    last_post = st.get("last_auto_post")
+    last_clean = st.get("last_auto_clean")
+    def fmt(ts):
+        return time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime(ts)) if ts else "هنوز اجرا نشده"
+    return ("ℹ️ وضعیت ربات\n\n"
+            "اجرای خودکار: %s\n"
+            "آخرین اجرای خودکار انتشار: %s\n"
+            "آخرین اجرای خودکار پاک‌سازی: %s\n\n"
+            "نکته: در حالت GitHub Actions، پردازش فرمان‌های تلگرام معمولاً با تأخیر تا حدود ۵ دقیقه انجام می‌شود.") % (auto, fmt(last_post), fmt(last_clean))
+
+
+def process_admin_updates(st):
+    """به‌صورت کوتاه Updates را می‌خواند؛ فراخوانی بعدی با workflow زمان‌بندی‌شده است."""
+    if not ADMIN_CHAT_ID or not ADMIN_BOT_TOKEN:
+        print("ADMIN_CHAT_ID or ADMIN_BOT_TOKEN missing; Telegram admin panel disabled")
+        return []
+    try:
+        offset = int(st.get("telegram_update_offset", 0))
+        result = admin_tg("getUpdates", offset=offset, timeout=0,
+                    allowed_updates=json.dumps(["message", "callback_query"]))
+        if not result.get("ok"):
+            print("getUpdates failed:", result.get("description"))
+            return []
+        updates = result.get("result", [])
+    except Exception as exc:
+        print("update polling failed:", type(exc).__name__)
+        return []
+
+    actions = []
+    for update in updates:
+        st["telegram_update_offset"] = int(update.get("update_id", 0)) + 1
+        msg = update.get("message") or {}
+        cb = update.get("callback_query") or {}
+        user = msg.get("from") or cb.get("from") or {}
+        chat = msg.get("chat") or (cb.get("message") or {}).get("chat") or {}
+        # فقط مدیر تعیین‌شده و چت خصوصی مجاز است.
+        if str(user.get("id", "")) != ADMIN_CHAT_ID or str(chat.get("id", "")) != ADMIN_CHAT_ID:
+            if cb.get("id"):
+                admin_tg("answerCallbackQuery", callback_query_id=cb["id"], text="دسترسی غیرمجاز")
+            continue
+
+        if msg:
+            command = (msg.get("text") or "").strip().split()[0].lower() if (msg.get("text") or "").strip() else ""
+            if command in ("/start", "/panel", "/menu"):
+                admin_menu(st, "🛡️ پنل مدیریت K2 Guard\nیکی از عملیات زیر را انتخاب کن:")
+            elif command == "/stats":
+                admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text=admin_stats(st))
+            elif command == "/status":
+                admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text=admin_status(st))
+            continue
+
+        if not cb:
+            continue
+        data = cb.get("data", "")
+        admin_tg("answerCallbackQuery", callback_query_id=cb.get("id", ""), text="درخواست دریافت شد")
+        if data == "toggle:auto":
+            st["auto_enabled"] = not st.get("auto_enabled", True)
+            admin_menu(st, "وضعیت اجرای خودکار: " + ("روشن 🟢" if st["auto_enabled"] else "خاموش 🔴") + "\nاجرای دستی همچنان فعال است.")
+        elif data == "act:post":
+            actions.append("post")
+            admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text="🚀 درخواست انتشار ثبت شد؛ نتیجه پس از پایان اجرا در گزارش Workflow قابل بررسی است.")
+        elif data == "act:clean":
+            actions.append("clean")
+            admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text="🧹 درخواست پاک‌سازی ثبت شد؛ نتیجه پس از پایان اجرا در گزارش Workflow قابل بررسی است.")
+        elif data == "view:stats":
+            admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text=admin_stats(st))
+        elif data == "view:status":
+            admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text=admin_status(st))
+        elif data == "view:settings":
+            settings_menu(st)
+        elif data == "view:menu":
+            admin_menu(st)
+        elif data.startswith("set:"):
+            try:
+                _, key, delta = data.split(":", 2)
+                cfg = st.setdefault("admin_settings", {})
+                defaults = {"min_views": MIN_VIEWS, "max_ping": MAX_PING,
+                            "max_posts_per_run": MAX_POSTS_PER_RUN}
+                limits = {"min_views": (0, 100000), "max_ping": (100, 30000),
+                          "max_posts_per_run": (1, 10)}
+                if key in defaults:
+                    lo, hi = limits[key]
+                    current = int(cfg.get(key, defaults[key]))
+                    cfg[key] = max(lo, min(hi, current + int(delta)))
+                    apply_settings(st)
+                    settings_menu(st)
+            except (ValueError, TypeError):
+                admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text="خطا در تغییر تنظیمات")
+    save_state(st)
+    return actions
+
+
+def mode_worker():
+    """Worker زمان‌بندی‌شده: فرمان‌های تلگرام + اجرای خودکار در صورت روشن بودن."""
+    st = load_state()
+    st.setdefault("auto_enabled", True)
+    now = time.time()
+    # اولین worker انتشار را انجام می‌دهد؛ پاک‌سازی از چرخه‌ی بعدی ۶ ساعته آغاز می‌شود.
+    st.setdefault("last_auto_post", now - POST_INTERVAL)
+    st.setdefault("last_auto_clean", now)
+    actions = process_admin_updates(st)
+    st = load_state()  # process_admin_updates ممکن است تنظیمات/offset را ذخیره کرده باشد
+    apply_settings(st)
+
+    # اجرای دستی حتی وقتی auto_enabled خاموش است، مجاز می‌ماند.
+    for action in actions:
+        before = load_state()
+        before_stats = before.get("stats", {})
+        before_posted = int(before_stats.get("posted", 0))
+        before_removed = int(before_stats.get("removed", 0))
+        if action == "post":
+            mode_post()
+            after = load_state()
+            if after.get("auto_enabled", True):
+                after["last_auto_post"] = time.time()
+                save_state(after)
+                after = load_state()
+            delta = int(after.get("stats", {}).get("posted", 0)) - before_posted
+            admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID,
+               text="✅ اجرای انتشار تمام شد.\nتعداد انتشار ثبت‌شده در این اجرا: %d" % max(0, delta))
+        elif action == "clean":
+            mode_clean()
+            after = load_state()
+            if after.get("auto_enabled", True):
+                after["last_auto_clean"] = time.time()
+                save_state(after)
+                after = load_state()
+            delta = int(after.get("stats", {}).get("removed", 0)) - before_removed
+            admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID,
+               text="✅ پاک‌سازی تمام شد.\nتعداد حذف ثبت‌شده در این اجرا: %d" % max(0, delta))
+
+    st = load_state()
+    now = time.time()
+    if st.get("auto_enabled", True):
+        if "post" not in actions and now - float(st.get("last_auto_post", 0)) >= POST_INTERVAL:
+            st["last_auto_post"] = now
+            save_state(st)
+            print("automatic post run")
+            mode_post()
+        st = load_state()
+        now = time.time()
+        if "clean" not in actions and now - float(st.get("last_auto_clean", now)) >= CLEAN_INTERVAL:
+            st["last_auto_clean"] = now
+            save_state(st)
+            print("automatic clean run")
+            mode_clean()
+    save_state(load_state())
+
+
 if __name__ == "__main__":
     if not BOT_TOKEN:
         sys.exit("BOT_TOKEN is missing (add it in repo Settings > Secrets)")
     mode = sys.argv[1] if len(sys.argv) > 1 else "post"
-    (mode_clean if mode == "clean" else mode_post)()
+    if mode == "clean":
+        mode_clean()
+    elif mode == "worker":
+        mode_worker()
+    else:
+        mode_post()
