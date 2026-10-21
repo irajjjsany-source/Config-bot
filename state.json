@@ -1,6 +1,5 @@
 {
  "seen": {
-  "0608fa58d831c8ee": 1792341866.0445344,
   "3a4ef9b016789e34": 1792343728.366233,
   "fccbaf33a47526d2": 1792343728.366233,
   "6eff596392e58a41": 1792343728.366233,
@@ -310,9 +309,22 @@
   "1ee6b3459642fdf5": 1792598447.3008487,
   "12c00e079941058c": 1792598447.3008487,
   "47b83a1796a91011": 1792600242.1280303,
-  "612b32fb32f2f062": 1792600242.1280303
+  "612b32fb32f2f062": 1792600242.1280303,
+  "8637b916d6fca35f": 1792602048.6941419,
+  "4b8cbf9dbbc4bbb0": 1792602048.6941419,
+  "0d3e08dc8156e1a2": 1792602048.6941419,
+  "9c24260d45144273": 1792602048.6941419
  },
  "queue": [
+  {
+   "id": "4b8cbf9dbbc4bbb0",
+   "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjE1MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMGViMDJjNWYtMWM0Ni00NDAxLWFlMzktZTMzMGU4Y2Y3NDlkIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjI2MzYiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "ping": 270,
+   "best": 266,
+   "score": 96,
+   "stability": 100,
+   "ts": 1792602048.6941419
+  },
   {
    "id": "2948a16e235b8941",
    "cfg": "vless://90c08c98-7ec8-4fab-da36-cf140d18c708@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#🔵@chillguy_vpn",
@@ -4367,6 +4379,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "9c24260d45144273": {
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.128.74:22222?encryption=none&security=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2024,
+   "ts": 1792602068.140511,
+   "ping": 264,
+   "score": 97,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5690,13 +5712,18 @@
    "cc": "FR",
    "name": "France",
    "ts": 1792593085.3065507
+  },
+  "16.60.128.74": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1792602067.449127
   }
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 131,
-  "healthy": 60,
-  "posted": 31,
+  "fetched": 135,
+  "healthy": 62,
+  "posted": 32,
   "removed": 5,
   "published_scores": [
    96,
@@ -5727,11 +5754,12 @@
    97,
    96,
    97,
-   66
+   66,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792600242.118996,
+ "last_auto_post": 1792602048.6870315,
  "last_auto_clean": 1792599172.9294207,
  "admin_settings": {},
  "telegram_update_offset": 690561699
