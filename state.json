@@ -351,36 +351,10 @@
   "4885921f5704dac6": 1792620063.6639702,
   "7b1a39272c00bbcb": 1792620063.6639702,
   "4dd110af28fb0db4": 1792621836.9546635,
-  "e0a94335da912b60": 1792623647.8774462
+  "e0a94335da912b60": 1792623647.8774462,
+  "719b57af53fa6b41": 1792625298.894575
  },
  "queue": [
-  {
-   "id": "4fbb9adaeb604b75",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.81:22223?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 261,
-   "best": 260,
-   "score": 97,
-   "stability": 100,
-   "ts": 1792620063.6639702
-  },
-  {
-   "id": "7b1a39272c00bbcb",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.214.179:22223?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn",
-   "ping": 295,
-   "best": 256,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792620063.6639702
-  },
-  {
-   "id": "33074664b0dc9588",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22224?encryption=none&security=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 334,
-   "best": 263,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792620063.6639702
-  },
   {
    "id": "38c53855e1bcd8d9",
    "cfg": "vless://0a9dfb0b-4fe1-40fe-b74c-0367e666ca96@65.109.209.239:30079?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
@@ -407,6 +381,15 @@
    "score": 94,
    "stability": 100,
    "ts": 1792620063.6639702
+  },
+  {
+   "id": "719b57af53fa6b41",
+   "cfg": "vless://b2dacbda-8221-4548-a104-aa8aa56ab282@787f753345096511.tunvi.w-ert.org:448?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca358c46a3e9d52a#🔵@chillguy_vpn",
+   "ping": 1257,
+   "best": 1236,
+   "score": 84,
+   "stability": 100,
+   "ts": 1792625298.894575
   },
   {
    "id": "efa4864d930e6ec3",
@@ -4376,6 +4359,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "33074664b0dc9588": {
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22224?encryption=none&security=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2039,
+   "ts": 1792625325.5858307,
+   "ping": 177,
+   "score": 98,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5753,9 +5746,9 @@
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 186,
-  "healthy": 89,
-  "posted": 46,
+  "fetched": 187,
+  "healthy": 90,
+  "posted": 47,
   "removed": 11,
   "published_scores": [
    96,
@@ -5800,11 +5793,12 @@
    95,
    99,
    98,
-   96
+   96,
+   98
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792623647.869162,
+ "last_auto_post": 1792625298.886179,
  "last_auto_clean": 1792620928.7496018,
  "admin_settings": {},
  "telegram_update_offset": 690561702
