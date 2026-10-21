@@ -277,15 +277,6 @@
  },
  "queue": [
   {
-   "id": "68b8fc415261baa9",
-   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=%2F&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#🔵@chillguy_vpn",
-   "ping": 661,
-   "best": 650,
-   "score": 91,
-   "stability": 100,
-   "ts": 1792566048.6816475
-  },
-  {
    "id": "824cba9d222cd0e4",
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#🔵@chillguy_vpn",
    "ping": 664,
@@ -4150,6 +4141,16 @@
    "stability": 100,
    "country": "Latvia",
    "repost_count": 0
+  },
+  "68b8fc415261baa9": {
+   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=%2F&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2000,
+   "ts": 1792570796.255399,
+   "ping": 464,
+   "score": 94,
+   "stability": 100,
+   "country": "Montenegro",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5444,7 +5445,7 @@
   "date": "2026-10-21",
   "fetched": 45,
   "healthy": 23,
-  "posted": 7,
+  "posted": 8,
   "removed": 0,
   "published_scores": [
    96,
@@ -5453,7 +5454,8 @@
    95,
    92,
    96,
-   93
+   93,
+   94
   ]
  }
 }
