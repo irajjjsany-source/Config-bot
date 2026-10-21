@@ -286,7 +286,11 @@
   "aa6595d95123ad18": 1792577395.0403326,
   "cadb9cc923933790": 1792577395.0403326,
   "70c5731aee1df461": 1792577395.0403326,
-  "f2b43f6baa7635a7": 1792577395.0403326
+  "f2b43f6baa7635a7": 1792577395.0403326,
+  "6ee08fd5be3bff59": 1792578642.2275279,
+  "4963ebf39820376c": 1792578642.2275279,
+  "a0b5703fb6fbfb13": 1792578642.2275279,
+  "f585de367dd9a56d": 1792578642.2275279
  },
  "queue": [
   {
@@ -4243,6 +4247,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "6ee08fd5be3bff59": {
+   "cfg": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn771984099.opengw.net%3A1770%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2008,
+   "ts": 1792578668.9363577,
+   "ping": 44,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5545,9 +5559,9 @@
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 70,
-  "healthy": 31,
-  "posted": 15,
+  "fetched": 74,
+  "healthy": 32,
+  "posted": 16,
   "removed": 0,
   "published_scores": [
    96,
@@ -5564,12 +5578,13 @@
    95,
    94,
    92,
-   97
+   97,
+   99
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792577395.0325572,
+ "last_auto_post": 1792578642.2200973,
  "last_auto_clean": 1792577393.1681879,
  "admin_settings": {},
- "telegram_update_offset": 690561691
+ "telegram_update_offset": 690561692
 }
