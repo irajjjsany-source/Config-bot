@@ -1,13 +1,5 @@
 {
  "seen": {
-  "767d312a7f957c97": 1792312598.355216,
-  "83daf4e5a3d1e112": 1792312598.355216,
-  "7a6e5ef05fbfc97b": 1792312598.355216,
-  "d892e4e3fab32813": 1792312598.355216,
-  "5497faf59c1689e1": 1792313126.8464806,
-  "ccf5d56a89ee4df1": 1792313126.8464806,
-  "c942b2f7586d7a07": 1792313126.8464806,
-  "e4c6687a70d16fa8": 1792313126.8464806,
   "36b476685056f32d": 1792315836.1992157,
   "df1e10963e8ea9b0": 1792315836.1992157,
   "7232ee94276d9f0c": 1792315836.1992157,
@@ -279,15 +271,6 @@
   "b76c863a5191eafc": 1792571440.1465735
  },
  "queue": [
-  {
-   "id": "824cba9d222cd0e4",
-   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#🔵@chillguy_vpn",
-   "ping": 664,
-   "best": 649,
-   "score": 91,
-   "stability": 100,
-   "ts": 1792566048.6816475
-  },
   {
    "id": "c86de083dc51e23d",
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=%2F&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#🔵@chillguy_vpn",
@@ -4164,6 +4147,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "824cba9d222cd0e4": {
+   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2002,
+   "ts": 1792572332.5841436,
+   "ping": 402,
+   "score": 95,
+   "stability": 100,
+   "country": "Montenegro",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5463,7 +5456,7 @@
   "date": "2026-10-21",
   "fetched": 48,
   "healthy": 24,
-  "posted": 9,
+  "posted": 10,
   "removed": 0,
   "published_scores": [
    96,
@@ -5474,7 +5467,8 @@
    96,
    93,
    94,
-   97
+   97,
+   95
   ]
  }
 }
