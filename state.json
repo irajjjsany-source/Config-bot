@@ -258,27 +258,10 @@
   "57c58464e4ac97bc": 1792566927.9387307,
   "443f749e72b6fb7e": 1792566927.9387307,
   "69c227c7d66ddaf0": 1792567837.711165,
-  "abf3184d5a2fffe3": 1792567837.711165
+  "abf3184d5a2fffe3": 1792567837.711165,
+  "a7b02a6830d57a27": 1792568727.0097477
  },
  "queue": [
-  {
-   "id": "31604af02fd69587",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#🔵@chillguy_vpn",
-   "ping": 528,
-   "best": 505,
-   "score": 93,
-   "stability": 100,
-   "ts": 1792566927.9387307
-  },
-  {
-   "id": "bc77a9782ffc0350",
-   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=%2Ffp&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#🔵@chillguy_vpn",
-   "ping": 660,
-   "best": 651,
-   "score": 91,
-   "stability": 100,
-   "ts": 1792566048.6816475
-  },
   {
    "id": "68b8fc415261baa9",
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=%2F&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#🔵@chillguy_vpn",
@@ -4042,6 +4025,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "bc77a9782ffc0350": {
+   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=%2Ffp&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1997,
+   "ts": 1792568760.16001,
+   "ping": 613,
+   "score": 92,
+   "stability": 100,
+   "country": "Montenegro",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5324,15 +5317,16 @@
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 30,
+  "fetched": 31,
   "healthy": 12,
-  "posted": 4,
+  "posted": 5,
   "removed": 0,
   "published_scores": [
    96,
    98,
    98,
-   95
+   95,
+   92
   ]
  }
 }
