@@ -295,9 +295,20 @@
   "0db1d5f4e37eafa4": 1792585841.6454568,
   "0954864999fd8252": 1792585841.6454568,
   "d54f6470f0a26002": 1792585841.6454568,
-  "b5e8bf558bb53ec1": 1792585841.6454568
+  "b5e8bf558bb53ec1": 1792585841.6454568,
+  "fbb96a7559c3a08a": 1792586865.4750326,
+  "546757f6e70a1a01": 1792586865.4750326
  },
  "queue": [
+  {
+   "id": "fbb96a7559c3a08a",
+   "cfg": "vless://4fafb72a-4cab-4b6a-9169-b09bc0b55eab@lili-nl9.stone-bridge.org:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lili-nl9.stone-bridge.org#🔵@chillguy_vpn",
+   "ping": 355,
+   "best": 302,
+   "score": 95,
+   "stability": 100,
+   "ts": 1792586865.4750326
+  },
   {
    "id": "f2b43f6baa7635a7",
    "cfg": "vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?security=reality&encryption=none&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=091e1c5db8451757#🔵@chillguy_vpn",
@@ -4374,6 +4385,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "546757f6e70a1a01": {
+   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2013,
+   "ts": 1792586871.2579856,
+   "ping": 70,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5686,9 +5707,9 @@
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 94,
-  "healthy": 44,
-  "posted": 20,
+  "fetched": 96,
+  "healthy": 46,
+  "posted": 21,
   "removed": 0,
   "published_scores": [
    96,
@@ -5710,11 +5731,12 @@
    97,
    96,
    94,
-   96
+   96,
+   99
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792585841.6373096,
+ "last_auto_post": 1792586865.464174,
  "last_auto_clean": 1792577393.1681879,
  "admin_settings": {},
  "telegram_update_offset": 690561699
