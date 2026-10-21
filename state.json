@@ -268,7 +268,11 @@
   "f97ea5721049b3fd": 1792570529.5928705,
   "a7ffed1fb6accf9a": 1792571440.1465735,
   "ba181b3e99cb0cf8": 1792571440.1465735,
-  "b76c863a5191eafc": 1792571440.1465735
+  "b76c863a5191eafc": 1792571440.1465735,
+  "2bec32025463b254": 1792573247.150028,
+  "b98957a9570aad77": 1792573247.150028,
+  "9a879a43f27929b5": 1792573247.150028,
+  "7fce50bd23e8aa11": 1792573247.150028
  },
  "queue": [
   {
@@ -324,6 +328,15 @@
    "score": 90,
    "stability": 100,
    "ts": 1792570529.5928705
+  },
+  {
+   "id": "2bec32025463b254",
+   "cfg": "vless://feef6320-c5b5-44f6-a44b-5acbc4524457@arsnew.netbazshop.ir:32634?mode=stream-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=cafeariel.ir&type=xhttp#🔵@chillguy_vpn",
+   "ping": 780,
+   "best": 673,
+   "score": 90,
+   "stability": 100,
+   "ts": 1792573247.150028
   },
   {
    "id": "74214647c2cb8e41",
@@ -4157,6 +4170,16 @@
    "stability": 100,
    "country": "Montenegro",
    "repost_count": 0
+  },
+  "b98957a9570aad77": {
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.170.98:22223?security=&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2003,
+   "ts": 1792573262.017371,
+   "ping": 167,
+   "score": 98,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5454,9 +5477,9 @@
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 48,
-  "healthy": 24,
-  "posted": 10,
+  "fetched": 52,
+  "healthy": 26,
+  "posted": 11,
   "removed": 0,
   "published_scores": [
    96,
@@ -5468,7 +5491,8 @@
    93,
    94,
    97,
-   95
+   95,
+   98
   ]
  }
 }
