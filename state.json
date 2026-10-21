@@ -1,7 +1,5 @@
 {
  "seen": {
-  "15214b2ce78d5d37": 1792339567.0237813,
-  "b23ce96e342eb2f6": 1792339567.0237813,
   "0608fa58d831c8ee": 1792341866.0445344,
   "3a4ef9b016789e34": 1792343728.366233,
   "fccbaf33a47526d2": 1792343728.366233,
@@ -310,27 +308,11 @@
   "dd3cdb3737d871f4": 1792598447.3008487,
   "dd718ef8b66b7d6f": 1792598447.3008487,
   "1ee6b3459642fdf5": 1792598447.3008487,
-  "12c00e079941058c": 1792598447.3008487
+  "12c00e079941058c": 1792598447.3008487,
+  "47b83a1796a91011": 1792600242.1280303,
+  "612b32fb32f2f062": 1792600242.1280303
  },
  "queue": [
-  {
-   "id": "b8eb33a316954e2e",
-   "cfg": "vless://5355bc3a-dd9d-4c2b-8fed-c9c83d97a591@16.59.172.93:8443?security=reality&encryption=none&pbk=a9eS3KWCxXpZZb_6Y-o28ocVea-xR0pqNa-_1Ag2Cng&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=94d4096a3cad3a09#🔵@chillguy_vpn",
-   "ping": 284,
-   "best": 190,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792594851.823529
-  },
-  {
-   "id": "2cacc698648698f7",
-   "cfg": "vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@45.91.248.127:8443?mode=gun&security=reality&encryption=none&pbk=75SvxhvlOLct7K2eSg4-a1o6Z6N3JMTqp3wIQmLSqTA&fp=random&type=grpc&serviceName=grpc-api-v2&sni=node.nodebrcsp.ru&sid=8c609726e0233f08#🔵@chillguy_vpn",
-   "ping": 406,
-   "best": 366,
-   "score": 95,
-   "stability": 100,
-   "ts": 1792593040.4787195
-  },
   {
    "id": "2948a16e235b8941",
    "cfg": "vless://90c08c98-7ec8-4fab-da36-cf140d18c708@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#🔵@chillguy_vpn",
@@ -339,15 +321,6 @@
    "score": 93,
    "stability": 100,
    "ts": 1792598447.3008487
-  },
-  {
-   "id": "396ad98f37ef3906",
-   "cfg": "vless://81a0a225-ca38-45ff-b595-36b3a059aef9@p11real2.greewebservices.ir:1040?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=e3085d4fc679ba12#🔵@chillguy_vpn",
-   "ping": 605,
-   "best": 575,
-   "score": 92,
-   "stability": 100,
-   "ts": 1792577395.0403326
   },
   {
    "id": "d9365e8900d5af52",
@@ -375,6 +348,15 @@
    "score": 90,
    "stability": 100,
    "ts": 1792585841.6454568
+  },
+  {
+   "id": "612b32fb32f2f062",
+   "cfg": "vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@sable56.fars-remen.ir:8446?security=reality&encryption=none&pbk=7OwcalQiQ5RaMsYRjvtwTxZWS3sCpjOefcr3WYKFh04&headerType=none&fp=edge&type=tcp&sni=storage-p2.googleapis.com&sid=73da8baa63f8d537#🔵@chillguy_vpn",
+   "ping": 815,
+   "best": 801,
+   "score": 89,
+   "stability": 100,
+   "ts": 1792600242.1280303
   },
   {
    "id": "d94be7ad943551d8",
@@ -4375,6 +4357,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "2cacc698648698f7": {
+   "cfg": "vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@45.91.248.127:8443?mode=gun&security=reality&encryption=none&pbk=75SvxhvlOLct7K2eSg4-a1o6Z6N3JMTqp3wIQmLSqTA&fp=random&type=grpc&serviceName=grpc-api-v2&sni=node.nodebrcsp.ru&sid=8c609726e0233f08#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2023,
+   "ts": 1792600278.6402094,
+   "ping": 2584,
+   "score": 66,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5702,9 +5694,9 @@
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 129,
-  "healthy": 59,
-  "posted": 30,
+  "fetched": 131,
+  "healthy": 60,
+  "posted": 31,
   "removed": 5,
   "published_scores": [
    96,
@@ -5734,11 +5726,12 @@
    96,
    97,
    96,
-   97
+   97,
+   66
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792598447.2956467,
+ "last_auto_post": 1792600242.118996,
  "last_auto_clean": 1792599172.9294207,
  "admin_settings": {},
  "telegram_update_offset": 690561699
