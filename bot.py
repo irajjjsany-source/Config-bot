@@ -366,6 +366,22 @@ def tg(method, **params):
         return {"ok": False, "description": type(e).__name__}
 
 
+FOOTERS = [
+    "🔥 سرعت این کانفیگ کم شد؟ اشتراک اختصاصی بگیر، بدون قطعی 👇",
+    "⚠️ کانفیگ رایگان ممکنه زود قطع بشه. اشتراک اختصاصی = اتصال پایدار 🔐",
+    "🎁 قبل از خرید تست رایگان بگیر، بعد تصمیم بگیر 👇",
+    "🔐 اشتراک اختصاصی، تک‌لوکیشن و مولتی‌لوکیشن 👇",
+    "🚀 اینترنت پرسرعت و بدون قطعی می‌خوای؟ اینجا کلیک کن",
+    "🛡️ فیلترشکن اختصاصی با پشتیبانی ۲۴ ساعته 👇",
+]
+
+
+def footer_line():
+    """یک متن تصادفی که خودش لینک خرید است (همان لینک دکمه شیشه‌ای)"""
+    return '<a href="%s">%s</a>' % (html.escape(BUY_LINK, quote=True),
+                                    html.escape(random.choice(FOOTERS), quote=False))
+
+
 def build_text(cfg, ping, flag, country, score=0, stability=0, repost=False):
     online_line = "🔵 Online   %s %s\n" % (flag, country) if flag else "🔵 Online\n"
     score_line = "🏆 Quality: %d/100\n" % score if score else ""
@@ -382,24 +398,34 @@ def build_text(cfg, ping, flag, country, score=0, stability=0, repost=False):
         "⚡ Response: %dms\n"
         "📱 بهترین اپ: V2BOX\n\n"
         "#V2RAY #رایگان\n\n"
-        "♒ تهیه اشتراک اختصاصی تک‌لوکیشن و مولتی‌لوکیشن با ضمانت تا آخرین مگابایت"
-    ) % (html.escape(cfg, quote=False), repost_line, online_line, score_line, stable_line, ping)
+        "%s"
+    ) % (html.escape(cfg, quote=False), repost_line, online_line, score_line, stable_line, ping,
+         footer_line())
 
 
-BUTTON_TEXTS = [
-    "دریافت اکانت تست رایگان 🛡️ 🇨🇦🇮🇷🇱🇷🇵🇸🇹🇷🇺🇸 🛡️",
-    "⚡️ همین الان اشتراک بگیر، قبل از تموم شدن ظرفیت",
-    "🎁 تست ۲۴ ساعته رایگان، بدون نیاز به کارت",
-    "🔥 پرسرعت‌ترین لوکیشن‌ها اینجان، کلیک کن",
-    "✅ تضمین بازگشت وجه تا آخرین مگابایت، ثبت‌نام",
-    "🚀 ارتقا به اشتراک VIP با تخفیف ویژه اعضا",
-    "💬 سوال داری؟ پشتیبانی ۲۴ ساعته همین‌جاست",
+# (متن دکمه, رنگ)  رنگ: primary=آبی، success=سبز، danger=قرمز، None=پیش‌فرض
+BUTTONS = [
+    ("🎁 تست رایگان ۲۴ ساعته 🇮🇷", "success"),
+    ("🛡️ اکانت تست رایگان بگیر", "success"),
+    ("🌍 🇨🇦🇹🇷🇺🇸🇩🇪 لوکیشن‌ها رو ببین", "primary"),
+    ("⚡ اینترنت بدون قطعی 🚀", "primary"),
+    ("🔐 فیلترشکن پرسرعت VIP", "primary"),
+    ("🚀 ارتقا به اشتراک VIP", "primary"),
+    ("📶 اتصال پایدار، بدون افت", "primary"),
+    ("🔓 آزادی اینترنت با یه کلیک", "success"),
+    ("🇳🇱🇬🇧 سرور اختصاصی بگیر", None),
+    ("⏳ ظرفیت محدوده، الان بگیر", "danger"),
+    ("✅ ضمانت بازگشت وجه", None),
+    ("💬 پشتیبانی ۲۴ ساعته 🛟", None),
 ]
 
 
 def buy_button():
-    text = random.choice(BUTTON_TEXTS)
-    return json.dumps({"inline_keyboard": [[{"text": text, "url": BUY_LINK}]]})
+    text, style = random.choice(BUTTONS)
+    btn = {"text": text, "url": BUY_LINK}
+    if style:
+        btn["style"] = style
+    return json.dumps({"inline_keyboard": [[btn]]})
 
 
 # ---------------- وضعیت ----------------
