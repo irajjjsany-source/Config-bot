@@ -301,18 +301,18 @@
   "a29c30daee5401f0": 1792594851.823529,
   "e3a2b984248df937": 1792596642.2517016,
   "5026199f67291abd": 1792596642.2517016,
-  "b4aae5c5423b77ff": 1792596642.2517016
+  "b4aae5c5423b77ff": 1792596642.2517016,
+  "9b44dfd4d633fe15": 1792598447.3008487,
+  "3ffab72c23b08199": 1792598447.3008487,
+  "5aba171307983a29": 1792598447.3008487,
+  "2948a16e235b8941": 1792598447.3008487,
+  "742ed33b55b7ea61": 1792598447.3008487,
+  "dd3cdb3737d871f4": 1792598447.3008487,
+  "dd718ef8b66b7d6f": 1792598447.3008487,
+  "1ee6b3459642fdf5": 1792598447.3008487,
+  "12c00e079941058c": 1792598447.3008487
  },
  "queue": [
-  {
-   "id": "fe490dab2395dc26",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22224?security=none&type=tcp&encryption=none#🔵@chillguy_vpn",
-   "ping": 282,
-   "best": 275,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792593040.4787195
-  },
   {
    "id": "b8eb33a316954e2e",
    "cfg": "vless://5355bc3a-dd9d-4c2b-8fed-c9c83d97a591@16.59.172.93:8443?security=reality&encryption=none&pbk=a9eS3KWCxXpZZb_6Y-o28ocVea-xR0pqNa-_1Ag2Cng&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=94d4096a3cad3a09#🔵@chillguy_vpn",
@@ -330,6 +330,15 @@
    "score": 95,
    "stability": 100,
    "ts": 1792593040.4787195
+  },
+  {
+   "id": "2948a16e235b8941",
+   "cfg": "vless://90c08c98-7ec8-4fab-da36-cf140d18c708@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#🔵@chillguy_vpn",
+   "ping": 560,
+   "best": 541,
+   "score": 93,
+   "stability": 100,
+   "ts": 1792598447.3008487
   },
   {
    "id": "396ad98f37ef3906",
@@ -4414,6 +4423,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "fe490dab2395dc26": {
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22224?security=none&type=tcp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2020,
+   "ts": 1792598473.1242437,
+   "ping": 241,
+   "score": 97,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5741,9 +5760,9 @@
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 120,
-  "healthy": 58,
-  "posted": 27,
+  "fetched": 129,
+  "healthy": 59,
+  "posted": 28,
   "removed": 0,
   "published_scores": [
    96,
@@ -5772,11 +5791,12 @@
    86,
    96,
    97,
-   96
+   96,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792596642.2448893,
+ "last_auto_post": 1792598447.2956467,
  "last_auto_clean": 1792577393.1681879,
  "admin_settings": {},
  "telegram_update_offset": 690561699
