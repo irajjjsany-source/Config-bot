@@ -1,17 +1,5 @@
 {
  "seen": {
-  "e38911f2f31791f0": 1792324845.6997716,
-  "4e6a40e9e918c85c": 1792324845.6997716,
-  "aa15aac413e7d772": 1792324845.6997716,
-  "1e8a66edede5b329": 1792324845.6997716,
-  "a66d9af380537edd": 1792324845.6997716,
-  "0954864999fd8252": 1792324845.6997716,
-  "e9efbb3193a375dc": 1792324845.6997716,
-  "089311d9ee5a072a": 1792324845.6997716,
-  "d54f6470f0a26002": 1792324845.6997716,
-  "25d9751bc3917853": 1792324845.6997716,
-  "1860449d74a47150": 1792324845.6997716,
-  "35320d2a3a9f2b9c": 1792324845.6997716,
   "332794339c2eab63": 1792325728.9232588,
   "6341fe20a394623d": 1792325728.9232588,
   "b5e8bf558bb53ec1": 1792325728.9232588,
@@ -296,18 +284,14 @@
   "2d8d864208dd1574": 1792581064.590624,
   "d94be7ad943551d8": 1792582239.3491917,
   "320e16578df85dbb": 1792582239.3491917,
-  "d9365e8900d5af52": 1792582239.3491917
+  "d9365e8900d5af52": 1792582239.3491917,
+  "f8a84892c36861e9": 1792584052.1032796,
+  "5423ea2ffc220251": 1792584052.1032796,
+  "17cf9b49c731a942": 1792584052.1032796,
+  "bc5a276d54212421": 1792584052.1032796,
+  "3709a8b73b93cbba": 1792584052.1032796
  },
  "queue": [
-  {
-   "id": "a6e6e52b048595ce",
-   "cfg": "vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#🔵@chillguy_vpn",
-   "ping": 253,
-   "best": 237,
-   "score": 97,
-   "stability": 100,
-   "ts": 1792577395.0403326
-  },
   {
    "id": "320e16578df85dbb",
    "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22223?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn",
@@ -343,6 +327,15 @@
    "score": 91,
    "stability": 100,
    "ts": 1792582239.3491917
+  },
+  {
+   "id": "3709a8b73b93cbba",
+   "cfg": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@165.99.222.161:443?security=reality&encryption=none&pbk=SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=in1.vkusnews.com#🔵@chillguy_vpn",
+   "ping": 708,
+   "best": 706,
+   "score": 91,
+   "stability": 100,
+   "ts": 1792584052.1032796
   },
   {
    "id": "25da27ffbd8d4ea3",
@@ -433,6 +426,15 @@
    "score": 84,
    "stability": 100,
    "ts": 1792570529.5928705
+  },
+  {
+   "id": "bc5a276d54212421",
+   "cfg": "vless://b2dacbda-8221-4548-a104-aa8aa56ab282@tun2.w-ert.org:56841?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#🔵@chillguy_vpn",
+   "ping": 1403,
+   "best": 977,
+   "score": 82,
+   "stability": 100,
+   "ts": 1792584052.1032796
   },
   {
    "id": "98474576ec525f96",
@@ -4310,6 +4312,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "a6e6e52b048595ce": {
+   "cfg": "vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2011,
+   "ts": 1792584073.7308776,
+   "ping": 434,
+   "score": 94,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -4557,7 +4569,7 @@
   "51.89.194.151": {
    "cc": "GB",
    "name": "United Kingdom",
-   "ts": 1791634945.393123
+   "ts": 1792584072.9913692
   },
   "70.38.95.51": {
    "cc": "CA",
@@ -5617,9 +5629,9 @@
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 80,
-  "healthy": 37,
-  "posted": 18,
+  "fetched": 85,
+  "healthy": 39,
+  "posted": 19,
   "removed": 0,
   "published_scores": [
    96,
@@ -5639,11 +5651,12 @@
    97,
    99,
    97,
-   96
+   96,
+   94
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792582239.3411462,
+ "last_auto_post": 1792584052.0951545,
  "last_auto_clean": 1792577393.1681879,
  "admin_settings": {},
  "telegram_update_offset": 690561699
