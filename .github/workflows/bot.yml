@@ -1,14 +1,20 @@
 name: config-bot
 
 on:
+  # GitHub Actions حداقل هر ۵ دقیقه می‌تواند زمان‌بندی شود؛ زمان اجرا ممکن است کمی تأخیر داشته باشد.
   schedule:
-    - cron: "*/15 * * * *"
-    - cron: "10 */6 * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
     inputs:
       mode:
-        description: "post یا clean"
-        default: "post"
+        description: "اجرای دستی"
+        type: choice
+        options:
+          - worker
+          - post
+          - clean
+        default: worker
+        required: true
 
 concurrency:
   group: config-bot
@@ -16,6 +22,9 @@ concurrency:
 
 permissions:
   contents: write
+
+env:
+  PYTHONUNBUFFERED: "1"
 
 jobs:
   run:
@@ -30,7 +39,7 @@ jobs:
 
       - name: Install xray
         run: |
-          curl -sL -o x.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          curl -fsSL -o x.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
           unzip -q x.zip xray
           chmod +x xray
           ./xray version | head -1
@@ -38,12 +47,12 @@ jobs:
       - name: Run bot
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          ADMIN_BOT_TOKEN: ${{ secrets.ADMIN_BOT_TOKEN }}
+          ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
           INPUT_MODE: ${{ github.event.inputs.mode }}
-          SCHEDULE: ${{ github.event.schedule }}
         run: |
-          MODE="post"
+          MODE="worker"
           if [ -n "$INPUT_MODE" ]; then MODE="$INPUT_MODE"; fi
-          if [ "$SCHEDULE" = "10 */6 * * *" ]; then MODE="clean"; fi
           python bot.py "$MODE"
 
       - name: Save state
@@ -53,7 +62,7 @@ jobs:
           git config user.email "config-bot@users.noreply.github.com"
           git add state.json || true
           if ! git diff --cached --quiet; then
-            git commit -m "update state"
+            git commit -m "update state [skip ci]"
             git pull --rebase -q || true
             git push
           fi
