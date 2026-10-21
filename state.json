@@ -1,7 +1,5 @@
 {
  "seen": {
-  "9d7da99596a2b1e4": 1792337438.572762,
-  "184befd1540054d6": 1792337438.572762,
   "15214b2ce78d5d37": 1792339567.0237813,
   "b23ce96e342eb2f6": 1792339567.0237813,
   "0608fa58d831c8ee": 1792341866.0445344,
@@ -300,7 +298,10 @@
   "2cacc698648698f7": 1792593040.4787195,
   "b8eb33a316954e2e": 1792594851.823529,
   "8782c11816444695": 1792594851.823529,
-  "a29c30daee5401f0": 1792594851.823529
+  "a29c30daee5401f0": 1792594851.823529,
+  "e3a2b984248df937": 1792596642.2517016,
+  "5026199f67291abd": 1792596642.2517016,
+  "b4aae5c5423b77ff": 1792596642.2517016
  },
  "queue": [
   {
@@ -455,6 +456,15 @@
    "score": 60,
    "stability": 100,
    "ts": 1792581064.590624
+  },
+  {
+   "id": "b4aae5c5423b77ff",
+   "cfg": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@165.99.222.161:443?security=reality&encryption=none&pbk=SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=in1.vkusnews.com#🔵@chillguy_vpn",
+   "ping": 3578,
+   "best": 3211,
+   "score": 53,
+   "stability": 100,
+   "ts": 1792596642.2517016
   },
   {
    "id": "a29c30daee5401f0",
@@ -4394,6 +4404,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "e3a2b984248df937": {
+   "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjE1MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZmIwNzY4ZjgtNDUxZS00ZTNjLWJlODItYWVmMDFlM2JiZjQ2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjI2MzYiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "msg": 2019,
+   "ts": 1792596666.1988688,
+   "ping": 270,
+   "score": 96,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5721,9 +5741,9 @@
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 117,
-  "healthy": 56,
-  "posted": 26,
+  "fetched": 120,
+  "healthy": 58,
+  "posted": 27,
   "removed": 0,
   "published_scores": [
    96,
@@ -5751,11 +5771,12 @@
    97,
    86,
    96,
-   97
+   97,
+   96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792594851.8150513,
+ "last_auto_post": 1792596642.2448893,
  "last_auto_clean": 1792577393.1681879,
  "admin_settings": {},
  "telegram_update_offset": 690561699
