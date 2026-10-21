@@ -4234,75 +4234,17 @@
    "country": "Montenegro",
    "repost_count": 0
   },
-  "ba181b3e99cb0cf8": {
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.170.98:22223?security=&encryption=none&headerType=&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2001,
-   "ts": 1792571446.4505882,
-   "ping": 218,
-   "score": 97,
-   "stability": 100,
-   "country": "United Kingdom",
-   "repost_count": 0
-  },
   "824cba9d222cd0e4": {
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2002,
-   "ts": 1792572332.5841436,
-   "ping": 402,
-   "score": 95,
-   "stability": 100,
-   "country": "Montenegro",
-   "repost_count": 0
-  },
-  "b98957a9570aad77": {
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.170.98:22223?security=&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2003,
-   "ts": 1792573262.017371,
-   "ping": 167,
-   "score": 98,
-   "stability": 100,
-   "country": "United Kingdom",
-   "repost_count": 0
+   "msg": 2021,
+   "ts": 1792599195.535973,
+   "repost_count": 1
   },
   "c86de083dc51e23d": {
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=%2F&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2004,
-   "ts": 1792573740.0006766,
-   "ping": 413,
-   "score": 95,
-   "stability": 100,
-   "country": "Montenegro",
-   "repost_count": 0
-  },
-  "2c16f9e69a341dce": {
-   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2005,
-   "ts": 1792574141.610302,
-   "ping": 476,
-   "score": 94,
-   "stability": 100,
-   "country": "Montenegro",
-   "repost_count": 0
-  },
-  "7586e4bf9444d2a9": {
-   "cfg": "vless://f204112b-9755-4bee-809f-a1a5dfb6d552@dns11.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2006,
-   "ts": 1792575051.5097775,
-   "ping": 651,
-   "score": 92,
-   "stability": 100,
-   "country": "The Netherlands",
-   "repost_count": 0
-  },
-  "3cf6395111c58606": {
-   "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjE1MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjIyMDRjODEtNTFjYS00ZDNiLTg0YzgtYTYyNWY3Y2RhZTA2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjI2MzYiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
-   "msg": 2007,
-   "ts": 1792577416.7773879,
-   "ping": 195,
-   "score": 97,
-   "stability": 100,
-   "country": "The Netherlands",
-   "repost_count": 0
+   "msg": 2022,
+   "ts": 1792599199.0630713,
+   "repost_count": 1
   },
   "6ee08fd5be3bff59": {
    "cfg": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn771984099.opengw.net%3A1770%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -5762,8 +5704,8 @@
   "date": "2026-10-21",
   "fetched": 129,
   "healthy": 59,
-  "posted": 28,
-  "removed": 0,
+  "posted": 30,
+  "removed": 5,
   "published_scores": [
    96,
    98,
@@ -5797,7 +5739,7 @@
  },
  "auto_enabled": true,
  "last_auto_post": 1792598447.2956467,
- "last_auto_clean": 1792577393.1681879,
+ "last_auto_clean": 1792599172.9294207,
  "admin_settings": {},
  "telegram_update_offset": 690561699
 }
