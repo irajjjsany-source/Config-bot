@@ -251,17 +251,32 @@
   "344c2f573a4422a9": 1792566048.6816475,
   "991937a29d4ce140": 1792566048.6816475,
   "63449367f5622f1e": 1792566048.6816475,
-  "e7d895f23d62c6d8": 1792566048.6816475
+  "e7d895f23d62c6d8": 1792566048.6816475,
+  "4b1148bbb10ca9fa": 1792566927.9387307,
+  "e1ab76381c284e90": 1792566927.9387307,
+  "31604af02fd69587": 1792566927.9387307,
+  "36330b86575842a9": 1792566927.9387307,
+  "57c58464e4ac97bc": 1792566927.9387307,
+  "443f749e72b6fb7e": 1792566927.9387307
  },
  "queue": [
   {
-   "id": "ccdddc1b41bd0a41",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.187.221:22224?encryption=none&security=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 294,
-   "best": 290,
-   "score": 96,
+   "id": "57c58464e4ac97bc",
+   "cfg": "vless://58ec8bba-fb99-4840-805c-1871cbec26f3@51.77.144.182:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.X8DtmFhi4oY82v9gRk9ChLqK-SbFgeYsLgVpAIMXalI&pbk=twCZ2ZSURqQA2oUep4h2aj_3yJEEagFSQByn26bWWkI&headerType=none&fp=chrome&spx=%2F3cecbfcab279645&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=94d9456c33#🔵@chillguy_vpn",
+   "ping": 398,
+   "best": 390,
+   "score": 95,
    "stability": 100,
-   "ts": 1792566048.6816475
+   "ts": 1792566927.9387307
+  },
+  {
+   "id": "31604af02fd69587",
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#🔵@chillguy_vpn",
+   "ping": 528,
+   "best": 505,
+   "score": 93,
+   "stability": 100,
+   "ts": 1792566927.9387307
   },
   {
    "id": "bc77a9782ffc0350",
@@ -307,6 +322,15 @@
    "score": 91,
    "stability": 100,
    "ts": 1792566048.6816475
+  },
+  {
+   "id": "36330b86575842a9",
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56415?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#🔵@chillguy_vpn",
+   "ping": 882,
+   "best": 880,
+   "score": 89,
+   "stability": 100,
+   "ts": 1792566927.9387307
   },
   {
    "id": "98474576ec525f96",
@@ -3996,6 +4020,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "ccdddc1b41bd0a41": {
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.187.221:22224?encryption=none&security=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 1994,
+   "ts": 1792566945.197844,
+   "ping": 179,
+   "score": 98,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5264,16 +5298,22 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1792566116.3757052
+  },
+  "51.44.187.221": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1792566944.599515
   }
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 22,
-  "healthy": 8,
-  "posted": 1,
+  "fetched": 28,
+  "healthy": 11,
+  "posted": 2,
   "removed": 0,
   "published_scores": [
-   96
+   96,
+   98
   ]
  }
 }
