@@ -273,7 +273,10 @@
   "c9cc71893eea807f": 1792570529.5928705,
   "5d4bc61d7366fcf9": 1792570529.5928705,
   "825fd7a20333e4a7": 1792570529.5928705,
-  "f97ea5721049b3fd": 1792570529.5928705
+  "f97ea5721049b3fd": 1792570529.5928705,
+  "a7ffed1fb6accf9a": 1792571440.1465735,
+  "ba181b3e99cb0cf8": 1792571440.1465735,
+  "b76c863a5191eafc": 1792571440.1465735
  },
  "queue": [
   {
@@ -4151,6 +4154,16 @@
    "stability": 100,
    "country": "Montenegro",
    "repost_count": 0
+  },
+  "ba181b3e99cb0cf8": {
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.170.98:22223?security=&encryption=none&headerType=&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2001,
+   "ts": 1792571446.4505882,
+   "ping": 218,
+   "score": 97,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5439,13 +5452,18 @@
    "cc": "LV",
    "name": "Latvia",
    "ts": 1792570558.0899801
+  },
+  "13.134.170.98": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1792571445.748942
   }
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 45,
-  "healthy": 23,
-  "posted": 8,
+  "fetched": 48,
+  "healthy": 24,
+  "posted": 9,
   "removed": 0,
   "published_scores": [
    96,
@@ -5455,7 +5473,8 @@
    92,
    96,
    93,
-   94
+   94,
+   97
   ]
  }
 }
