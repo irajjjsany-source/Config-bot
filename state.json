@@ -356,15 +356,6 @@
  },
  "queue": [
   {
-   "id": "38c53855e1bcd8d9",
-   "cfg": "vless://0a9dfb0b-4fe1-40fe-b74c-0367e666ca96@65.109.209.239:30079?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 336,
-   "best": 332,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792620063.6639702
-  },
-  {
    "id": "e0a94335da912b60",
    "cfg": "vless://9c794bb7-54fe-4acd-844a-a26209af36c3@195.58.134.26:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=login.mskvibe.fyi&sid=7271129440ade8fa#🔵@chillguy_vpn",
    "ping": 493,
@@ -4369,6 +4360,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "38c53855e1bcd8d9": {
+   "cfg": "vless://0a9dfb0b-4fe1-40fe-b74c-0367e666ca96@65.109.209.239:30079?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2040,
+   "ts": 1792626331.944351,
+   "ping": 301,
+   "score": 96,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5742,13 +5743,18 @@
    "cc": "FR",
    "name": "France",
    "ts": 1792623654.8067896
+  },
+  "65.109.209.239": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1792626331.336208
   }
  },
  "stats": {
   "date": "2026-10-21",
   "fetched": 187,
   "healthy": 90,
-  "posted": 47,
+  "posted": 48,
   "removed": 11,
   "published_scores": [
    96,
@@ -5794,11 +5800,12 @@
    99,
    98,
    96,
-   98
+   98,
+   96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792625298.886179,
+ "last_auto_post": 1792626328.264759,
  "last_auto_clean": 1792620928.7496018,
  "admin_settings": {},
  "telegram_update_offset": 690561702
