@@ -349,36 +349,10 @@
   "a1c218197aaa414d": 1792620063.6639702,
   "5500d35a92afb23d": 1792620063.6639702,
   "4885921f5704dac6": 1792620063.6639702,
-  "7b1a39272c00bbcb": 1792620063.6639702
+  "7b1a39272c00bbcb": 1792620063.6639702,
+  "4dd110af28fb0db4": 1792621836.9546635
  },
  "queue": [
-  {
-   "id": "5500d35a92afb23d",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.4:22222?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn",
-   "ping": 257,
-   "best": 254,
-   "score": 97,
-   "stability": 100,
-   "ts": 1792620063.6639702
-  },
-  {
-   "id": "4885921f5704dac6",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.4:22223?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn",
-   "ping": 257,
-   "best": 256,
-   "score": 97,
-   "stability": 100,
-   "ts": 1792620063.6639702
-  },
-  {
-   "id": "1db35ddf818e55d7",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22223?encryption=none&security=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 261,
-   "best": 260,
-   "score": 97,
-   "stability": 100,
-   "ts": 1792620063.6639702
-  },
   {
    "id": "6781df06d9d835c9",
    "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.81:22222?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
@@ -4381,6 +4355,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "1db35ddf818e55d7": {
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22223?encryption=none&security=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2037,
+   "ts": 1792621859.2373385,
+   "ping": 176,
+   "score": 98,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5744,13 +5728,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1792618260.4206233
+  },
+  "51.44.38.228": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1792621858.7561715
   }
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 184,
+  "fetched": 185,
   "healthy": 88,
-  "posted": 44,
+  "posted": 45,
   "removed": 11,
   "published_scores": [
    96,
@@ -5793,11 +5782,12 @@
    83,
    85,
    95,
-   99
+   99,
+   98
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792620063.5516396,
+ "last_auto_post": 1792621836.9462798,
  "last_auto_clean": 1792620928.7496018,
  "admin_settings": {},
  "telegram_update_offset": 690561702
