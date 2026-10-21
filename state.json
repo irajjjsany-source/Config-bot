@@ -1,9 +1,5 @@
 {
  "seen": {
-  "36b476685056f32d": 1792315836.1992157,
-  "df1e10963e8ea9b0": 1792315836.1992157,
-  "7232ee94276d9f0c": 1792315836.1992157,
-  "8e6a9b9a3d576460": 1792315836.1992157,
   "e38911f2f31791f0": 1792324845.6997716,
   "4e6a40e9e918c85c": 1792324845.6997716,
   "aa15aac413e7d772": 1792324845.6997716,
@@ -275,18 +271,12 @@
   "7fce50bd23e8aa11": 1792573247.150028,
   "844f3aca7d798c40": 1792573727.84112,
   "c82a2124043f32e8": 1792574129.186836,
-  "caf5df86268736e4": 1792574129.186836
+  "caf5df86268736e4": 1792574129.186836,
+  "b358043bee1fee1a": 1792575038.357841,
+  "cd9b9abefa42bcf8": 1792575038.357841,
+  "024b4fcc8b6ea1cf": 1792575038.357841
  },
  "queue": [
-  {
-   "id": "7586e4bf9444d2a9",
-   "cfg": "vless://f204112b-9755-4bee-809f-a1a5dfb6d552@dns11.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#🔵@chillguy_vpn",
-   "ping": 694,
-   "best": 560,
-   "score": 91,
-   "stability": 100,
-   "ts": 1792569645.1417115
-  },
   {
    "id": "25da27ffbd8d4ea3",
    "cfg": "vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?encryption=none&security=reality&sni=willow.cdn.cachefleet.com&fp=random&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&sid=a0938b702257f780&type=grpc&mode=gun&authority=&serviceName=telegram-bridge#🔵@chillguy_vpn",
@@ -4185,6 +4175,16 @@
    "stability": 100,
    "country": "Montenegro",
    "repost_count": 0
+  },
+  "7586e4bf9444d2a9": {
+   "cfg": "vless://f204112b-9755-4bee-809f-a1a5dfb6d552@dns11.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2006,
+   "ts": 1792575051.5097775,
+   "ping": 651,
+   "score": 92,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5482,9 +5482,9 @@
  },
  "stats": {
   "date": "2026-10-21",
-  "fetched": 55,
+  "fetched": 58,
   "healthy": 26,
-  "posted": 13,
+  "posted": 14,
   "removed": 0,
   "published_scores": [
    96,
@@ -5499,7 +5499,8 @@
    95,
    98,
    95,
-   94
+   94,
+   92
   ]
  }
 }
