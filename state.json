@@ -360,7 +360,9 @@
   "6cd0f513b1927c7a": 1792659647.3676531,
   "943a3601844dbff2": 1792659647.3676531,
   "6b720f203244325d": 1792659647.3676531,
-  "779ea7c199acaf25": 1792659647.3676531
+  "779ea7c199acaf25": 1792659647.3676531,
+  "2d5e781b408a518f": 1792661440.4352555,
+  "a6a6b624168d5ecb": 1792661440.4352555
  },
  "queue": [
   {
@@ -380,6 +382,15 @@
    "score": 90,
    "stability": 100,
    "ts": 1792659647.3676531
+  },
+  {
+   "id": "2d5e781b408a518f",
+   "cfg": "vless://928a3079-7c20-40cc-9c92-e878ba959dcd@82.202.182.41:2443?security=reality&encryption=none&pbk=7VEbBMpg2DyUHU53a76muNrCES-g12FyRUvThr4lvy4&host=CopyShodeaz__Chanel0111Net&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=b208#🔵@chillguy_vpn",
+   "ping": 1122,
+   "best": 1014,
+   "score": 85,
+   "stability": 100,
+   "ts": 1792661440.4352555
   },
   {
    "id": "8a660952695eb5c2",
@@ -428,16 +439,6 @@
   }
  ],
  "posted": {
-  "1235878a696f2f92": {
-   "cfg": "vless://e937b92c-701f-420e-a621-3eb3b75de467@31.76.31.64:443?security=reality&encryption=none&pbk=HJDY6_qs1vZY2c7ExBa2ai4W2OwwD0EUDCUMIdzT9VQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fish.puffixhosting.com&sid=282a48e3b803fb2f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1571,
-   "ts": 1791592186.9712417,
-   "ping": 305,
-   "score": 96,
-   "stability": 100,
-   "country": "Finland",
-   "repost_count": 0
-  },
   "836cd32206c399cd": {
    "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@179.198.49.99:443?security=reality&encryption=none&pbk=iwHKqXfMtE61bupFq0qdpc8_uGwQswGc3JpLvDVB9Wo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pl1.nztvpn.com&sid=088b263ae349cc97#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1572,
@@ -4359,6 +4360,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "a6a6b624168d5ecb": {
+   "cfg": "vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?encryption=none&security=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2064,
+   "ts": 1792661450.8989818,
+   "ping": 303,
+   "score": 96,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5787,13 +5798,18 @@
    "cc": "IR",
    "name": "Iran",
    "ts": 1792657926.932398
+  },
+  "94.237.46.104": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1792661450.0644553
   }
  },
  "stats": {
   "date": "2026-10-22",
-  "fetched": 42,
-  "healthy": 32,
-  "posted": 20,
+  "fetched": 44,
+  "healthy": 34,
+  "posted": 21,
   "removed": 2,
   "published_scores": [
    94,
@@ -5812,11 +5828,12 @@
    94,
    95,
    73,
-   97
+   97,
+   96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792659647.361209,
+ "last_auto_post": 1792661440.425187,
  "last_auto_clean": 1792642530.436469,
  "admin_settings": {},
  "telegram_update_offset": 690561702
