@@ -356,15 +356,6 @@
  },
  "queue": [
   {
-   "id": "e0a94335da912b60",
-   "cfg": "vless://9c794bb7-54fe-4acd-844a-a26209af36c3@195.58.134.26:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=login.mskvibe.fyi&sid=7271129440ade8fa#🔵@chillguy_vpn",
-   "ping": 493,
-   "best": 492,
-   "score": 94,
-   "stability": 100,
-   "ts": 1792623647.8774462
-  },
-  {
    "id": "cc53afa5154cf940",
    "cfg": "vless://d35d90eb-28a0-583c-bd46-2877d7f0b2a1@app-1d3286-64e677-production.up.railway.app:443?path=%2Fws%2F..&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=app-1d3286-64e677-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=app-1d3286-64e677-production.up.railway.app#🔵@chillguy_vpn",
    "ping": 497,
@@ -435,15 +426,6 @@
    "score": 48,
    "stability": 100,
    "ts": 1792614639.188907
-  },
-  {
-   "id": "d9b5eff4c0976607",
-   "cfg": "vless://e7a4decb-631e-422b-9749-7e8f54618308@se1.hys.braidx.tech:443?security=reality&encryption=none&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net#🔵@chillguy_vpn",
-   "ping": 4377,
-   "best": 3087,
-   "score": 43,
-   "stability": 100,
-   "ts": 1792605647.2257528
   }
  ],
  "posted": {
@@ -4370,6 +4352,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "e0a94335da912b60": {
+   "cfg": "vless://9c794bb7-54fe-4acd-844a-a26209af36c3@195.58.134.26:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=login.mskvibe.fyi&sid=7271129440ade8fa#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2042,
+   "ts": 1792627255.570128,
+   "ping": 468,
+   "score": 94,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5748,64 +5740,25 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1792626331.336208
+  },
+  "195.58.134.26": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1792627254.8433523
   }
  },
  "stats": {
-  "date": "2026-10-21",
-  "fetched": 187,
-  "healthy": 90,
-  "posted": 48,
-  "removed": 11,
+  "date": "2026-10-22",
+  "fetched": 0,
+  "healthy": 0,
+  "posted": 1,
+  "removed": 0,
   "published_scores": [
-   96,
-   98,
-   98,
-   95,
-   92,
-   96,
-   93,
-   94,
-   97,
-   95,
-   98,
-   95,
-   94,
-   92,
-   97,
-   99,
-   97,
-   96,
-   94,
-   96,
-   99,
-   93,
-   97,
-   86,
-   96,
-   97,
-   96,
-   97,
-   66,
-   97,
-   66,
-   99,
-   98,
-   91,
-   94,
-   94,
-   89,
-   83,
-   85,
-   95,
-   99,
-   98,
-   96,
-   98,
-   96
+   94
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792626328.264759,
+ "last_auto_post": 1792627250.4574454,
  "last_auto_clean": 1792620928.7496018,
  "admin_settings": {},
  "telegram_update_offset": 690561702
