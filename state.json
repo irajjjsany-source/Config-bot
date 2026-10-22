@@ -1,19 +1,5 @@
 {
  "seen": {
-  "8fdcb3fad4db411d": 1792408530.4068844,
-  "d861974bc156dca1": 1792408530.4068844,
-  "7278f83d4b981cfc": 1792408530.4068844,
-  "5446babad13fd66d": 1792408530.4068844,
-  "7942272ef41f9a2e": 1792408530.4068844,
-  "48aeac67650027e7": 1792408530.4068844,
-  "8b0dab9b99d5bede": 1792408530.4068844,
-  "9ab8544814203170": 1792408530.4068844,
-  "36eb317c8d07d0a9": 1792408530.4068844,
-  "9cb5ccbf225cc799": 1792409436.974198,
-  "7d1699dbfce650be": 1792409436.974198,
-  "a89eb70d6a113fee": 1792409436.974198,
-  "0340e45c2d65b4f0": 1792409436.974198,
-  "ba902a4af25d7243": 1792409436.974198,
   "3a05a674668cedc5": 1792410327.0794613,
   "7e271cc8a7f8d588": 1792410327.0794613,
   "e1100f59cf5ae3ae": 1792410327.0794613,
@@ -369,18 +355,10 @@
   "0a7a44eb51c7a9ec": 1792666848.3495378,
   "2d91684e4e5d5b02": 1792666848.3495378,
   "887acc92fd967ce0": 1792666848.3495378,
-  "f559ab30be862d6c": 1792666848.3495378
+  "f559ab30be862d6c": 1792666848.3495378,
+  "3894f8a0316a0929": 1792668642.3470836
  },
  "queue": [
-  {
-   "id": "6cd0f513b1927c7a",
-   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#🔵@chillguy_vpn",
-   "ping": 791,
-   "best": 771,
-   "score": 90,
-   "stability": 100,
-   "ts": 1792659647.3676531
-  },
   {
    "id": "2d5e781b408a518f",
    "cfg": "vless://928a3079-7c20-40cc-9c92-e878ba959dcd@82.202.182.41:2443?security=reality&encryption=none&pbk=7VEbBMpg2DyUHU53a76muNrCES-g12FyRUvThr4lvy4&host=CopyShodeaz__Chanel0111Net&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=b208#🔵@chillguy_vpn",
@@ -4361,6 +4339,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "6cd0f513b1927c7a": {
+   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2069,
+   "ts": 1792668658.0059838,
+   "ping": 1457,
+   "score": 81,
+   "stability": 100,
+   "country": "Serbia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5799,13 +5787,18 @@
    "cc": "IN",
    "name": "India",
    "ts": 1792665042.945306
+  },
+  "150.40.126.22": {
+   "cc": "RS",
+   "name": "Serbia",
+   "ts": 1792668657.2387981
   }
  },
  "stats": {
   "date": "2026-10-22",
-  "fetched": 54,
+  "fetched": 55,
   "healthy": 37,
-  "posted": 25,
+  "posted": 26,
   "removed": 5,
   "published_scores": [
    94,
@@ -5828,11 +5821,12 @@
    96,
    97,
    90,
-   97
+   97,
+   81
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792666848.3430161,
+ "last_auto_post": 1792668642.3372383,
  "last_auto_clean": 1792665043.6115649,
  "admin_settings": {},
  "telegram_update_offset": 690561702
