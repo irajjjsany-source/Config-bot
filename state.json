@@ -352,20 +352,44 @@
   "7b1a39272c00bbcb": 1792620063.6639702,
   "4dd110af28fb0db4": 1792621836.9546635,
   "e0a94335da912b60": 1792623647.8774462,
-  "719b57af53fa6b41": 1792625298.894575
+  "719b57af53fa6b41": 1792625298.894575,
+  "5fa56716b8dfaec2": 1792638928.9186742,
+  "e396a13806472335": 1792638928.9186742,
+  "0624c112c0f650b4": 1792638928.9186742,
+  "6f896af2fee735a4": 1792638928.9186742,
+  "58597dbb78df682b": 1792638928.9186742,
+  "972d5810451a2f07": 1792638928.9186742
  },
- "queue": [],
- "posted": {
-  "ac5b0bdb4333f24d": {
-   "cfg": "vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1557,
-   "ts": 1791589401.071173,
-   "ping": 337,
+ "queue": [
+  {
+   "id": "6f896af2fee735a4",
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22223?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
+   "ping": 293,
+   "best": 289,
    "score": 96,
    "stability": 100,
-   "country": "Poland",
-   "repost_count": 0
+   "ts": 1792638928.9186742
   },
+  {
+   "id": "58597dbb78df682b",
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.140.13:22223?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
+   "ping": 294,
+   "best": 288,
+   "score": 96,
+   "stability": 100,
+   "ts": 1792638928.9186742
+  },
+  {
+   "id": "5fa56716b8dfaec2",
+   "cfg": "vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 553,
+   "best": 351,
+   "score": 93,
+   "stability": 100,
+   "ts": 1792638928.9186742
+  }
+ ],
+ "posted": {
   "32706deda05ba657": {
    "cfg": "vless://5ac49a12-f275-44b4-b11d-26505f3f268e@177.1.192.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=JNr60Nnq_sdeAz5jd25bxNDx_c9CeYLu7DRbQH3P5xk&sid=85766a81&type=tcp&headerType=none&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1558,
@@ -4299,6 +4323,16 @@
    "stability": 100,
    "country": "Iran",
    "repost_count": 0
+  },
+  "0624c112c0f650b4": {
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22222?security=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2044,
+   "ts": 1792638943.4896884,
+   "ping": 290,
+   "score": 96,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5691,17 +5725,18 @@
  },
  "stats": {
   "date": "2026-10-22",
-  "fetched": 0,
-  "healthy": 0,
-  "posted": 2,
+  "fetched": 6,
+  "healthy": 4,
+  "posted": 3,
   "removed": 0,
   "published_scores": [
    94,
-   86
+   86,
+   96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792637394.8561149,
+ "last_auto_post": 1792638928.9106596,
  "last_auto_clean": 1792620928.7496018,
  "admin_settings": {},
  "telegram_update_offset": 690561702
