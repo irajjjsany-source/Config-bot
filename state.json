@@ -1,11 +1,5 @@
 {
  "seen": {
-  "3a05a674668cedc5": 1792410327.0794613,
-  "7e271cc8a7f8d588": 1792410327.0794613,
-  "e1100f59cf5ae3ae": 1792410327.0794613,
-  "c99a4e4169388c66": 1792410327.0794613,
-  "e76af09ce378c27d": 1792411247.7668624,
-  "12be41a367ce5235": 1792411247.7668624,
   "b9a33066e78f1b15": 1792412127.2911098,
   "cdd913154010e49f": 1792413041.325761,
   "048410dea5ef016b": 1792413041.325761,
@@ -356,9 +350,33 @@
   "2d91684e4e5d5b02": 1792666848.3495378,
   "887acc92fd967ce0": 1792666848.3495378,
   "f559ab30be862d6c": 1792666848.3495378,
-  "3894f8a0316a0929": 1792668642.3470836
+  "3894f8a0316a0929": 1792668642.3470836,
+  "ec8569db16f394de": 1792670450.3884678,
+  "7f54b6600e7a8df2": 1792670450.3884678,
+  "259627273a49adee": 1792670450.3884678,
+  "09f66b66a8f392d3": 1792670450.3884678,
+  "3f2a1e7a50714ac4": 1792670450.3884678,
+  "c427eb1677ea554a": 1792670450.3884678
  },
  "queue": [
+  {
+   "id": "7f54b6600e7a8df2",
+   "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjE1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmYmQzOTlhMC1hYjlkLTQ0MDUtYjg0Yy05MmEwNjA0NGNjODMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1Mzg0MiIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "ping": 249,
+   "best": 246,
+   "score": 97,
+   "stability": 100,
+   "ts": 1792670450.3884678
+  },
+  {
+   "id": "c427eb1677ea554a",
+   "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjE1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyY2JlNzU4MC0xMDViLTRlNjMtODU2OS01MmI2MmE3ZjA5NDgiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1MTMwMCIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "ping": 249,
+   "best": 244,
+   "score": 97,
+   "stability": 100,
+   "ts": 1792670450.3884678
+  },
   {
    "id": "2d5e781b408a518f",
    "cfg": "vless://928a3079-7c20-40cc-9c92-e878ba959dcd@82.202.182.41:2443?security=reality&encryption=none&pbk=7VEbBMpg2DyUHU53a76muNrCES-g12FyRUvThr4lvy4&host=CopyShodeaz__Chanel0111Net&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=b208#🔵@chillguy_vpn",
@@ -4349,6 +4367,16 @@
    "stability": 100,
    "country": "Serbia",
    "repost_count": 0
+  },
+  "09f66b66a8f392d3": {
+   "cfg": "vmess://eyJ2IjogIjIiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAiYWRkIjogIjE4NS4xOS4zMy4xNSIsICJwb3J0IjogIjUzODQyIiwgImlkIjogImZiZDM5OWEwLWFiOWQtNDQwNS1iODRjLTkyYTA2MDQ0Y2M4MyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIiIsICJwY3MiOiAiIiwgInZjbiI6ICIiLCAiZWNoIjogIiIsICJwcXYiOiAiIn0=",
+   "msg": 2070,
+   "ts": 1792670482.841539,
+   "ping": 246,
+   "score": 97,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5796,9 +5824,9 @@
  },
  "stats": {
   "date": "2026-10-22",
-  "fetched": 55,
-  "healthy": 37,
-  "posted": 26,
+  "fetched": 61,
+  "healthy": 40,
+  "posted": 27,
   "removed": 5,
   "published_scores": [
    94,
@@ -5822,11 +5850,12 @@
    97,
    90,
    97,
-   81
+   81,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792668642.3372383,
+ "last_auto_post": 1792670450.380146,
  "last_auto_clean": 1792665043.6115649,
  "admin_settings": {},
  "telegram_update_offset": 690561702
