@@ -1,8 +1,5 @@
 {
  "seen": {
-  "0833062bd6832324": 1792405839.77262,
-  "954548aad46faddd": 1792406727.2859824,
-  "0344f51ee75f7d67": 1792407646.8685064,
   "8fdcb3fad4db411d": 1792408530.4068844,
   "d861974bc156dca1": 1792408530.4068844,
   "7278f83d4b981cfc": 1792408530.4068844,
@@ -365,7 +362,14 @@
   "a6a6b624168d5ecb": 1792661440.4352555,
   "7d9e6bdd53be36d8": 1792663246.0292954,
   "356f8c592933ae63": 1792663246.0292954,
-  "d7ea1ced1faef313": 1792663246.0292954
+  "d7ea1ced1faef313": 1792663246.0292954,
+  "85e177627b970f15": 1792666848.3495378,
+  "11090946425e507e": 1792666848.3495378,
+  "e9a589cafbdc896b": 1792666848.3495378,
+  "0a7a44eb51c7a9ec": 1792666848.3495378,
+  "2d91684e4e5d5b02": 1792666848.3495378,
+  "887acc92fd967ce0": 1792666848.3495378,
+  "f559ab30be862d6c": 1792666848.3495378
  },
  "queue": [
   {
@@ -4347,6 +4351,16 @@
    "stability": 100,
    "country": "India",
    "repost_count": 0
+  },
+  "887acc92fd967ce0": {
+   "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjE1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyNmI1NjNlNC04ZjQ5LTQwNGMtOWZiMy01OWIwYzMxM2UxNGMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1Mzg0MiIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "msg": 2068,
+   "ts": 1792666860.1522145,
+   "ping": 239,
+   "score": 97,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5789,9 +5803,9 @@
  },
  "stats": {
   "date": "2026-10-22",
-  "fetched": 47,
-  "healthy": 36,
-  "posted": 24,
+  "fetched": 54,
+  "healthy": 37,
+  "posted": 25,
   "removed": 5,
   "published_scores": [
    94,
@@ -5813,11 +5827,12 @@
    97,
    96,
    97,
-   90
+   90,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792665038.4941044,
+ "last_auto_post": 1792666848.3430161,
  "last_auto_clean": 1792665043.6115649,
  "admin_settings": {},
  "telegram_update_offset": 690561702
