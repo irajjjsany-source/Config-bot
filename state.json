@@ -360,20 +360,22 @@
   "58597dbb78df682b": 1792638928.9186742,
   "972d5810451a2f07": 1792638928.9186742,
   "04bd5ac0c54f0b92": 1792640965.7560756,
-  "813207decae8c32d": 1792646128.7218163
+  "813207decae8c32d": 1792646128.7218163,
+  "8b0ddac8bc46d7f0": 1792647037.0364597,
+  "f4bd8cd98181e92f": 1792647037.0364597
  },
- "queue": [],
- "posted": {
-  "d1a5a3f0b365cd10": {
-   "cfg": "vless://56ff50da-a238-0003-95ab-dd159634bd87@37.9.15.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru01.arpanet-cdn.com&fp=firefox&pbk=9NcV9b86R2Cje-HiChBt8D-2vWWqg1pEvS26aXtMgCk&sid=c1069a934648869a&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1561,
-   "ts": 1791590287.0032938,
-   "ping": 420,
-   "score": 95,
+ "queue": [
+  {
+   "id": "8b0ddac8bc46d7f0",
+   "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjE1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlZGM2ZWMyYS04MDk4LTQ4MmItYjA3Yy0wNWUwYzhhYWQ3ODkiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1ODgxOCIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "ping": 295,
+   "best": 293,
+   "score": 96,
    "stability": 100,
-   "country": "Russia",
-   "repost_count": 0
-  },
+   "ts": 1792647037.0364597
+  }
+ ],
+ "posted": {
   "548054621573a3f7": {
    "cfg": "vless://56ff50da-a238-0003-95ab-dd159634bd87@37.9.15.129:443?security=reality&encryption=none&pbk=9NcV9b86R2Cje-HiChBt8D-2vWWqg1pEvS26aXtMgCk&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru01.arpanet-cdn.com&sid=c1069a934648869a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1562,
@@ -4295,6 +4297,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "f4bd8cd98181e92f": {
+   "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjE1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlZGM2ZWMyYS04MDk4LTQ4MmItYjA3Yy0wNWUwYzhhYWQ3ODkiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1Mzg0MiIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "msg": 2054,
+   "ts": 1792647046.117031,
+   "ping": 207,
+   "score": 97,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5698,13 +5710,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1792643440.3802311
+  },
+  "185.19.33.15": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1792647045.5789301
   }
  },
  "stats": {
   "date": "2026-10-22",
-  "fetched": 8,
-  "healthy": 6,
-  "posted": 11,
+  "fetched": 10,
+  "healthy": 8,
+  "posted": 12,
   "removed": 2,
   "published_scores": [
    94,
@@ -5714,11 +5731,12 @@
    99,
    98,
    92,
-   95
+   95,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792646128.7136605,
+ "last_auto_post": 1792647037.0286613,
  "last_auto_clean": 1792642530.436469,
  "admin_settings": {},
  "telegram_update_offset": 690561702
