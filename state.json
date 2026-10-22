@@ -362,15 +362,6 @@
  },
  "queue": [
   {
-   "id": "6f896af2fee735a4",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22223?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 293,
-   "best": 289,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792638928.9186742
-  },
-  {
    "id": "58597dbb78df682b",
    "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.140.13:22223?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
    "ping": 294,
@@ -390,16 +381,6 @@
   }
  ],
  "posted": {
-  "32706deda05ba657": {
-   "cfg": "vless://5ac49a12-f275-44b4-b11d-26505f3f268e@177.1.192.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=JNr60Nnq_sdeAz5jd25bxNDx_c9CeYLu7DRbQH3P5xk&sid=85766a81&type=tcp&headerType=none&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1558,
-   "ts": 1791589528.8387365,
-   "ping": 352,
-   "score": 95,
-   "stability": 100,
-   "country": "Poland",
-   "repost_count": 0
-  },
   "9eb99c7a1a6181f4": {
    "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?security=reality&encryption=none&pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv.nztvpn.com&sid=0da7e14db353e7d0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1559,
@@ -4333,6 +4314,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "6f896af2fee735a4": {
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22223?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2045,
+   "ts": 1792639842.5321608,
+   "ping": 288,
+   "score": 96,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5727,16 +5718,17 @@
   "date": "2026-10-22",
   "fetched": 6,
   "healthy": 4,
-  "posted": 3,
+  "posted": 4,
   "removed": 0,
   "published_scores": [
    94,
    86,
+   96,
    96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792638928.9106596,
+ "last_auto_post": 1792639838.4736052,
  "last_auto_clean": 1792620928.7496018,
  "admin_settings": {},
  "telegram_update_offset": 690561702
