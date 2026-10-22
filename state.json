@@ -1,14 +1,5 @@
 {
  "seen": {
-  "8b844ba1fd147cc5": 1792416640.6886458,
-  "467338f9ce523643": 1792416640.6886458,
-  "d362c057b68e9952": 1792416640.6886458,
-  "212f94456892ed4c": 1792417528.9548113,
-  "462fef419ace6b9f": 1792417528.9548113,
-  "1485ba1ce52e822b": 1792418447.833789,
-  "25973f031059e544": 1792418447.833789,
-  "fd9b4850237ff149": 1792418447.833789,
-  "454bc8cc288fdd9d": 1792418447.833789,
   "475194364fc92c91": 1792420240.7844481,
   "36a65766aae1d11e": 1792420240.7844481,
   "ef6885bedb55431e": 1792420240.7844481,
@@ -369,7 +360,9 @@
   "50f949d8b926501c": 1792675839.6279352,
   "ed1366a293573bd4": 1792675839.6279352,
   "71775c93b34e272f": 1792675839.6279352,
-  "0c7c1020a703d1cf": 1792675839.6279352
+  "0c7c1020a703d1cf": 1792675839.6279352,
+  "89a2a124b431455d": 1792677650.2516427,
+  "a8f4d77791a4a846": 1792677650.2516427
  },
  "queue": [
   {
@@ -464,16 +457,6 @@
   }
  ],
  "posted": {
-  "f843488c9e90537a": {
-   "cfg": "vless://a0906133-bc17-49da-aa1a-d5ea99ee2e3e@www.speedtest.net:2095?&type=ws&headerType=none&host=prop0yauife5z9t5sa5681bq1.rjsc50uq2-b6gdjw21gm-c154p.workers.dev&path=%2Fvl%2FpVQHiSYWRFVmiwrg%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1578,
-   "ts": 1791601028.5284247,
-   "ping": 82,
-   "score": 99,
-   "stability": 100,
-   "country": "Canada",
-   "repost_count": 0
-  },
   "5cd7a3783514e956": {
    "cfg": "vless://8f53fce2-6c17-4e37-9ae9-d969fd85117c@104.21.87.238:8080?&type=ws&headerType=none&host=ApI-hub-C9A393.ALiMiRZAi539-484.WOrKerS.DeV&path=%2Fvl%2FWp4FqWLcoYNYXCovu4%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1579,
@@ -4399,6 +4382,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "a8f4d77791a4a846": {
+   "cfg": "vless://9ab3a362-1518-496d-b08d-eced45cec936@gb.srv.dvzh.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.srv.dvzh.net&fp=firefox&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&sid=d30f9d846a7c8cba&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2075,
+   "ts": 1792677661.8031044,
+   "ping": 269,
+   "score": 97,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5852,13 +5845,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1792675882.0944102
+  },
+  "gb.srv.dvzh.net": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1792677661.2717102
   }
  },
  "stats": {
   "date": "2026-10-22",
-  "fetched": 83,
-  "healthy": 50,
-  "posted": 31,
+  "fetched": 85,
+  "healthy": 51,
+  "posted": 32,
   "removed": 5,
   "published_scores": [
    94,
@@ -5887,11 +5885,12 @@
    96,
    92,
    88,
-   72
+   72,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792675839.6214185,
+ "last_auto_post": 1792677650.2433186,
  "last_auto_clean": 1792665043.6115649,
  "admin_settings": {},
  "telegram_update_offset": 690561702
