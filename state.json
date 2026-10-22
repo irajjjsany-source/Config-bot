@@ -363,15 +363,6 @@
  },
  "queue": [
   {
-   "id": "58597dbb78df682b",
-   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.140.13:22223?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn",
-   "ping": 294,
-   "best": 288,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792638928.9186742
-  },
-  {
    "id": "5fa56716b8dfaec2",
    "cfg": "vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 553,
@@ -382,16 +373,6 @@
   }
  ],
  "posted": {
-  "54fde37b277f915e": {
-   "cfg": "vless://a889fba5-5472-4022-a6b4-9710157fda2f@78.17.159.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=firefox&pbk=OxUvNHe0yPn3OfNl7ThhzYO0YcntrPNwYMqwjOYK8nI&sid=a2aa&type=tcp&headerType=none&host=%2F%3FTelegram---pirozi_ArGaP#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1560,
-   "ts": 1791589535.0000644,
-   "ping": 438,
-   "score": 94,
-   "stability": 100,
-   "country": "Poland",
-   "repost_count": 0
-  },
   "d1a5a3f0b365cd10": {
    "cfg": "vless://56ff50da-a238-0003-95ab-dd159634bd87@37.9.15.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru01.arpanet-cdn.com&fp=firefox&pbk=9NcV9b86R2Cje-HiChBt8D-2vWWqg1pEvS26aXtMgCk&sid=c1069a934648869a&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1561,
@@ -4156,25 +4137,11 @@
    "country": "",
    "repost_count": 0
   },
-  "3010a6e6c3ed53fd": {
-   "cfg": "vmess://eyJhZGQiOiAiMTk1LjI2LjI2LjM3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyMmY5MzhhNS1jYTExLTRlMDQtYWVmNS0wNWEyOTc1NDQ5MTYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI0MjY3OSIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
-   "msg": 2028,
-   "ts": 1792609274.4725099,
-   "ping": 685,
-   "score": 91,
-   "stability": 100,
-   "country": "Germany",
-   "repost_count": 0
-  },
   "194e9eacb95e05dd": {
    "cfg": "vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2029,
-   "ts": 1792610372.346861,
-   "ping": 451,
-   "score": 94,
-   "stability": 100,
-   "country": "Germany",
-   "repost_count": 0
+   "msg": 2048,
+   "ts": 1792642552.5366182,
+   "repost_count": 1
   },
   "21a4ee8d6c799626": {
    "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4206,35 +4173,17 @@
    "country": "Bulgaria",
    "repost_count": 0
   },
-  "2fdc5ee26614501d": {
-   "cfg": "vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real4.greewebservices.ir:1340?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2033,
-   "ts": 1792616457.2927852,
-   "ping": 1190,
-   "score": 85,
-   "stability": 100,
-   "country": "United Kingdom",
-   "repost_count": 0
-  },
   "4a38bbbc3402621a": {
    "cfg": "vless://fe551942-d6e5-4361-ae5c-1f2e9077cd79@83.219.97.18:443?security=reality&encryption=none&pbk=32XFmS-ifqooBFY89KNP3ZrqgSBOd3vel9GlNinL6yw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi5.silalink.sbs&sid=03#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2034,
-   "ts": 1792618260.9888144,
-   "ping": 390,
-   "score": 95,
-   "stability": 100,
-   "country": "Finland",
-   "repost_count": 0
+   "msg": 2049,
+   "ts": 1792642555.6185555,
+   "repost_count": 1
   },
   "b99fe601f8f62731": {
    "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2FChanel0111Net&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2035,
-   "ts": 1792620106.679543,
-   "ping": 99,
-   "score": 99,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
+   "msg": 2050,
+   "ts": 1792642557.3500228,
+   "repost_count": 1
   },
   "1db35ddf818e55d7": {
    "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22223?encryption=none&security=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4324,6 +4273,16 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
+   "repost_count": 0
+  },
+  "58597dbb78df682b": {
+   "cfg": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.140.13:22223?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2047,
+   "ts": 1792642530.4272616,
+   "ping": 177,
+   "score": 98,
+   "stability": 100,
+   "country": "France",
    "repost_count": 0
   }
  },
@@ -5718,25 +5677,31 @@
    "cc": "US",
    "name": "United States",
    "ts": 1792640968.3976815
+  },
+  "13.37.140.13": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1792642529.8777518
   }
  },
  "stats": {
   "date": "2026-10-22",
   "fetched": 7,
   "healthy": 5,
-  "posted": 5,
-  "removed": 0,
+  "posted": 9,
+  "removed": 2,
   "published_scores": [
    94,
    86,
    96,
    96,
-   99
+   99,
+   98
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792640965.7516336,
- "last_auto_clean": 1792620928.7496018,
+ "last_auto_post": 1792642527.405034,
+ "last_auto_clean": 1792642530.436469,
  "admin_settings": {},
  "telegram_update_offset": 690561702
 }
