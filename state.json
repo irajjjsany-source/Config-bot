@@ -362,20 +362,62 @@
   "04bd5ac0c54f0b92": 1792640965.7560756,
   "813207decae8c32d": 1792646128.7218163,
   "8b0ddac8bc46d7f0": 1792647037.0364597,
-  "f4bd8cd98181e92f": 1792647037.0364597
+  "f4bd8cd98181e92f": 1792647037.0364597,
+  "4d406b877c8d8305": 1792650638.5387485,
+  "d9f98a1c7e81b0da": 1792650638.5387485,
+  "1da7ffb4bc3bf2be": 1792650638.5387485,
+  "8c2de5834cc288b1": 1792650638.5387485,
+  "9daa2cce5f4637cc": 1792650638.5387485,
+  "918bd1d7f83dc0f2": 1792650638.5387485
  },
- "queue": [],
- "posted": {
-  "62d7f3e15ee560bf": {
-   "cfg": "vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@lv.haar.lol:443?security=reality&encryption=none&pbk=H1zQhDKBw8bEzAF0hWECkSfcEu15bwKLde7Syo1YM3M&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=lv.haar.lol&sid=a928ceb8b5001614#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1563,
-   "ts": 1791590293.5614636,
-   "ping": 517,
-   "score": 93,
+ "queue": [
+  {
+   "id": "918bd1d7f83dc0f2",
+   "cfg": "vless://c07145bf-49c7-4378-a771-956f264856f0@tun5.tk-panshop.ir:2015?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=2ZDcHYGfa4K8_EcUWbAJHAPp7KjMUKjAMkCKSuJaxGE&sid=2d530eb0927d527d#🔵@chillguy_vpn",
+   "ping": 863,
+   "best": 799,
+   "score": 89,
    "stability": 100,
-   "country": "Sweden",
-   "repost_count": 0
+   "ts": 1792650638.5387485
   },
+  {
+   "id": "8c2de5834cc288b1",
+   "cfg": "vless://c07145bf-49c7-4378-a771-956f264856f0@tun2.tk-cloud.ir:2015?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=2ZDcHYGfa4K8_EcUWbAJHAPp7KjMUKjAMkCKSuJaxGE&sid=2d530eb0927d527d#🔵@chillguy_vpn",
+   "ping": 864,
+   "best": 854,
+   "score": 89,
+   "stability": 100,
+   "ts": 1792650638.5387485
+  },
+  {
+   "id": "9daa2cce5f4637cc",
+   "cfg": "vless://c07145bf-49c7-4378-a771-956f264856f0@tun4.zyyvora.ir:2015?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=2ZDcHYGfa4K8_EcUWbAJHAPp7KjMUKjAMkCKSuJaxGE&sid=2d530eb0927d527d#🔵@chillguy_vpn",
+   "ping": 885,
+   "best": 816,
+   "score": 88,
+   "stability": 100,
+   "ts": 1792650638.5387485
+  },
+  {
+   "id": "1da7ffb4bc3bf2be",
+   "cfg": "vless://c07145bf-49c7-4378-a771-956f264856f0@TUN.zyyvora.ir:2015?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=2ZDcHYGfa4K8_EcUWbAJHAPp7KjMUKjAMkCKSuJaxGE&sid=2d530eb0927d527d#🔵@chillguy_vpn",
+   "ping": 936,
+   "best": 886,
+   "score": 88,
+   "stability": 100,
+   "ts": 1792650638.5387485
+  },
+  {
+   "id": "4d406b877c8d8305",
+   "cfg": "vless://928a3079-7c20-40cc-9c92-e878ba959dcd@82.202.182.41:2443?security=reality&encryption=none&pbk=7VEbBMpg2DyUHU53a76muNrCES-g12FyRUvThr4lvy4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=b208#🔵@chillguy_vpn",
+   "ping": 3611,
+   "best": 3229,
+   "score": 53,
+   "stability": 100,
+   "ts": 1792650638.5387485
+  }
+ ],
+ "posted": {
   "b95aa03b0068bb70": {
    "cfg": "vless://0783c6fc-16a8-46ff-a408-a099d2f6f3ac@hz-online-balancer.nyxenpro.ir:2080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=edge&pbk=A2-_TVXJkWh9CZ7aD4NT9CsfAalIAn9r3BYXNJ3vhlc&sid=6ee75d75c8607846&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1565,
@@ -4297,6 +4339,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "d9f98a1c7e81b0da": {
+   "cfg": "vless://c07145bf-49c7-4378-a771-956f264856f0@nl.xelino.ir:2016?security=reality&type=tcp&headerType=&path=&host=&sni=dl.google.com&fp=qq&pbk=7Vc7ZeYI1BHHBgS_hQPv8kuamHhOktCrcgxucHPyUkQ&sid=8fb7068df56f86a4#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2056,
+   "ts": 1792650674.9862442,
+   "ping": 529,
+   "score": 93,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5705,13 +5757,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1792647045.5789301
+  },
+  "nl.xelino.ir": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1792650674.3253546
   }
  },
  "stats": {
   "date": "2026-10-22",
-  "fetched": 10,
-  "healthy": 8,
-  "posted": 13,
+  "fetched": 16,
+  "healthy": 14,
+  "posted": 14,
   "removed": 2,
   "published_scores": [
    94,
@@ -5723,11 +5780,12 @@
    92,
    95,
    97,
-   90
+   90,
+   93
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792649728.5485182,
+ "last_auto_post": 1792650638.5307953,
  "last_auto_clean": 1792642530.436469,
  "admin_settings": {},
  "telegram_update_offset": 690561702
