@@ -385,15 +385,6 @@
  },
  "queue": [
   {
-   "id": "c37adbc0be3c9407",
-   "cfg": "vless://6228ee5b-fe07-4ee5-8300-386cd004eb84@57.129.138.142:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Guo_gNZWlSZKb4JcO9dTLxruZ9smPrxZlMsfZJOJEjI&pbk=itUb_lVoLPqG2cGs6vxsOaOImohnpXucmiaDm6_6iyU&headerType=none&fp=chrome&spx=%2F09877bd0d6f416c&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=fe57#🔵@chillguy_vpn",
-   "ping": 367,
-   "best": 319,
-   "score": 95,
-   "stability": 100,
-   "ts": 1792654240.2785423
-  },
-  {
    "id": "b916726ba2cee6d4",
    "cfg": "vless://c07145bf-49c7-4378-a771-956f264856f0@tun5.tk-panshop.ir:2015?security=reality&encryption=none&pbk=2ZDcHYGfa4K8_EcUWbAJHAPp7KjMUKjAMkCKSuJaxGE&host=Copy__Shode__az__Chanel0111Net&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=2d530eb0927d527d#🔵@chillguy_vpn",
    "ping": 841,
@@ -503,16 +494,6 @@
   }
  ],
  "posted": {
-  "bd2d82ad8c76d51e": {
-   "cfg": "vless://9cb5e799-f308-4d52-b761-9b4e9c2ff842@eghdesadi.vbservice.site:27283?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1567,
-   "ts": 1791590457.5781875,
-   "ping": 565,
-   "score": 93,
-   "stability": 100,
-   "country": "Germany",
-   "repost_count": 0
-  },
   "a40cda4f83e94f12": {
    "cfg": "vless://e937b92c-701f-420e-a621-3eb3b75de467@45.13.186.234:443?security=reality&encryption=none&pbk=cS56IG5_BBEWAaHtdgWR60KNp3JQI_ngA90zpL-ayGs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=xazs.puffixhosting.com&sid=8a13fef0be67eb1e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1568,
@@ -4434,6 +4415,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "c37adbc0be3c9407": {
+   "cfg": "vless://6228ee5b-fe07-4ee5-8300-386cd004eb84@57.129.138.142:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Guo_gNZWlSZKb4JcO9dTLxruZ9smPrxZlMsfZJOJEjI&pbk=itUb_lVoLPqG2cGs6vxsOaOImohnpXucmiaDm6_6iyU&headerType=none&fp=chrome&spx=%2F09877bd0d6f416c&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=fe57#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2059,
+   "ts": 1792655212.9905982,
+   "ping": 471,
+   "score": 94,
+   "stability": 100,
+   "country": "United Kingdom",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5847,13 +5838,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1792650674.3253546
+  },
+  "57.129.138.142": {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "ts": 1792655212.3918955
   }
  },
  "stats": {
   "date": "2026-10-22",
   "fetched": 29,
   "healthy": 24,
-  "posted": 16,
+  "posted": 17,
   "removed": 2,
   "published_scores": [
    94,
@@ -5868,11 +5864,12 @@
    90,
    93,
    97,
-   97
+   97,
+   94
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792654240.27036,
+ "last_auto_post": 1792655206.7003353,
  "last_auto_clean": 1792642530.436469,
  "admin_settings": {},
  "telegram_update_offset": 690561702
