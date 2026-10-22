@@ -361,17 +361,7 @@
   "972d5810451a2f07": 1792638928.9186742,
   "04bd5ac0c54f0b92": 1792640965.7560756
  },
- "queue": [
-  {
-   "id": "5fa56716b8dfaec2",
-   "cfg": "vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn",
-   "ping": 553,
-   "best": 351,
-   "score": 93,
-   "stability": 100,
-   "ts": 1792638928.9186742
-  }
- ],
+ "queue": [],
  "posted": {
   "d1a5a3f0b365cd10": {
    "cfg": "vless://56ff50da-a238-0003-95ab-dd159634bd87@37.9.15.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru01.arpanet-cdn.com&fp=firefox&pbk=9NcV9b86R2Cje-HiChBt8D-2vWWqg1pEvS26aXtMgCk&sid=c1069a934648869a&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4284,6 +4274,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "5fa56716b8dfaec2": {
+   "cfg": "vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2051,
+   "ts": 1792643441.0633388,
+   "ping": 598,
+   "score": 92,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5682,13 +5682,18 @@
    "cc": "FR",
    "name": "France",
    "ts": 1792642529.8777518
+  },
+  "connect.hondamotor.site": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1792643440.3802311
   }
  },
  "stats": {
   "date": "2026-10-22",
   "fetched": 7,
   "healthy": 5,
-  "posted": 9,
+  "posted": 10,
   "removed": 2,
   "published_scores": [
    94,
@@ -5696,11 +5701,12 @@
    96,
    96,
    99,
-   98
+   98,
+   92
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792642527.405034,
+ "last_auto_post": 1792643436.4103007,
  "last_auto_clean": 1792642530.436469,
  "admin_settings": {},
  "telegram_update_offset": 690561702
