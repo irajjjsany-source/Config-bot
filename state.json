@@ -359,7 +359,8 @@
   "6f896af2fee735a4": 1792638928.9186742,
   "58597dbb78df682b": 1792638928.9186742,
   "972d5810451a2f07": 1792638928.9186742,
-  "04bd5ac0c54f0b92": 1792640965.7560756
+  "04bd5ac0c54f0b92": 1792640965.7560756,
+  "813207decae8c32d": 1792646128.7218163
  },
  "queue": [],
  "posted": {
@@ -4284,6 +4285,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "813207decae8c32d": {
+   "cfg": "vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&encryption=none&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2053,
+   "ts": 1792646133.2877982,
+   "ping": 415,
+   "score": 95,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5691,9 +5702,9 @@
  },
  "stats": {
   "date": "2026-10-22",
-  "fetched": 7,
-  "healthy": 5,
-  "posted": 10,
+  "fetched": 8,
+  "healthy": 6,
+  "posted": 11,
   "removed": 2,
   "published_scores": [
    94,
@@ -5702,11 +5713,12 @@
    96,
    99,
    98,
-   92
+   92,
+   95
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792644792.6709151,
+ "last_auto_post": 1792646128.7136605,
  "last_auto_clean": 1792642530.436469,
  "admin_settings": {},
  "telegram_update_offset": 690561702
