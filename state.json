@@ -1,14 +1,5 @@
 {
  "seen": {
-  "fc83d00ee72c8e63": 1792569645.1417115,
-  "cb5413ec0aba7d3c": 1792569645.1417115,
-  "7586e4bf9444d2a9": 1792569645.1417115,
-  "91204763dc3c5c16": 1792569645.1417115,
-  "dd908703cb43941c": 1792569645.1417115,
-  "f9ffa805f6e5775e": 1792569645.1417115,
-  "74214647c2cb8e41": 1792569645.1417115,
-  "74310e74fc426061": 1792569645.1417115,
-  "4fb4fd2f9d5d97e1": 1792569645.1417115,
   "25da27ffbd8d4ea3": 1792570529.5928705,
   "c9cc71893eea807f": 1792570529.5928705,
   "5d4bc61d7366fcf9": 1792570529.5928705,
@@ -290,20 +281,12 @@
   "b1f5ac5d16044a9c": 1792823439.757172,
   "ccea71b562206269": 1792823439.757172,
   "035eb31964c6a0a5": 1792823439.757172,
-  "ca3de970162b0f74": 1792823439.757172
+  "ca3de970162b0f74": 1792823439.757172,
+  "74310e74fc426061": 1792828927.8295348,
+  "dd908703cb43941c": 1792828927.8295348
  },
  "queue": [],
  "posted": {
-  "470c7173b5985866": {
-   "cfg": "vless://142d1453-9cfe-4045-8e54-f3fb33342185@104.18.32.47:8880?type=ws&path=%2Fpyip&host=lively-scene-744f.107-47a.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1584,
-   "ts": 1791603930.658091,
-   "ping": 64,
-   "score": 99,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
-  },
   "5208caf8659b8497": {
    "cfg": "vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560&security=&encryption=none&host=cold-bush-a762.lidrezvpn.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1585,
@@ -4229,6 +4212,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "74310e74fc426061": {
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2085,
+   "ts": 1792828935.411175,
+   "ping": 817,
+   "score": 89,
+   "stability": 100,
+   "country": "Japan",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5701,13 +5694,14 @@
  },
  "stats": {
   "date": "2026-10-24",
-  "fetched": 9,
-  "healthy": 2,
-  "posted": 2,
+  "fetched": 11,
+  "healthy": 3,
+  "posted": 3,
   "removed": 0,
   "published_scores": [
    98,
-   98
+   98,
+   89
   ]
  },
  "auto_enabled": true,
