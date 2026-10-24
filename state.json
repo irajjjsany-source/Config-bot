@@ -323,28 +323,8 @@
   "035eb31964c6a0a5": 1792823439.757172,
   "ca3de970162b0f74": 1792823439.757172
  },
- "queue": [
-  {
-   "id": "ccea71b562206269",
-   "cfg": "vless://caf3d607-95c9-4ea0-98b5-864027056ba0@us2.accessboy.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=us2.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&fp=firefox&spx=/#🔵@chillguy_vpn",
-   "ping": 2638,
-   "best": 151,
-   "score": 66,
-   "stability": 100,
-   "ts": 1792823439.757172
-  }
- ],
+ "queue": [],
  "posted": {
-  "b5f66f96c314f088": {
-   "cfg": "vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?type=ws&host=cold-bush-a762.lidrezvpn.workers.dev&path=/eyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1583,
-   "ts": 1791603930.0542152,
-   "ping": 49,
-   "score": 99,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
-  },
   "470c7173b5985866": {
    "cfg": "vless://142d1453-9cfe-4045-8e54-f3fb33342185@104.18.32.47:8880?type=ws&path=%2Fpyip&host=lively-scene-744f.107-47a.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1584,
@@ -4270,6 +4250,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "ccea71b562206269": {
+   "cfg": "vless://caf3d607-95c9-4ea0-98b5-864027056ba0@us2.accessboy.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=us2.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&fp=firefox&spx=/#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2083,
+   "ts": 1792825247.7971885,
+   "ping": 140,
+   "score": 98,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5733,20 +5723,26 @@
    "cc": "US",
    "name": "United States",
    "ts": 1792823460.5798984
+  },
+  "us2.accessboy.com": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792825247.1532238
   }
  },
  "stats": {
   "date": "2026-10-24",
   "fetched": 9,
   "healthy": 2,
-  "posted": 1,
+  "posted": 2,
   "removed": 0,
   "published_scores": [
+   98,
    98
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792823439.7488675,
+ "last_auto_post": 1792825244.6309474,
  "last_auto_clean": 1792823461.2844026,
  "admin_settings": {},
  "telegram_update_offset": 690561702
