@@ -268,15 +268,6 @@
  },
  "queue": [
   {
-   "id": "273091be12876fe2",
-   "cfg": "vless://3d87029f-b55b-487d-aea6-6049c8668ff1@5.175.161.226:443?security=reality&encryption=none&pbk=zIhDtqZo--gCOBxMLqpRETmsGUNTzyHQzBDtRov_Qjk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=wifi10.jzxc.digital&sid=84249c1249f4b2d5#🔵@chillguy_vpn",
-   "ping": 367,
-   "best": 328,
-   "score": 95,
-   "stability": 100,
-   "ts": 1792848640.3715928
-  },
-  {
    "id": "7a2c252686dfd4b6",
    "cfg": "vless://3d87029f-b55b-487d-aea6-6049c8668ff1@5.175.161.195:443?security=reality&encryption=none&pbk=90gg8QRDqwmrelQBiQ159MlmdUreo4h1-yBgRmp7U2c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=wifi12.jzxc.digital&sid=082e4d45beed1487#🔵@chillguy_vpn",
    "ping": 371,
@@ -395,16 +386,6 @@
   }
  ],
  "posted": {
-  "9f358b9c0e707051": {
-   "cfg": "vless://2c634977-584e-4e1f-b501-1b70c77a6743@summerculture.net:2053?mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=summerculture.net&type=xhttp&allowInsecure=0&sni=summerculture.net#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1592,
-   "ts": 1791605744.9787476,
-   "ping": 716,
-   "score": 91,
-   "stability": 100,
-   "country": "The Netherlands",
-   "repost_count": 0
-  },
   "726650a87e509437": {
    "cfg": "vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&type=ws&allowInsecure=0&sni=vless.api-music-fa.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1593,
@@ -4330,6 +4311,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "273091be12876fe2": {
+   "cfg": "vless://3d87029f-b55b-487d-aea6-6049c8668ff1@5.175.161.226:443?security=reality&encryption=none&pbk=zIhDtqZo--gCOBxMLqpRETmsGUNTzyHQzBDtRov_Qjk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=wifi10.jzxc.digital&sid=84249c1249f4b2d5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2096,
+   "ts": 1792853335.693543,
+   "ping": 629,
+   "score": 92,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5828,13 +5819,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1792852270.5145972
+  },
+  "5.175.161.226": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1792853335.065179
   }
  },
  "stats": {
   "date": "2026-10-24",
   "fetched": 66,
   "healthy": 28,
-  "posted": 11,
+  "posted": 12,
   "removed": 1,
   "published_scores": [
    98,
@@ -5847,11 +5843,12 @@
    96,
    94,
    98,
-   96
+   96,
+   92
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792852241.798155,
+ "last_auto_post": 1792853331.0161397,
  "last_auto_clean": 1792845087.4015503,
  "admin_settings": {},
  "telegram_update_offset": 690561707
