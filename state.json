@@ -1,11 +1,5 @@
 {
  "seen": {
-  "7b8a54db1abdf895": 1792591249.1384497,
-  "6f04ab3c85ae5f54": 1792591249.1384497,
-  "41a51caab1f697d5": 1792591249.1384497,
-  "4ab5c6832c0eedf7": 1792591249.1384497,
-  "7918c776240e3726": 1792591249.1384497,
-  "598f5f9a3aef0c90": 1792591249.1384497,
   "cc76048b6b66c2d9": 1792593040.4787195,
   "55d8f492c245c3ba": 1792593040.4787195,
   "fe490dab2395dc26": 1792593040.4787195,
@@ -272,7 +266,10 @@
   "103875f8afe48ab6": 1792850425.8242574,
   "f2d030f8d635e4a9": 1792850425.8242574,
   "7873b3d2730359c5": 1792850425.8242574,
-  "cdeb3da818c21f52": 1792850425.8242574
+  "cdeb3da818c21f52": 1792850425.8242574,
+  "7ef14f09f0a3e46b": 1792851331.521582,
+  "b7be793ed26743ab": 1792851331.521582,
+  "8557a869a5799b47": 1792851331.521582
  },
  "queue": [
   {
@@ -283,6 +280,15 @@
    "score": 96,
    "stability": 100,
    "ts": 1792850425.8242574
+  },
+  {
+   "id": "7ef14f09f0a3e46b",
+   "cfg": "vless://7ce594b9-918b-441d-922c-230341838abd@72.56.88.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl2.xshoponline.ru&fp=firefox&pbk=EkBRN12aZMx4Q_FCOcxB9KuzMkgLSBswmkDycnaTZWM&sid=1a917cfae106f7dd&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 358,
+   "best": 353,
+   "score": 95,
+   "stability": 100,
+   "ts": 1792851331.521582
   },
   {
    "id": "273091be12876fe2",
@@ -319,6 +325,15 @@
    "score": 95,
    "stability": 100,
    "ts": 1792846848.5413253
+  },
+  {
+   "id": "b7be793ed26743ab",
+   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&sid=25c79e5856c7&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🔵@chillguy_vpn",
+   "ping": 461,
+   "best": 442,
+   "score": 94,
+   "stability": 100,
+   "ts": 1792851331.521582
   },
   {
    "id": "f2d030f8d635e4a9",
@@ -394,16 +409,6 @@
   }
  ],
  "posted": {
-  "65381d2742aba7b8": {
-   "cfg": "vless://b01cadb4-428b-42d2-8c56-d6c13e582ede@104.18.32.47:8880?security=none&type=ws&path=%2Fpyip&host=lingering-water-9e69.219.workers.dev&packetEncoding=xudp&encryption=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1590,
-   "ts": 1791605612.3724034,
-   "ping": 114,
-   "score": 99,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
-  },
   "b9c6889a12a91f6c": {
    "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@195.133.80.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl3.nztvpn.com&fp=chrome&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&sid=0da7e14db353e7d0&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1591,
@@ -4329,6 +4334,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "8557a869a5799b47": {
+   "cfg": "vmess://eyJhZGQiOiAiMjMuMjU0LjE5NC4yMTUiLCAiYWlkIjogMCwgImhvc3QiOiAid3d3LmJpbmcuY29tIiwgImlkIjogIjNjNzVhNTUxLTgxZDYtNDZkMC04NzZkLTc5NTE5NzE5YmIyMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIzYzc1YTU1MS04MWQ2LTQ2ZDAtODc2ZC03OTUxOTcxOWJiMjItdm0iLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNuaSI6ICJ3d3cuYmluZy5jb20iLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
+   "msg": 2094,
+   "ts": 1792851340.5807376,
+   "ping": 139,
+   "score": 98,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5817,13 +5832,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1792850449.2725086
+  },
+  "23.254.194.215": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792851339.9436784
   }
  },
  "stats": {
   "date": "2026-10-24",
-  "fetched": 61,
-  "healthy": 24,
-  "posted": 9,
+  "fetched": 64,
+  "healthy": 27,
+  "posted": 10,
   "removed": 1,
   "published_scores": [
    98,
@@ -5834,11 +5854,12 @@
    96,
    97,
    96,
-   94
+   94,
+   98
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792850425.8161557,
+ "last_auto_post": 1792851331.5170822,
  "last_auto_clean": 1792845087.4015503,
  "admin_settings": {},
  "telegram_update_offset": 690561707
