@@ -249,18 +249,10 @@
   "56a755ef03bf9394": 1792864613.5580993,
   "cf85df2a7eff8c81": 1792864613.5580993,
   "b40f0d6b330f6a12": 1792864613.5580993,
-  "bc0d44c5658a1ad0": 1792866641.868145
+  "bc0d44c5658a1ad0": 1792866641.868145,
+  "2233465cf2fec165": 1792868448.676294
  },
  "queue": [
-  {
-   "id": "612837989eb070f9",
-   "cfg": "vless://d5274258-2b2b-497d-b063-c53c6b24ff1e@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#🔵@chillguy_vpn",
-   "ping": 877,
-   "best": 854,
-   "score": 89,
-   "stability": 100,
-   "ts": 1792852241.8064454
-  },
   {
    "id": "7b72fedcbc22df75",
    "cfg": "vmess://eyJhZGQiOiAiZGFzaGJvYXJkLm9qZWRhdGEudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIxODViOGJiMS01NjkwLTQ5ZGUtOTgzMi1lNmQ1ZDM1NmU5NWMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1MzgyIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
@@ -4232,6 +4224,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "612837989eb070f9": {
+   "cfg": "vless://d5274258-2b2b-497d-b063-c53c6b24ff1e@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2108,
+   "ts": 1792868463.8050506,
+   "ping": 1315,
+   "score": 83,
+   "stability": 100,
+   "country": "Iran",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5069,7 +5071,7 @@
   "tun2.w-ert.org": {
    "cc": "IR",
    "name": "Iran",
-   "ts": 1792238452.987625
+   "ts": 1792868463.118826
   },
   "nl5.hap-plus.ru": {
    "cc": "KH",
@@ -5784,9 +5786,9 @@
  },
  "stats": {
   "date": "2026-10-24",
-  "fetched": 90,
+  "fetched": 91,
   "healthy": 42,
-  "posted": 23,
+  "posted": 24,
   "removed": 3,
   "published_scores": [
    98,
@@ -5811,11 +5813,12 @@
    93,
    92,
    87,
-   89
+   89,
+   83
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792866641.8633878,
+ "last_auto_post": 1792868448.6681886,
  "last_auto_clean": 1792867309.5215957,
  "admin_settings": {},
  "telegram_update_offset": 690561707
