@@ -1,6 +1,5 @@
 {
  "seen": {
-  "2c94382342211357": 1792657840.6789656,
   "83a3a7cd40c9467b": 1792659647.3676531,
   "bacbc82bcaacddaf": 1792659647.3676531,
   "8a660952695eb5c2": 1792659647.3676531,
@@ -253,7 +252,8 @@
   "fe7d60762f88e11f": 1792915247.475868,
   "4c18cca5701c5ef5": 1792915247.475868,
   "c39da32c501674b1": 1792915247.475868,
-  "e781db00e27b494e": 1792915247.475868
+  "e781db00e27b494e": 1792915247.475868,
+  "496b2e8f81814599": 1792917927.1642423
  },
  "queue": [
   {
@@ -357,16 +357,6 @@
   }
  ],
  "posted": {
-  "6bce70df201aad89": {
-   "cfg": "vless://e5583623-53ef-4177-8070-8c553f70bcfa@172.67.214.193:2086?&security=none&type=ws&headerType=&host=fvfb8xac5j0nthxzqf.dr5945ov0z598kfft573isahdj3fmmv4.workers.dev&path=%2Fvl%2FNnAT20AqcYOuOLe1r#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1608,
-   "ts": 1791614989.2573152,
-   "ping": 68,
-   "score": 99,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
-  },
   "77fefff85b771a8d": {
    "cfg": "vless://e937b92c-701f-420e-a621-3eb3b75de467@185.102.115.7:443?security=reality&encryption=none&pbk=oiM4ujM8pxMF3X8kQhD8ioV8lcTAj7c31rIP9e6bOgA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=baget.puffixhosting.com&sid=94d16ee71404c7a3#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1609,
@@ -4292,6 +4282,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "496b2e8f81814599": {
+   "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjEwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMmI0M2VlZTYtODMxZi00MTc0LWFlN2QtMDZlNjY5OWMyNjVlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjE4OTgiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "msg": 2117,
+   "ts": 1792917931.7305338,
+   "ping": 289,
+   "score": 96,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5849,19 +5849,20 @@
  },
  "stats": {
   "date": "2026-10-25",
-  "fetched": 63,
-  "healthy": 15,
-  "posted": 4,
+  "fetched": 64,
+  "healthy": 16,
+  "posted": 5,
   "removed": 0,
   "published_scores": [
    96,
    96,
    97,
-   98
+   98,
+   96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792916971.0526817,
+ "last_auto_post": 1792917927.159334,
  "last_auto_clean": 1792912598.103643,
  "admin_settings": {},
  "telegram_update_offset": 690561707
