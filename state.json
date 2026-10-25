@@ -1,7 +1,5 @@
 {
  "seen": {
-  "c37adbc0be3c9407": 1792654240.2785423,
-  "64cca3272070f10b": 1792654240.2785423,
   "a67ebfb9408e7ec6": 1792656931.4283736,
   "8b6003e2cb9a3225": 1792656931.4283736,
   "e9127ff4049b3455": 1792656931.4283736,
@@ -254,15 +252,6 @@
  },
  "queue": [
   {
-   "id": "6d54069e24512901",
-   "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiaWQiOiAiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwgInBvcnQiOiAiODAiLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIm5vbmUiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiJ9",
-   "ping": 289,
-   "best": 257,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792912530.9646943
-  },
-  {
    "id": "90276321d0035f5f",
    "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiaG9zdCI6ICIxNzIuNjYuMC4yNTEiLCAiaWQiOiAiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84NzBhbzI2ZiIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidiI6ICIyIn0=",
    "ping": 293,
@@ -336,16 +325,6 @@
   }
  ],
  "posted": {
-  "072f4b52de7aeea0": {
-   "cfg": "vless://e5583623-53ef-4177-8070-8c553f70bcfa@172.67.214.193:2086?security=none&type=ws&path=/vl/NnAT20AqcYOuOLe1r?ed=2560&host=fvfb8xac5j0nthxzqf.dr5945ov0z598kfft573isahdj3fmmv4.workers.dev&packetEncoding=xudp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1605,
-   "ts": 1791613488.7466693,
-   "ping": 66,
-   "score": 99,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
-  },
   "d719950fe221a1b5": {
    "cfg": "vless://3c04e891-dc32-40a3-bcd0-d5e8283a6a03@polished-firefly-3e2d.20-645.workers.dev:8880?type=ws&sni=polished-firefly-3e2d.20-645.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1606,
@@ -4271,6 +4250,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "6d54069e24512901": {
+   "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiaWQiOiAiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwgInBvcnQiOiAiODAiLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIm5vbmUiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7sifQ==",
+   "msg": 2114,
+   "ts": 1792913450.0494883,
+   "ping": 285,
+   "score": 96,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5830,14 +5819,15 @@
   "date": "2026-10-25",
   "fetched": 53,
   "healthy": 10,
-  "posted": 1,
+  "posted": 2,
   "removed": 0,
   "published_scores": [
+   96,
    96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792912530.9579077,
+ "last_auto_post": 1792913446.529529,
  "last_auto_clean": 1792912598.103643,
  "admin_settings": {},
  "telegram_update_offset": 690561707
