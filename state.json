@@ -265,9 +265,42 @@
   "374ddfc5cb3487d9": 1792936845.658717,
   "8cf86d1c80b15426": 1792939528.197865,
   "70ba5e1b3c66a20d": 1792939528.197865,
-  "aa7af195ee8304e0": 1792939528.197865
+  "aa7af195ee8304e0": 1792939528.197865,
+  "8a1bbc3d49b3d246": 1792942239.404113,
+  "7d98102026bbe1c5": 1792942239.404113,
+  "4042dcd2dbd8a1af": 1792942239.404113,
+  "82f220af84e96af1": 1792942239.404113,
+  "25a9ccbd57757fa2": 1792942239.404113,
+  "e9216436389b423f": 1792942239.404113
  },
  "queue": [
+  {
+   "id": "82f220af84e96af1",
+   "cfg": "vless://871d8872-caff-4d13-b69a-b4a6e4c7535d@nln66.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=cbe2503ffd040d#🔵@chillguy_vpn",
+   "ping": 401,
+   "best": 398,
+   "score": 95,
+   "stability": 100,
+   "ts": 1792942239.404113
+  },
+  {
+   "id": "e9216436389b423f",
+   "cfg": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.176.229.51:443?security=reality&encryption=none&pbk=4FgTYQNtmGhIj137SdjagESDb61Kl6Anj_de5JP7YBs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ad9.vkusnews.com#🔵@chillguy_vpn",
+   "ping": 518,
+   "best": 474,
+   "score": 93,
+   "stability": 100,
+   "ts": 1792942239.404113
+  },
+  {
+   "id": "25a9ccbd57757fa2",
+   "cfg": "vless://871d8872-caff-4d13-b69a-b4a6e4c7535d@dearb.moon-night.ir:443?security=reality&encryption=none&pbk=dMBDL7ry94pavIxYmzimeyaCqor6fUNb0v3dzHif9xY&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e64e9f5eefbffc15#🔵@chillguy_vpn",
+   "ping": 527,
+   "best": 423,
+   "score": 93,
+   "stability": 100,
+   "ts": 1792942239.404113
+  },
   {
    "id": "92c98f9c36effce0",
    "cfg": "vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@8.35.211.242:443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#🔵@chillguy_vpn",
@@ -276,6 +309,15 @@
    "score": 90,
    "stability": 100,
    "ts": 1792933245.9393594
+  },
+  {
+   "id": "7d98102026bbe1c5",
+   "cfg": "vless://871d8872-caff-4d13-b69a-b4a6e4c7535d@trn19.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=e8f4426268c05621#🔵@chillguy_vpn",
+   "ping": 803,
+   "best": 579,
+   "score": 90,
+   "stability": 100,
+   "ts": 1792942239.404113
   },
   {
    "id": "99646bd2b39ac0c9",
@@ -333,16 +375,6 @@
   }
  ],
  "posted": {
-  "f71d41604161361a": {
-   "cfg": "vless://79e0a664-cd66-4aa2-ab4f-5039c1c19bf2@70.38.95.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pkg.go.dev&fp=random&pbk=0du0bcP9VqKadj6p_W9P-3APJ9fJdNT1ZdHqg0JWkg8&sid=18de7b601c10639f&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1626,
-   "ts": 1791636588.2186403,
-   "ping": 96,
-   "score": 99,
-   "stability": 100,
-   "country": "Canada",
-   "repost_count": 0
-  },
   "351c4e83f29d5430": {
    "cfg": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi-s-1.pythonmakemigreat.wiki:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=78f97d82e16aaad6&sni=fi-s-1.pythonmakemigreat.wiki&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1627,
@@ -4268,6 +4300,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "4042dcd2dbd8a1af": {
+   "cfg": "vless://871d8872-caff-4d13-b69a-b4a6e4c7535d@usa4.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=stripe.com&sid=377d#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2136,
+   "ts": 1792942256.9206405,
+   "ping": 125,
+   "score": 98,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5871,13 +5913,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1792940474.9232385
+  },
+  "usa4.mobileemdad.top": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1792942256.1274586
   }
  },
  "stats": {
   "date": "2026-10-25",
-  "fetched": 128,
-  "healthy": 38,
-  "posted": 22,
+  "fetched": 134,
+  "healthy": 43,
+  "posted": 23,
   "removed": 0,
   "published_scores": [
    96,
@@ -5901,11 +5948,12 @@
    96,
    91,
    92,
-   92
+   92,
+   98
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792940445.648813,
+ "last_auto_post": 1792942239.3938801,
  "last_auto_clean": 1792935048.4991632,
  "admin_settings": {},
  "telegram_update_offset": 690561707
