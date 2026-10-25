@@ -294,17 +294,7 @@
   "ddf3bad697d13ed2": 1792952963.0129375,
   "000f64f7077d032f": 1792952963.0129375
  },
- "queue": [
-  {
-   "id": "ddf3bad697d13ed2",
-   "cfg": "vless://ca926603-c678-4639-b726-a5b82d7e110c@113.30.154.207:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🔵@chillguy_vpn",
-   "ping": 481,
-   "best": 360,
-   "score": 94,
-   "stability": 100,
-   "ts": 1792952963.0129375
-  }
- ],
+ "queue": [],
  "posted": {
   "49a14f6e623733a3": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -329,16 +319,6 @@
    "msg": 1653,
    "ts": 1791700235.0368617,
    "repost_count": 1
-  },
-  "e91513e64a08c5ab": {
-   "cfg": "vless://b3a5f201-eeaf-40c8-909c-72f4860cefc8@172.67.176.31:8080?encryption=none&type=ws&host=orange-bonus-abd9.dalvandimohammadmahdi.workers.dev&path=%2FeyJqdW5rIjoiUWtMSnFJZFM2S3JnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1646,
-   "ts": 1791696329.5181952,
-   "ping": 33,
-   "score": 100,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
   },
   "a7e5b7c743503dd7": {
    "cfg": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.64.30:8880?path=/&security=&encryption=none&host=vms.lifetime36.workers.dev&type=ws#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4241,6 +4221,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "ddf3bad697d13ed2": {
+   "cfg": "vless://ca926603-c678-4639-b726-a5b82d7e110c@113.30.154.207:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2145,
+   "ts": 1792953934.4816203,
+   "ping": 1247,
+   "score": 84,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5889,13 +5879,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1792952970.1828935
+  },
+  "113.30.154.207": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1792953933.8885658
   }
  },
  "stats": {
   "date": "2026-10-25",
   "fetched": 155,
   "healthy": 50,
-  "posted": 31,
+  "posted": 32,
   "removed": 0,
   "published_scores": [
    96,
@@ -5928,11 +5923,12 @@
    78,
    68,
    44,
-   94
+   94,
+   84
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792952963.0047615,
+ "last_auto_post": 1792953927.9835627,
  "last_auto_clean": 1792935048.4991632,
  "admin_settings": {},
  "telegram_update_offset": 690561707
