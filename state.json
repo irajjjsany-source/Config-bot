@@ -1,21 +1,5 @@
 {
  "seen": {
-  "45996858b3f6692a": 1792672240.7088737,
-  "fcbdccb4481cb72d": 1792672240.7088737,
-  "b055c0fad3b5d2c4": 1792672240.7088737,
-  "b5d79f74f0f34403": 1792672240.7088737,
-  "aa263f0ff729f38a": 1792672240.7088737,
-  "ea9c14cd0bd0316e": 1792672240.7088737,
-  "062f365e5af57eb0": 1792672240.7088737,
-  "8179c9b028fe06cc": 1792672240.7088737,
-  "abeb10f80b01df71": 1792672240.7088737,
-  "332794339c2eab63": 1792673362.345407,
-  "4569c48575411787": 1792673362.345407,
-  "25d9751bc3917853": 1792673362.345407,
-  "43ac6abdaf72961c": 1792673362.345407,
-  "40cdf66e54a131a5": 1792673362.345407,
-  "07ed3ee645b8f454": 1792673362.345407,
-  "1df67129164857b7": 1792673362.345407,
   "af8a4d6b5efd3b4d": 1792674931.389714,
   "aa1a3b84a8bda833": 1792675839.6279352,
   "50f949d8b926501c": 1792675839.6279352,
@@ -281,7 +265,10 @@
   "64763c7d27272d80": 1792928906.704004,
   "10c640fcbafcc4c6": 1792930114.7779093,
   "31604af02fd69587": 1792930114.7779093,
-  "e9ab1759da9f4a5d": 1792931439.406473
+  "e9ab1759da9f4a5d": 1792931439.406473,
+  "07ed3ee645b8f454": 1792933245.9393594,
+  "7043e252580036bd": 1792933245.9393594,
+  "92c98f9c36effce0": 1792933245.9393594
  },
  "queue": [
   {
@@ -301,6 +288,15 @@
    "score": 91,
    "stability": 100,
    "ts": 1792926012.741781
+  },
+  {
+   "id": "92c98f9c36effce0",
+   "cfg": "vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@8.35.211.242:443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#🔵@chillguy_vpn",
+   "ping": 757,
+   "best": 751,
+   "score": 90,
+   "stability": 100,
+   "ts": 1792933245.9393594
   },
   {
    "id": "99646bd2b39ac0c9",
@@ -430,16 +426,6 @@
   }
  ],
  "posted": {
-  "5c46d55830c7896b": {
-   "cfg": "vless://d0387fbc-299b-4a4e-bbc4-4fa6a26d0db5@tqdm.pylib.workers.dev:443?encryption=none&security=tls&sni=tqdm.pylib.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=tqdm.pylib.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1620,
-   "ts": 1791629032.006694,
-   "ping": 42,
-   "score": 99,
-   "stability": 100,
-   "country": "Canada",
-   "repost_count": 0
-  },
   "323ab4bcc9bfa4a4": {
    "cfg": "vless://3a936dde-62f0-4275-ad40-66f02571d22c@requests.pythonlib.workers.dev:443?encryption=none&security=tls&sni=requests.pythonlib.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=requests.pythonlib.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1621,
@@ -4365,6 +4351,16 @@
    "stability": 100,
    "country": "United Kingdom",
    "repost_count": 0
+  },
+  "7043e252580036bd": {
+   "cfg": "vless://75cde4fc-36de-46c3-b7d9-a4605160fba3@195.26.26.74:57993?security=reality&encryption=none&pbk=bNwHlLkwani3hC8RehyL4X1bhnDv88WHOemX1AEuVTA&headerType=&fp=chrome&spx=%2Fd9e441e70e05c8c&type=tcp&sni=play.google.com&sid=4f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2130,
+   "ts": 1792933262.034746,
+   "ping": 455,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5948,13 +5944,18 @@
    "cc": "GB",
    "name": "United Kingdom",
    "ts": 1792931447.3676112
+  },
+  "195.26.26.74": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1792933261.226852
   }
  },
  "stats": {
   "date": "2026-10-25",
-  "fetched": 118,
-  "healthy": 32,
-  "posted": 16,
+  "fetched": 121,
+  "healthy": 34,
+  "posted": 17,
   "removed": 0,
   "published_scores": [
    96,
@@ -5972,11 +5973,12 @@
    94,
    96,
    94,
-   92
+   92,
+   94
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792931439.3998346,
+ "last_auto_post": 1792933245.9341974,
  "last_auto_clean": 1792912598.103643,
  "admin_settings": {},
  "telegram_update_offset": 690561707
