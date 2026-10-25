@@ -1,7 +1,5 @@
 {
  "seen": {
-  "617c72b90c8eb47a": 1792679439.5166633,
-  "eb6284fec8efa01b": 1792679439.5166633,
   "d67970223eec85d2": 1792770933.1350381,
   "b87e5b3ef947277b": 1792770933.1350381,
   "ad93e4386fbfef7d": 1792770933.1350381,
@@ -264,7 +262,10 @@
   "72680baecf51d821": 1792935039.7956007,
   "70b48b915c9041b7": 1792935039.7956007,
   "fbff4f8f6795e48b": 1792936845.658717,
-  "374ddfc5cb3487d9": 1792936845.658717
+  "374ddfc5cb3487d9": 1792936845.658717,
+  "8cf86d1c80b15426": 1792939528.197865,
+  "70ba5e1b3c66a20d": 1792939528.197865,
+  "aa7af195ee8304e0": 1792939528.197865
  },
  "queue": [
   {
@@ -350,16 +351,6 @@
   }
  ],
  "posted": {
-  "1494382bfc3e1260": {
-   "cfg": "vless://bae7d9c5-b1e4-46f9-8973-39137797a694@dns2.m3hrzd.ir:2800?security=reality&encryption=none&pbk=Y6EGB3qFcmBFAfL-gHaB4emJzC5fXq5ov9Ri4JqHenc&headerType=none&fp=safari&type=tcp&sni=play.google.com&sid=81d0d80c09088a91#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1624,
-   "ts": 1791633460.6708426,
-   "ping": 3068,
-   "score": 60,
-   "stability": 100,
-   "country": "The Netherlands",
-   "repost_count": 0
-  },
   "d0c04f1d82ed4611": {
    "cfg": "vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1625,
@@ -4285,6 +4276,16 @@
    "stability": 100,
    "country": "Finland",
    "repost_count": 0
+  },
+  "70ba5e1b3c66a20d": {
+   "cfg": "vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?security=reality&encryption=none&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&headerType=none&fp=chrome&spx=%2Fa38e5cd3c84c243&type=tcp&sni=delivery.mp.microsoft.com&sid=d3feff5d570d6b#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2134,
+   "ts": 1792939551.7563,
+   "ping": 578,
+   "score": 92,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5878,13 +5879,18 @@
    "cc": "FI",
    "name": "Finland",
    "ts": 1792938467.1394296
+  },
+  "45.92.218.130": {
+   "cc": "FR",
+   "name": "France",
+   "ts": 1792939551.2609937
   }
  },
  "stats": {
   "date": "2026-10-25",
-  "fetched": 125,
-  "healthy": 37,
-  "posted": 20,
+  "fetched": 128,
+  "healthy": 38,
+  "posted": 21,
   "removed": 0,
   "published_scores": [
    96,
@@ -5906,11 +5912,12 @@
    94,
    94,
    96,
-   91
+   91,
+   92
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792938462.6681514,
+ "last_auto_post": 1792939528.1913517,
  "last_auto_clean": 1792935048.4991632,
  "admin_settings": {},
  "telegram_update_offset": 690561707
