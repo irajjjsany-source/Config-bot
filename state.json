@@ -1,10 +1,5 @@
 {
  "seen": {
-  "a67ebfb9408e7ec6": 1792656931.4283736,
-  "8b6003e2cb9a3225": 1792656931.4283736,
-  "e9127ff4049b3455": 1792656931.4283736,
-  "77a1d6acd9dd4352": 1792656931.4283736,
-  "7f9155a91f291105": 1792656931.4283736,
   "2c94382342211357": 1792657840.6789656,
   "83a3a7cd40c9467b": 1792659647.3676531,
   "bacbc82bcaacddaf": 1792659647.3676531,
@@ -262,15 +257,6 @@
  },
  "queue": [
   {
-   "id": "90276321d0035f5f",
-   "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiaG9zdCI6ICIxNzIuNjYuMC4yNTEiLCAiaWQiOiAiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84NzBhbzI2ZiIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidiI6ICIyIn0=",
-   "ping": 293,
-   "best": 272,
-   "score": 96,
-   "stability": 100,
-   "ts": 1792912530.9646943
-  },
-  {
    "id": "8af937c7b1fb7d47",
    "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIxNzIuNjYuMC4yNTEiLCAiaWQiOiAiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84NzBhbzI2ZiIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
    "ping": 348,
@@ -371,16 +357,6 @@
   }
  ],
  "posted": {
-  "f6d8fc3f714ceb7a": {
-   "cfg": "vless://2f5c68d9-182f-4d8b-ab53-9358a04387b7@broad-truth-e988.258-217.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&sni=broad-truth-e988.258-217.workers.dev#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1607,
-   "ts": 1791614742.2840536,
-   "ping": 69,
-   "score": 99,
-   "stability": 100,
-   "country": "Canada",
-   "repost_count": 0
-  },
   "6bce70df201aad89": {
    "cfg": "vless://e5583623-53ef-4177-8070-8c553f70bcfa@172.67.214.193:2086?&security=none&type=ws&headerType=&host=fvfb8xac5j0nthxzqf.dr5945ov0z598kfft573isahdj3fmmv4.workers.dev&path=%2Fvl%2FNnAT20AqcYOuOLe1r#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1608,
@@ -4306,6 +4282,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "90276321d0035f5f": {
+   "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiaG9zdCI6ICIxNzIuNjYuMC4yNTEiLCAiaWQiOiAiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84NzBhbzI2ZiIsICJwb3J0IjogIjgwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInYiOiAiMiJ9",
+   "msg": 2116,
+   "ts": 1792916974.637866,
+   "ping": 152,
+   "score": 98,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5865,16 +5851,17 @@
   "date": "2026-10-25",
   "fetched": 63,
   "healthy": 15,
-  "posted": 3,
+  "posted": 4,
   "removed": 0,
   "published_scores": [
    96,
    96,
-   97
+   97,
+   98
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792915247.4675825,
+ "last_auto_post": 1792916971.0526817,
  "last_auto_clean": 1792912598.103643,
  "admin_settings": {},
  "telegram_update_offset": 690561707
