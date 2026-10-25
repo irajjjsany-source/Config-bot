@@ -268,15 +268,6 @@
  },
  "queue": [
   {
-   "id": "1ffb720e4c2d1858",
-   "cfg": "vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🔵@chillguy_vpn",
-   "ping": 365,
-   "best": 352,
-   "score": 95,
-   "stability": 100,
-   "ts": 1792926012.741781
-  },
-  {
    "id": "083895977eb19089",
    "cfg": "vless://57c87188-1056-4bd5-92f8-c7ca1fd19147@193.160.140.117:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🔵@chillguy_vpn",
    "ping": 410,
@@ -404,16 +395,6 @@
   }
  ],
  "posted": {
-  "7002840e836a838d": {
-   "cfg": "vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@us2.haar.lol:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us2.haar.lol&fp=random&pbk=UPBhfb1CFb4UPv8f34sD6px1hlTEYEn5qrni2uYJJQQ&sid=356791b43be27f37&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1616,
-   "ts": 1791623726.932653,
-   "ping": 43,
-   "score": 99,
-   "stability": 100,
-   "country": "United States",
-   "repost_count": 0
-  },
   "00012d24038b1696": {
    "cfg": "vless://54abd374-612d-4bee-b469-f28ec3ba5632@88.198.108.26:29870?mode=auto&path=%2F&security=reality&encryption=none&pbk=6ylQnvHKj9JnxJc0u2RdzI2HekMGnBopPlQUXISbG3k&host=play.google.com&fp=chrome&spx=%2F&type=xhttp&sni=play.google.com&sid=7236f35848395394#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1617,
@@ -4339,6 +4320,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "1ffb720e4c2d1858": {
+   "cfg": "vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2126,
+   "ts": 1792927844.8914778,
+   "ping": 450,
+   "score": 94,
+   "stability": 100,
+   "country": "Turkey",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5912,13 +5903,18 @@
    "cc": "HK",
    "name": "Hong Kong",
    "ts": 1792924252.927711
+  },
+  "185.98.63.6": {
+   "cc": "TR",
+   "name": "Turkey",
+   "ts": 1792927844.133634
   }
  },
  "stats": {
   "date": "2026-10-25",
   "fetched": 94,
   "healthy": 27,
-  "posted": 12,
+  "posted": 13,
   "removed": 0,
   "published_scores": [
    96,
@@ -5932,11 +5928,12 @@
    94,
    85,
    97,
-   98
+   98,
+   94
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792926928.393304,
+ "last_auto_post": 1792927840.40877,
  "last_auto_clean": 1792912598.103643,
  "admin_settings": {},
  "telegram_update_offset": 690561707
