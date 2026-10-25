@@ -1,7 +1,5 @@
 {
  "seen": {
-  "2d5e781b408a518f": 1792661440.4352555,
-  "a6a6b624168d5ecb": 1792661440.4352555,
   "7d9e6bdd53be36d8": 1792663246.0292954,
   "356f8c592933ae63": 1792663246.0292954,
   "d7ea1ced1faef313": 1792663246.0292954,
@@ -251,15 +249,6 @@
  },
  "queue": [
   {
-   "id": "9d4ba37d136d68b1",
-   "cfg": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@201.51.8.163:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=atk.vkusnews.com#🔵@chillguy_vpn",
-   "ping": 518,
-   "best": 510,
-   "score": 93,
-   "stability": 100,
-   "ts": 1792912530.9646943
-  },
-  {
    "id": "cd8d8f4a63c54088",
    "cfg": "vless://3644635c-f8c4-449c-a665-fce1897a7bf3@66.90.115.124:2090?security=reality&encryption=none&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=bb472a184677af64#🔵@chillguy_vpn",
    "ping": 587,
@@ -342,16 +331,6 @@
   }
  ],
  "posted": {
-  "8b0dd68eb5dc462b": {
-   "cfg": "vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@45.67.139.221:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.haar.lol&fp=random&pbk=cW3RMz0RQpy85wGaG0wjb8yQ3b16CtZR_fd1ktwBKFs&sid=7e833df86314b137&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1611,
-   "ts": 1791616529.740313,
-   "ping": 384,
-   "score": 95,
-   "stability": 100,
-   "country": "France",
-   "repost_count": 0
-  },
   "8a5581420b238b57": {
    "cfg": "vless://a889fba5-5472-4022-a6b4-9710157fda2f@194.87.6.192:56789?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ger6.fytpn.com&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1612,
@@ -4277,6 +4256,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "9d4ba37d136d68b1": {
+   "cfg": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@201.51.8.163:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=atk.vkusnews.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2120,
+   "ts": 1792921530.7564833,
+   "ping": 537,
+   "score": 93,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5835,13 +5824,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1792919936.7536495
+  },
+  "201.51.8.163": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1792921530.2911012
   }
  },
  "stats": {
   "date": "2026-10-25",
   "fetched": 65,
   "healthy": 17,
-  "posted": 7,
+  "posted": 8,
   "removed": 0,
   "published_scores": [
    96,
@@ -5850,11 +5844,12 @@
    98,
    96,
    96,
-   72
+   72,
+   93
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792919928.0916855,
+ "last_auto_post": 1792921526.7309976,
  "last_auto_clean": 1792912598.103643,
  "admin_settings": {},
  "telegram_update_offset": 690561707
