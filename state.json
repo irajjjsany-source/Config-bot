@@ -297,9 +297,20 @@
   "8795b320591a07cf": 1792954848.193063,
   "c407b10fcc8214a4": 1792954848.193063,
   "5e9a582ccf79bb75": 1792954848.193063,
-  "2ff26ede28a843fe": 1792954848.193063
+  "2ff26ede28a843fe": 1792954848.193063,
+  "f009283c86bbd8ef": 1792956077.3215606,
+  "8ef96aea51130edb": 1792956077.3215606
  },
  "queue": [
+  {
+   "id": "f009283c86bbd8ef",
+   "cfg": "vless://680e92ac-1688-49e0-af96-7327fbc30ce8@45.151.71.167:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=abuse.ozon.ru#🔵@chillguy_vpn",
+   "ping": 409,
+   "best": 387,
+   "score": 95,
+   "stability": 100,
+   "ts": 1792956077.3215606
+  },
   {
    "id": "8795b320591a07cf",
    "cfg": "vless://f234330e-f9df-46e3-8f60-b2af5173c147@p1real2.greewebservices.ir:1240?encryption=none&type=tcp&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🔵@chillguy_vpn",
@@ -343,16 +354,6 @@
    "msg": 1653,
    "ts": 1791700235.0368617,
    "repost_count": 1
-  },
-  "dc4f39aa07c50060": {
-   "cfg": "vless://8f53fce2-6c17-4e37-9ae9-d969fd85117c@104.21.87.238:8080?&type=ws&headerType=none&host=ApI-hub-C9A393.ALiMiRZAi539-484.WOrKerS.DeV&path=/vl/Wp4FqWLcoYNYXCovu4?ed=2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1648,
-   "ts": 1791698032.0263412,
-   "ping": 80,
-   "score": 99,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
   },
   "94930367601c6f3a": {
    "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-3.ardesnode.ru&fp=chrome&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4255,6 +4256,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "8ef96aea51130edb": {
+   "cfg": "vless://680e92ac-1688-49e0-af96-7327fbc30ce8@193.160.140.119:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2147,
+   "ts": 1792956084.457227,
+   "ping": 380,
+   "score": 95,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5908,13 +5919,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1792953933.8885658
+  },
+  "193.160.140.119": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1792956083.8264356
   }
  },
  "stats": {
   "date": "2026-10-25",
-  "fetched": 160,
-  "healthy": 53,
-  "posted": 33,
+  "fetched": 162,
+  "healthy": 55,
+  "posted": 34,
   "removed": 0,
   "published_scores": [
    96,
@@ -5949,11 +5965,12 @@
    44,
    94,
    84,
+   95,
    95
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792954848.1866739,
+ "last_auto_post": 1792956077.307088,
  "last_auto_clean": 1792935048.4991632,
  "admin_settings": {},
  "telegram_update_offset": 690561707
