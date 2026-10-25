@@ -303,15 +303,6 @@
  },
  "queue": [
   {
-   "id": "f009283c86bbd8ef",
-   "cfg": "vless://680e92ac-1688-49e0-af96-7327fbc30ce8@45.151.71.167:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=abuse.ozon.ru#🔵@chillguy_vpn",
-   "ping": 409,
-   "best": 387,
-   "score": 95,
-   "stability": 100,
-   "ts": 1792956077.3215606
-  },
-  {
    "id": "8795b320591a07cf",
    "cfg": "vless://f234330e-f9df-46e3-8f60-b2af5173c147@p1real2.greewebservices.ir:1240?encryption=none&type=tcp&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🔵@chillguy_vpn",
    "ping": 584,
@@ -354,16 +345,6 @@
    "msg": 1653,
    "ts": 1791700235.0368617,
    "repost_count": 1
-  },
-  "94930367601c6f3a": {
-   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-3.ardesnode.ru&fp=chrome&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1649,
-   "ts": 1791698717.724017,
-   "ping": 483,
-   "score": 94,
-   "stability": 100,
-   "country": "The Netherlands",
-   "repost_count": 0
   },
   "8740bd88adeb2d76": {
    "cfg": "vless://2f5c68d9-182f-4d8b-ab53-9358a04387b7@broad-truth-e988.258-217.workers.dev:8880?encryption=none&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4079,33 +4060,9 @@
   },
   "53e994544fd81564": {
    "cfg": "vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@167.104.223.215:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb2.murainternet.network&sid=fc36b4a584871aa5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2129,
-   "ts": 1792931447.9708455,
-   "ping": 592,
-   "score": 92,
-   "stability": 100,
-   "country": "United Kingdom",
-   "repost_count": 0
-  },
-  "7043e252580036bd": {
-   "cfg": "vless://75cde4fc-36de-46c3-b7d9-a4605160fba3@195.26.26.74:57993?security=reality&encryption=none&pbk=bNwHlLkwani3hC8RehyL4X1bhnDv88WHOemX1AEuVTA&headerType=&fp=chrome&spx=%2Fd9e441e70e05c8c&type=tcp&sni=play.google.com&sid=4f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2130,
-   "ts": 1792933262.034746,
-   "ping": 455,
-   "score": 94,
-   "stability": 100,
-   "country": "Germany",
-   "repost_count": 0
-  },
-  "70b48b915c9041b7": {
-   "cfg": "vless://75cde4fc-36de-46c3-b7d9-a4605160fba3@195.26.26.74:57993?security=reality&encryption=none&pbk=bNwHlLkwani3hC8RehyL4X1bhnDv88WHOemX1AEuVTA&headerType=none&fp=chrome&spx=%2Fd9e441e70e05c8c&type=tcp&sni=play.google.com&sid=4f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2131,
-   "ts": 1792935048.487118,
-   "ping": 474,
-   "score": 94,
-   "stability": 100,
-   "country": "Germany",
-   "repost_count": 0
+   "msg": 2149,
+   "ts": 1792957509.4295135,
+   "repost_count": 1
   },
   "fbff4f8f6795e48b": {
    "cfg": "vmess://eyJhZGQiOiAiMTk1LjI2LjI2Ljc0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiMjYxOWM0Yi0yZjQ3LTQ0NjQtOGRlOS1iYjA1NzZiZTc2ODciLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIzMzU1NCIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
@@ -4263,6 +4220,16 @@
    "ts": 1792956084.457227,
    "ping": 380,
    "score": 95,
+   "stability": 100,
+   "country": "Russia",
+   "repost_count": 0
+  },
+  "f009283c86bbd8ef": {
+   "cfg": "vless://680e92ac-1688-49e0-af96-7327fbc30ce8@45.151.71.167:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=abuse.ozon.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2148,
+   "ts": 1792957493.4553618,
+   "ping": 2219,
+   "score": 71,
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
@@ -5924,14 +5891,19 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1792956083.8264356
+  },
+  "45.151.71.167": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1792957492.7856688
   }
  },
  "stats": {
   "date": "2026-10-25",
   "fetched": 162,
   "healthy": 55,
-  "posted": 34,
-  "removed": 0,
+  "posted": 36,
+  "removed": 2,
   "published_scores": [
    96,
    96,
@@ -5966,12 +5938,13 @@
    94,
    84,
    95,
-   95
+   95,
+   71
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1792956077.307088,
- "last_auto_clean": 1792935048.4991632,
+ "last_auto_post": 1792957483.7566564,
+ "last_auto_clean": 1792957493.4647992,
  "admin_settings": {},
  "telegram_update_offset": 690561707
 }
