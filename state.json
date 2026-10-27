@@ -332,15 +332,6 @@
  },
  "queue": [
   {
-   "id": "58145080e219eeea",
-   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=Copy_Shode_az_Chanel0111Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🔵@chillguy_vpn",
-   "ping": 429,
-   "best": 422,
-   "score": 94,
-   "stability": 100,
-   "ts": 1793109652.3742993
-  },
-  {
    "id": "bb86e7b701c172de",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🔵@chillguy_vpn",
    "ping": 433,
@@ -4662,6 +4653,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "58145080e219eeea": {
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=Copy_Shode_az_Chanel0111Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2188,
+   "ts": 1793121485.884651,
+   "ping": 346,
+   "score": 96,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -6425,13 +6426,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1793118690.7686098
+  },
+  "51.158.206.8": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1793121485.2250402
   }
  },
  "stats": {
   "date": "2026-10-27",
   "fetched": 149,
   "healthy": 85,
-  "posted": 31,
+  "posted": 32,
   "removed": 2,
   "published_scores": [
    99,
@@ -6463,11 +6469,12 @@
    96,
    98,
    96,
-   99
+   99,
+   96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793120515.5227084,
+ "last_auto_post": 1793121482.0748599,
  "last_auto_clean": 1793120555.7028165,
  "admin_settings": {},
  "telegram_update_offset": 690561707
