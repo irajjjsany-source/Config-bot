@@ -1,14 +1,5 @@
 {
  "seen": {
-  "14858a85063c6f3f": 1792823439.757172,
-  "ed3565be91e18e02": 1792823439.757172,
-  "408633f9045ba8a7": 1792823439.757172,
-  "2081b6d329904338": 1792823439.757172,
-  "fa7aea23804055dc": 1792823439.757172,
-  "b1f5ac5d16044a9c": 1792823439.757172,
-  "ccea71b562206269": 1792823439.757172,
-  "035eb31964c6a0a5": 1792823439.757172,
-  "ca3de970162b0f74": 1792823439.757172,
   "74310e74fc426061": 1792828927.8295348,
   "dd908703cb43941c": 1792828927.8295348,
   "25da27ffbd8d4ea3": 1792830639.6957557,
@@ -291,18 +282,10 @@
   "002d7ffb82abfd55": 1793080846.8714297,
   "e3267553d354ee4e": 1793080846.8714297,
   "84c51a857ceadcf5": 1793082637.8998628,
-  "2a0cc522eef74a68": 1793082637.8998628
+  "2a0cc522eef74a68": 1793082637.8998628,
+  "24d08194039b7e0b": 1793083735.4727156
  },
  "queue": [
-  {
-   "id": "fa17850c71195123",
-   "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJ1cy0yMy5oaWh1Lm5ldCIsICJpZCI6ICI4YTlhYWE3MC1jZWQ5LTExZjEtYjkzNC0yMDVjNmQ1ZjVkNzgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
-   "ping": 292,
-   "best": 277,
-   "score": 96,
-   "stability": 100,
-   "ts": 1793076328.5361156
-  },
   {
    "id": "e3267553d354ee4e",
    "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjE1NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzA5YTVjNmItMmFiNy00OWViLTg3NzMtODRlNDZkZjk2NTBmIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTk0MDIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
@@ -359,12 +342,6 @@
   }
  ],
  "posted": {
-  "e01d2fe641c72689": {
-   "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1653,
-   "ts": 1791700235.0368617,
-   "repost_count": 1
-  },
   "8740bd88adeb2d76": {
    "cfg": "vless://2f5c68d9-182f-4d8b-ab53-9358a04387b7@broad-truth-e988.258-217.workers.dev:8880?encryption=none&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1654,
@@ -4302,6 +4279,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "fa17850c71195123": {
+   "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJ1cy0yMy5oaWh1Lm5ldCIsICJpZCI6ICI4YTlhYWE3MC1jZWQ5LTExZjEtYjkzNC0yMDVjNmQ1ZjVkNzgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
+   "msg": 2159,
+   "ts": 1793083741.5432675,
+   "ping": 242,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5979,20 +5966,21 @@
  },
  "stats": {
   "date": "2026-10-27",
-  "fetched": 31,
+  "fetched": 32,
   "healthy": 12,
-  "posted": 5,
+  "posted": 6,
   "removed": 0,
   "published_scores": [
    99,
    98,
    97,
    97,
+   97,
    97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793082637.8914983,
+ "last_auto_post": 1793083735.4675536,
  "last_auto_clean": 1793076361.8829775,
  "admin_settings": {},
  "telegram_update_offset": 690561707
