@@ -289,7 +289,9 @@
   "02e4dd6fdaef56e0": 1793079037.230758,
   "91dd1661a2cdcc7d": 1793079037.230758,
   "002d7ffb82abfd55": 1793080846.8714297,
-  "e3267553d354ee4e": 1793080846.8714297
+  "e3267553d354ee4e": 1793080846.8714297,
+  "84c51a857ceadcf5": 1793082637.8998628,
+  "2a0cc522eef74a68": 1793082637.8998628
  },
  "queue": [
   {
@@ -357,12 +359,6 @@
   }
  ],
  "posted": {
-  "ec63cd8bbedd6f0f": {
-   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@fn-1.ardesnode.ru:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fn-1.ardesnode.ru&sid=9ea74b83f4993ca9#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1652,
-   "ts": 1791700233.10887,
-   "repost_count": 1
-  },
   "e01d2fe641c72689": {
    "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1653,
@@ -4296,6 +4292,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "84c51a857ceadcf5": {
+   "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiMTcyLjY2LjAuMjUxIiwgImlkIjogIjhhOWFhYTcwLWNlZDktMTFmMS1iOTM0LTIwNWM2ZDVmNWQ3OCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84NzBhbzI2ZiIsICJwY3MiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "msg": 2158,
+   "ts": 1793082641.555729,
+   "ping": 259,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5973,19 +5979,20 @@
  },
  "stats": {
   "date": "2026-10-27",
-  "fetched": 29,
-  "healthy": 11,
-  "posted": 4,
+  "fetched": 31,
+  "healthy": 12,
+  "posted": 5,
   "removed": 0,
   "published_scores": [
    99,
    98,
    97,
+   97,
    97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793080846.8623471,
+ "last_auto_post": 1793082637.8914983,
  "last_auto_clean": 1793076361.8829775,
  "admin_settings": {},
  "telegram_update_offset": 690561707
