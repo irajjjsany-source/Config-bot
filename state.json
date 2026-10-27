@@ -310,7 +310,9 @@
   "c9d3692446ba8d51": 1793112333.3538766,
   "1157e465c639b47a": 1793112333.3538766,
   "29bc0534b35c1903": 1793112333.3538766,
-  "7978dbf7a7f84fb7": 1793112333.3538766
+  "7978dbf7a7f84fb7": 1793112333.3538766,
+  "695d9c65e407ef19": 1793113251.0699766,
+  "889ca9402107855a": 1793113251.0699766
  },
  "queue": [
   {
@@ -585,16 +587,6 @@
   }
  ],
  "posted": {
-  "903617083cf013bb": {
-   "cfg": "vless://16c7b7fa-153e-4c7c-851d-9857bcab48ad@188.114.98.0:8880?encryption=none&security=none&type=ws&host=kh8.javanrooo.ir&path=%2F%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1671,
-   "ts": 1791715978.7616658,
-   "ping": 243,
-   "score": 97,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
-  },
   "97507c02b2cf8162": {
    "cfg": "vless://86096188-0ece-41af-922d-792c5f96c3ad@89.125.100.59:443?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&sni=anime.caloribro.uno&pbk=BzXQPqKb1waqaBR4b2GGyE6VWX4LGd9iCOkyuMc8IGs&fp=chrome&sid=14aa9b370c30c55d#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1672,
@@ -4532,6 +4524,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "695d9c65e407ef19": {
+   "cfg": "vless://0ecd76fc-6888-44d2-b97f-4f9ba66c55f2@91.107.247.174:443?security=reality&encryption=none&pbk=MjBRMMMBFIu4jSHSdDzdK4VPczAVkC1GHhHvugU3myI&headerType=none&fp=chrome&spx=%2Fd8a10c7b6873457&type=tcp&sni=gspe121-rh-ssl.ls.apple.com&sid=b263a86044be000e&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2180,
+   "ts": 1793113255.683626,
+   "ping": 425,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -6284,9 +6286,9 @@
  },
  "stats": {
   "date": "2026-10-27",
-  "fetched": 116,
-  "healthy": 60,
-  "posted": 24,
+  "fetched": 118,
+  "healthy": 61,
+  "posted": 25,
   "removed": 1,
   "published_scores": [
    99,
@@ -6312,11 +6314,12 @@
    91,
    94,
    94,
-   96
+   96,
+   94
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793112333.341445,
+ "last_auto_post": 1793113251.0643044,
  "last_auto_clean": 1793098871.7775707,
  "admin_settings": {},
  "telegram_update_offset": 690561707
