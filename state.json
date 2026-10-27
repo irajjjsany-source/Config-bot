@@ -285,18 +285,11 @@
   "d2d0926ca0a22326": 1793076328.5361156,
   "ee6800c9d0d4cb0b": 1793076328.5361156,
   "3a334857e1dd8afe": 1793077243.9142096,
-  "9a9bd33ea62d4c7b": 1793077243.9142096
+  "9a9bd33ea62d4c7b": 1793077243.9142096,
+  "02e4dd6fdaef56e0": 1793079037.230758,
+  "91dd1661a2cdcc7d": 1793079037.230758
  },
  "queue": [
-  {
-   "id": "3a334857e1dd8afe",
-   "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiMTcyLjY2LjAuMjUxIiwgImlkIjogIjhhOWFhYTcwLWNlZDktMTFmMS1iOTM0LTIwNWM2ZDVmNWQ3OCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84NzBhbzI2ZiIsICJwY3MiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
-   "ping": 237,
-   "best": 211,
-   "score": 97,
-   "stability": 100,
-   "ts": 1793077243.9142096
-  },
   {
    "id": "bfcc8c3824bf9893",
    "cfg": "vmess://eyJhZGQiOiAiMjMuMTU4LjcyLjEzMSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9",
@@ -362,12 +355,6 @@
   }
  ],
  "posted": {
-  "49a14f6e623733a3": {
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1650,
-   "ts": 1791700222.972938,
-   "repost_count": 1
-  },
   "6e9b46cb185c9b71": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1651,
@@ -4293,6 +4280,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "3a334857e1dd8afe": {
+   "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiMTcyLjY2LjAuMjUxIiwgImlkIjogIjhhOWFhYTcwLWNlZDktMTFmMS1iOTM0LTIwNWM2ZDVmNWQ3OCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84NzBhbzI2ZiIsICJwY3MiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "msg": 2155,
+   "ts": 1793079040.878429,
+   "ping": 234,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5965,17 +5962,18 @@
  },
  "stats": {
   "date": "2026-10-27",
-  "fetched": 25,
+  "fetched": 27,
   "healthy": 10,
-  "posted": 2,
+  "posted": 3,
   "removed": 0,
   "published_scores": [
    99,
-   98
+   98,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793077243.9050875,
+ "last_auto_post": 1793079037.2254825,
  "last_auto_clean": 1793076361.8829775,
  "admin_settings": {},
  "telegram_update_offset": 690561707
