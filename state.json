@@ -315,7 +315,17 @@
   "a017c12016944eba": 1793100638.097825,
   "74c95f962e2e2d8b": 1793100638.097825,
   "a626bd7d9219eb4d": 1793100638.097825,
-  "03d8271e3db772a0": 1793100638.097825
+  "03d8271e3db772a0": 1793100638.097825,
+  "750cdf441abd6efd": 1793102447.7413983,
+  "5d87813f17caa9e7": 1793102447.7413983,
+  "295af4aa494d9951": 1793102447.7413983,
+  "00e3b5655d2c002b": 1793102447.7413983,
+  "98494e20bd0c7fe6": 1793102447.7413983,
+  "7c8ce3634d3cac84": 1793102447.7413983,
+  "71076e365a6f2efb": 1793102447.7413983,
+  "05930ff2c69074eb": 1793102447.7413983,
+  "03d68817c25c5b00": 1793102447.7413983,
+  "9428ce869e6c633f": 1793102447.7413983
  },
  "queue": [
   {
@@ -400,6 +410,24 @@
    "ts": 1793100638.097825
   },
   {
+   "id": "7c8ce3634d3cac84",
+   "cfg": "vless://c97d00c8-41ee-4bc2-b9fb-6b21fb2b8f4c@2.144.28.213:8100?type=tcp&encryption=none&security=reality&support-x25519mlkem768=true&pbk=3n9oQhM0KOycWUV-e94qlInrHd7ceKB_KP0inbcIrR4&fp=chrome&sni=amd.com&sid=dc35d6&spx=%2Fed5c70c3ba04723#🔵@chillguy_vpn",
+   "ping": 718,
+   "best": 715,
+   "score": 91,
+   "stability": 100,
+   "ts": 1793102447.7413983
+  },
+  {
+   "id": "00e3b5655d2c002b",
+   "cfg": "vless://b223d6cf-6f94-4889-8bcf-263c15881006@6.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hostgator.com&sid=e915#🔵@chillguy_vpn",
+   "ping": 720,
+   "best": 673,
+   "score": 91,
+   "stability": 100,
+   "ts": 1793102447.7413983
+  },
+  {
    "id": "03d8271e3db772a0",
    "cfg": "vmess://eyJhZGQiOiAiZGFzaGJvYXJkLm9qZWRhdGEudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlZjg1MDJiNy05YjQ1LTQ1MzctOTM2ZC1kM2FmMDFkZWUyZTMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1MzgyIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
    "ping": 821,
@@ -455,16 +483,6 @@
   }
  ],
  "posted": {
-  "f1270d273ddd883a": {
-   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@45.14.246.6:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fn-1.ardesnode.ru&sid=9ea74b83f4993ca9#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1663,
-   "ts": 1791708903.7304463,
-   "ping": 510,
-   "score": 93,
-   "stability": 100,
-   "country": "Finland",
-   "repost_count": 0
-  },
   "c30f2342b0879f1b": {
    "cfg": "vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1664,
@@ -4402,6 +4420,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "98494e20bd0c7fe6": {
+   "cfg": "vless://00ee2eeb-cb0e-453c-b151-c8cf28089d31@116.203.7.223:34257?security=reality&encryption=none&pbk=5FkOfDtgsGr856IC5mE1c27qzl_HQ85onkcaIzd_qgk&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=601e43eb94a28919&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2171,
+   "ts": 1793102466.4295938,
+   "ping": 331,
+   "score": 96,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -6124,9 +6152,9 @@
  },
  "stats": {
   "date": "2026-10-27",
-  "fetched": 71,
-  "healthy": 34,
-  "posted": 16,
+  "fetched": 81,
+  "healthy": 37,
+  "posted": 17,
   "removed": 1,
   "published_scores": [
    99,
@@ -6144,11 +6172,12 @@
    98,
    92,
    93,
-   95
+   95,
+   96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793100638.0891683,
+ "last_auto_post": 1793102447.7314854,
  "last_auto_clean": 1793098871.7775707,
  "admin_settings": {},
  "telegram_update_offset": 690561707
