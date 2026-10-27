@@ -1,8 +1,5 @@
 {
  "seen": {
-  "aa6595d95123ad18": 1792836929.0668983,
-  "cadb9cc923933790": 1792836929.0668983,
-  "70c5731aee1df461": 1792836929.0668983,
   "428a4814bf089ae3": 1792843249.2004633,
   "072ac29822e0ece0": 1792843249.2004633,
   "72590dc10367095e": 1792843249.2004633,
@@ -293,7 +290,12 @@
   "6ce180c984879976": 1793095246.963261,
   "a4c87eb775babbae": 1793095246.963261,
   "d662239a90644023": 1793095246.963261,
-  "811b84e6bccbbd8d": 1793095246.963261
+  "811b84e6bccbbd8d": 1793095246.963261,
+  "e1100f59cf5ae3ae": 1793097038.2212296,
+  "64f707afad7d7f5f": 1793097038.2212296,
+  "f048fcdc33b8d7d9": 1793097038.2212296,
+  "9bbc79de98937b0a": 1793097038.2212296,
+  "b7a10e0a416d637f": 1793097038.2212296
  },
  "queue": [
   {
@@ -331,19 +333,27 @@
    "score": 87,
    "stability": 100,
    "ts": 1793092527.5920858
+  },
+  {
+   "id": "b7a10e0a416d637f",
+   "cfg": "vless://f234330e-f9df-46e3-8f60-b2af5173c147@p1tun0.greewebservices.ir:38820?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&host=play.google.com&headerType=none&fp=ios&type=tcp&sni=play.google.com&sid=66ded2#🔵@chillguy_vpn",
+   "ping": 1158,
+   "best": 1063,
+   "score": 85,
+   "stability": 100,
+   "ts": 1793097038.2212296
+  },
+  {
+   "id": "f048fcdc33b8d7d9",
+   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=chrome&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#🔵@chillguy_vpn",
+   "ping": 4590,
+   "best": 4186,
+   "score": 40,
+   "stability": 100,
+   "ts": 1793097038.2212296
   }
  ],
  "posted": {
-  "293849eb0b5f2358": {
-   "cfg": "vless://d0387fbc-299b-4a4e-bbc4-4fa6a26d0db5@libraries.pylib.workers.dev:443?encryption=none&security=tls&sni=libraries.pylib.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=libraries.pylib.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1661,
-   "ts": 1791707182.6412563,
-   "ping": 103,
-   "score": 99,
-   "stability": 100,
-   "country": "Canada",
-   "repost_count": 0
-  },
   "6a7e2dd035dc8618": {
    "cfg": "vless://f45d7c9f-54b1-4ac9-a691-c65f8007593f@104.21.66.138:80?&type=ws&headerType=none&host=ez2e6cjldxp01cim4g8.dfghdsfghdsf-43621.workers.dev&path=%2Fvl%2Flm0JTPoJ006x2WOz%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1662,
@@ -4281,6 +4291,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "e1100f59cf5ae3ae": {
+   "cfg": "vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=none&fp=chrome&spx=%2FEL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2168,
+   "ts": 1793097066.0836189,
+   "ping": 615,
+   "score": 92,
+   "stability": 100,
+   "country": "Finland",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5989,13 +6009,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1793095257.8649387
+  },
+  "assets.halyvanedorogo.ru": {
+   "cc": "FI",
+   "name": "Finland",
+   "ts": 1793097065.2936018
   }
  },
  "stats": {
   "date": "2026-10-27",
-  "fetched": 46,
-  "healthy": 18,
-  "posted": 13,
+  "fetched": 51,
+  "healthy": 21,
+  "posted": 14,
   "removed": 0,
   "published_scores": [
    99,
@@ -6010,11 +6035,12 @@
    94,
    96,
    96,
-   98
+   98,
+   92
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793095246.9486942,
+ "last_auto_post": 1793097038.2126694,
  "last_auto_clean": 1793076361.8829775,
  "admin_settings": {},
  "telegram_update_offset": 690561707
