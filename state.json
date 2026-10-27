@@ -1,6 +1,5 @@
 {
  "seen": {
-  "fc44da6b976b0eb8": 1792845040.303755,
   "51453997fee94229": 1792846848.5413253,
   "4cafc8c7c2388865": 1792846848.5413253,
   "1fda577ad023ea87": 1792846848.5413253,
@@ -297,18 +296,13 @@
   "03d68817c25c5b00": 1793102447.7413983,
   "9428ce869e6c633f": 1793102447.7413983,
   "d8d253a573d38c42": 1793104239.4598649,
-  "e9808bab0199e5d7": 1793104239.4598649
+  "e9808bab0199e5d7": 1793104239.4598649,
+  "2fc2a3450b01d71f": 1793105790.9787142,
+  "184e6e9bf67666b7": 1793105790.9787142,
+  "6f33775eed534cb7": 1793105790.9787142,
+  "7570f780c99986f3": 1793105790.9787142
  },
  "queue": [
-  {
-   "id": "74c95f962e2e2d8b",
-   "cfg": "vmess://eyJhZGQiOiAiZGFzaGJvYXJkLm9qZXN0b3JlLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZWY4NTAyYjctOWI0NS00NTM3LTkzNmQtZDNhZjAxZGVlMmUzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTM4MSIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
-   "ping": 540,
-   "best": 535,
-   "score": 93,
-   "stability": 100,
-   "ts": 1793100638.097825
-  },
   {
    "id": "c409b73c6cb745bf",
    "cfg": "vless://f73538f3-737d-41d8-b1e7-8a6bd8d2e7c0@nl1.cleanset.net:45821?security=reality&encryption=none&pbk=RymFn9pFlHaMQpps5joHsmg0fOeWcaQiMOLR5IIfuWY&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🔵@chillguy_vpn",
@@ -437,16 +431,6 @@
   }
  ],
  "posted": {
-  "a41ddc04cdeaaf00": {
-   "cfg": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.252.177.216:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&security=reality&sid=9ea74b83f4993ca9&sni=est-1.ardesnode.ru&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1665,
-   "ts": 1791710741.137774,
-   "ping": 352,
-   "score": 95,
-   "stability": 100,
-   "country": "Estonia",
-   "repost_count": 0
-  },
   "b50b57428d6e83a6": {
    "cfg": "vless://b1936288-a353-4ff1-89b3-edaead599c6b@144.31.165.102:443?security=reality&encryption=none&pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=5347d9d0b588c111#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1666,
@@ -4384,6 +4368,16 @@
    "stability": 100,
    "country": "Hong Kong",
    "repost_count": 0
+  },
+  "2fc2a3450b01d71f": {
+   "cfg": "vless://4b1be712-774c-4b65-8491-a3339e124a70@tr2.tv-quoralyx.top:443?security=reality&encryption=none&pbk=w0yEuw7sPMCEwk9_vDVoqjBhJsGoPvR7TsxIZVJy3iw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tr2.tv-quoralyx.top&sid=f4b2a12c#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2174,
+   "ts": 1793105823.5456824,
+   "ping": 560,
+   "score": 93,
+   "stability": 100,
+   "country": "Turkey",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -6107,13 +6101,18 @@
    "cc": "HK",
    "name": "Hong Kong",
    "ts": 1793104300.5157032
+  },
+  "tr2.tv-quoralyx.top": {
+   "cc": "TR",
+   "name": "Turkey",
+   "ts": 1793105822.7057946
   }
  },
  "stats": {
   "date": "2026-10-27",
-  "fetched": 83,
-  "healthy": 37,
-  "posted": 18,
+  "fetched": 87,
+  "healthy": 38,
+  "posted": 19,
   "removed": 1,
   "published_scores": [
    99,
@@ -6133,11 +6132,12 @@
    93,
    95,
    96,
-   92
+   92,
+   93
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793104239.4510155,
+ "last_auto_post": 1793105790.9700472,
  "last_auto_clean": 1793098871.7775707,
  "admin_settings": {},
  "telegram_update_offset": 690561707
