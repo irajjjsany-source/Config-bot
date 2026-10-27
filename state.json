@@ -286,15 +286,6 @@
  },
  "queue": [
   {
-   "id": "b72c3c9f6fc4c119",
-   "cfg": "vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=&fp=chrome&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#🔵@chillguy_vpn",
-   "ping": 486,
-   "best": 363,
-   "score": 94,
-   "stability": 100,
-   "ts": 1793076328.5361156
-  },
-  {
    "id": "b57d83a059a4295b",
    "cfg": "vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@5.42.99.64:8443?security=reality&encryption=none&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=du-rov.secureservice.top&sid=3cbc3d737fb9c4af#🔵@chillguy_vpn",
    "ping": 641,
@@ -314,16 +305,6 @@
   }
  ],
  "posted": {
-  "9b46366ad4c83be0": {
-   "cfg": "vless://bb82fa3c-7577-4f82-af5e-d06d2807841a@172.67.157.131:2086?&type=ws&headerType=none&host=tewktcy0e7mb0wc47ybk30sk7p.huj9yyse8zu72oohdcsvt-z4tuagwvh.workers.dev&path=%2Fvl%2FjDpXgGS8AmFwKNmh3yevSr54%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1658,
-   "ts": 1791704463.5502234,
-   "ping": 68,
-   "score": 99,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
-  },
   "6dceff6bb8b19798": {
    "cfg": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@188.253.26.216:443?security=reality&encryption=none&pbk=noszGxmy754-TNyz9eM8EyHiaCRF2T4cu3El6GKb6n0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl3.nztvpn.com&sid=0da7e14db353e7d0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1659,
@@ -4261,6 +4242,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "b72c3c9f6fc4c119": {
+   "cfg": "vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=&fp=chrome&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2165,
+   "ts": 1793091195.2509696,
+   "ping": 346,
+   "score": 96,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5949,13 +5940,18 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1793089844.0211673
+  },
+  "2.27.118.10": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1793091194.71299
   }
  },
  "stats": {
   "date": "2026-10-27",
   "fetched": 35,
   "healthy": 14,
-  "posted": 10,
+  "posted": 11,
   "removed": 0,
   "published_scores": [
    99,
@@ -5967,11 +5963,12 @@
    96,
    95,
    99,
-   94
+   94,
+   96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793089839.773705,
+ "last_auto_post": 1793091191.7083354,
  "last_auto_clean": 1793076361.8829775,
  "admin_settings": {},
  "telegram_update_offset": 690561707
