@@ -286,7 +286,14 @@
   "5809eab6146ce711": 1793092527.5920858,
   "af46271e0a09c8a9": 1793092527.5920858,
   "acab940ddcacc586": 1793092527.5920858,
-  "8d222ce37c7489df": 1793092527.5920858
+  "8d222ce37c7489df": 1793092527.5920858,
+  "f3f7e090b5c6b76e": 1793095246.963261,
+  "eb9a61bf07919210": 1793095246.963261,
+  "9b0ed29340095ff1": 1793095246.963261,
+  "6ce180c984879976": 1793095246.963261,
+  "a4c87eb775babbae": 1793095246.963261,
+  "d662239a90644023": 1793095246.963261,
+  "811b84e6bccbbd8d": 1793095246.963261
  },
  "queue": [
   {
@@ -327,16 +334,6 @@
   }
  ],
  "posted": {
-  "02f1c424b978a072": {
-   "cfg": "vless://b1936288-a353-4ff1-89b3-edaead599c6b@144.31.165.102:443?security=reality&encryption=none&pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=5347d9d0b588c111#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1660,
-   "ts": 1791705860.6100028,
-   "ping": 359,
-   "score": 95,
-   "stability": 100,
-   "country": "Germany",
-   "repost_count": 0
-  },
   "293849eb0b5f2358": {
    "cfg": "vless://d0387fbc-299b-4a4e-bbc4-4fa6a26d0db5@libraries.pylib.workers.dev:443?encryption=none&security=tls&sni=libraries.pylib.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=libraries.pylib.workers.dev&path=%2F%40AzarAndoozVPNbot#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1661,
@@ -4274,6 +4271,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "811b84e6bccbbd8d": {
+   "cfg": "vless://a715374a-a745-4800-889b-0c864fad5ca0@212.103.62.233:443?security=reality&encryption=none&pbk=d9PiZnm10DBNrlT1ixDCgEk0iU1Hv8Jk1xEI4-Oe6jU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=35d45334668b3ac5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2167,
+   "ts": 1793095258.4625065,
+   "ping": 155,
+   "score": 98,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5977,13 +5984,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1793093455.2996414
+  },
+  "212.103.62.233": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1793095257.8649387
   }
  },
  "stats": {
   "date": "2026-10-27",
-  "fetched": 39,
-  "healthy": 17,
-  "posted": 12,
+  "fetched": 46,
+  "healthy": 18,
+  "posted": 13,
   "removed": 0,
   "published_scores": [
    99,
@@ -5997,11 +6009,12 @@
    99,
    94,
    96,
-   96
+   96,
+   98
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793093451.928521,
+ "last_auto_post": 1793095246.9486942,
  "last_auto_clean": 1793076361.8829775,
  "admin_settings": {},
  "telegram_update_offset": 690561707
