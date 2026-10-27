@@ -283,17 +283,19 @@
   "0c9e1a8e15a2d0da": 1793076328.5361156,
   "f4439b3f10da13e8": 1793076328.5361156,
   "d2d0926ca0a22326": 1793076328.5361156,
-  "ee6800c9d0d4cb0b": 1793076328.5361156
+  "ee6800c9d0d4cb0b": 1793076328.5361156,
+  "3a334857e1dd8afe": 1793077243.9142096,
+  "9a9bd33ea62d4c7b": 1793077243.9142096
  },
  "queue": [
   {
-   "id": "d2d0926ca0a22326",
-   "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjE1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1NmQ4ZWViZi1lY2YzLTQ5MGYtODNkZi1iMDI3MTU1YzljNGIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIxMzY2OCIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
-   "ping": 230,
-   "best": 228,
+   "id": "3a334857e1dd8afe",
+   "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiMTcyLjY2LjAuMjUxIiwgImlkIjogIjhhOWFhYTcwLWNlZDktMTFmMS1iOTM0LTIwNWM2ZDVmNWQ3OCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84NzBhbzI2ZiIsICJwY3MiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
+   "ping": 237,
+   "best": 211,
    "score": 97,
    "stability": 100,
-   "ts": 1793076328.5361156
+   "ts": 1793077243.9142096
   },
   {
    "id": "bfcc8c3824bf9893",
@@ -4281,6 +4283,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "d2d0926ca0a22326": {
+   "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjE1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1NmQ4ZWViZi1lY2YzLTQ5MGYtODNkZi1iMDI3MTU1YzljNGIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIxMzY2OCIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "msg": 2154,
+   "ts": 1793077257.1830711,
+   "ping": 172,
+   "score": 98,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -5953,16 +5965,17 @@
  },
  "stats": {
   "date": "2026-10-27",
-  "fetched": 23,
-  "healthy": 9,
-  "posted": 1,
+  "fetched": 25,
+  "healthy": 10,
+  "posted": 2,
   "removed": 0,
   "published_scores": [
-   99
+   99,
+   98
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793076328.530678,
+ "last_auto_post": 1793077243.9050875,
  "last_auto_clean": 1793076361.8829775,
  "admin_settings": {},
  "telegram_update_offset": 690561707
