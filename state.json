@@ -1,7 +1,5 @@
 {
  "seen": {
-  "1a1a400e54ad6702": 1792852241.8064454,
-  "612837989eb070f9": 1792852241.8064454,
   "96b53120b5cda7f8": 1792854564.7607408,
   "aed7e7d73aaf87da": 1792854564.7607408,
   "73b6c8af81952721": 1792854564.7607408,
@@ -306,7 +304,13 @@
   "bb86e7b701c172de": 1793109652.3742993,
   "5496539af3204a97": 1793109652.3742993,
   "89e734bc7e8fcbbd": 1793109652.3742993,
-  "b751b1ad445c70ee": 1793111183.8944168
+  "b751b1ad445c70ee": 1793111183.8944168,
+  "c4ff4925f5244a10": 1793112333.3538766,
+  "8b1ed42c4b574ea6": 1793112333.3538766,
+  "c9d3692446ba8d51": 1793112333.3538766,
+  "1157e465c639b47a": 1793112333.3538766,
+  "29bc0534b35c1903": 1793112333.3538766,
+  "7978dbf7a7f84fb7": 1793112333.3538766
  },
  "queue": [
   {
@@ -418,6 +422,15 @@
    "ts": 1793109652.3742993
   },
   {
+   "id": "c9d3692446ba8d51",
+   "cfg": "vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.160:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&security=reality&sid=88d9dc52ef39c8bd&sni=node-slo05.rkitman.ru&type=tcp#🔵@chillguy_vpn",
+   "ping": 474,
+   "best": 465,
+   "score": 94,
+   "stability": 100,
+   "ts": 1793112333.3538766
+  },
+  {
    "id": "b751b1ad445c70ee",
    "cfg": "vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
    "ping": 508,
@@ -499,6 +512,15 @@
    "ts": 1793102447.7413983
   },
   {
+   "id": "c4ff4925f5244a10",
+   "cfg": "vless://086bf957-9cd0-4e55-8280-bbef10435b41@161.97.66.16:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=086bf957#🔵@chillguy_vpn",
+   "ping": 796,
+   "best": 471,
+   "score": 90,
+   "stability": 100,
+   "ts": 1793112333.3538766
+  },
+  {
    "id": "03d8271e3db772a0",
    "cfg": "vmess://eyJhZGQiOiAiZGFzaGJvYXJkLm9qZWRhdGEudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlZjg1MDJiNy05YjQ1LTQ1MzctOTM2ZC1kM2FmMDFkZWUyZTMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1MzgyIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
    "ping": 821,
@@ -563,16 +585,6 @@
   }
  ],
  "posted": {
-  "d0e790c05aa495d8": {
-   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1670,
-   "ts": 1791715197.2501957,
-   "ping": 167,
-   "score": 98,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
-  },
   "903617083cf013bb": {
    "cfg": "vless://16c7b7fa-153e-4c7c-851d-9857bcab48ad@188.114.98.0:8880?encryption=none&security=none&type=ws&host=kh8.javanrooo.ir&path=%2F%3Fed%3D2560#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1671,
@@ -4510,6 +4522,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "1157e465c639b47a": {
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2179,
+   "ts": 1793112350.9738111,
+   "ping": 344,
+   "score": 96,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -6253,13 +6275,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1793109699.192155
+  },
+  "51.158.206.19": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1793112350.2609627
   }
  },
  "stats": {
   "date": "2026-10-27",
-  "fetched": 110,
-  "healthy": 57,
-  "posted": 23,
+  "fetched": 116,
+  "healthy": 60,
+  "posted": 24,
   "removed": 1,
   "published_scores": [
    99,
@@ -6284,11 +6311,12 @@
    95,
    91,
    94,
-   94
+   94,
+   96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793111183.8722677,
+ "last_auto_post": 1793112333.341445,
  "last_auto_clean": 1793098871.7775707,
  "admin_settings": {},
  "telegram_update_offset": 690561707
