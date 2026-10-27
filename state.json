@@ -5972,6 +5972,11 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1793092540.0991268
+  },
+  "www.gptcloudai.com": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1793093455.2996414
   }
  },
  "stats": {
@@ -5996,7 +6001,7 @@
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793092527.5835865,
+ "last_auto_post": 1793093451.928521,
  "last_auto_clean": 1793076361.8829775,
  "admin_settings": {},
  "telegram_update_offset": 690561707
