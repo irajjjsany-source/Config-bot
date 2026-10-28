@@ -361,18 +361,14 @@
   "38c755146a9e7531": 1793172355.47891,
   "ae0bc6fac54b1029": 1793172355.47891,
   "6f3c81d7b4bc6e9e": 1793172355.47891,
-  "f1d12ee1b54604eb": 1793172355.47891
+  "f1d12ee1b54604eb": 1793172355.47891,
+  "6a6c88bfe28bdd20": 1793173535.4040928,
+  "ac94dd720fd31c2f": 1793173535.4040928,
+  "4ddc9bf107e6e6d8": 1793173535.4040928,
+  "db606b506d723d27": 1793173535.4040928,
+  "66706565c5476773": 1793173535.4040928
  },
  "queue": [
-  {
-   "id": "966d47407aa55f4f",
-   "cfg": "vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
-   "ping": 136,
-   "best": 134,
-   "score": 98,
-   "stability": 100,
-   "ts": 1793167248.2226098
-  },
   {
    "id": "52a6ee34faf7b81a",
    "cfg": "vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🔵@chillguy_vpn",
@@ -543,6 +539,33 @@
    "score": 94,
    "stability": 100,
    "ts": 1793163649.4358025
+  },
+  {
+   "id": "6a6c88bfe28bdd20",
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🔵@chillguy_vpn",
+   "ping": 453,
+   "best": 449,
+   "score": 94,
+   "stability": 100,
+   "ts": 1793173535.4040928
+  },
+  {
+   "id": "4ddc9bf107e6e6d8",
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 456,
+   "best": 449,
+   "score": 94,
+   "stability": 100,
+   "ts": 1793173535.4040928
+  },
+  {
+   "id": "ac94dd720fd31c2f",
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#🔵@chillguy_vpn",
+   "ping": 459,
+   "best": 447,
+   "score": 94,
+   "stability": 100,
+   "ts": 1793173535.4040928
   },
   {
    "id": "fa8ee8cea629f945",
@@ -743,6 +766,15 @@
    "ts": 1793163649.4358025
   },
   {
+   "id": "66706565c5476773",
+   "cfg": "vless://ad0fe7ae-3f8b-4586-b692-ca115e4a137f@edge-pl01.onvanet.com:443?security=reality&encryption=none&pbk=Mz9CMB-ETb9PDYuXgE5ze5Qner6pcNWu_Uur3bzKAU0&headerType=none&fp=chrome&type=tcp&sni=googleapis.com&sid=1acae32041107991#🔵@chillguy_vpn",
+   "ping": 810,
+   "best": 590,
+   "score": 89,
+   "stability": 100,
+   "ts": 1793173535.4040928
+  },
+  {
    "id": "93086c8a533ef7b6",
    "cfg": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rusbid.de&fp=firefox&security=reality&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&sid=#🔵@chillguy_vpn",
    "ping": 956,
@@ -786,6 +818,15 @@
    "score": 79,
    "stability": 100,
    "ts": 1793167248.2226098
+  },
+  {
+   "id": "db606b506d723d27",
+   "cfg": "vless://ad0fe7ae-3f8b-4586-b692-ca115e4a137f@static.tevnaro.ir:443?security=reality&encryption=none&pbk=RVqny9xY821kUGqKQMzAWHeWjt_OrYw2Hn5poqH0lAs&headerType=none&fp=chrome&type=tcp&sni=ai.android&sid=6318bc577da67e29#🔵@chillguy_vpn",
+   "ping": 1600,
+   "best": 992,
+   "score": 79,
+   "stability": 100,
+   "ts": 1793173535.4040928
   },
   {
    "id": "0acb68e16ca8cc62",
@@ -843,16 +884,6 @@
   }
  ],
  "posted": {
-  "a0b0f98624a3be3b": {
-   "cfg": "vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site&sid=00000000#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1693,
-   "ts": 1791908145.108824,
-   "ping": 702,
-   "score": 91,
-   "stability": 100,
-   "country": "The Netherlands",
-   "repost_count": 0
-  },
   "50eac4b6abf44f60": {
    "cfg": "vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@2.26.89.14:443?security=reality&encryption=none&pbk=fyG6EMB247gGPXLK1YqvbWd_Q9fnoMWkbmGfG1BRJUE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=assets-ms-33.ecom-ai-solutions.com&sid=c90408131c6d00b0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1694,
@@ -4786,6 +4817,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "966d47407aa55f4f": {
+   "cfg": "vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "msg": 2204,
+   "ts": 1793173562.4535668,
+   "ping": 1595,
+   "score": 79,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -6583,9 +6624,9 @@
  },
  "stats": {
   "date": "2026-10-28",
-  "fetched": 85,
-  "healthy": 61,
-  "posted": 7,
+  "fetched": 90,
+  "healthy": 66,
+  "posted": 8,
   "removed": 0,
   "published_scores": [
    87,
@@ -6594,11 +6635,12 @@
    95,
    99,
    77,
-   99
+   99,
+   79
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793172355.4710295,
+ "last_auto_post": 1793173535.394494,
  "last_auto_clean": 1793163795.8794522,
  "admin_settings": {},
  "telegram_update_offset": 690561707
