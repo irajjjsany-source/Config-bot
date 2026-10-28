@@ -1,6 +1,5 @@
 {
  "seen": {
-  "bfe238362478c2f7": 1792924238.8925405,
   "f7cead84751656e6": 1792926012.741781,
   "ee6eb2a98eca3eb0": 1792926012.741781,
   "083895977eb19089": 1792926012.741781,
@@ -383,18 +382,13 @@
   "2bb431d2e73dcdb3": 1793181485.5407166,
   "18b690109f514e71": 1793181485.5407166,
   "91aaf5d5f3d5efad": 1793182533.49566,
-  "46e409e1b8f51209": 1793182533.49566
+  "46e409e1b8f51209": 1793182533.49566,
+  "fbe9fac9f428e181": 1793183442.4625752,
+  "b6549e7d49a94f33": 1793183442.4625752,
+  "baf01dddb7633e27": 1793183442.4625752,
+  "049f672eb653eca0": 1793183442.4625752
  },
  "queue": [
-  {
-   "id": "f2c947e97d8b3b56",
-   "cfg": "vless://4b1be712-774c-4b65-8491-a3339e124a70@node-usa.blok-signalon.top:443?flow=xtls-rprx-vision&fp=firefox&pbk=aZDDxJRwRH2J4FPtoIr7DmOvpQPh9sbGbvV-NpVpfms&security=reality&sid=336c2cff6e3717c4&sni=node-usa.blok-signalon.top&type=tcp#🔵@chillguy_vpn",
-   "ping": 258,
-   "best": 219,
-   "score": 97,
-   "stability": 100,
-   "ts": 1793163649.4358025
-  },
   {
    "id": "065f52de970adf8b",
    "cfg": "vmess://eyJhZGQiOiAiODIuNDAuNjIuMTcwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI2OGIyNjQ3MS02MjUyLTQ5ZjAtOWIyMy0wZWI1MTkxZDRlYTgiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
@@ -864,6 +858,15 @@
    "ts": 1793163649.4358025
   },
   {
+   "id": "b6549e7d49a94f33",
+   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#🔵@chillguy_vpn",
+   "ping": 691,
+   "best": 660,
+   "score": 91,
+   "stability": 100,
+   "ts": 1793183442.4625752
+  },
+  {
    "id": "f1fa559b243fac78",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=MTMVPN&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🔵@chillguy_vpn",
    "ping": 736,
@@ -952,6 +955,15 @@
    "score": 85,
    "stability": 100,
    "ts": 1793163649.4358025
+  },
+  {
+   "id": "baf01dddb7633e27",
+   "cfg": "vless://6c713691-3ca2-002b-ad25-113d1bed6b03@nl1.fluxorvpn.net:8443?mode=gun&security=reality&encryption=none&pbk=86EUYgrS7mazQ-GsiMnStyHSx9AlG8B_-KgXluNdWXI&fp=chrome&type=grpc&serviceName=google.storage.v2.Storage&sni=strm.yandex.net&sid=d3ab13e9c496c399#🔵@chillguy_vpn",
+   "ping": 1147,
+   "best": 855,
+   "score": 85,
+   "stability": 100,
+   "ts": 1793183442.4625752
   },
   {
    "id": "2bb431d2e73dcdb3",
@@ -1054,16 +1066,6 @@
   }
  ],
  "posted": {
-  "a124ab766a1729da": {
-   "cfg": "vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@80.209.237.144:443?encryption=none&fp=&pbk=MbRONgV8ADD5B_aKDBv15LAW2a8QZok5bkkZexRRVAs&security=reality&sid=2301ac8aee8bf6d4&sni=b58e68t.lt1.h1clayd.click&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1701,
-   "ts": 1791912654.0386317,
-   "ping": 443,
-   "score": 94,
-   "stability": 100,
-   "country": "Lithuania",
-   "repost_count": 0
-  },
   "f7d65ad905ae98d1": {
    "cfg": "vless://6db6b948-655f-4f68-a9e7-865050e05b31@lineartronic-iii.subaru-volga.com:443?security=reality&encryption=none&pbk=HGQg7VrNlEhfOEjLR1LNeBZaVJg-J1f4DhxqOp-orjA&headerType=none&fp=random&type=tcp&sni=lineartronic-iii.subaru-volga.com&sid=6facda#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1702,
@@ -4997,6 +4999,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "f2c947e97d8b3b56": {
+   "cfg": "vless://4b1be712-774c-4b65-8491-a3339e124a70@node-usa.blok-signalon.top:443?flow=xtls-rprx-vision&fp=firefox&pbk=aZDDxJRwRH2J4FPtoIr7DmOvpQPh9sbGbvV-NpVpfms&security=reality&sid=336c2cff6e3717c4&sni=node-usa.blok-signalon.top&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2213,
+   "ts": 1793183462.1663458,
+   "ping": 205,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -6815,13 +6827,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1793182536.3629403
+  },
+  "node-usa.blok-signalon.top": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1793183461.5104203
   }
  },
  "stats": {
   "date": "2026-10-28",
-  "fetched": 121,
-  "healthy": 95,
-  "posted": 15,
+  "fetched": 125,
+  "healthy": 97,
+  "posted": 16,
   "removed": 0,
   "published_scores": [
    87,
@@ -6838,11 +6855,12 @@
    99,
    99,
    97,
-   98
+   98,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793182533.485904,
+ "last_auto_post": 1793183442.4547174,
  "last_auto_clean": 1793163795.8794522,
  "admin_settings": {},
  "telegram_update_offset": 690561707
