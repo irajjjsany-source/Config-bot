@@ -483,18 +483,10 @@
   "01dd429436a3c46f": 1793269841.3632088,
   "088f824a40077665": 1793269841.3632088,
   "bdbec64d982179d9": 1793269841.3632088,
-  "62685848170cba34": 1793269841.3632088
+  "62685848170cba34": 1793269841.3632088,
+  "7993cad78030677a": 1793271651.5864937
  },
  "queue": [
-  {
-   "id": "98a8bd2c0c847e88",
-   "cfg": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sid=83f8317a948bb769#🔵@chillguy_vpn",
-   "ping": 153,
-   "best": 146,
-   "score": 98,
-   "stability": 100,
-   "ts": 1793264451.4022179
-  },
   {
    "id": "4bf3608cdb0f8f5b",
    "cfg": "vless://9e811e76-dd3c-4633-a45c-019b5f325376@xray1-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&host=Copy_Shode_az_Chanel0111Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#🔵@chillguy_vpn",
@@ -776,16 +768,6 @@
   }
  ],
  "posted": {
-  "e9aa18ef440e0c79": {
-   "cfg": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?flow=&type=ws&host=snip.edgeoneai.cc.cd&path=/?Telegram---DailyConfigs---DailyConfigs---DailyConfigs&security=tls&sni=snip.edgeoneai.cc.cd&alpn=http/1.1&fp=chrome&echcl=cloudflare-ech.com+udp://1.1.1.1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1719,
-   "ts": 1791922982.554716,
-   "ping": 101,
-   "score": 99,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
-  },
   "eaa00bb164f3f3c9": {
    "cfg": "vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@d0c5.khovanski.mom:443?security=reality&encryption=none&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=d0c5.khovanski.mom&sid=fb442438e2223836#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1720,
@@ -4711,6 +4693,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "98a8bd2c0c847e88": {
+   "cfg": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sid=83f8317a948bb769#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2242,
+   "ts": 1793271658.4045084,
+   "ping": 156,
+   "score": 98,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -6598,19 +6590,20 @@
  },
  "stats": {
   "date": "2026-10-29",
-  "fetched": 65,
+  "fetched": 66,
   "healthy": 36,
-  "posted": 6,
+  "posted": 7,
   "removed": 1,
   "published_scores": [
    99,
    62,
    99,
-   100
+   100,
+   98
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793269841.353812,
+ "last_auto_post": 1793271651.579178,
  "last_auto_clean": 1793264531.5943336,
  "admin_settings": {},
  "telegram_update_offset": 690561707
