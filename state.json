@@ -524,9 +524,47 @@
   "145827db8becb323": 1793286050.148354,
   "e7578e741b44d883": 1793286050.148354,
   "71519e1f0cbc2f19": 1793286050.148354,
-  "6a7cdbe71cc7641c": 1793286050.148354
+  "6a7cdbe71cc7641c": 1793286050.148354,
+  "767b464c918aeb06": 1793287841.7138944,
+  "e66e6c862c6908f8": 1793287841.7138944,
+  "81749fee6e00973f": 1793287841.7138944,
+  "ae1443397e925e70": 1793287841.7138944,
+  "3f88c87fc566fac9": 1793287841.7138944,
+  "a0fbbbcd1d9dbb40": 1793287841.7138944,
+  "ca8346e1d2602e03": 1793287841.7138944,
+  "6e43f644f95437b5": 1793287841.7138944,
+  "6b2ac26f4d1a7950": 1793287841.7138944,
+  "d20b911df9958996": 1793287841.7138944,
+  "d2fad2bafab7cbfe": 1793287841.7138944,
+  "1f72fb9c2222105c": 1793287841.7138944,
+  "8a948ef09b12a141": 1793287841.7138944,
+  "1363373a5dc00b45": 1793287841.7138944,
+  "1582caaefef70f06": 1793287841.7138944,
+  "eac0c9b7e657a75a": 1793287841.7138944,
+  "499c74978cf0836c": 1793287841.7138944,
+  "8da44c6d714ce406": 1793287841.7138944,
+  "a39d599bd460341f": 1793287841.7138944,
+  "84b68e4640b0b0cf": 1793287841.7138944
  },
  "queue": [
+  {
+   "id": "6e43f644f95437b5",
+   "cfg": "vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:2096?path=%2Fp&security=tls&encryption=none&insecure=0&host=vp8.1145678.xyz&fp=chrome&type=ws&allowInsecure=0&sni=vp8.1145678.xyz#🔵@chillguy_vpn",
+   "ping": 281,
+   "best": 233,
+   "score": 96,
+   "stability": 100,
+   "ts": 1793287841.7138944
+  },
+  {
+   "id": "d20b911df9958996",
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🔵@chillguy_vpn",
+   "ping": 360,
+   "best": 353,
+   "score": 95,
+   "stability": 100,
+   "ts": 1793287841.7138944
+  },
   {
    "id": "68bfe4cdecc287ad",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🔵@chillguy_vpn",
@@ -537,15 +575,6 @@
    "ts": 1793286050.148354
   },
   {
-   "id": "46a94e13aaffd58c",
-   "cfg": "vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#🔵@chillguy_vpn",
-   "ping": 477,
-   "best": 439,
-   "score": 94,
-   "stability": 100,
-   "ts": 1793264451.4022179
-  },
-  {
    "id": "0fc9d8a190809e20",
    "cfg": "vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?path=%2Fws&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=indigostar.click#🔵@chillguy_vpn",
    "ping": 513,
@@ -553,15 +582,6 @@
    "score": 93,
    "stability": 100,
    "ts": 1793280642.372721
-  },
-  {
-   "id": "a04237af6ba17cd3",
-   "cfg": "vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?mode=gun&security=reality&encryption=none&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&fp=chrome&type=grpc&serviceName=grpc_common3&sni=www.sony.com&sid=2fed44d8c59f7e71#🔵@chillguy_vpn",
-   "ping": 521,
-   "best": 515,
-   "score": 93,
-   "stability": 100,
-   "ts": 1793264451.4022179
   },
   {
    "id": "96d3df0ec652ff55",
@@ -582,22 +602,22 @@
    "ts": 1793268048.143223
   },
   {
-   "id": "a19871a0dcc681cf",
-   "cfg": "vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#🔵@chillguy_vpn",
-   "ping": 590,
-   "best": 485,
+   "id": "1363373a5dc00b45",
+   "cfg": "vless://3a24f714-5585-4103-9291-6ae21f11c10d@rurbsnd.zelmuro.ir:19238?mode=auto&path=%2F&security=reality&encryption=none&pbk=W_0O5fiA1zi8nXHksSKSTLzwLPyjECWNES5-gDAbQRY&fp=ios&type=xhttp&sni=play.google.com&sid=197fe3f584bc15f3#🔵@chillguy_vpn",
+   "ping": 612,
+   "best": 489,
    "score": 92,
    "stability": 100,
-   "ts": 1793264451.4022179
+   "ts": 1793287841.7138944
   },
   {
-   "id": "05ac86536807cc10",
-   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🔵@chillguy_vpn",
-   "ping": 601,
-   "best": 457,
+   "id": "81749fee6e00973f",
+   "cfg": "vless://d7a6e04d-0790-4243-8154-2b96a0376dbc@95.182.85.130:442?encryption=mlkem768x25519plus.native.0rtt.UMndMtqVw1uOW4VojMVrmBn2vQY_T6CMc4DbH8A_i24&host=95.182.85.130&path=%2F&security=none&type=ws#🔵@chillguy_vpn",
+   "ping": 615,
+   "best": 609,
    "score": 92,
    "stability": 100,
-   "ts": 1793264451.4022179
+   "ts": 1793287841.7138944
   },
   {
    "id": "7df76a7b608291d3",
@@ -618,15 +638,6 @@
    "ts": 1793266243.2214305
   },
   {
-   "id": "4a1dd48d4a4f4828",
-   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&spx=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🔵@chillguy_vpn",
-   "ping": 660,
-   "best": 510,
-   "score": 91,
-   "stability": 100,
-   "ts": 1793264451.4022179
-  },
-  {
    "id": "35fbee96ae35e85d",
    "cfg": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zoom.us&fp=random&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&sid=5a42dbd7e26a0415&type=tcp&headerType=none&host=zoom.us#🔵@chillguy_vpn",
    "ping": 692,
@@ -634,6 +645,15 @@
    "score": 91,
    "stability": 100,
    "ts": 1793266243.2214305
+  },
+  {
+   "id": "84b68e4640b0b0cf",
+   "cfg": "vless://c54eed9d-4039-4dc5-b68f-3059e2b3325e@xn-fn-c.rzfp.ir:8880?encryption=none&security=reality&type=tcp&headerType=none&path=%2F&sni=nobitex.ir&fp=edge&pbk=ZfP-KT8t5i8g6jDylAgdUkEZe-b-ozzAG8UEZDHn0hc&sid=377d#🔵@chillguy_vpn",
+   "ping": 702,
+   "best": 653,
+   "score": 91,
+   "stability": 100,
+   "ts": 1793287841.7138944
   },
   {
    "id": "a0b0f98624a3be3b",
@@ -645,13 +665,22 @@
    "ts": 1793280642.372721
   },
   {
-   "id": "6bb8566574052451",
-   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#🔵@chillguy_vpn",
-   "ping": 829,
-   "best": 723,
+   "id": "eac0c9b7e657a75a",
+   "cfg": "vless://3a24f714-5585-4103-9291-6ae21f11c10d@orovxe.varqino.ir:20891?mode=auto&path=%2F&security=reality&encryption=none&pbk=W_0O5fiA1zi8nXHksSKSTLzwLPyjECWNES5-gDAbQRY&fp=ios&type=xhttp&sni=play.google.com&sid=197fe3f584bc15f3#🔵@chillguy_vpn",
+   "ping": 797,
+   "best": 671,
+   "score": 90,
+   "stability": 100,
+   "ts": 1793287841.7138944
+  },
+  {
+   "id": "499c74978cf0836c",
+   "cfg": "vless://3a24f714-5585-4103-9291-6ae21f11c10d@qtavbvc.varqino.ir:52764?mode=auto&path=%2F&security=reality&encryption=none&pbk=W_0O5fiA1zi8nXHksSKSTLzwLPyjECWNES5-gDAbQRY&fp=ios&type=xhttp&sni=play.google.com&sid=197fe3f584bc15f3#🔵@chillguy_vpn",
+   "ping": 815,
+   "best": 631,
    "score": 89,
    "stability": 100,
-   "ts": 1793264451.4022179
+   "ts": 1793287841.7138944
   },
   {
    "id": "89cfbef4a2ebc10e",
@@ -672,13 +701,13 @@
    "ts": 1793266243.2214305
   },
   {
-   "id": "901e025ac894cf07",
-   "cfg": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@103.238.227.211:21002?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f0e6a8bb98db3efd#🔵@chillguy_vpn",
-   "ping": 851,
-   "best": 849,
+   "id": "e66e6c862c6908f8",
+   "cfg": "vless://d7a6e04d-0790-4243-8154-2b96a0376dbc@95.182.85.130:443?encryption=mlkem768x25519plus.native.0rtt.OSGmEYDi4WDJXjD94a9cbAiOFsBPwcSUsx0J-6TwlWQ&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=95.182.85.130&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#🔵@chillguy_vpn",
+   "ping": 853,
+   "best": 796,
    "score": 89,
    "stability": 100,
-   "ts": 1793264451.4022179
+   "ts": 1793287841.7138944
   },
   {
    "id": "ac05ef03523c6ff5",
@@ -735,6 +764,15 @@
    "ts": 1793275248.4625802
   },
   {
+   "id": "1f72fb9c2222105c",
+   "cfg": "vless://9fcb8080-1ad9-4a37-b92f-46be7053e39a@Ng1.istgahfilm.ir:8857?mode=auto&path=%2F&security=reality&encryption=none&pbk=0z13Oz2r2Khq0jHUgbPWxseVLoQTlFMuMDwL9a-X7yY&host=aparat.com&fp=chrome&spx=%2F&type=xhttp&sni=aparat.com&sid=37962ada43f6#🔵@chillguy_vpn",
+   "ping": 978,
+   "best": 854,
+   "score": 87,
+   "stability": 100,
+   "ts": 1793287841.7138944
+  },
+  {
    "id": "bdd29eeb0e775560",
    "cfg": "vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#🔵@chillguy_vpn",
    "ping": 1010,
@@ -751,6 +789,33 @@
    "score": 87,
    "stability": 100,
    "ts": 1793282450.5283582
+  },
+  {
+   "id": "ae1443397e925e70",
+   "cfg": "vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?encryption=none&security=reality&sni=delivery.mp.microsoft.com&fp=chrome&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&sid=d3feff5d570d6b&spx=%2Fa38e5cd3c84c243&type=tcp&headerType=none&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP#🔵@chillguy_vpn",
+   "ping": 1042,
+   "best": 1016,
+   "score": 86,
+   "stability": 100,
+   "ts": 1793287841.7138944
+  },
+  {
+   "id": "a0fbbbcd1d9dbb40",
+   "cfg": "vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?encryption=none&security=reality&sni=delivery.mp.microsoft.com&fp=chrome&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&sid=d3feff5d570d6b&spx=%2Fa38e5cd3c84c243&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🔵@chillguy_vpn",
+   "ping": 1049,
+   "best": 1036,
+   "score": 86,
+   "stability": 100,
+   "ts": 1793287841.7138944
+  },
+  {
+   "id": "3f88c87fc566fac9",
+   "cfg": "vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?encryption=none&security=reality&sni=delivery.mp.microsoft.com&fp=chrome&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&sid=d3feff5d570d6b&spx=%2Fa38e5cd3c84c243&type=tcp&headerType=none&host=%2F#🔵@chillguy_vpn",
+   "ping": 1055,
+   "best": 1044,
+   "score": 86,
+   "stability": 100,
+   "ts": 1793287841.7138944
   },
   {
    "id": "b0adf50b9d7e3307",
@@ -771,15 +836,6 @@
    "ts": 1793282450.5283582
   },
   {
-   "id": "e00cde973d53d4fa",
-   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🔵@chillguy_vpn",
-   "ping": 1131,
-   "best": 504,
-   "score": 85,
-   "stability": 100,
-   "ts": 1793264451.4022179
-  },
-  {
    "id": "1ba2f6f18b49d518",
    "cfg": "vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3&host=%2F%3FTelegram---Lent_Gc---Lent_Gc#🔵@chillguy_vpn",
    "ping": 1140,
@@ -787,24 +843,6 @@
    "score": 85,
    "stability": 100,
    "ts": 1793282450.5283582
-  },
-  {
-   "id": "30a2fc5b61ea7885",
-   "cfg": "vless://f9018277-8f50-4d15-8def-b3db9fa1e7a1@ang-el.ir:5515?security=reality&encryption=none&pbk=EO9fp0qjUoVP2ogAsQZOHF_1cvLIo30ndyw_vYAjcj4&headerType=none&fp=chrome&spx=%2F98dc0a0f2b95b25&type=tcp&flow=xtls-rprx-vision&sni=unicast.censurfridns.dk&sid=1aa0c89639#🔵@chillguy_vpn",
-   "ping": 1160,
-   "best": 1046,
-   "score": 85,
-   "stability": 100,
-   "ts": 1793264451.4022179
-  },
-  {
-   "id": "71217935da959521",
-   "cfg": "vless://ad3f4a0a-a89f-498e-9869-a93c8fa185b1@germany1.xorsand.eu:10105?security=reality&encryption=none&pbk=PFC3JN1er1JE2vAemwRhNjewz8I4NUWP4XHf2Dza4Es&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=12e321badd07906e#🔵@chillguy_vpn",
-   "ping": 1179,
-   "best": 443,
-   "score": 85,
-   "stability": 100,
-   "ts": 1793264451.4022179
   },
   {
    "id": "3c4baccfe464eb6d",
@@ -825,6 +863,15 @@
    "ts": 1793268048.143223
   },
   {
+   "id": "a39d599bd460341f",
+   "cfg": "vless://3a24f714-5585-4103-9291-6ae21f11c10d@wsfdje.hospitaldt.ir:15222?security=reality&encryption=none&pbk=W_0O5fiA1zi8nXHksSKSTLzwLPyjECWNES5-gDAbQRY&headerType=none&fp=ios&type=tcp&sni=www.aparat.com&sid=197fe3f584bc15f3#🔵@chillguy_vpn",
+   "ping": 1331,
+   "best": 1213,
+   "score": 83,
+   "stability": 100,
+   "ts": 1793287841.7138944
+  },
+  {
    "id": "624c38663eb9611d",
    "cfg": "vless://ad3f4a0a-a89f-498e-9869-a93c8fa185b1@91.107.179.0:10105?security=reality&encryption=none&pbk=PFC3JN1er1JE2vAemwRhNjewz8I4NUWP4XHf2Dza4Es&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=12e321badd07906e#🔵@chillguy_vpn",
    "ping": 1405,
@@ -841,6 +888,15 @@
    "score": 80,
    "stability": 100,
    "ts": 1793269841.3632088
+  },
+  {
+   "id": "8da44c6d714ce406",
+   "cfg": "vless://3a24f714-5585-4103-9291-6ae21f11c10d@dashboard.wingerdt.com:11147?security=reality&encryption=none&pbk=W_0O5fiA1zi8nXHksSKSTLzwLPyjECWNES5-gDAbQRY&headerType=none&fp=ios&type=tcp&sni=www.aparat.com&sid=197fe3f584bc15f3#🔵@chillguy_vpn",
+   "ping": 1746,
+   "best": 1112,
+   "score": 77,
+   "stability": 100,
+   "ts": 1793287841.7138944
   },
   {
    "id": "63b44ccb68a44842",
@@ -897,13 +953,13 @@
    "ts": 1793286050.148354
   },
   {
-   "id": "8a0e44464381a5d4",
-   "cfg": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21004?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=2f34703f16523c80#🔵@chillguy_vpn",
-   "ping": 2925,
-   "best": 1141,
-   "score": 62,
+   "id": "1582caaefef70f06",
+   "cfg": "vless://3a24f714-5585-4103-9291-6ae21f11c10d@opiugjk.nationalldt.com:45785?security=reality&encryption=none&pbk=W_0O5fiA1zi8nXHksSKSTLzwLPyjECWNES5-gDAbQRY&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=197fe3f584bc15f3#🔵@chillguy_vpn",
+   "ping": 3285,
+   "best": 2943,
+   "score": 57,
    "stability": 100,
-   "ts": 1793264451.4022179
+   "ts": 1793287841.7138944
   },
   {
    "id": "8598d2b418722ce9",
@@ -4863,6 +4919,16 @@
    "stability": 100,
    "country": "Mexico",
    "repost_count": 0
+  },
+  "d2fad2bafab7cbfe": {
+   "cfg": "vless://ce8fbdea-c3c3-4fb1-9658-32599d1f853f@45.152.192.229:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=reality&sni=8a11e6a89110.j.cloudfront.hls.ttvnw.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=61e21f9aa67aa1bf&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2251,
+   "ts": 1793287919.515013,
+   "ping": 116,
+   "score": 98,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -6770,9 +6836,9 @@
  },
  "stats": {
   "date": "2026-10-29",
-  "fetched": 106,
-  "healthy": 63,
-  "posted": 15,
+  "fetched": 126,
+  "healthy": 79,
+  "posted": 16,
   "removed": 2,
   "published_scores": [
    99,
@@ -6787,11 +6853,12 @@
    95,
    95,
    95,
-   97
+   97,
+   98
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793286050.1408212,
+ "last_auto_post": 1793287841.7061775,
  "last_auto_clean": 1793286933.3146937,
  "admin_settings": {},
  "telegram_update_offset": 690561707
