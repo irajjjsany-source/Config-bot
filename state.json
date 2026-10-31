@@ -1,7 +1,5 @@
 {
  "seen": {
-  "e805e19645c1913c": 1793169929.1900811,
-  "9117fbc91b886f55": 1793169929.1900811,
   "4f6a2932fc4fae90": 1793172355.47891,
   "5cab6bad38551d9e": 1793172355.47891,
   "56d254b01231d8f2": 1793172355.47891,
@@ -434,7 +432,11 @@
   "4b7009368daf3c3c": 1793428240.7158914,
   "8f01f497ad7d47ff": 1793428240.7158914,
   "8bc68d3b17cd2465": 1793428240.7158914,
-  "75efc4af10b604a0": 1793428240.7158914
+  "75efc4af10b604a0": 1793428240.7158914,
+  "88595981d7e6f918": 1793430046.9092767,
+  "e65df6e3559a2211": 1793430046.9092767,
+  "0bd0cb40d0673f48": 1793430046.9092767,
+  "97dd3db75d15ac54": 1793430046.9092767
  },
  "queue": [
   {
@@ -510,6 +512,15 @@
    "ts": 1793427330.6306381
   },
   {
+   "id": "e65df6e3559a2211",
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?type=tcp&security=reality&sni=fuck.rkn&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🔵@chillguy_vpn",
+   "ping": 259,
+   "best": 254,
+   "score": 97,
+   "stability": 100,
+   "ts": 1793430046.9092767
+  },
+  {
    "id": "4b7009368daf3c3c",
    "cfg": "vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?security=reality&encryption=none&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=29e8dcd2b37aaa7f#🔵@chillguy_vpn",
    "ping": 289,
@@ -553,6 +564,15 @@
    "score": 94,
    "stability": 100,
    "ts": 1793427330.6306381
+  },
+  {
+   "id": "88595981d7e6f918",
+   "cfg": "vless://1c245677-d025-4274-a952-853c8910bd22@195.26.26.227:2083?security=reality&encryption=none&pbk=UhO311zmzzy8iVwYmC6SR1lF0WbBntiDhYrbnJiNOgY&headerType=none&fp=chrome&spx=%2F55b5312360e8f95&type=tcp&sni=jabama.me&sid=f3def2e1f8a1#🔵@chillguy_vpn",
+   "ping": 439,
+   "best": 426,
+   "score": 94,
+   "stability": 100,
+   "ts": 1793430046.9092767
   },
   {
    "id": "20b9a5a32bae2f38",
@@ -625,6 +645,15 @@
    "score": 92,
    "stability": 100,
    "ts": 1793427330.6306381
+  },
+  {
+   "id": "0bd0cb40d0673f48",
+   "cfg": "vless://a6f263ad-2d3e-42c6-9584-ed80a5b1134d@GR.Private-Ai.IR:58300?security=reality&encryption=mlkem768x25519plus.native.0rtt.l8TDttlIMlrEXkJtX7wfuaItPjVrpjkKg8UJi0g8CafOKIgvcHJYnPxd1NtI9nwgABE2q9eIaLpzeuSxP3MsHbs3aIl4hGGDTKQhjKVaw5wXT8lVcIghpwBsbjItZGWx_7sEYsOqg8UHJlHP60ll1VmUU_YQ_EGzvXhBqcSJvKtr-AKCDpmIIkF0gbQwh6If6elkt2Oqr6PHOfQi-OcAZVgsKixUNchTL6TD2QnNbbtFZOute3TBOcNBBMuQC1KNmTVXJJATq3Y8Tzg9NtENbcOaT2Bl5fCAXWOsO2TOPZcoebV6dtGC5zR8Gxc22eUaeLlVhyonAUqCqtFCUZe6UxMjFAA5Y5RLqlFGH0QCAoFBjlUdGALEANJkBcxcR8KdydofB4Jon9ZX5GbE_xbAfUJjk-U9-6cJJBxwy6gg80DNspVLxGiQeYKKmYtwV9CJymp9YtUA1qPJa7dGMAcAs3NcoPW-2GZEwEGTGZxAlTm2OSKl_3Y6GdQzsou3iIfJSVeKHEOhJshx4hl1Q-JCWxRLDUBE6lE3aOWckZGxrNMFIEIgCtOhWlcwSuNZCoZOQ4iLILfOe5cfEEW8_RWiE8m16FpfCQhRomayY8hmvbip8zqguoJ_OkjGWcSKNddPxeJnOtwDy_ET-Lu-vmSkg7t5ewILG4kVkyvEXLygwZKbIVKcaKWdJvfCx6IwbRcReChbSnpERtE06GEDGzEc3dPC1ZiQj7ME_cuIlNpBL1dNvjKusBqFafmb0th-bZgZRUaJ60icm4NLcckGLWRFnjgyfIiLUAB7pcJ4aRxr43d2RQO2DXSFORItzmZNJ5RceWQtRycHFkYrbzQNv2w6SoWHERo5lAWLdGuBL-RzD3xH4TYq-CsPuHCCbKGt7dJ63XaqMlPFP6Bmf6J0sBDJfVmX7rgAK7qCM_EVPmQxpKukLze3hBKYJRp_qPJGaJOPeeWQUpgSsoeUETBgemw22xNwVVXPHZKV9ywsF_EfJ-c9CjJp0dy-xgcsh0KNzgPIe0slG-vM3wpBprTMmDw6p2ODPKWvkbfPowwqHKKq3rCEkliIllJHb-W-AzuH-bJn1fhpclobVjhV9DGJe0U68FyXX8mpulmY-tM4yyUUjQZyfVGBubGblADKOkdSIzyAd0csZBZTMLJohqhm3EOHR5VfGBVfcaVc25EKufJGnuNz70obqwc17uPNtSUAv7ML-aLBM5CbNmN1c4MHkvOrAwQrB2TMOPiRVFij2XK3rjmllTw1KxCy5uwVbOwv76Jg6lKt3rVdiPE5MUW0teYVlFTHxRyqCnsjj2oHWAJWgHoLXEpcVLsVmBSg_bB-tJlOvRtDmcou8Txs2SAFNlZ__4sKNgQFbAOZowCNM4ejiMyQAJmFljlG12Oyf5OUIiI5r5UYfSsQyxGb1oIuUfUUeeo0S9gDbXK1ujJX2GRVmJZhqTXAfyXB3ym77ilR3nFaOwqcQpximQxAmKyw1Ectd8M64ewsCYq9AXzMNKEoQdrALJhHK5VDXoG-Q2K_s6i-8wNL-SIowpiCsGx5ua0ireaUXoyvVqFotIW1clwbOGA&pbk=pv_PFRpAmvac9C9JtEoDiVAplQckvo6APb0H3DTFbF4&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=dynu.com&sid=b2bd97769cebf547#🔵@chillguy_vpn",
+   "ping": 624,
+   "best": 516,
+   "score": 92,
+   "stability": 100,
+   "ts": 1793430046.9092767
   },
   {
    "id": "ba7e4f6a42763beb",
@@ -727,16 +756,6 @@
   }
  ],
  "posted": {
-  "8ca9c721c010f5f3": {
-   "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@nl2.balancer.vbuste-bot.com:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nl2.balancer.vbuste-bot.com&sid=4be4110078ebed4a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1746,
-   "ts": 1791969348.5726507,
-   "ping": 3346,
-   "score": 57,
-   "stability": 100,
-   "country": "The Netherlands",
-   "repost_count": 0
-  },
   "11e2c2586b5a5635": {
    "cfg": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@nl2.balancer.vbuste-bot.com:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl2.balancer.vbuste-bot.com&sid=4be4110078ebed4a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1747,
@@ -4658,6 +4677,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "97dd3db75d15ac54": {
+   "cfg": "vmess://eyJhZGQiOiAiMzguOTEuMTA3LjQ5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "msg": 2275,
+   "ts": 1793430058.7646701,
+   "ping": 58,
+   "score": 99,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -6576,21 +6605,27 @@
    "cc": "US",
    "name": "United States",
    "ts": 1793304069.202103
+  },
+  "38.91.107.49": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1793430058.2816195
   }
  },
  "stats": {
   "date": "2026-10-31",
-  "fetched": 47,
-  "healthy": 34,
-  "posted": 2,
+  "fetched": 51,
+  "healthy": 38,
+  "posted": 3,
   "removed": 0,
   "published_scores": [
    99,
-   97
+   97,
+   99
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793428240.7061033,
+ "last_auto_post": 1793430046.89981,
  "last_auto_clean": 1793427440.7605305,
  "admin_settings": {},
  "telegram_update_offset": 690561707
