@@ -4728,13 +4728,9 @@
   },
   "92fb6de55279d782": {
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%23TELEGRAM--V2ray_confiig%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 2272,
-   "ts": 1793427440.7504017,
-   "ping": 48,
-   "score": 99,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
+   "msg": 2287,
+   "ts": 1793449845.6968172,
+   "repost_count": 1
   },
   "9c7cba8d699c7330": {
    "cfg": "vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -6799,7 +6795,7 @@
   "date": "2026-10-31",
   "fetched": 121,
   "healthy": 91,
-  "posted": 14,
+  "posted": 15,
   "removed": 0,
   "published_scores": [
    99,
@@ -6820,7 +6816,7 @@
  },
  "auto_enabled": true,
  "last_auto_post": 1793449012.1291623,
- "last_auto_clean": 1793427440.7605305,
+ "last_auto_clean": 1793449840.1875122,
  "admin_settings": {},
  "telegram_update_offset": 690561707
 }
