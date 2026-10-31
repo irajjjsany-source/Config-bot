@@ -1,16 +1,5 @@
 {
  "seen": {
-  "9debee584af0ec3c": 1793178050.8183606,
-  "a90eb79026ac9341": 1793178050.8183606,
-  "5db55fec6784820f": 1793178050.8183606,
-  "fc0058868d514c21": 1793178050.8183606,
-  "6176efcc3f36c106": 1793178050.8183606,
-  "cd79d6ed9671ddb9": 1793178050.8183606,
-  "391d3e8c6904e5ce": 1793178050.8183606,
-  "45ae1f70b60b6c2b": 1793178050.8183606,
-  "eaf8f994adf480e9": 1793178050.8183606,
-  "ea8ed7e607f5c6e0": 1793178050.8183606,
-  "acbd41f33234bb6e": 1793178050.8183606,
   "cbc9de63afc3bfcc": 1793179843.0241683,
   "f1fa559b243fac78": 1793179843.0241683,
   "12bdc7f24c0d48a2": 1793179843.0241683,
@@ -432,18 +421,14 @@
   "f9d5ecdeffe6b4fd": 1793437245.390404,
   "d16e8a79ac39f36d": 1793437245.390404,
   "17bfa5da4a45037c": 1793437245.390404,
-  "4aae37f6912d732f": 1793437245.390404
+  "4aae37f6912d732f": 1793437245.390404,
+  "2a8c6977a364d961": 1793439038.5099766,
+  "fed1c7cb9e5a26f9": 1793439038.5099766,
+  "bba73cb248f6e727": 1793439038.5099766,
+  "d42b8e6391d57112": 1793439038.5099766,
+  "8107c510eef89751": 1793439038.5099766
  },
  "queue": [
-  {
-   "id": "f8cf9ef68fb6ecb2",
-   "cfg": "vless://9c6e83fc-b755-4ad4-9b0a-14b610153d8f@31.172.69.31:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=H43_itYl9CE0AJiCktUfriENFmixY_MTHgX8slCrN2Q&sid=a4e32c324d86cfdf&allowInsecure=1#🔵@chillguy_vpn",
-   "ping": 147,
-   "best": 147,
-   "score": 98,
-   "stability": 100,
-   "ts": 1793427330.6306381
-  },
   {
    "id": "06449dace310163c",
    "cfg": "vless://9c6e83fc-b755-4ad4-9b0a-14b610153d8f@31.172.69.31:8443?security=reality&flow=xtls-rprx-vision&pbk=H43_itYl9CE0AJiCktUfriENFmixY_MTHgX8slCrN2Q&sid=a4e32c324d86cfdf&fp=chrome&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=/#🔵@chillguy_vpn",
@@ -578,6 +563,15 @@
    "score": 95,
    "stability": 100,
    "ts": 1793435439.0452456
+  },
+  {
+   "id": "fed1c7cb9e5a26f9",
+   "cfg": "vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#🔵@chillguy_vpn",
+   "ping": 411,
+   "best": 370,
+   "score": 95,
+   "stability": 100,
+   "ts": 1793439038.5099766
   },
   {
    "id": "523cfc8d0300d904",
@@ -887,16 +881,6 @@
   }
  ],
  "posted": {
-  "b576534bac96252f": {
-   "cfg": "vmess://eyJhZGQiOiAiMzEuNzYuMTEuODMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjJkOGY1N2JkLTEyYjUtNDFhZC1hODA2LTY1MDE3NTNjMjY0YyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMjI2NiIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
-   "msg": 1752,
-   "ts": 1791987399.6217988,
-   "ping": 218,
-   "score": 97,
-   "stability": 100,
-   "country": "Germany",
-   "repost_count": 0
-  },
   "5c3203bb164c8edf": {
    "cfg": "vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1753,
@@ -4818,6 +4802,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "f8cf9ef68fb6ecb2": {
+   "cfg": "vless://9c6e83fc-b755-4ad4-9b0a-14b610153d8f@31.172.69.31:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=H43_itYl9CE0AJiCktUfriENFmixY_MTHgX8slCrN2Q&sid=a4e32c324d86cfdf&allowInsecure=1#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2280,
+   "ts": 1793439052.4209325,
+   "ping": 190,
+   "score": 98,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -6750,9 +6744,9 @@
  },
  "stats": {
   "date": "2026-10-31",
-  "fetched": 71,
-  "healthy": 57,
-  "posted": 7,
+  "fetched": 76,
+  "healthy": 58,
+  "posted": 8,
   "removed": 0,
   "published_scores": [
    99,
@@ -6761,11 +6755,12 @@
    92,
    100,
    98,
-   93
+   93,
+   98
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793437245.3807611,
+ "last_auto_post": 1793439038.5002906,
  "last_auto_clean": 1793427440.7605305,
  "admin_settings": {},
  "telegram_update_offset": 690561707
