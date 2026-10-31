@@ -1,18 +1,5 @@
 {
  "seen": {
-  "fa03e8b600256316": 1793185250.7492368,
-  "63ccfe0402d5ffa7": 1793185250.7492368,
-  "c39da32c501674b1": 1793185250.7492368,
-  "b14d7ce9b6e4a90a": 1793185250.7492368,
-  "ff31836d862da838": 1793185250.7492368,
-  "76b77bec962fc342": 1793185250.7492368,
-  "b52cbe0e9dd6efaa": 1793185250.7492368,
-  "27de6d4b0b1a88f9": 1793185250.7492368,
-  "f02de52b549f3713": 1793185250.7492368,
-  "babf6b6cbb0a7044": 1793185250.7492368,
-  "e1f8b401fa583f60": 1793185250.7492368,
-  "ad882d8951a022c9": 1793186575.3423305,
-  "762f2644583e5ea5": 1793186575.3423305,
   "0747d4a6e1a6efd2": 1793187930.7503788,
   "05461e0bbaa666a9": 1793187930.7503788,
   "a24b038fc7afe57e": 1793187930.7503788,
@@ -429,7 +416,16 @@
   "fa9a91d337895a41": 1793444446.1219556,
   "d683acaaf8e8eb41": 1793444446.1219556,
   "feb107bc8d59044e": 1793444446.1219556,
-  "69fa3c73804d80ee": 1793444446.1219556
+  "69fa3c73804d80ee": 1793444446.1219556,
+  "7093fe83a9200dfd": 1793446239.009067,
+  "9e3bf1b991695bef": 1793446239.009067,
+  "624a6fec58c6be8a": 1793446239.009067,
+  "9d0c0361794e0985": 1793446239.009067,
+  "c417ed8fbf6772ea": 1793446239.009067,
+  "c289d04d657dc9c2": 1793446239.009067,
+  "f8c602e33d6820a7": 1793446239.009067,
+  "369d55844368773c": 1793446239.009067,
+  "749d34b396a64215": 1793446239.009067
  },
  "queue": [
   {
@@ -442,6 +438,15 @@
    "ts": 1793427330.6306381
   },
   {
+   "id": "7093fe83a9200dfd",
+   "cfg": "vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@185.168.208.190:47443?&security=reality&flow=xtls-rprx-vision&pbk=hz7rzdHvTAVwfy48pa6313yBF-sV7V0svvPVnl95bgY&sid=ae97246a8f799854&fp=chrome&sni=us-1.waspguard.ru&type=tcp&headerType=none&path=/#🔵@chillguy_vpn",
+   "ping": 154,
+   "best": 137,
+   "score": 98,
+   "stability": 100,
+   "ts": 1793446239.009067
+  },
+  {
    "id": "3d00e94bf7a59faf",
    "cfg": "vless://9c6e83fc-b755-4ad4-9b0a-14b610153d8f@31.172.69.31:8443?security=reality&encryption=none&pbk=H43_itYl9CE0AJiCktUfriENFmixY_MTHgX8slCrN2Q&host=www.samsung.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=a4e32c324d86cfdf#🔵@chillguy_vpn",
    "ping": 162,
@@ -449,6 +454,15 @@
    "score": 98,
    "stability": 100,
    "ts": 1793427330.6306381
+  },
+  {
+   "id": "624a6fec58c6be8a",
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#🔵@chillguy_vpn",
+   "ping": 175,
+   "best": 163,
+   "score": 98,
+   "stability": 100,
+   "ts": 1793446239.009067
   },
   {
    "id": "8f20a6602af2f61e",
@@ -575,6 +589,15 @@
    "score": 95,
    "stability": 100,
    "ts": 1793437245.390404
+  },
+  {
+   "id": "c289d04d657dc9c2",
+   "cfg": "vless://8263aa5b-601d-4e05-b61d-a70e15d97869@45.198.0.88:443?security=reality&encryption=none&pbk=GG5vpbtQpYpZkAa3qQfLe3f9kzym3EU5t8_MYUkX_z0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl1.edge.rbullet.net&sid=458374ae#🔵@chillguy_vpn",
+   "ping": 384,
+   "best": 378,
+   "score": 95,
+   "stability": 100,
+   "ts": 1793446239.009067
   },
   {
    "id": "1116a54ae6d238c8",
@@ -1000,6 +1023,15 @@
    "ts": 1793442639.8681355
   },
   {
+   "id": "9e3bf1b991695bef",
+   "cfg": "vless://9c6e83fc-b755-4ad4-9b0a-14b610153d8f@31.172.69.31:8443?security=reality&type=tcp&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&sid=a4e32c324d86cfdf&pbk=H43_itYl9CE0AJiCktUfriENFmixY_MTHgX8slCrN2Q&encryption=none#🔵@chillguy_vpn",
+   "ping": 3417,
+   "best": 2796,
+   "score": 56,
+   "stability": 100,
+   "ts": 1793446239.009067
+  },
+  {
    "id": "d16e8a79ac39f36d",
    "cfg": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#🔵@chillguy_vpn",
    "ping": 4075,
@@ -1019,16 +1051,6 @@
   }
  ],
  "posted": {
-  "b4e60c89ff35d9d6": {
-   "cfg": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?path=%2Ffdip&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
-   "msg": 1756,
-   "ts": 1791990082.667058,
-   "ping": 174,
-   "score": 98,
-   "stability": 100,
-   "country": "",
-   "repost_count": 0
-  },
   "f528329495affdae": {
    "cfg": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 1757,
@@ -4950,6 +4972,16 @@
    "stability": 100,
    "country": "",
    "repost_count": 0
+  },
+  "c417ed8fbf6772ea": {
+   "cfg": "vless://d342d11e-d224-4463-b982-532309285094@172.66.0.162:443?security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2284,
+   "ts": 1793446267.8517172,
+   "ping": 89,
+   "score": 99,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -6882,9 +6914,9 @@
  },
  "stats": {
   "date": "2026-10-31",
-  "fetched": 97,
-  "healthy": 76,
-  "posted": 11,
+  "fetched": 106,
+  "healthy": 81,
+  "posted": 12,
   "removed": 0,
   "published_scores": [
    99,
@@ -6897,11 +6929,12 @@
    98,
    97,
    99,
-   76
+   76,
+   99
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793444446.1115324,
+ "last_auto_post": 1793446239.0018156,
  "last_auto_clean": 1793427440.7605305,
  "admin_settings": {},
  "telegram_update_offset": 690561707
