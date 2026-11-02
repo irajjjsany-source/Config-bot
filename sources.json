@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "name": "chillguy_vpn",
+      "type": "telegram",
+      "channel": "chillguy_vpn",
+      "enabled": true,
+      "priority": 10
+    },
+    {
+      "name": "radikal_verified",
+      "type": "github",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs.txt",
+      "enabled": true,
+      "priority": 9,
+      "notes": "Public verified feed; K2 Guard still performs its own Xray validation before publishing."
+    }
+  ]
+}
