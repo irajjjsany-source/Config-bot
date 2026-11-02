@@ -767,24 +767,6 @@
  },
  "queue": [
   {
-   "id": "65898cb736381aa1",
-   "cfg": "vless://ef3d730e-185e-4f2c-b716-26d113046bf2@96.44.178.67:52280?security=reality&encryption=mlkem768x25519plus.native.0rtt.OlJfCBHcXFHdwQZ8mmwZOB82LB_P9yCuVvL3dQ2Pgns&pbk=Dqi139W6LrS-hHFHhcIxQPY4lb6t54kZFrB2XEPr9A8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=shop-eu-fr.amd.com&sid=dccdbd1d7b98b1#",
-   "ping": 282,
-   "best": 266,
-   "score": 96,
-   "stability": 100,
-   "ts": 1793639748.3821323
-  },
-  {
-   "id": "a67641f205732b03",
-   "cfg": "vless://913dc759-8639-4890-9bfc-a9acdc5090cf@vvsvvs.soreanapanel.com:443?security=reality&encryption=none&pbk=YWhH3_lunQFxpqA29GF-Hq1K78hdSsy0h3E5dVbxImA&headerType=none&fp=chrome&spx=%2Fe2c1e556318833f&type=tcp&sni=graphs.4cdn.de&sid=371f6e&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#",
-   "ping": 301,
-   "best": 291,
-   "score": 96,
-   "stability": 100,
-   "ts": 1793641529.9374611
-  },
-  {
    "id": "93e609ff44d6b2b2",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&host=%2F%3F&sid=01&flow=xtls-rprx-vision&type=tcp&encryption=none&sni=fuck.rkn&headerType=none#",
    "ping": 382,
@@ -873,15 +855,6 @@
    "score": 93,
    "stability": 100,
    "ts": 1793644243.0637333
-  },
-  {
-   "id": "97d67688cc25ed6a",
-   "cfg": "vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#",
-   "ping": 592,
-   "best": 587,
-   "score": 92,
-   "stability": 100,
-   "ts": 1793639748.3821323
   },
   {
    "id": "c6a92fb60ad778df",
@@ -5569,6 +5542,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "a67641f205732b03": {
+   "cfg": "vless://913dc759-8639-4890-9bfc-a9acdc5090cf@vvsvvs.soreanapanel.com:443?security=reality&encryption=none&pbk=YWhH3_lunQFxpqA29GF-Hq1K78hdSsy0h3E5dVbxImA&headerType=none&fp=chrome&spx=%2Fe2c1e556318833f&type=tcp&sni=graphs.4cdn.de&sid=371f6e&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2349,
+   "ts": 1793662250.8495605,
+   "ping": 478,
+   "score": 94,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -7582,13 +7565,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1793653267.369736
+  },
+  "vvsvvs.soreanapanel.com": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1793662250.0986474
   }
  },
  "stats": {
   "date": "2026-11-02",
   "fetched": 549,
   "healthy": 415,
-  "posted": 39,
+  "posted": 40,
   "removed": 0,
   "published_scores": [
    99,
@@ -7629,21 +7617,22 @@
    85,
    99,
    97,
-   96
+   96,
+   94
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793660450.294536,
+ "last_auto_post": 1793662244.5521367,
  "last_auto_clean": 1793642458.2254033,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
  "quarantine": {},
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 1801,
+   "fetched": 1837,
    "healthy": 158,
    "failed": 0,
-   "runs": 36
+   "runs": 37
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -7655,35 +7644,35 @@
    "fetched": 0,
    "healthy": 0,
    "failed": 0,
-   "runs": 32
+   "runs": 33
   },
   "configx2ray": {
-   "fetched": 445,
+   "fetched": 460,
    "healthy": 0,
    "failed": 0,
-   "runs": 32
+   "runs": 33
   }
  },
  "source_stats": {
   "chillguy_vpn": {
    "fetched": 36,
-   "healthy": 1,
+   "healthy": 0,
    "ok": true,
-   "ts": 1793660451,
+   "ts": 1793662245,
    "error": ""
   },
   "zibanabz": {
    "fetched": 0,
    "healthy": 0,
    "ok": true,
-   "ts": 1793660451,
+   "ts": 1793662246,
    "error": ""
   },
   "configx2ray": {
    "fetched": 15,
    "healthy": 0,
    "ok": true,
-   "ts": 1793660452,
+   "ts": 1793662247,
    "error": ""
   }
  }
