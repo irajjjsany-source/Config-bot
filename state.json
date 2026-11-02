@@ -583,18 +583,11 @@
   "9f648e2652505d5f": 1793607671.3445582,
   "27ada8b7ba9820b9": 1793607671.3445582,
   "c651d0272a4fffd9": 1793609141.722051,
-  "96d02b91955af3f2": 1793611842.6304846
+  "96d02b91955af3f2": 1793611842.6304846,
+  "f83923f28b128843": 1793613647.5278845,
+  "f7ae4db470e4ec02": 1793613647.5278845
  },
  "queue": [
-  {
-   "id": "687488b8d37b69c4",
-   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?security=reality&type=tcp&allowInsecure=1&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#US",
-   "ping": 37,
-   "best": 36,
-   "score": 100,
-   "stability": 100,
-   "ts": 1793602539.2993195
-  },
   {
    "id": "3aa3e97f1fb84d12",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#US",
@@ -2666,6 +2659,15 @@
    "ts": 1793602539.2993195
   },
   {
+   "id": "f83923f28b128843",
+   "cfg": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#",
+   "ping": 466,
+   "best": 392,
+   "score": 94,
+   "stability": 100,
+   "ts": 1793613647.5278845
+  },
+  {
    "id": "73bb0b0bf8163e51",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#",
    "ping": 470,
@@ -2943,6 +2945,15 @@
    "score": 82,
    "stability": 100,
    "ts": 1793606446.332617
+  },
+  {
+   "id": "f7ae4db470e4ec02",
+   "cfg": "vmess://eyJhZGQiOiAiNTcuMTI5LjEzMi4yMjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLmNvbSIsICJpZCI6ICJhMjVjYmYxMS0yOTA4LTRhMWItYTNhOC05YTU3MTc3N2RjYTMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=",
+   "ping": 1561,
+   "best": 700,
+   "score": 80,
+   "stability": 100,
+   "ts": 1793613647.5278845
   },
   {
    "id": "0600a8ec56ee534f",
@@ -7074,6 +7085,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "687488b8d37b69c4": {
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?security=reality&type=tcp&allowInsecure=1&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2321,
+   "ts": 1793613662.0755315,
+   "ping": 219,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -9061,9 +9082,9 @@
  },
  "stats": {
   "date": "2026-11-02",
-  "fetched": 369,
-  "healthy": 286,
-  "posted": 11,
+  "fetched": 371,
+  "healthy": 288,
+  "posted": 12,
   "removed": 0,
   "published_scores": [
    99,
@@ -9076,21 +9097,22 @@
    100,
    98,
    98,
-   98
+   98,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793611842.6184545,
+ "last_auto_post": 1793613647.514073,
  "last_auto_clean": 1793597481.146309,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
  "quarantine": {},
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 327,
-   "healthy": 29,
+   "fetched": 368,
+   "healthy": 31,
    "failed": 0,
-   "runs": 8
+   "runs": 9
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -9102,35 +9124,35 @@
    "fetched": 0,
    "healthy": 0,
    "failed": 0,
-   "runs": 4
+   "runs": 5
   },
   "configx2ray": {
-   "fetched": 65,
+   "fetched": 80,
    "healthy": 0,
    "failed": 0,
-   "runs": 4
+   "runs": 5
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 42,
-   "healthy": 1,
+   "fetched": 41,
+   "healthy": 2,
    "ok": true,
-   "ts": 1793611843,
+   "ts": 1793613648,
    "error": ""
   },
   "zibanabz": {
    "fetched": 0,
    "healthy": 0,
    "ok": true,
-   "ts": 1793611844,
+   "ts": 1793613648,
    "error": ""
   },
   "configx2ray": {
    "fetched": 15,
    "healthy": 0,
    "ok": true,
-   "ts": 1793611844,
+   "ts": 1793613649,
    "error": ""
   }
  }
