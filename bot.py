@@ -12,6 +12,7 @@ import os
 import random
 import re
 import socket
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -39,11 +40,18 @@ REPOST_MAX = 1          # هر کانفیگ کم‌بازدید حداکثر ی�
 REPOST_MARK = "♻️"
 MAX_PING = 5000
 MAX_POSTS_PER_RUN = 1
+MAX_CONFIGS_PER_RUN = 80
+MAX_CLEAN_PER_RUN = 120
 STABILITY_TESTS = 3
 STABILITY_GAP = 0.35
-MIN_STABILITY = 0.67
+MIN_STABILITY = 0.66  # دو تست موفق از سه تست کافی است
 GEO_TTL = 7 * 86400      # کشور هر سرور تا ۷ روز دوباره لوکیشن‌یابی نمی‌شه
 STATE_FILE = "state.json"
+SOURCES_FILE = "sources.json"
+SOURCE_TYPES = {"telegram", "github", "subscription", "txt", "api"}
+MAX_SOURCE_BYTES = 2 * 1024 * 1024
+SOURCE_TIMEOUT = 15
+QUARANTINE_SECONDS = 30 * 60
 # ========================================================
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")  # توکن فعلی برای ارسال کانفیگ به کانال
@@ -57,10 +65,39 @@ CFG_RE = re.compile(r"(?<![A-Za-z0-9])(?:vmess|vless|trojan|ss)://[^\s<>\"']+")
 
 
 # ---------------- کمکی‌ها ----------------
-def http_get(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return r.read().decode("utf-8", "replace")
+class SafeRedirectHandler(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        validate_public_url(newurl)
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
+def validate_public_url(url):
+    """فقط HTTP(S) عمومی؛ جلوگیری پایه‌ای از SSRF و دسترسی به شبکه داخلی."""
+    parsed = urllib.parse.urlparse(url)
+    if parsed.scheme not in ("http", "https") or not parsed.hostname:
+        raise ValueError("source URL must be HTTP(S)")
+    if parsed.username or parsed.password:
+        raise ValueError("credentials in source URLs are not allowed")
+    host = parsed.hostname.lower().rstrip(".")
+    if host in {"localhost", "localhost.localdomain"}:
+        raise ValueError("local source URL is not allowed")
+    try:
+        addresses = {x[4][0] for x in socket.getaddrinfo(host, parsed.port or (443 if parsed.scheme == "https" else 80))}
+        if not addresses or any(not ipaddress.ip_address(a).is_global for a in addresses):
+            raise ValueError("non-public source address is not allowed")
+    except socket.gaierror as exc:
+        raise ValueError("source host cannot be resolved") from exc
+
+
+def http_get(url, timeout=SOURCE_TIMEOUT, max_bytes=MAX_SOURCE_BYTES):
+    validate_public_url(url)
+    req = urllib.request.Request(url, headers={"User-Agent": "K2Guard/2.0 (+public-config-fetcher)"})
+    opener = urllib.request.build_opener(SafeRedirectHandler())
+    with opener.open(req, timeout=timeout) as r:
+        data = r.read(max_bytes + 1)
+        if len(data) > max_bytes:
+            raise ValueError("source response exceeds size limit")
+        return data.decode("utf-8", "replace")
 
 
 def b64d(s):
@@ -83,9 +120,13 @@ def identity(cfg):
         if scheme(cfg) == "vmess":
             o = vmess_obj(cfg)
             o.pop("ps", None)
+            o.pop("name", None)
             base = "vmess:" + json.dumps(o, sort_keys=True)
         else:
-            base = cfg.split("#", 1)[0]
+            u = urllib.parse.urlsplit(cfg)
+            query = urllib.parse.urlencode(sorted(urllib.parse.parse_qsl(u.query, keep_blank_values=True)))
+            # netloc را lowercase نمی‌کنیم؛ رمز Trojan ممکن است به بزرگی/کوچکی حروف حساس باشد.
+            base = urllib.parse.urlunsplit((u.scheme.lower(), u.netloc, u.path, query, ""))
     except Exception:
         base = cfg
     return hashlib.sha1(base.encode()).hexdigest()[:16]
@@ -152,25 +193,158 @@ def lookup_geo(host, geo_cache):
     return cc, name
 
 
-# ---------------- دریافت کانفیگ‌ها ----------------
-def fetch_configs():
-    found = []
-    for ch in SOURCE_CHANNELS:
-        try:
-            page = http_get("https://t.me/s/" + ch.lstrip("@"))
-        except Exception as e:
-            print("fetch failed:", ch, e)
+# ---------------- مدیریت و دریافت منابع ----------------
+def default_sources():
+    return {"version": 1, "sources": [
+        {"name": ch.lstrip("@"), "type": "telegram", "channel": ch.lstrip("@"),
+         "enabled": True, "priority": 10}
+        for ch in SOURCE_CHANNELS
+    ]}
+
+
+def load_sources():
+    if not os.path.exists(SOURCES_FILE):
+        return default_sources()
+    with open(SOURCES_FILE, encoding="utf-8") as f:
+        data = json.load(f)
+    if not isinstance(data, dict) or not isinstance(data.get("sources"), list):
+        raise ValueError("sources.json must contain a sources list")
+    clean = []
+    names = set()
+    for item in data["sources"]:
+        if not isinstance(item, dict):
             continue
-        blocks = re.findall(
-            r'<div class="tgme_widget_message_text[^"]*"[^>]*>(.*?)</div>', page, re.S)
-        if not blocks:
-            print("no visible posts for", ch, "(channel may have web preview disabled)")
-        for b in blocks[-LAST_POSTS:]:
-            t = re.sub(r"<br\s*/?>", "\n", b)
-            t = html.unescape(re.sub(r"<[^>]+>", "", t))
-            for m in CFG_RE.finditer(t):
-                found.append(m.group(0).rstrip(".,;،"))
+        name = str(item.get("name", "")).strip()
+        kind = str(item.get("type", "")).lower().strip()
+        if not name or kind not in SOURCE_TYPES or name.lower() in names:
+            continue
+        if kind == "telegram":
+            channel = str(item.get("channel") or name).strip().lstrip("@")
+            if not re.fullmatch(r"[A-Za-z0-9_]{5,32}", channel):
+                continue
+            item["channel"] = channel
+        else:
+            url = str(item.get("url", "")).strip()
+            if not url:
+                continue
+            try:
+                validate_public_url(url)
+            except Exception as exc:
+                print("source skipped (unsafe/invalid URL):", name, type(exc).__name__)
+                continue
+            item["url"] = url
+        item["name"] = name
+        item["type"] = kind
+        item["enabled"] = bool(item.get("enabled", True))
+        try:
+            item["priority"] = max(0, min(100, int(item.get("priority", 5))))
+        except (TypeError, ValueError):
+            item["priority"] = 5
+        clean.append(item)
+        names.add(name.lower())
+    return {"version": 1, "sources": clean}
+
+
+def save_sources(data):
+    atomic_json_write(SOURCES_FILE, data)
+
+
+def extract_config_strings(value):
+    out = []
+    if isinstance(value, str):
+        out.append(value)
+    elif isinstance(value, dict):
+        for v in value.values():
+            out.extend(extract_config_strings(v))
+    elif isinstance(value, list):
+        for v in value:
+            out.extend(extract_config_strings(v))
+    return out
+
+
+def configs_from_text(text):
+    found = [m.group(0).rstrip(".,;،") for m in CFG_RE.finditer(text or "")]
+    if found:
+        return found
+    # Subscriptionهای Base64 که پس از decode شامل URIهای متنی هستند.
+    compact = (text or "").strip()
+    if compact and len(compact) <= MAX_SOURCE_BYTES:
+        try:
+            decoded = b64d(compact)
+            found.extend(m.group(0).rstrip(".,;،") for m in CFG_RE.finditer(decoded))
+        except Exception:
+            pass
     return found
+
+
+def fetch_telegram_source(channel):
+    page = http_get("https://t.me/s/" + urllib.parse.quote(channel.lstrip("@")))
+    blocks = re.findall(r'<div class="tgme_widget_message_text[^\"]*"[^>]*>(.*?)</div>', page, re.S)
+    text = "\n".join(html.unescape(re.sub(r"<[^>]+>", " ", re.sub(r"<br\s*/?>", "\n", b))) for b in blocks[-LAST_POSTS:])
+    return configs_from_text(text)
+
+
+def fetch_source(item):
+    kind = item["type"]
+    if kind == "telegram":
+        return fetch_telegram_source(item.get("channel") or item["name"])
+    url = item["url"]
+    if kind == "github":
+        parsed = urllib.parse.urlparse(url)
+        if parsed.netloc.lower() == "github.com" and "/blob/" in parsed.path:
+            url = "https://raw.githubusercontent.com/" + parsed.path.split("/blob/", 1)[0] + "/" + parsed.path.split("/blob/", 1)[1]
+    body = http_get(url)
+    if kind == "api":
+        try:
+            body = "\n".join(extract_config_strings(json.loads(body)))
+        except json.JSONDecodeError:
+            pass
+    return configs_from_text(body)
+
+
+def fetch_configs(st=None):
+    """دریافت از همه منابع فعال؛ خطای یک منبع سایر منابع را متوقف نمی‌کند."""
+    cfgs, source_stats, source_map = [], {}, {}
+    data = load_sources()
+    history = st.setdefault("source_history", {}) if st is not None else {}
+    for item in sorted(data["sources"], key=lambda x: (-x.get("priority", 0), x["name"])):
+        if not item.get("enabled", True):
+            continue
+        name = item["name"]
+        try:
+            found = fetch_source(item)
+            ids = set()
+            for cfg in found:
+                cid = identity(cfg)
+                names = source_map.setdefault(cid, [])
+                if name not in names:
+                    names.append(name)
+                cfgs.append(cfg)
+            source_stats[name] = {"fetched": len(found), "healthy": 0, "ok": True,
+                                  "ts": int(time.time()), "error": ""}
+            if st is not None:
+                h = history.setdefault(name, {"fetched": 0, "healthy": 0, "failed": 0, "runs": 0})
+                h["fetched"] = int(h.get("fetched", 0)) + len(found)
+                h["runs"] = int(h.get("runs", 0)) + 1
+            print("source %s: fetched %d" % (name, len(found)))
+        except Exception as exc:
+            source_stats[name] = {"fetched": 0, "healthy": 0, "ok": False,
+                                  "ts": int(time.time()), "error": type(exc).__name__}
+            if st is not None:
+                h = history.setdefault(name, {"fetched": 0, "healthy": 0, "failed": 0, "runs": 0})
+                h["runs"] = int(h.get("runs", 0)) + 1
+                h["failed"] = int(h.get("failed", 0)) + 1
+            print("source %s failed: %s" % (name, type(exc).__name__))
+    if st is not None:
+        st["source_stats"] = source_stats
+        st["_source_map"] = source_map
+    unique, seen_ids = [], set()
+    for cfg in cfgs:
+        key = identity(cfg)
+        if key not in seen_ids:
+            seen_ids.add(key)
+            unique.append(cfg)
+    return unique
 
 
 # ---------------- ساخت کانفیگ xray ----------------
@@ -288,9 +462,10 @@ def test_config(cfg):
     with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False) as f:
         json.dump(conf, f)
         path = f.name
-    proc = subprocess.Popen([XRAY, "run", "-c", path],
-                            stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    proc = None
     try:
+        proc = subprocess.Popen([XRAY, "run", "-c", path],
+                                stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         t0 = time.time()
         while True:
             if proc.poll() is not None or time.time() - t0 > 4:
@@ -312,8 +487,12 @@ def test_config(cfg):
     except Exception:
         return None
     finally:
-        proc.kill()
-        proc.wait()
+        if proc is not None:
+            try:
+                proc.kill()
+                proc.wait(timeout=3)
+            except Exception:
+                pass
         try:
             os.unlink(path)
         except OSError:
@@ -344,6 +523,14 @@ def stability_test(cfg):
         "success": len(results),
         "tests": STABILITY_TESTS,
     }
+
+
+def stability_test_many(cfgs):
+    if not cfgs:
+        return []
+    workers = min(WORKERS, len(cfgs))
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        return list(ex.map(stability_test, cfgs))
 
 
 def quality_score(avg, success, tests):
@@ -434,20 +621,48 @@ def buy_button():
 
 # ---------------- وضعیت ----------------
 def load_state():
-    try:
-        with open(STATE_FILE, encoding="utf-8") as f:
-            st = json.load(f)
-    except Exception:
+    if not os.path.exists(STATE_FILE):
         st = {}
+    else:
+        try:
+            with open(STATE_FILE, encoding="utf-8") as f:
+                st = json.load(f)
+        except (OSError, json.JSONDecodeError) as exc:
+            raise RuntimeError("state.json is unreadable; refusing to overwrite existing state") from exc
+        if not isinstance(st, dict):
+            raise RuntimeError("state.json root must be a JSON object")
     st.setdefault("seen", {})
     st.setdefault("queue", [])
     st.setdefault("posted", {})
+    st.setdefault("quarantine", {})
     return st
 
 
+def atomic_json_write(path, data):
+    directory = os.path.dirname(os.path.abspath(path))
+    fd, tmp = tempfile.mkstemp(prefix=".k2tmp-", suffix=".json", dir=directory)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=1)
+            f.flush()
+            os.fsync(f.fileno())
+        if os.path.exists(path):
+            try:
+                shutil.copy2(path, path + ".bak")
+            except OSError as exc:
+                print("backup warning:", os.path.basename(path), type(exc).__name__)
+        os.replace(tmp, path)
+    finally:
+        try:
+            if os.path.exists(tmp):
+                os.unlink(tmp)
+        except OSError:
+            pass
+
+
 def save_state(st):
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(st, f, ensure_ascii=False, indent=1)
+    atomic_json_write(STATE_FILE, st)
+
 
 
 def today_str():
@@ -489,28 +704,43 @@ def mode_post():
     queue[:] = [x for x in queue if now - x["ts"] < QUEUE_TTL and x["id"] not in posted]
 
     new = {}
-    cfgs = fetch_configs()
+    cfgs = fetch_configs(st)
     for c in cfgs:
         i = identity(c)
         if i not in seen and i not in posted and i not in new:
             new[i] = c
     print("fetched %d configs, %d new" % (len(cfgs), len(new)))
-    stats["fetched"] += len(new)
+    stats["fetched"] += min(len(new), MAX_CONFIGS_PER_RUN)
 
     if new:
-        items = list(new.items())
-        for (i, c), ping in zip(items, test_many([c for _, c in items])):
+        items = list(new.items())[:MAX_CONFIGS_PER_RUN]
+        pings = test_many([c for _, c in items])
+        eligible = [(i, c) for (i, c), ping in zip(items, pings) if ping and ping <= MAX_PING]
+        stable_results = stability_test_many([c for _, c in eligible])
+        stable_by_id = {i: result for (i, _), result in zip(eligible, stable_results)}
+        for (i, c), ping in zip(items, pings):
             seen[i] = now
-            if ping and ping <= MAX_PING:
-                stest = stability_test(c)
-                if stest:
-                    score = quality_score(stest["avg"], stest["success"], stest["tests"])
-                    queue.append({"id": i, "cfg": c, "ping": stest["avg"],
-                                  "best": stest["best"], "score": score,
-                                  "stability": round(100 * stest["success"] / stest["tests"]),
-                                  "ts": now})
-                    stats["healthy"] += 1
-        print("stable configs in queue:", len(queue))
+            source_names = st.get("_source_map", {}).get(i, [])
+            stest = stable_by_id.get(i)
+            if stest:
+                for source_name in source_names:
+                    if source_name in st.get("source_stats", {}):
+                        st["source_stats"][source_name]["healthy"] += 1
+                    hist = st.setdefault("source_history", {}).setdefault(
+                        source_name, {"fetched": 0, "healthy": 0, "failed": 0, "runs": 0})
+                    hist["healthy"] = int(hist.get("healthy", 0)) + 1
+                score = quality_score(stest["avg"], stest["success"], stest["tests"])
+                queue.append({"id": i, "cfg": c, "ping": stest["avg"],
+                              "best": stest["best"], "score": score,
+                              "stability": round(100 * stest["success"] / stest["tests"]),
+                              "ts": now})
+                stats["healthy"] += 1
+            elif ping and ping <= MAX_PING:
+                for source_name in source_names:
+                    hist = st.setdefault("source_history", {}).setdefault(
+                        source_name, {"fetched": 0, "healthy": 0, "failed": 0, "runs": 0})
+                    hist["failed"] = int(hist.get("failed", 0)) + 1
+        print("stable configs in queue:", len(queue), "| batch:", len(items))
 
     queue.sort(key=lambda x: (-x.get("score", 0), x.get("ping", 999999), -x["ts"]))
     posted_this_run = 0
@@ -561,11 +791,8 @@ def mode_post():
     else:
         print("posted this run:", posted_this_run)
 
-    if len(posted) > MAX_POSTED:
-        drop = sorted(posted, key=lambda k: posted[k].get("ts", 0))[:len(posted) - MAX_POSTED]
-        for k in drop:
-            del posted[k]
-
+    # رکوردهای پست‌شده را بی‌صدا حذف نمی‌کنیم؛ باید تا حذف/آرشیو واقعی قابل پیگیری بمانند.
+    st.pop("_source_map", None)
     save_state(st)
 
 
@@ -617,7 +844,7 @@ def mode_clean():
     apply_settings(st)
     stats = roll_stats(st)
     posted = st["posted"]
-    items = list(posted.items())
+    items = sorted(posted.items(), key=lambda kv: kv[1].get("last_checked", kv[1].get("ts", 0)))[:MAX_CLEAN_PER_RUN]
     if not items:
         print("nothing to check")
         save_state(st)
@@ -633,6 +860,7 @@ def mode_clean():
         age = now - v.get("ts", now)
         if age < VIEW_GRACE:
             continue
+        v["last_checked"] = now
         views, is_config = channel_post_views(page_html, v["msg"])
         if not is_config:
             print("non-config post ignored:", i)
@@ -669,6 +897,26 @@ def mode_clean():
     for i, _ in test_items:
         final_bad.add(i) if ((i in second_bad) if i in need_second else (i in first_bad)) else None
 
+    # قرنطینه: خرابی باید در دو نوبت پاک‌سازی جداگانه تأیید شود.
+    quarantine = st.setdefault("quarantine", {})
+    for i, _ in test_items:
+        if i in final_bad:
+            entry = quarantine.get(i)
+            if not entry:
+                quarantine[i] = {"first_seen": now, "last_failed": now}
+                final_bad.discard(i)
+                low_view.discard(i)
+                print("quarantined after failed tests:", i)
+            elif now - float(entry.get("first_seen", now)) < QUARANTINE_SECONDS:
+                entry["last_failed"] = now
+                final_bad.discard(i)
+                low_view.discard(i)
+                print("still quarantined; waiting for confirmation:", i)
+            else:
+                entry["last_failed"] = now
+        else:
+            quarantine.pop(i, None)
+
     removed = 0
     reposted = 0
 
@@ -686,6 +934,7 @@ def mode_clean():
                        text="⛔️ این کانفیگ منقضی شد")
             if r.get("ok"):
                 del posted[i]
+                quarantine.pop(i, None)
                 stats["removed"] += 1
                 removed += 1
             time.sleep(0.5)
@@ -792,6 +1041,71 @@ def apply_settings(st):
     MAX_POSTS_PER_RUN = max(1, min(10, int(cfg.get("max_posts_per_run", MAX_POSTS_PER_RUN))))
 
 
+def source_admin_text(st):
+    data = load_sources()
+    stats = st.get("source_stats", {})
+    lines = ["📡 منابع دریافت کانفیگ", ""]
+    for item in data["sources"]:
+        state = "فعال" if item.get("enabled", True) else "خاموش"
+        stat = stats.get(item["name"], {})
+        hist = st.get("source_history", {}).get(item["name"], {})
+        lines.append("• %s | %s | %s | دریافت اخیر: %s | سالم کل: %s" % (
+            item["name"], item["type"], state, stat.get("fetched", "—"), hist.get("healthy", 0)))
+    lines.extend(["", "افزودن: /source_add telegram CHANNEL", "/source_add github NAME HTTPS_URL",
+                  "/source_add subscription NAME HTTPS_URL", "/source_add txt NAME HTTPS_URL",
+                  "/source_add api NAME HTTPS_URL", "فعال/خاموش: /source_toggle NAME",
+                  "حذف: /source_del NAME"])
+    return "\n".join(lines)
+
+
+def handle_source_command(text):
+    parts = text.strip().split(maxsplit=3)
+    if len(parts) < 2:
+        return "فرمت دستور ناقص است. /sources را ببین."
+    action = parts[0].lower()
+    data = load_sources()
+    items = data["sources"]
+    if action == "/source_add":
+        if len(parts) == 3 and parts[1].lower() == "telegram":
+            kind, name, url = "telegram", parts[2].lstrip("@"), ""
+        elif len(parts) == 4:
+            kind, name, url = parts[1].lower(), parts[2], parts[3]
+        else:
+            return "فرمت: /source_add TYPE NAME URL (برای تلگرام: /source_add telegram CHANNEL)"
+        if kind not in SOURCE_TYPES:
+            return "نوع منبع نامعتبر است."
+        if any(x["name"].lower() == name.lower() for x in items):
+            return "این نام منبع قبلاً ثبت شده است."
+        item = {"name": name, "type": kind, "enabled": True, "priority": 5}
+        if kind == "telegram":
+            channel = name
+            if not re.fullmatch(r"[A-Za-z0-9_]{5,32}", channel):
+                return "نام کانال تلگرام معتبر نیست."
+            item["channel"] = channel
+        else:
+            try:
+                validate_public_url(url)
+            except Exception as exc:
+                return "URL رد شد: %s" % str(exc)
+            item["url"] = url
+        items.append(item)
+        save_sources(data)
+        return "✅ منبع %s اضافه شد و فعال است." % name
+    if action in ("/source_toggle", "/source_del"):
+        name = parts[1]
+        found = next((x for x in items if x["name"].lower() == name.lower()), None)
+        if not found:
+            return "منبع پیدا نشد."
+        if action == "/source_del":
+            data["sources"] = [x for x in items if x is not found]
+            save_sources(data)
+            return "🗑 منبع حذف شد: %s" % name
+        found["enabled"] = not found.get("enabled", True)
+        save_sources(data)
+        return "وضعیت %s: %s" % (name, "فعال" if found["enabled"] else "خاموش")
+    return "دستور منبع ناشناخته است."
+
+
 def admin_menu(st, message="پنل مدیریت K2 Guard"):
     auto = st.get("auto_enabled", True)
     mark = "🟢 روشن" if auto else "🔴 خاموش"
@@ -802,6 +1116,7 @@ def admin_menu(st, message="پنل مدیریت K2 Guard"):
         [{"text": "📊 آمار", "callback_data": "view:stats"},
          {"text": "ℹ️ وضعیت", "callback_data": "view:status"}],
         [{"text": "⚙️ تنظیمات", "callback_data": "view:settings"}],
+        [{"text": "📡 منابع دریافت", "callback_data": "view:sources"}],
     ]}
     return admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text=message,
               reply_markup=json.dumps(keyboard, ensure_ascii=False))
@@ -852,7 +1167,7 @@ def admin_status(st):
             "اجرای خودکار: %s\n"
             "آخرین اجرای خودکار انتشار: %s\n"
             "آخرین اجرای خودکار پاک‌سازی: %s\n\n"
-            "نکته: در حالت GitHub Actions، پردازش فرمان‌های تلگرام معمولاً با تأخیر تا حدود ۵ دقیقه انجام می‌شود.") % (auto, fmt(last_post), fmt(last_clean))
+            "نکته: در حالت GitHub Actions، پردازش فرمان‌های تلگرام معمولاً با تأخیر تا حدود ۱۵ دقیقه انجام می‌شود.") % (auto, fmt(last_post), fmt(last_clean))
 
 
 def process_admin_updates(st):
@@ -893,6 +1208,11 @@ def process_admin_updates(st):
                 admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text=admin_stats(st))
             elif command == "/status":
                 admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text=admin_status(st))
+            elif command == "/sources":
+                admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text=source_admin_text(st))
+            elif command in ("/source_add", "/source_toggle", "/source_del"):
+                answer = handle_source_command((msg.get("text") or "").strip())
+                admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text=answer)
             continue
 
         if not cb:
@@ -914,6 +1234,8 @@ def process_admin_updates(st):
             admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text=admin_status(st))
         elif data == "view:settings":
             settings_menu(st)
+        elif data == "view:sources":
+            admin_tg("sendMessage", chat_id=ADMIN_CHAT_ID, text=source_admin_text(st))
         elif data == "view:menu":
             admin_menu(st)
         elif data.startswith("set:"):
@@ -996,6 +1318,10 @@ def mode_worker():
 if __name__ == "__main__":
     if not BOT_TOKEN:
         sys.exit("BOT_TOKEN is missing (add it in repo Settings > Secrets)")
+    # فایل منابع در اولین اجرا با منبع فعلی ساخته می‌شود؛ فایل خراب بی‌صدا بازنویسی نمی‌شود.
+    if not os.path.exists(SOURCES_FILE):
+        save_sources(default_sources())
+    load_sources()
     mode = sys.argv[1] if len(sys.argv) > 1 else "post"
     if mode == "clean":
         mode_clean()
