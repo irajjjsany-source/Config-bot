@@ -1,9 +1,9 @@
 name: config-bot
 
 on:
-  # GitHub Actions حداقل هر ۵ دقیقه می‌تواند زمان‌بندی شود؛ زمان اجرا ممکن است کمی تأخیر داشته باشد.
+  # اجرای زمان‌بندی‌شده هر ۱۵ دقیقه؛ GitHub ممکن است کمی تأخیر داشته باشد.
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
     inputs:
       mode:
@@ -60,9 +60,15 @@ jobs:
         run: |
           git config user.name "config-bot"
           git config user.email "config-bot@users.noreply.github.com"
-          git add state.json || true
+          if [ -f state.json ]; then git add state.json; fi
+          if [ -f sources.json ]; then git add sources.json; fi
           if ! git diff --cached --quiet; then
-            git commit -m "update state [skip ci]"
-            git pull --rebase -q || true
-            git push
+            git commit -m "update bot state and sources [skip ci]"
+            for attempt in 1 2 3; do
+              git pull --rebase -q && git push && exit 0
+              echo "Git sync attempt ${attempt} failed"
+              sleep 2
+            done
+            echo "Unable to synchronize bot state with repository"
+            exit 1
           fi
