@@ -760,27 +760,11 @@
   "c6a92fb60ad778df": 1793653249.966615,
   "e4b4e56f18d89c0c": 1793653249.966615,
   "4d2478a4ea971669": 1793656850.6763718,
-  "807047c44c0bf4f7": 1793656850.6763718
+  "807047c44c0bf4f7": 1793656850.6763718,
+  "723d62afa605bee3": 1793658639.1647227,
+  "620894c16b2fddca": 1793658639.1647227
  },
  "queue": [
-  {
-   "id": "39a31923053c39bd",
-   "cfg": "vmess://eyJhZGQiOiAiMTk1LjI2LjI2LjE2MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNWUyYzc2NjUtM2M0Yy00NTkxLWI3N2MtYzNjOTA5ODFjMTBmIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMzcwNDQiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
-   "ping": 206,
-   "best": 196,
-   "score": 97,
-   "stability": 100,
-   "ts": 1793641529.9374611
-  },
-  {
-   "id": "5e90c78f0fdb69ba",
-   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&type=tcp&headerType=none#",
-   "ping": 208,
-   "best": 198,
-   "score": 97,
-   "stability": 100,
-   "ts": 1793639748.3821323
-  },
   {
    "id": "f71f8875f0de53ec",
    "cfg": "vless://ba18f410-d1de-4b84-89c5-93c6eda9d026@xray1-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#",
@@ -888,6 +872,15 @@
    "score": 94,
    "stability": 100,
    "ts": 1793649647.66308
+  },
+  {
+   "id": "723d62afa605bee3",
+   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#",
+   "ping": 494,
+   "best": 489,
+   "score": 94,
+   "stability": 100,
+   "ts": 1793658639.1647227
   },
   {
    "id": "82176750ac8ea9db",
@@ -5582,6 +5575,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "5e90c78f0fdb69ba": {
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2347,
+   "ts": 1793658679.8438895,
+   "ping": 208,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -7599,9 +7602,9 @@
  },
  "stats": {
   "date": "2026-11-02",
-  "fetched": 546,
-  "healthy": 413,
-  "posted": 37,
+  "fetched": 548,
+  "healthy": 414,
+  "posted": 38,
   "removed": 0,
   "published_scores": [
    99,
@@ -7640,21 +7643,22 @@
    98,
    95,
    85,
-   99
+   99,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793656850.6641624,
+ "last_auto_post": 1793658639.1524582,
  "last_auto_clean": 1793642458.2254033,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
  "quarantine": {},
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 1729,
-   "healthy": 156,
+   "fetched": 1765,
+   "healthy": 157,
    "failed": 0,
-   "runs": 34
+   "runs": 35
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -7666,35 +7670,35 @@
    "fetched": 0,
    "healthy": 0,
    "failed": 0,
-   "runs": 30
+   "runs": 31
   },
   "configx2ray": {
-   "fetched": 415,
+   "fetched": 430,
    "healthy": 0,
    "failed": 0,
-   "runs": 30
+   "runs": 31
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 41,
-   "healthy": 2,
+   "fetched": 36,
+   "healthy": 1,
    "ok": true,
-   "ts": 1793656851,
+   "ts": 1793658639,
    "error": ""
   },
   "zibanabz": {
    "fetched": 0,
    "healthy": 0,
    "ok": true,
-   "ts": 1793656851,
+   "ts": 1793658640,
    "error": ""
   },
   "configx2ray": {
    "fetched": 15,
    "healthy": 0,
    "ok": true,
-   "ts": 1793656852,
+   "ts": 1793658641,
    "error": ""
   }
  }
