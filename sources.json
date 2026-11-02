@@ -9,12 +9,26 @@
       "priority": 10
     },
     {
+      "name": "zibanabz",
+      "type": "telegram",
+      "channel": "zibanabz",
+      "enabled": true,
+      "priority": 9
+    },
+    {
+      "name": "configx2ray",
+      "type": "telegram",
+      "channel": "configx2ray",
+      "enabled": true,
+      "priority": 8
+    },
+    {
       "name": "radikal_verified",
       "type": "github",
       "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs.txt",
-      "enabled": true,
+      "enabled": false,
       "priority": 9,
-      "notes": "Public verified feed; K2 Guard still performs its own Xray validation before publishing."
+      "notes": "Temporarily disabled"
     }
   ]
 }
