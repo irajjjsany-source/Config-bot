@@ -767,42 +767,6 @@
  },
  "queue": [
   {
-   "id": "f21869e81f60c1cc",
-   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
-   "ping": 391,
-   "best": 385,
-   "score": 95,
-   "stability": 100,
-   "ts": 1793642450.2381666
-  },
-  {
-   "id": "97ce8c6786486f7f",
-   "cfg": "vless://2614a96d-e39f-4cca-a9c7-467a178c2c0a@191.217.245.227:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl.lenvex.cc#",
-   "ping": 392,
-   "best": 387,
-   "score": 95,
-   "stability": 100,
-   "ts": 1793642450.2381666
-  },
-  {
-   "id": "7570968b4eff573c",
-   "cfg": "vless://2614a96d-e39f-4cca-a9c7-467a178c2c0a@191.217.245.227:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl.lenvex.cc#",
-   "ping": 409,
-   "best": 401,
-   "score": 95,
-   "stability": 100,
-   "ts": 1793644243.0637333
-  },
-  {
-   "id": "52b8edf662e8c2f8",
-   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
-   "ping": 411,
-   "best": 405,
-   "score": 95,
-   "stability": 100,
-   "ts": 1793653249.966615
-  },
-  {
    "id": "b9e7a29c5cd3520b",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
    "ping": 426,
@@ -3602,7 +3566,8 @@
    "score": 92,
    "stability": 100,
    "country": "Germany",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "350bea61fe435b7f": {
    "cfg": "vless://4fa06c4f-b8ca-4361-9222-11814ca91486@b2a6d3eacf6cf285.5z6.ir:8133?security=none&encryption=mlkem768x25519plus.native.0rtt.-5XxpOsCMhZUt34DTIS27-u56sR1op7YY7BH1KD6Yw4&headerType=none&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3612,7 +3577,8 @@
    "score": 87,
    "stability": 100,
    "country": "Germany",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "56a755ef03bf9394": {
    "cfg": "vless://5d233135-d747-42cf-9d3a-64529b18549f@185.211.170.72:8444?security=reality&encryption=none&pbk=q4tx1Z-993Fgn36lXDzX_JN-0-oqmn1weQUyOEMENiw&type=grpc&serviceName=grpc&sni=nl.sosun4ik.top&sid=9c70cbbfe78c605b#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3622,7 +3588,8 @@
    "score": 89,
    "stability": 100,
    "country": "Russia",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "612837989eb070f9": {
    "cfg": "vless://d5274258-2b2b-497d-b063-c53c6b24ff1e@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3632,7 +3599,8 @@
    "score": 83,
    "stability": 100,
    "country": "Iran",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "81cb2d92bf2b67f6": {
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3642,7 +3610,8 @@
    "score": 99,
    "stability": 100,
    "country": "Canada",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "685fb97d47ec6b1e": {
    "cfg": "vmess://eyJ2IjogbnVsbCwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgImFkZCI6ICJ1cy0yMy5oaWh1Lm5ldCIsICJwb3J0IjogODAsICJpZCI6ICI4YTlhYWE3MC1jZWQ5LTExZjEtYjkzNC0yMDVjNmQ1ZjVkNzgiLCAiYWlkIjogIjAiLCAic2N5IjogbnVsbCwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAiMTcyLjY2LjAuMjUxIiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvODcwYW8yNmYiLCAidGxzIjogIiIsICJzbmkiOiBudWxsLCAiZnAiOiBudWxsLCAibmFtZSI6ICLwn4e68J+HuCBVUyA3In0=",
@@ -3652,7 +3621,8 @@
    "score": 96,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "6d54069e24512901": {
    "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiaWQiOiAiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwgInBvcnQiOiAiODAiLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIm5vbmUiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7sifQ==",
@@ -3662,7 +3632,8 @@
    "score": 96,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "bf59c9f27cb104be": {
    "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjEwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOGYzNzQyY2YtMmE2NS00MTZmLTgyNGItNWIzNGVkNzllZGY2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjE4OTgiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
@@ -3672,7 +3643,8 @@
    "score": 97,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "90276321d0035f5f": {
    "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiaG9zdCI6ICIxNzIuNjYuMC4yNTEiLCAiaWQiOiAiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84NzBhbzI2ZiIsICJwb3J0IjogIjgwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInYiOiAiMiJ9",
@@ -3682,7 +3654,8 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "496b2e8f81814599": {
    "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjEwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMmI0M2VlZTYtODMxZi00MTc0LWFlN2QtMDZlNjY5OWMyNjVlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjE4OTgiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
@@ -3692,7 +3665,8 @@
    "score": 96,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "8af937c7b1fb7d47": {
    "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIxNzIuNjYuMC4yNTEiLCAiaWQiOiAiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84NzBhbzI2ZiIsICJwb3J0IjogIjgwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
@@ -3702,7 +3676,8 @@
    "score": 96,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "fe7d60762f88e11f": {
    "cfg": "vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.215:443?encryption=none&security=tls&sni=service-453728-7467c1-production.up.railway.app&fp=chrome&alpn=http%2F1.1&type=ws&host=service-453728-7467c1-production.up.railway.app&path=%2Fws%2FDefault#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3712,7 +3687,8 @@
    "score": 72,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "9d4ba37d136d68b1": {
    "cfg": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@201.51.8.163:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=atk.vkusnews.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3722,7 +3698,8 @@
    "score": 93,
    "stability": 100,
    "country": "Russia",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "76f7123518fdb52b": {
    "cfg": "vless://57c87188-1056-4bd5-92f8-c7ca1fd19147@193.160.140.117:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3732,7 +3709,8 @@
    "score": 94,
    "stability": 100,
    "country": "Russia",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "cd8d8f4a63c54088": {
    "cfg": "vless://3644635c-f8c4-449c-a665-fce1897a7bf3@66.90.115.124:2090?security=reality&encryption=none&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=bb472a184677af64#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3742,7 +3720,8 @@
    "score": 85,
    "stability": 100,
    "country": "Hong Kong",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "ea6f5e24e466b021": {
    "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjEwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTVhY2M0ZTctMzE1YS00NjgwLWFiNjMtMDE2NmJiMmQ2MjQ5IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjE4OTgiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
@@ -3752,7 +3731,8 @@
    "score": 97,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "ba0212344dbf4ae1": {
    "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjhhOWFhYTcwLWNlZDktMTFmMS1iOTM0LTIwNWM2ZDVmNWQ3OCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
@@ -3762,7 +3742,8 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "1ffb720e4c2d1858": {
    "cfg": "vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3772,7 +3753,8 @@
    "score": 94,
    "stability": 100,
    "country": "Turkey",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "083895977eb19089": {
    "cfg": "vless://57c87188-1056-4bd5-92f8-c7ca1fd19147@193.160.140.117:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3782,7 +3764,8 @@
    "score": 96,
    "stability": 100,
    "country": "Russia",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "10c640fcbafcc4c6": {
    "cfg": "vless://57c87188-1056-4bd5-92f8-c7ca1fd19147@193.160.140.117:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3792,13 +3775,15 @@
    "score": 94,
    "stability": 100,
    "country": "Russia",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "53e994544fd81564": {
    "cfg": "vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@167.104.223.215:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb2.murainternet.network&sid=fc36b4a584871aa5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 2149,
    "ts": 1792957509.4295135,
-   "repost_count": 1
+   "repost_count": 1,
+   "last_checked": 1793664940.2326753
   },
   "fbff4f8f6795e48b": {
    "cfg": "vmess://eyJhZGQiOiAiMTk1LjI2LjI2Ljc0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiMjYxOWM0Yi0yZjQ3LTQ0NjQtOGRlOS1iYjA1NzZiZTc2ODciLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIzMzU1NCIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
@@ -3808,7 +3793,8 @@
    "score": 96,
    "stability": 100,
    "country": "Germany",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "e9ab1759da9f4a5d": {
    "cfg": "vless://2b821829-5b53-4421-949c-9147b65d1d51@37.27.12.39:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.fcB2zLobqN0Fx_7_N4ivatctNp_EWTMrKfEsH_vweVY&pbk=VmuqEmtzbhkJqt4-k_EFRGZFIhrQaloRkB9WnKsVJWg&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0b9579b2dba04664#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3818,7 +3804,8 @@
    "score": 91,
    "stability": 100,
    "country": "Finland",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "70ba5e1b3c66a20d": {
    "cfg": "vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?security=reality&encryption=none&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&headerType=none&fp=chrome&spx=%2Fa38e5cd3c84c243&type=tcp&sni=delivery.mp.microsoft.com&sid=d3feff5d570d6b#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3828,7 +3815,8 @@
    "score": 92,
    "stability": 100,
    "country": "France",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "06918516a1417454": {
    "cfg": "vless://0b418782-e023-447e-ba99-e66b84ff118d@213.152.165.203:2093?security=reality&encryption=none&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=8a9725533854a7e8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3838,7 +3826,8 @@
    "score": 92,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "4042dcd2dbd8a1af": {
    "cfg": "vless://871d8872-caff-4d13-b69a-b4a6e4c7535d@usa4.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=stripe.com&sid=377d#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3848,7 +3837,8 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "e9216436389b423f": {
    "cfg": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.176.229.51:443?security=reality&encryption=none&pbk=4FgTYQNtmGhIj137SdjagESDb61Kl6Anj_de5JP7YBs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ad9.vkusnews.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3858,7 +3848,8 @@
    "score": 93,
    "stability": 100,
    "country": "United Kingdom",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "091df2e2eabdec72": {
    "cfg": "vless://2b821829-5b53-4421-949c-9147b65d1d51@178.105.118.108:2083?encryption=mlkem768x25519plus.native.0rtt.bsTS-GAZcH7zZAnY4SyOV5Fhvr9tIAhpQ0hWwhzEljw&security=reality&sni=apps.apple.com&fp=chrome&pbk=qu9yjh7bIhWf-clw9fNLM7NqenR-xTJPQKIz6E-96z0&sid=6c07cc96c42506ed&pqv=T6ltGFY68jaUEyzlZDmiV4EZDNdjX6lIHFIOTPD7hTej3DFd5JkxYWhu5PonfTu8bJ43fbqQcdqg8RV-gCABB-peerUngTSN_7XvOagfnGWmaqTR2Xh7VIWt0InLBvSgrbifwctIXTGlY8J8iRQePqqJ4rv6LRA458RP1GRmoysrpsg5IBGvUSLvJPcwZNyklyqn60vaE3cLtZ7DWE1a0c_aSt2yc8eNumH__Tpfu8Nbod9aL-xSJ3uZeOm_OxkHyGn2tL1ZfDJHHmKLoxKF43OFmgX-O2II_P1GZ1w8CkDX79bvsg53icvDg3ZpCX-hATgMHKys3t-rPJhlT76Pl1jpdcqpAQB0frCCrlq_93PZBHgyoi36qCLeySE0jPODw_rLmFjcXHvS8eI82eSkPIexgeemoWAD9W17VF9meeC0fdVb0LsNTB4o9Nwsgcfn5dZFCDXLqmdHyCGiRWldKTpCkHYcPF64loNZiHBeqgbtx-7w-uwcTD293j-sYYEsZjvtWkmiRZXje2q8MhVXoR8QP56Mwe6wzKZa1LdauqW8iCwnZfP0GeZ1Hv1zlIsQosvZ7e1sW45uqnQG8m3Gj3z0jDG7tomTBLnq8P9PO0HkBFWOouLIPKV4iXiCaQM7TpIhDgDN6kamrpuDS62XE0uNu8gV3ovLlw8RBwChht51H-KLLHvI6fgck02WOlf0U6boS_wuQO8vYv08edaD4_1cSk1DJQnx8EWC3KTGoZv9FWeE22r9kgtJALU6Ayfb_wRTmWGbP45Ghd48r1WKoVwpPcuRe7JQZIgAFSUoS4gK8IoWfpTEV-Eu7zG5a7_KFiLD9c-uwsdA46xvQTOiX2cGuKIM8VLgYcZw1kRTHLZ-r5Yup_7RPr_fLa_kaXEUpus-dy1SFLRnbk85NBusPqSp5xwiHt6KwelUE1P6MvQJnYry5mjNZrWSuVnirLUDHXFQAEGLb8Klbqp43c4IeStewnY6KtMs2J_Jn34QiJUKhigleuQc9lfu0mC1FynUpi0o2aNALxnXZSEznXTJTlOEYxe9sudaHWsAA4jx-peIyO4GeH-QrqB1A2OPnkXrCFUexOGx9fVUVYGiHGOcTrlC84gPC7r0QEXeReD1D7thX4aLo7ajhx_m-pIfcgYeaBzgf6yqDKEVNedSctNwN5Rj1_Fp_LFM13KrqvRPPEJpIjSI7altgvlOWEvBU1WbZKFX1IjR9WoCe00M6vFa0J1juOe0QrXkITNI8M5UfG6MJ0nfIDBjxeHRrKfEYvXCQN_odq1ykUAyYxU9mqNeJHLeCdnEzOxz2TQPHIlwXPH88dJPPB9SLzdJuHphcPYjzo2hldPdUCnIvvFFIg8QBpR117MTIPDQcw7ySZ1IXUVHc4ixVe9VKLQh3fCazs2M4Kn7cgbJuvCU6Gj-S8fHe6htwE6ITkwHqHbvIa4U7TBABL2LdX4NIYju69AyP-bEBc5yEV8alv_R6lYbv9vD4EXvJ61zBdHR4EXpjkrw6dd91Tcd4jdse--z--9txdhj3LSYTSvY7Kp_5eF1tcBs_tR9Tz5s7U_lA6N21RLr4MBaE6NTRz1akfgJB0tsDP6_Md-l68VO3fQuls5ycSBFLWU-w04fxcGSs2hcmMLM3W0MYEnMOJOs_FS5x1EwU8MBcbwBRBe6xVG3X5T78kap_XDIFZqHRbtxUeUWdm5jBFRhFw5cB9iRYZ8C3KKMl-K3TVh-5tqgXJJqdtgHTcq1USr6hdTB68fKjfzZ2EaSabaqhwGPsl2qCoGMymVSpyOqysVWA1BdQvIPMTtq75_fZaeRC4hWZ35omFEBdXuR_ryRihglaWw2USoGz-1YEboIBPsQPdCjuz5GoaARjLHpgHdg2TkhuA-Mr6up09M1GRMYGqGPDnBcHbamN3oKDEv6Dbsr59FzJv_CefltjiB2qecC4D70i7qlfvViekqIrJ9FxPSso9I-yTp3-ZYZAQq-S_8Mj_uVvG3IwTHCKAH0RFKB9Q6bEV2A0XJkieogNNwHIJG_TrwCZ15qZlHA-fGdRP7OH0uuUEhnhjuB5ZcSDyrC1edA99XuemjCpYC13CKpyotrUVgXx012Vbln48mO-jN2LSfnjvgVlIxryVZgceCDam9shrilwQTZjNL47VDEvdpRQKt4KTzazrcQv4_q9H6fOK7gtK9Zi3oMQtfb6JUIUpoZvMwtMgfeBTCp0OzG7nQxLGg5FdOHAORUrQHlQYLZOrljKQmkFXop4_Aytk54_HwZ2CRcVnxZ3Hu2e9t6wviQefu0jJZSkqDhFDtf4ZQfep94GMi5DylDJBR1cYXnPIEsntxQEGopl866HOBgCwJAQjTgEcsT7r6H9wzDtExifFpy7CMUDDIMDgljFy2uviKreUOp0XjfpiMK2alhUOmANZIEzJVGY3UB8iK4su2AzCI3sYW5PBv4URtUJxWyRw7Kky64JACUMQzZAKORVWTQkRjfTgfKSoOljFbmP1mkCXZf4eJJBcyZ96XZsjkwf_QKOt9c2auXxi4ULdcRbivOiMu_ihsqx8tgXP_A6KBEaeqFXpbRQZfmWlnpNRekWTjNLxybhT9HnnG-XI4&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3868,7 +3859,8 @@
    "score": 94,
    "stability": 100,
    "country": "Germany",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "461e2030de9a6ca9": {
    "cfg": "vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&sid=870721a2&spx=%2F&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3878,7 +3870,8 @@
    "score": 92,
    "stability": 100,
    "country": "Moldova",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "99646bd2b39ac0c9": {
    "cfg": "vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3888,7 +3881,8 @@
    "score": 92,
    "stability": 100,
    "country": "Russia",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "ffcc240ab2cb61c4": {
    "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3898,7 +3892,8 @@
    "score": 78,
    "stability": 100,
    "country": "Moldova",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "2e662c0b9184c3de": {
    "cfg": "vmess://eyJhZGQiOiAiZGUuemhvdS15dWZhbi5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImYzOGU1OTFkLWQxM2EtNGMzMC05NzYzLTZiZTNhZDY1ZjNlYyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZGUuemhvdS15dWZhbi5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
@@ -3908,7 +3903,8 @@
    "score": 68,
    "stability": 100,
    "country": "Germany",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "1fd049ec5696331a": {
    "cfg": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3918,7 +3914,8 @@
    "score": 44,
    "stability": 100,
    "country": "Canada",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "26881b8b4c7441ef": {
    "cfg": "vless://88c4ce99-31f1-4329-912d-2a3564b3d58b@45.9.118.177:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3928,7 +3925,8 @@
    "score": 94,
    "stability": 100,
    "country": "Russia",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "ddf3bad697d13ed2": {
    "cfg": "vless://ca926603-c678-4639-b726-a5b82d7e110c@113.30.154.207:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3938,7 +3936,8 @@
    "score": 84,
    "stability": 100,
    "country": "Russia",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "2ff26ede28a843fe": {
    "cfg": "vmess://eyJhZGQiOiAiMTk1LjI2LjI2Ljc0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJjZjY2ZWZiMy1kNjEzLTRlMjktOWMxMS1kYTY5NjdiNDRlZjciLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIzMzU1NCIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
@@ -3948,7 +3947,8 @@
    "score": 95,
    "stability": 100,
    "country": "Germany",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "8ef96aea51130edb": {
    "cfg": "vless://680e92ac-1688-49e0-af96-7327fbc30ce8@193.160.140.119:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3958,7 +3958,8 @@
    "score": 95,
    "stability": 100,
    "country": "Russia",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "f009283c86bbd8ef": {
    "cfg": "vless://680e92ac-1688-49e0-af96-7327fbc30ce8@45.151.71.167:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=abuse.ozon.ru#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -3968,7 +3969,8 @@
    "score": 71,
    "stability": 100,
    "country": "Russia",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "485776c35383b35b": {
    "cfg": "vmess://eyJhZGQiOiAiNDMuMTMwLjM1LjUzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI4ZTkzYjAwOS1mMWFmLTQ0OGEtYjhlZi1iMTEwODQ5YTM1ZjAiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIxMDA4NyIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
@@ -3978,7 +3980,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "3a334857e1dd8afe": {
    "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiMTcyLjY2LjAuMjUxIiwgImlkIjogIjhhOWFhYTcwLWNlZDktMTFmMS1iOTM0LTIwNWM2ZDVmNWQ3OCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84NzBhbzI2ZiIsICJwY3MiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
@@ -3988,7 +3991,8 @@
    "score": 97,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "bfcc8c3824bf9893": {
    "cfg": "vmess://eyJhZGQiOiAiMjMuMTU4LjcyLjEzMSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwb3J0IjogIjgwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==",
@@ -3998,7 +4002,8 @@
    "score": 97,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "84c51a857ceadcf5": {
    "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiMTcyLjY2LjAuMjUxIiwgImlkIjogIjhhOWFhYTcwLWNlZDktMTFmMS1iOTM0LTIwNWM2ZDVmNWQ3OCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84NzBhbzI2ZiIsICJwY3MiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
@@ -4008,7 +4013,8 @@
    "score": 97,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "fa17850c71195123": {
    "cfg": "vmess://eyJhZGQiOiAidXMtMjMuaGlodS5uZXQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJ1cy0yMy5oaWh1Lm5ldCIsICJpZCI6ICI4YTlhYWE3MC1jZWQ5LTExZjEtYjkzNC0yMDVjNmQ1ZjVkNzgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9",
@@ -4018,7 +4024,8 @@
    "score": 97,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "e3267553d354ee4e": {
    "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjE1NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzA5YTVjNmItMmFiNy00OWViLTg3NzMtODRlNDZkZjk2NTBmIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTk0MDIiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
@@ -4028,7 +4035,8 @@
    "score": 96,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "b28b85943ea91f8d": {
    "cfg": "vless://00ee2eeb-cb0e-453c-b151-c8cf28089d31@116.203.7.223:34257?encryption=none&security=reality&type=tcp&headerType=none&host=play.google.com&sni=play.google.com&fp=edge&pbk=5FkOfDtgsGr856IC5mE1c27qzl_HQ85onkcaIzd_qgk&sid=601e43eb94a28919#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4038,7 +4046,8 @@
    "score": 95,
    "stability": 100,
    "country": "Germany",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "ec5e42304f40e9f0": {
    "cfg": "vmess://eyJhZGQiOiAiNDMuMTMwLjM1LjUzIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI4ZTkzYjAwOS1mMWFmLTQ0OGEtYjhlZi1iMTEwODQ5YTM1ZjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjEwMDg3IiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
@@ -4048,7 +4057,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "2758a2611578b000": {
    "cfg": "vless://ee82f319-ab92-425d-8e04-28a29f33f670@193.160.141.81:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=apple.com&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4058,7 +4068,8 @@
    "score": 94,
    "stability": 100,
    "country": "Russia",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "b72c3c9f6fc4c119": {
    "cfg": "vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=&fp=chrome&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4068,7 +4079,8 @@
    "score": 96,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "af46271e0a09c8a9": {
    "cfg": "vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?mode=gun&security=reality&encryption=none&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&fp=chrome&type=grpc&serviceName=grpc_common1&sni=www.semiconductor.samsung.com&sid=defda00d613c#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4078,7 +4090,8 @@
    "score": 96,
    "stability": 100,
    "country": "Canada",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "811b84e6bccbbd8d": {
    "cfg": "vless://a715374a-a745-4800-889b-0c864fad5ca0@212.103.62.233:443?security=reality&encryption=none&pbk=d9PiZnm10DBNrlT1ixDCgEk0iU1Hv8Jk1xEI4-Oe6jU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=35d45334668b3ac5#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4088,13 +4101,15 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "474baa1c755c6bca": {
    "cfg": "vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?security=reality&encryption=none&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d15c17cef9b2e456#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 2187,
    "ts": 1793120568.9755113,
-   "repost_count": 1
+   "repost_count": 1,
+   "last_checked": 1793664940.2326753
   },
   "454de87d66469389": {
    "cfg": "vless://00ee2eeb-cb0e-453c-b151-c8cf28089d31@116.203.7.223:34257?encryption=none&security=reality&sni=play.google.com&fp=edge&pbk=5FkOfDtgsGr856IC5mE1c27qzl_HQ85onkcaIzd_qgk&sid=601e43eb94a28919&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4104,7 +4119,8 @@
    "score": 95,
    "stability": 100,
    "country": "Germany",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "98494e20bd0c7fe6": {
    "cfg": "vless://00ee2eeb-cb0e-453c-b151-c8cf28089d31@116.203.7.223:34257?security=reality&encryption=none&pbk=5FkOfDtgsGr856IC5mE1c27qzl_HQ85onkcaIzd_qgk&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=601e43eb94a28919&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4114,7 +4130,8 @@
    "score": 96,
    "stability": 100,
    "country": "Germany",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "abb6e4d505d874e3": {
    "cfg": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?security=reality&encryption=none&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=ca4aedd4#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4124,7 +4141,8 @@
    "score": 92,
    "stability": 100,
    "country": "Hong Kong",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "2fc2a3450b01d71f": {
    "cfg": "vless://4b1be712-774c-4b65-8491-a3339e124a70@tr2.tv-quoralyx.top:443?security=reality&encryption=none&pbk=w0yEuw7sPMCEwk9_vDVoqjBhJsGoPvR7TsxIZVJy3iw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tr2.tv-quoralyx.top&sid=f4b2a12c#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4134,7 +4152,8 @@
    "score": 93,
    "stability": 100,
    "country": "Turkey",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "4eba679d39122d8d": {
    "cfg": "vless://0ecd76fc-6888-44d2-b97f-4f9ba66c55f2@91.107.247.174:443?security=reality&encryption=none&pbk=MjBRMMMBFIu4jSHSdDzdK4VPczAVkC1GHhHvugU3myI&headerType=none&fp=chrome&spx=%2Fd8a10c7b6873457&type=tcp&sni=gspe121-rh-ssl.ls.apple.com&sid=b263a86044be000e#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4144,7 +4163,8 @@
    "score": 95,
    "stability": 100,
    "country": "Germany",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "5470614c4819e89d": {
    "cfg": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4154,7 +4174,8 @@
    "score": 91,
    "stability": 100,
    "country": "Singapore",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "8b700a15c4d63400": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=Copy_Shode_az_Chanel0111Net&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4164,7 +4185,8 @@
    "score": 94,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "5a9c098f0fc58bfc": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4174,7 +4196,8 @@
    "score": 94,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "1157e465c639b47a": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4184,7 +4207,8 @@
    "score": 96,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "695d9c65e407ef19": {
    "cfg": "vless://0ecd76fc-6888-44d2-b97f-4f9ba66c55f2@91.107.247.174:443?security=reality&encryption=none&pbk=MjBRMMMBFIu4jSHSdDzdK4VPczAVkC1GHhHvugU3myI&headerType=none&fp=chrome&spx=%2Fd8a10c7b6873457&type=tcp&sni=gspe121-rh-ssl.ls.apple.com&sid=b263a86044be000e&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4194,7 +4218,8 @@
    "score": 94,
    "stability": 100,
    "country": "Germany",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "94ec548801f368e3": {
    "cfg": "vless://2714cc83-4b3d-47e2-a422-efefc3654aa0@xray1-direct-mci1-fs-ce.freesocks.work:443?flow=xtls-rprx-vision&fp=chrome&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&security=reality&sni=dl.google.com&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4204,7 +4229,8 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "db8f12b6edf36017": {
    "cfg": "vless://ee82f319-ab92-425d-8e04-28a29f33f670@193.160.141.81:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4214,7 +4240,8 @@
    "score": 96,
    "stability": 100,
    "country": "Russia",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "a02709ac6041bb34": {
    "cfg": "vless://6973522d-05e3-4db3-b3eb-645c6eafa3d4@172.234.237.157:8443?security=reality&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221-104%22%2C%22maxSplit%22%3A%220%22%2C%22packets%22%3A%22tlshello%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%221-114%22%2C%22maxSplit%22%3A%2211%22%2C%22packets%22%3A%221-1%22%7D%7D%5D%2C%22udp%22%3A%5B%7B%22type%22%3A%22header-custom%22%2C%22settings%22%3A%7B%22client%22%3A%5B%7B%22rand%22%3A16%2C%22randRange%22%3A%220-255%22%7D%5D%2C%22server%22%3A%5B%7B%22rand%22%3A16%2C%22randRange%22%3A%220-255%22%7D%5D%7D%7D%5D%7D&pbk=fR89hjN0efdYcIzGHmYUehgSYycr2_u1VuDc0CMHolQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=play.googleapis.com&sid=10ef8f22f8632c84#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4224,7 +4251,8 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "90911a48849219d0": {
    "cfg": "vmess://eyJ2IjogIjIiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAiYWRkIjogIjkxLjEwNy4xMjguNDQiLCAicG9ydCI6IDM2ODEyLCAidHlwZSI6ICJub25lIiwgImlkIjogIjZjZGZjMjdiLWEwY2MtNGVhMS04MDJhLWU5ODU1MmJlNDMwZCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICLwn4ep8J+HqltvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtREUifQ==",
@@ -4234,7 +4262,8 @@
    "score": 96,
    "stability": 100,
    "country": "Germany",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "5339bafbfcb02123": {
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4244,7 +4273,8 @@
    "score": 99,
    "stability": 100,
    "country": "",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "58145080e219eeea": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=Copy_Shode_az_Chanel0111Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4254,7 +4284,8 @@
    "score": 96,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "9b568c52d798af89": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4264,7 +4295,8 @@
    "score": 95,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "a3f7e32ea70da136": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram—V2ray_confiig&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4274,7 +4306,8 @@
    "score": 95,
    "stability": 100,
    "country": "France",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "72918606becabe14": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram—V2ray_confiig&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4284,7 +4317,8 @@
    "score": 93,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "1aa9158eb48bebd5": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4294,7 +4328,8 @@
    "score": 85,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "9dce15ead253722d": {
    "cfg": "vmess://eyJhZGQiOiAiMzguMTEwLjEuMjQ2IiwgInBvcnQiOiAiMTgwMDAiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidiI6ICIyIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0eXBlIjogIm5vbmUiLCAic2VydmVyUG9ydCI6IDAsICJuYXRpb24iOiAiIn0=",
@@ -4304,7 +4339,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "4c817320afe2e2bd": {
    "cfg": "vmess://eyJhZGQiOiAiMzguMTEwLjEuMjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiBudWxsLCAiZnAiOiBudWxsLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxODAwMCwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6IG51bGwsICJzbmkiOiBudWxsLCAidGxzIjogIiIsICJ0eXBlIjogbnVsbCwgInYiOiBudWxsfQ==",
@@ -4314,7 +4350,8 @@
    "score": 80,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "424d18a8173f9524": {
    "cfg": "vmess://eyJhZGQiOiAiMzguMTEwLjEuMjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ0aWNuIjogIiJ9",
@@ -4324,7 +4361,8 @@
    "score": 95,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "b1ba81d1f5bd2868": {
    "cfg": "vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&type=tcp&allowInsecure=1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4334,7 +4372,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "e272d26dcd9823fc": {
    "cfg": "vmess://eyJ2IjogIjIiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAiYWRkIjogIjY3LjIyMC45NS4zIiwgInBvcnQiOiAiMTgwMDAiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==",
@@ -4344,7 +4383,8 @@
    "score": 77,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "580a410dd578fd05": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4354,7 +4394,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "966d47407aa55f4f": {
    "cfg": "vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
@@ -4364,7 +4405,8 @@
    "score": 79,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "52a6ee34faf7b81a": {
    "cfg": "vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4374,7 +4416,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "e8e831488de00f53": {
    "cfg": "vless://4b1be712-774c-4b65-8491-a3339e124a70@155.117.232.61:443?flow=xtls-rprx-vision&fp=chrome&pbk=aZDDxJRwRH2J4FPtoIr7DmOvpQPh9sbGbvV-NpVpfms&security=reality&sid=336c2cff6e3717c4&sni=node-usa.blok-signalon.top&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4384,7 +4427,8 @@
    "score": 100,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "fe650d8521e5c6e3": {
    "cfg": "vless://4b1be712-774c-4b65-8491-a3339e124a70@155.117.232.61:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aZDDxJRwRH2J4FPtoIr7DmOvpQPh9sbGbvV-NpVpfms&security=reality&sid=336c2cff6e3717c4&sni=node-usa.blok-signalon.top&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4394,7 +4438,8 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "ea8ed7e607f5c6e0": {
    "cfg": "vless://0597ed1d-d599-4ef6-913e-ea5b8e13aed6@3.148.108.225:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=%2Foutlook&sni=c.s-microsoft.com&fp=chrome&alpn=h2%2Chttp%2F1.1&pbk=KAPbb7td_kjh6IkSuoq4eaeSWoilJ978RaSokYBZyS8&sid=da4d68d031b0d40c#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4404,7 +4449,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "6c030fe8dfe17da7": {
    "cfg": "vless://4b1be712-774c-4b65-8491-a3339e124a70@155.117.232.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-usa.blok-signalon.top&fp=firefox&pbk=aZDDxJRwRH2J4FPtoIr7DmOvpQPh9sbGbvV-NpVpfms&sid=336c2cff6e3717c4&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4414,7 +4460,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "b24823b6968ad3ae": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4424,13 +4471,15 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "8db03ad528854bbb": {
    "cfg": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
    "msg": 2237,
    "ts": 1793264538.0818026,
-   "repost_count": 1
+   "repost_count": 1,
+   "last_checked": 1793664940.2326753
   },
   "e44ea9f34047ae43": {
    "cfg": "vmess://eyJhZGQiOiAiNDMuMTMwLjM1LjUzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImJhdGNoIjogIiIsICJlY2hDb25maWdMaXN0IjogIiIsICJlY2hTZXJ2ZXJLZXlzIjogIiIsICJmYWtlaG9zdF9kb21haW4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI4ZTkzYjAwOS1mMWFmLTQ0OGEtYjhlZi1iMTEwODQ5YTM1ZjAiLCAiaW50ZXJ2YWwiOiAiIiwgImxlbmd0aCI6ICIiLCAibXV4IjogIiIsICJtdXhDb25jdXJyZW5jeSI6ICIiLCAibmV0IjogInRjcCIsICJwYWNrZXRzIjogIiIsICJwYXRoIjogIiIsICJwb3J0IjogIjEwMDg3IiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInhodHRwX2V4dHJhIjogIiJ9",
@@ -4440,7 +4489,8 @@
    "score": 95,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "501f03072d4125cd": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4450,7 +4500,8 @@
    "score": 95,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "2f80ce02282fcbca": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4460,7 +4511,8 @@
    "score": 97,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "8cda872b702c5aad": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4470,7 +4522,8 @@
    "score": 94,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "14bdda6ec2a6ae05": {
    "cfg": "vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4480,7 +4533,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "3f834d65805c0dcb": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4490,7 +4544,8 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "a987581a85dc7829": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4500,7 +4555,8 @@
    "score": 95,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "e635220393300bd1": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4510,7 +4566,8 @@
    "score": 97,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "ec42d59d82406935": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.224:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4520,7 +4577,8 @@
    "score": 97,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "40402a1965fbc3d3": {
    "cfg": "vless://ce8fbdea-c3c3-4fb1-9658-32599d1f853f@45.152.192.229:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=8a11e6a89110.j.cloudfront.hls.ttvnw.net&sid=61e21f9aa67aa1bf#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4530,7 +4588,8 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "4b410b0e7c47bca3": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4540,7 +4599,8 @@
    "score": 97,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "e9540ac53a04bc4a": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4550,7 +4610,8 @@
    "score": 96,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "aca3eecc6c6cc42c": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4560,7 +4621,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "6987873487683612": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4570,7 +4632,8 @@
    "score": 96,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "2271aa7dbbad223c": {
    "cfg": "vmess://eyJhZGQiOiAiMzguMTEwLjEuMjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJAazJndWFyZCAg2KzZiNuM2YYg2LTZiCDwn5GI8J+PuyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiMzguMTEwLjEuMjQ2IiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
@@ -4580,7 +4643,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "529442c62cfa6e27": {
    "cfg": "vmess://eyJhZGQiOiAiMzguMTEwLjEuMjQ2IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNuaSI6ICIzOC4xMTAuMS4yNDYiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
@@ -4590,7 +4654,8 @@
    "score": 62,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "98e9a0b8ed2b6e85": {
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?path=%2F%3FTELEGRAM--V2ray_confiig%3Fed%3D2560&security=tls&encryption=none&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4600,7 +4665,8 @@
    "score": 99,
    "stability": 100,
    "country": "",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "2060a5c938712741": {
    "cfg": "vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAicG9ydCI6ICIxODAwMCIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ2IjogIjIiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInR5cGUiOiAibm9uZSIsICJzZXJ2ZXJQb3J0IjogMCwgIm5hdGlvbiI6ICIifQ==",
@@ -4610,7 +4676,8 @@
    "score": 100,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "98a8bd2c0c847e88": {
    "cfg": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sid=83f8317a948bb769#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4620,7 +4687,8 @@
    "score": 98,
    "stability": 100,
    "country": "Canada",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "371044aab35eb0d5": {
    "cfg": "vless://ce8fbdea-c3c3-4fb1-9658-32599d1f853f@45.152.192.229:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=8a11e6a89110.j.cloudfront.hls.ttvnw.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=61e21f9aa67aa1bf&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4630,7 +4698,8 @@
    "score": 97,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "0b3b2f738662fa1b": {
    "cfg": "vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&sid=c85d029f5e8eb393&type=tcp&headerType=none&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4640,7 +4709,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "c5b4c96999235f8a": {
    "cfg": "vless://cb06778c-91e6-480a-a791-a49dcfa940d5@199.127.153.13:43000/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=reality&pbk=iLJlXL4PvOVex6GXgDLywQQ_j6_uJ7YMVlePIYwceF8&sid=1a72a06c#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4650,7 +4720,8 @@
    "score": 98,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "91d058f001849952": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4672,7 +4743,8 @@
    "score": 95,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "d2fad2bafab7cbfe": {
    "cfg": "vless://ce8fbdea-c3c3-4fb1-9658-32599d1f853f@45.152.192.229:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=reality&sni=8a11e6a89110.j.cloudfront.hls.ttvnw.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=61e21f9aa67aa1bf&type=tcp&headerType=none#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4682,7 +4754,8 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "d20b911df9958996": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4692,7 +4765,8 @@
    "score": 96,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "39027b1ecf98c4b6": {
    "cfg": "vmess://eyJhZGQiOiAiMTg1LjE5LjMzLjEyMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTc3YzEzYWItMzExYS00MzJmLTgzZTYtMzM2ZjBlNDQ1ZmE3IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMzQwMjkiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
@@ -4702,7 +4776,8 @@
    "score": 97,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "039dbb90513a21d8": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4712,7 +4787,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "779a89a061a5f1fd": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4722,7 +4798,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "f709c43b0e5e7419": {
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4732,7 +4809,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "83ff4efc86893f24": {
    "cfg": "vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?security=reality&encryption=none&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=c85d029f5e8eb393#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4742,7 +4820,8 @@
    "score": 97,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "23a10e090db918ff": {
    "cfg": "vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&sid=c85d029f5e8eb393&spx=/HesarWeb#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4752,7 +4831,8 @@
    "score": 99,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "6668f591e260e0e5": {
    "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4762,7 +4842,8 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "ca0d5a3bc659227c": {
    "cfg": "vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@185.168.208.190:47443?security=reality&encryption=none&pbk=hz7rzdHvTAVwfy48pa6313yBF-sV7V0svvPVnl95bgY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us-1.waspguard.ru&sid=ae97246a8f799854#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4772,7 +4853,8 @@
    "score": 98,
    "stability": 100,
    "country": "United States",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "a351fe7d37c97479": {
    "cfg": "vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4782,7 +4864,8 @@
    "score": 99,
    "stability": 100,
    "country": "",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "7ef23776a45ee807": {
    "cfg": "vless://cb06778c-91e6-480a-a791-a49dcfa940d5@199.127.153.13:43000?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=reality&pbk=iLJlXL4PvOVex6GXgDLywQQ_j6_uJ7YMVlePIYwceF8&sid=1a72a06c#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
@@ -4792,7 +4875,8 @@
    "score": 99,
    "stability": 100,
    "country": "The Netherlands",
-   "repost_count": 0
+   "repost_count": 0,
+   "last_checked": 1793664940.2326753
   },
   "e5a5f82c8a754420": {
    "cfg": "vmess://eyJ2IjogbnVsbCwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgImFkZCI6ICIzOC4xMTAuMS4yNDYiLCAicG9ydCI6IDE4MDAwLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6IG51bGwsICJob3N0IjogIiIsICJhbHBuIjogbnVsbCwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6IG51bGwsICJmcCI6IG51bGwsICJuYW1lIjogIvCfh7rwn4e4IFVTIDY0In0=",
@@ -5550,6 +5634,16 @@
    "ts": 1793663200.2773037,
    "ping": 453,
    "score": 94,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
+  },
+  "52b8edf662e8c2f8": {
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2352,
+   "ts": 1793664940.201781,
+   "ping": 353,
+   "score": 95,
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
@@ -7571,70 +7665,35 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1793662250.0986474
+  },
+  "51.158.206.86": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1793664939.384238
   }
  },
  "stats": {
-  "date": "2026-11-02",
-  "fetched": 549,
-  "healthy": 415,
-  "posted": 41,
+  "date": "2026-11-03",
+  "fetched": 0,
+  "healthy": 0,
+  "posted": 1,
   "removed": 0,
   "published_scores": [
-   99,
-   93,
-   99,
-   100,
-   97,
-   99,
-   100,
-   100,
-   98,
-   98,
-   98,
-   97,
-   97,
-   97,
-   98,
-   99,
-   98,
-   98,
-   99,
-   99,
-   98,
-   99,
-   84,
-   99,
-   99,
-   99,
-   97,
-   99,
-   98,
-   98,
-   99,
-   77,
-   99,
-   98,
-   95,
-   85,
-   99,
-   97,
-   96,
-   94,
-   94
+   95
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1793663193.9701157,
- "last_auto_clean": 1793642458.2254033,
+ "last_auto_post": 1793664931.4274576,
+ "last_auto_clean": 1793664940.2181327,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
  "quarantine": {},
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 1873,
+   "fetched": 1909,
    "healthy": 158,
    "failed": 0,
-   "runs": 38
+   "runs": 39
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -7646,13 +7705,13 @@
    "fetched": 0,
    "healthy": 0,
    "failed": 0,
-   "runs": 34
+   "runs": 35
   },
   "configx2ray": {
-   "fetched": 475,
+   "fetched": 490,
    "healthy": 0,
    "failed": 0,
-   "runs": 34
+   "runs": 35
   }
  },
  "source_stats": {
@@ -7660,21 +7719,21 @@
    "fetched": 36,
    "healthy": 0,
    "ok": true,
-   "ts": 1793663195,
+   "ts": 1793664932,
    "error": ""
   },
   "zibanabz": {
    "fetched": 0,
    "healthy": 0,
    "ok": true,
-   "ts": 1793663195,
+   "ts": 1793664933,
    "error": ""
   },
   "configx2ray": {
    "fetched": 15,
    "healthy": 0,
    "ok": true,
-   "ts": 1793663196,
+   "ts": 1793664934,
    "error": ""
   }
  }
