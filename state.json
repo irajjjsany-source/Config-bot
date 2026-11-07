@@ -334,24 +334,6 @@
  },
  "queue": [
   {
-   "id": "4586078529af0c7c",
-   "cfg": "vless://12fd091e-a68a-4f9b-9def-777a2f5b5c0c@188.130.209.201:443?security=reality&encryption=none&pbk=3p6W4rMBh1HCwbjq4lcbWO0KjkqTshJU5lkTix5nwTc&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=thumbs.mycdn-io.ru&sid=d3f314d0b692f63d#",
-   "ping": 1141,
-   "best": 794,
-   "score": 85,
-   "stability": 100,
-   "ts": 1794083436.9172616
-  },
-  {
-   "id": "eb9d80e1b108441b",
-   "cfg": "vless://7e8eea89-16dd-4a6d-ad9b-192e23c59ffb@85.202.192.131:36746?security=reality&encryption=none&pbk=a7pyyCqFCfWKtsr-Umm5g_Ii5XzhFznIrOtg_U3V2RI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=splitter.wb.ru&sid=f1eb436223e1a36a#",
-   "ping": 1395,
-   "best": 936,
-   "score": 82,
-   "stability": 100,
-   "ts": 1794076237.1520655
-  },
-  {
    "id": "58833c5e051270d8",
    "cfg": "vless://ebfe9aa7-990f-4d30-9105-2c6b25817194@213.155.23.70:17789?security=reality&encryption=none&pbk=uXwlj6V8_F5RLwqw8C25GIsNP99AGv_Vvb_XmRuo1UU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=splitter.wb.ru&sid=487cff0425b4e006#",
    "ping": 1023,
@@ -5549,6 +5531,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "eb9d80e1b108441b": {
+   "cfg": "vless://7e8eea89-16dd-4a6d-ad9b-192e23c59ffb@85.202.192.131:36746?security=reality&encryption=none&pbk=a7pyyCqFCfWKtsr-Umm5g_Ii5XzhFznIrOtg_U3V2RI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=splitter.wb.ru&sid=f1eb436223e1a36a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2402,
+   "ts": 1794092473.964343,
+   "ping": 830,
+   "score": 89,
+   "stability": 100,
+   "country": "Kazakhstan",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -7667,13 +7659,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1794090644.5260112
+  },
+  "85.202.192.131": {
+   "cc": "KZ",
+   "name": "Kazakhstan",
+   "ts": 1794092473.2865682
   }
  },
  "stats": {
   "date": "2026-11-07",
   "fetched": 84,
   "healthy": 33,
-  "posted": 17,
+  "posted": 18,
   "removed": 0,
   "published_scores": [
    92,
@@ -7692,11 +7689,12 @@
    94,
    93,
    95,
-   90
+   90,
+   89
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794090637.6050212,
+ "last_auto_post": 1794092442.011938,
  "last_auto_clean": 1794087927.0556624,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -7712,10 +7710,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 3574,
+   "fetched": 3606,
    "healthy": 399,
    "failed": 3,
-   "runs": 79
+   "runs": 80
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -7724,16 +7722,16 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 538,
+   "fetched": 562,
    "healthy": 9,
    "failed": 1,
-   "runs": 75
+   "runs": 76
   },
   "configx2ray": {
-   "fetched": 1165,
+   "fetched": 1185,
    "healthy": 0,
    "failed": 0,
-   "runs": 75
+   "runs": 76
   }
  },
  "source_stats": {
@@ -7741,21 +7739,21 @@
    "fetched": 32,
    "healthy": 0,
    "ok": true,
-   "ts": 1794090638,
+   "ts": 1794092442,
    "error": ""
   },
   "zibanabz": {
    "fetched": 24,
    "healthy": 0,
    "ok": true,
-   "ts": 1794090639,
+   "ts": 1794092443,
    "error": ""
   },
   "configx2ray": {
    "fetched": 20,
    "healthy": 0,
    "ok": true,
-   "ts": 1794090640,
+   "ts": 1794092444,
    "error": ""
   }
  }
