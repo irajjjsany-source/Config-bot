@@ -335,18 +335,14 @@
   "e21a8ae34c58eea7": 1794069038.008109,
   "fcadc020f953405e": 1794069038.008109,
   "bbdd78ccff36e6fc": 1794069038.008109,
-  "230ea088b99b22f5": 1794069038.008109
+  "230ea088b99b22f5": 1794069038.008109,
+  "a242b45a43bde78e": 1794070843.2789197,
+  "87e66bd2aa266fcf": 1794070843.2789197,
+  "883cbdd2e7f2e1ef": 1794070843.2789197,
+  "ffd7f889706e9f1e": 1794070843.2789197,
+  "224649dc1ce324f1": 1794070843.2789197
  },
  "queue": [
-  {
-   "id": "e21a8ae34c58eea7",
-   "cfg": "vless://90157e25-cee1-4217-921e-91f300bc1a24@66.90.106.28:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=banket-restoran.su&sid=428ef87fd47a3a32#",
-   "ping": 465,
-   "best": 433,
-   "score": 94,
-   "stability": 100,
-   "ts": 1794069038.008109
-  },
   {
    "id": "f54203379533a5f8",
    "cfg": "vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=firefox&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#",
@@ -5476,6 +5472,16 @@
    "stability": 100,
    "country": "Switzerland",
    "repost_count": 0
+  },
+  "e21a8ae34c58eea7": {
+   "cfg": "vless://90157e25-cee1-4217-921e-91f300bc1a24@66.90.106.28:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=banket-restoran.su&sid=428ef87fd47a3a32#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2390,
+   "ts": 1794070851.631996,
+   "ping": 548,
+   "score": 93,
+   "stability": 100,
+   "country": "Austria",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -7554,24 +7560,30 @@
    "cc": "CH",
    "name": "Switzerland",
    "ts": 1794069047.5743368
+  },
+  "66.90.106.28": {
+   "cc": "AT",
+   "name": "Austria",
+   "ts": 1794070850.984715
   }
  },
  "stats": {
   "date": "2026-11-07",
-  "fetched": 52,
+  "fetched": 57,
   "healthy": 22,
-  "posted": 5,
+  "posted": 6,
   "removed": 0,
   "published_scores": [
    92,
    99,
    93,
    95,
-   94
+   94,
+   93
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794069037.9839025,
+ "last_auto_post": 1794070843.2665288,
  "last_auto_clean": 1794066137.7726777,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -7587,10 +7599,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 3103,
+   "fetched": 3149,
    "healthy": 388,
    "failed": 2,
-   "runs": 67
+   "runs": 68
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -7599,38 +7611,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 250,
+   "fetched": 274,
    "healthy": 9,
    "failed": 1,
-   "runs": 63
+   "runs": 64
   },
   "configx2ray": {
-   "fetched": 940,
+   "fetched": 960,
    "healthy": 0,
    "failed": 0,
-   "runs": 63
+   "runs": 64
   }
  },
  "source_stats": {
   "chillguy_vpn": {
    "fetched": 46,
-   "healthy": 3,
+   "healthy": 0,
    "ok": true,
-   "ts": 1794069038,
+   "ts": 1794070844,
    "error": ""
   },
   "zibanabz": {
    "fetched": 24,
    "healthy": 0,
    "ok": true,
-   "ts": 1794069039,
+   "ts": 1794070844,
    "error": ""
   },
   "configx2ray": {
-   "fetched": 15,
+   "fetched": 20,
    "healthy": 0,
    "ok": true,
-   "ts": 1794069040,
+   "ts": 1794070845,
    "error": ""
   }
  }
