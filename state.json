@@ -348,18 +348,11 @@
   "5fbbcc0d94b99535": 1794076237.1520655,
   "bca6a4e2af2aa336": 1794076237.1520655,
   "9c8188139ab3b20f": 1794076237.1520655,
-  "eb9d80e1b108441b": 1794076237.1520655
+  "eb9d80e1b108441b": 1794076237.1520655,
+  "475169afd3d39e30": 1794078043.0219805,
+  "91973dce3a6a2778": 1794078043.0219805
  },
  "queue": [
-  {
-   "id": "7fbcf77914414b71",
-   "cfg": "vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=chrome&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#",
-   "ping": 621,
-   "best": 610,
-   "score": 92,
-   "stability": 100,
-   "ts": 1794066104.5478108
-  },
   {
    "id": "8c676bf546b533ec",
    "cfg": "vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?mode=gun&security=reality&encryption=none&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&fp=chrome&type=grpc&serviceName=grpc_common3&sni=www.sony.com&sid=2fed44d8c59f7e71#",
@@ -422,6 +415,15 @@
    "score": 82,
    "stability": 100,
    "ts": 1794076237.1520655
+  },
+  {
+   "id": "475169afd3d39e30",
+   "cfg": "vless://e60f89d9-ea22-4db0-aaa5-508d39fd87ea@185.203.4.97:24009?security=reality&encryption=none&pbk=FRrmnh-6aZBPg6zdxiS3VPuS2uW2w2kfq_oHBf4iiU8&fp=chrome&spx=/4763731c28d5fe2&type=grpc&sni=it.nvidia.com&sid=5b7222#",
+   "ping": 2345,
+   "best": 1577,
+   "score": 70,
+   "stability": 100,
+   "ts": 1794078043.0219805
   },
   {
    "id": "9baf3b9feb4b087c",
@@ -5520,6 +5522,16 @@
    "stability": 100,
    "country": "Germany",
    "repost_count": 0
+  },
+  "7fbcf77914414b71": {
+   "cfg": "vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=chrome&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2394,
+   "ts": 1794078060.8829417,
+   "ping": 612,
+   "score": 92,
+   "stability": 100,
+   "country": "France",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -7622,9 +7634,9 @@
  },
  "stats": {
   "date": "2026-11-07",
-  "fetched": 65,
-  "healthy": 25,
-  "posted": 9,
+  "fetched": 67,
+  "healthy": 26,
+  "posted": 10,
   "removed": 0,
   "published_scores": [
    92,
@@ -7635,11 +7647,12 @@
    93,
    93,
    97,
-   94
+   94,
+   92
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794076237.1411161,
+ "last_auto_post": 1794078043.0110543,
  "last_auto_clean": 1794066137.7726777,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -7655,10 +7668,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 3288,
-   "healthy": 391,
+   "fetched": 3325,
+   "healthy": 392,
    "failed": 2,
-   "runs": 71
+   "runs": 72
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -7667,38 +7680,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 346,
+   "fetched": 370,
    "healthy": 9,
    "failed": 1,
-   "runs": 67
+   "runs": 68
   },
   "configx2ray": {
-   "fetched": 1020,
+   "fetched": 1040,
    "healthy": 0,
    "failed": 0,
-   "runs": 67
+   "runs": 68
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 44,
-   "healthy": 2,
+   "fetched": 37,
+   "healthy": 1,
    "ok": true,
-   "ts": 1794076238,
+   "ts": 1794078044,
    "error": ""
   },
   "zibanabz": {
    "fetched": 24,
    "healthy": 0,
    "ok": true,
-   "ts": 1794076239,
+   "ts": 1794078045,
    "error": ""
   },
   "configx2ray": {
    "fetched": 20,
    "healthy": 0,
    "ok": true,
-   "ts": 1794076240,
+   "ts": 1794078046,
    "error": ""
   }
  }
