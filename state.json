@@ -350,7 +350,8 @@
   "9c8188139ab3b20f": 1794076237.1520655,
   "eb9d80e1b108441b": 1794076237.1520655,
   "475169afd3d39e30": 1794078043.0219805,
-  "91973dce3a6a2778": 1794078043.0219805
+  "91973dce3a6a2778": 1794078043.0219805,
+  "08793c0b57648aa7": 1794079834.6935883
  },
  "queue": [
   {
@@ -5532,6 +5533,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "08793c0b57648aa7": {
+   "cfg": "vless://90157e25-cee1-4217-921e-91f300bc1a24@66.90.106.28:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=banket-restoran.su&sid=428ef87fd47a3a32#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2395,
+   "ts": 1794079840.881119,
+   "ping": 455,
+   "score": 94,
+   "stability": 100,
+   "country": "Austria",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -7634,9 +7645,9 @@
  },
  "stats": {
   "date": "2026-11-07",
-  "fetched": 67,
-  "healthy": 26,
-  "posted": 10,
+  "fetched": 68,
+  "healthy": 27,
+  "posted": 11,
   "removed": 0,
   "published_scores": [
    92,
@@ -7648,11 +7659,12 @@
    93,
    97,
    94,
-   92
+   92,
+   94
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794078043.0110543,
+ "last_auto_post": 1794079834.6855536,
  "last_auto_clean": 1794066137.7726777,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -7668,10 +7680,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 3325,
-   "healthy": 392,
+   "fetched": 3366,
+   "healthy": 393,
    "failed": 2,
-   "runs": 72
+   "runs": 73
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -7680,38 +7692,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 370,
+   "fetched": 394,
    "healthy": 9,
    "failed": 1,
-   "runs": 68
+   "runs": 69
   },
   "configx2ray": {
-   "fetched": 1040,
+   "fetched": 1060,
    "healthy": 0,
    "failed": 0,
-   "runs": 68
+   "runs": 69
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 37,
+   "fetched": 41,
    "healthy": 1,
    "ok": true,
-   "ts": 1794078044,
+   "ts": 1794079835,
    "error": ""
   },
   "zibanabz": {
    "fetched": 24,
    "healthy": 0,
    "ok": true,
-   "ts": 1794078045,
+   "ts": 1794079836,
    "error": ""
   },
   "configx2ray": {
    "fetched": 20,
    "healthy": 0,
    "ok": true,
-   "ts": 1794078046,
+   "ts": 1794079836,
    "error": ""
   }
  }
