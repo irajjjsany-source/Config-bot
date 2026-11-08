@@ -319,18 +319,14 @@
   "51d7a1cc7ffa9a1e": 1794159035.8744817,
   "ca84c4384d493c63": 1794159035.8744817,
   "216f60666d2442a2": 1794159035.8744817,
-  "79ad00ce34fad2af": 1794159035.8744817
+  "79ad00ce34fad2af": 1794159035.8744817,
+  "57c97c51261b5e21": 1794160840.610591,
+  "dca93650b57261b5": 1794160840.610591,
+  "e19c06461f7cb6dd": 1794160840.610591,
+  "2d91463d70c2eea5": 1794160840.610591,
+  "bbfcf8ec9fe2a08a": 1794160840.610591
  },
  "queue": [
-  {
-   "id": "0936ff6dfa0ef454",
-   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
-   "ping": 274,
-   "best": 266,
-   "score": 96,
-   "stability": 100,
-   "ts": 1794155434.4158607
-  },
   {
    "id": "92e2a9f024f38584",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
@@ -375,6 +371,15 @@
    "score": 96,
    "stability": 100,
    "ts": 1794157241.9384315
+  },
+  {
+   "id": "e19c06461f7cb6dd",
+   "cfg": "vless://39826f32-f5ca-42a5-ab33-188f7d199478@136.176.65.251:443?Telegram=@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui&security=reality&encryption=none&pbk=O5NcKiTtNcJZiLMJhxT5d0Pn8KjVBvXGmztGd4_D-RI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cdac1a856b81390f#",
+   "ping": 363,
+   "best": 175,
+   "score": 95,
+   "stability": 100,
+   "ts": 1794160840.610591
   },
   {
    "id": "216f60666d2442a2",
@@ -467,6 +472,15 @@
    "ts": 1794153641.6663654
   },
   {
+   "id": "bbfcf8ec9fe2a08a",
+   "cfg": "vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?encryption=none&type=tcp&security=reality&headerType=none&sni=thumbs.mycdn-io.ru&fp=ios&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&spx=%2F&flow=xtls-rprx-vision#",
+   "ping": 1347,
+   "best": 697,
+   "score": 82,
+   "stability": 100,
+   "ts": 1794160840.610591
+  },
+  {
    "id": "79ad00ce34fad2af",
    "cfg": "vless://0809eed6-5204-49b8-8312-b82a10024022@94.249.195.239:43000?security=reality&encryption=none&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8cfe1563#",
    "ping": 1483,
@@ -501,15 +515,6 @@
    "score": 65,
    "stability": 100,
    "ts": 1794150042.1036856
-  },
-  {
-   "id": "33c289ffcd551a2b",
-   "cfg": "vless://8a5f76b3-dcce-4cbe-94b0-80cbe42b374e@168.222.43.229:39529?security=reality&encryption=none&pbk=hnTja7cyq2qDPZ8VTYdKCiC86isYlAFfe7e8-UM0ICw&headerType=none&fp=chrome&spx=%2F28da26468767be8&type=tcp&sni=eventadm.semiconductor.samsung.com&sid=8eeb693e87#",
-   "ping": 5751,
-   "best": 4809,
-   "score": 23,
-   "stability": 67,
-   "ts": 1794139239.6937184
   }
  ],
  "posted": {
@@ -5926,6 +5931,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "0936ff6dfa0ef454": {
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2427,
+   "ts": 1794160858.7577498,
+   "ping": 366,
+   "score": 95,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -7878,7 +7893,7 @@
   "51.158.206.93": {
    "cc": "NL",
    "name": "The Netherlands",
-   "ts": 1793471470.0439475
+   "ts": 1794160858.0314536
   },
   "93.157.138.137": {
    "cc": "US",
@@ -8123,9 +8138,9 @@
  },
  "stats": {
   "date": "2026-11-08",
-  "fetched": 77,
-  "healthy": 43,
-  "posted": 21,
+  "fetched": 82,
+  "healthy": 45,
+  "posted": 22,
   "removed": 0,
   "published_scores": [
    92,
@@ -8148,11 +8163,12 @@
    94,
    96,
    99,
-   94
+   94,
+   95
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794159035.8626313,
+ "last_auto_post": 1794160840.5934365,
  "last_auto_clean": 1794154526.3534138,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -8168,10 +8184,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 4839,
-   "healthy": 441,
+   "fetched": 4888,
+   "healthy": 443,
    "failed": 4,
-   "runs": 115
+   "runs": 116
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -8180,38 +8196,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 1389,
+   "fetched": 1412,
    "healthy": 11,
    "failed": 1,
-   "runs": 111
+   "runs": 112
   },
   "configx2ray": {
-   "fetched": 1925,
+   "fetched": 1950,
    "healthy": 0,
    "failed": 0,
-   "runs": 111
+   "runs": 112
   }
  },
  "source_stats": {
   "chillguy_vpn": {
    "fetched": 49,
-   "healthy": 6,
+   "healthy": 2,
    "ok": true,
-   "ts": 1794159036,
+   "ts": 1794160841,
    "error": ""
   },
   "zibanabz": {
    "fetched": 23,
    "healthy": 0,
    "ok": true,
-   "ts": 1794159038,
+   "ts": 1794160842,
    "error": ""
   },
   "configx2ray": {
    "fetched": 25,
    "healthy": 0,
    "ok": true,
-   "ts": 1794159039,
+   "ts": 1794160843,
    "error": ""
   }
  }
