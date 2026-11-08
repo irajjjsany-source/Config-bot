@@ -341,18 +341,11 @@
   "f607587d52f896ad": 1794171640.808724,
   "013593ebad90b61b": 1794171640.808724,
   "fc36771ca92199b8": 1794171640.808724,
-  "a73e0c15201825cb": 1794171640.808724
+  "a73e0c15201825cb": 1794171640.808724,
+  "485d59f1cb722766": 1794173435.5927835,
+  "2282b4c3498a3618": 1794173435.5927835
  },
  "queue": [
-  {
-   "id": "216f60666d2442a2",
-   "cfg": "vless://39826f32-f5ca-42a5-ab33-188f7d199478@136.176.65.251:443?security=reality&encryption=none&pbk=O5NcKiTtNcJZiLMJhxT5d0Pn8KjVBvXGmztGd4_D-RI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cdac1a856b81390f#",
-   "ping": 397,
-   "best": 260,
-   "score": 95,
-   "stability": 100,
-   "ts": 1794159035.8744817
-  },
   {
    "id": "826c8ca9b5321785",
    "cfg": "vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?security=reality&encryption=none&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=52c723e0fad49689#",
@@ -408,6 +401,15 @@
    "ts": 1794166235.3110745
   },
   {
+   "id": "2282b4c3498a3618",
+   "cfg": "vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#",
+   "ping": 619,
+   "best": 383,
+   "score": 92,
+   "stability": 100,
+   "ts": 1794173435.5927835
+  },
+  {
    "id": "807868cd5b256f44",
    "cfg": "vless://0d4a33f9-04db-4ee9-b949-b34174908fee@16.16.173.242:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.rF_cl48Yv8W4QWB0GzBSa56xN0ZNZFHjvuxddubsEzw&pbk=OVvzlEBdZN0zHuJB2IgMg24EPD5MSbvwIJEnWlZiqEM&headerType=none&fp=chrome&spx=%2Fa9ca3b7bf06bd84&type=tcp&sni=www.cloudflare.com&sid=ede6#",
    "ping": 646,
@@ -417,15 +419,6 @@
    "ts": 1794162636.9244993
   },
   {
-   "id": "d5e4454ef6519e71",
-   "cfg": "vless://0083a0f5-4418-44c2-a9ec-6dce0c26fb94@5.104.74.26:8443?security=reality&encryption=none&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&host=/%3FTelegram—V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk-room07.filesnap.tech&sid=dbef98744832b751#",
-   "ping": 686,
-   "best": 440,
-   "score": 91,
-   "stability": 100,
-   "ts": 1794150042.1036856
-  },
-  {
    "id": "a9229e3adb289239",
    "cfg": "vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#",
    "ping": 694,
@@ -433,15 +426,6 @@
    "score": 91,
    "stability": 100,
    "ts": 1794157241.9384315
-  },
-  {
-   "id": "553d320e0bfa85ca",
-   "cfg": "vless://c18a7a84-d4a9-4a73-bd27-cb00818abe0b@66.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=timeline.www.cloudflare.com&sid=e915#",
-   "ping": 847,
-   "best": 705,
-   "score": 89,
-   "stability": 100,
-   "ts": 1794151834.5987384
   },
   {
    "id": "8610988f54f3814c",
@@ -498,15 +482,6 @@
    "ts": 1794159035.8744817
   },
   {
-   "id": "8f83b33ee2780457",
-   "cfg": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#",
-   "ping": 1558,
-   "best": 878,
-   "score": 80,
-   "stability": 100,
-   "ts": 1794150042.1036856
-  },
-  {
    "id": "ca84c4384d493c63",
    "cfg": "vless://0809eed6-5204-49b8-8312-b82a10024022@94.249.195.239:43000?security=reality&encryption=none&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8cfe1563#",
    "ping": 1796,
@@ -523,15 +498,6 @@
    "score": 73,
    "stability": 100,
    "ts": 1794166235.3110745
-  },
-  {
-   "id": "72221479fbcd027f",
-   "cfg": "vless://2e70d9ae-7906-4e34-a6f9-187987823e0b@j2.fllow.ir:25456?mode=gun&security=reality&encryption=none&pbk=2_l_AeThgEkkPEN4_jQm83_oGgx_e9nsvYc2VHXk93w&fp=chrome&spx=%2Fa0fd1806f4f1efe&type=grpc&serviceName=aparat-stream&sni=r.msftstatic.com&sid=3e69a3a1c5#",
-   "ping": 2719,
-   "best": 2045,
-   "score": 65,
-   "stability": 100,
-   "ts": 1794150042.1036856
   },
   {
    "id": "fbf84d730d171829",
@@ -6036,6 +6002,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "216f60666d2442a2": {
+   "cfg": "vless://39826f32-f5ca-42a5-ab33-188f7d199478@136.176.65.251:443?security=reality&encryption=none&pbk=O5NcKiTtNcJZiLMJhxT5d0Pn8KjVBvXGmztGd4_D-RI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cdac1a856b81390f#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2434,
+   "ts": 1794173452.225514,
+   "ping": 340,
+   "score": 96,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -8243,9 +8219,9 @@
  },
  "stats": {
   "date": "2026-11-08",
-  "fetched": 99,
-  "healthy": 53,
-  "posted": 28,
+  "fetched": 101,
+  "healthy": 54,
+  "posted": 29,
   "removed": 0,
   "published_scores": [
    92,
@@ -8275,11 +8251,12 @@
    96,
    94,
    94,
-   92
+   92,
+   96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794171640.7961257,
+ "last_auto_post": 1794173435.580817,
  "last_auto_clean": 1794154526.3534138,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -8295,10 +8272,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 5123,
-   "healthy": 451,
+   "fetched": 5155,
+   "healthy": 452,
    "failed": 5,
-   "runs": 122
+   "runs": 123
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -8307,38 +8284,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 1550,
+   "fetched": 1573,
    "healthy": 11,
    "failed": 1,
-   "runs": 118
+   "runs": 119
   },
   "configx2ray": {
-   "fetched": 2080,
+   "fetched": 2100,
    "healthy": 0,
    "failed": 0,
-   "runs": 118
+   "runs": 119
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 30,
-   "healthy": 3,
+   "fetched": 32,
+   "healthy": 1,
    "ok": true,
-   "ts": 1794171641,
+   "ts": 1794173436,
    "error": ""
   },
   "zibanabz": {
    "fetched": 23,
    "healthy": 0,
    "ok": true,
-   "ts": 1794171642,
+   "ts": 1794173437,
    "error": ""
   },
   "configx2ray": {
    "fetched": 20,
    "healthy": 0,
    "ok": true,
-   "ts": 1794171643,
+   "ts": 1794173437,
    "error": ""
   }
  }
