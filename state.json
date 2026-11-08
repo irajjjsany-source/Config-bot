@@ -341,15 +341,6 @@
  },
  "queue": [
   {
-   "id": "8a8f823c1bcaff3a",
-   "cfg": "vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#",
-   "ping": 317,
-   "best": 309,
-   "score": 96,
-   "stability": 100,
-   "ts": 1794157241.9384315
-  },
-  {
    "id": "e19c06461f7cb6dd",
    "cfg": "vless://39826f32-f5ca-42a5-ab33-188f7d199478@136.176.65.251:443?Telegram=@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui&security=reality&encryption=none&pbk=O5NcKiTtNcJZiLMJhxT5d0Pn8KjVBvXGmztGd4_D-RI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cdac1a856b81390f#",
    "ping": 363,
@@ -6003,6 +5994,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "8a8f823c1bcaff3a": {
+   "cfg": "vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2432,
+   "ts": 1794169838.936928,
+   "ping": 458,
+   "score": 94,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -8201,13 +8202,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1794162658.3449328
+  },
+  "base.hosamobenl.co.uk": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1794169838.412059
   }
  },
  "stats": {
   "date": "2026-11-08",
   "fetched": 95,
   "healthy": 50,
-  "posted": 26,
+  "posted": 27,
   "removed": 0,
   "published_scores": [
    92,
@@ -8235,11 +8241,12 @@
    94,
    90,
    96,
+   94,
    94
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794168042.5352843,
+ "last_auto_post": 1794169833.6360025,
  "last_auto_clean": 1794154526.3534138,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -8255,10 +8262,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 5056,
+   "fetched": 5093,
    "healthy": 448,
    "failed": 5,
-   "runs": 120
+   "runs": 121
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -8267,16 +8274,16 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 1504,
+   "fetched": 1527,
    "healthy": 11,
    "failed": 1,
-   "runs": 116
+   "runs": 117
   },
   "configx2ray": {
-   "fetched": 2040,
+   "fetched": 2060,
    "healthy": 0,
    "failed": 0,
-   "runs": 116
+   "runs": 117
   }
  },
  "source_stats": {
@@ -8284,21 +8291,21 @@
    "fetched": 37,
    "healthy": 0,
    "ok": true,
-   "ts": 1794168043,
+   "ts": 1794169834,
    "error": ""
   },
   "zibanabz": {
    "fetched": 23,
    "healthy": 0,
    "ok": true,
-   "ts": 1794168044,
+   "ts": 1794169835,
    "error": ""
   },
   "configx2ray": {
    "fetched": 20,
    "healthy": 0,
    "ok": true,
-   "ts": 1794168045,
+   "ts": 1794169835,
    "error": ""
   }
  }
