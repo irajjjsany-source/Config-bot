@@ -302,7 +302,8 @@
   "2282b4c3498a3618": 1794173435.5927835,
   "dafeac51d85decba": 1794177036.2317996,
   "40f3d525daf204f5": 1794177036.2317996,
-  "8ddacf13096a40ed": 1794177036.2317996
+  "8ddacf13096a40ed": 1794177036.2317996,
+  "cd984a12f0c4f682": 1794179727.6155224
  },
  "queue": [
   {
@@ -331,15 +332,6 @@
    "score": 92,
    "stability": 100,
    "ts": 1794162636.9244993
-  },
-  {
-   "id": "a9229e3adb289239",
-   "cfg": "vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#",
-   "ping": 694,
-   "best": 639,
-   "score": 91,
-   "stability": 100,
-   "ts": 1794157241.9384315
   },
   {
    "id": "8610988f54f3814c",
@@ -5951,6 +5943,16 @@
    "stability": 100,
    "country": "Norway",
    "repost_count": 0
+  },
+  "cd984a12f0c4f682": {
+   "cfg": "vless://My-chanel-Telegram-ATOVPN@217.179.5.241:38272?encryption=none&fp=chrome&pbk=GhqmOHRlqY0BAmDHPXmXi3t56rijvnZN0Ax-pGVVBHc&security=reality&sid=5a4f5a&sni=www-ams.samsung.com&spx=%2Fbe23d020ca6fce6&support-x25519mlkem768=true&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2438,
+   "ts": 1794179734.6778095,
+   "ping": 454,
+   "score": 94,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -8169,13 +8171,18 @@
    "cc": "NO",
    "name": "Norway",
    "ts": 1794178212.9700665
+  },
+  "217.179.5.241": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1794179734.0014727
   }
  },
  "stats": {
   "date": "2026-11-08",
-  "fetched": 104,
-  "healthy": 54,
-  "posted": 32,
+  "fetched": 105,
+  "healthy": 55,
+  "posted": 33,
   "removed": 0,
   "published_scores": [
    92,
@@ -8209,11 +8216,12 @@
    96,
    68,
    95,
-   93
+   93,
+   94
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794178206.9310505,
+ "last_auto_post": 1794179727.6022213,
  "last_auto_clean": 1794176129.2224712,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -8229,10 +8237,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 5251,
-   "healthy": 452,
+   "fetched": 5283,
+   "healthy": 453,
    "failed": 5,
-   "runs": 126
+   "runs": 127
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -8241,38 +8249,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 1642,
+   "fetched": 1665,
    "healthy": 11,
    "failed": 1,
-   "runs": 122
+   "runs": 123
   },
   "configx2ray": {
-   "fetched": 2160,
+   "fetched": 2180,
    "healthy": 0,
    "failed": 0,
-   "runs": 122
+   "runs": 123
   }
  },
  "source_stats": {
   "chillguy_vpn": {
    "fetched": 32,
-   "healthy": 0,
+   "healthy": 1,
    "ok": true,
-   "ts": 1794178207,
+   "ts": 1794179728,
    "error": ""
   },
   "zibanabz": {
    "fetched": 23,
    "healthy": 0,
    "ok": true,
-   "ts": 1794178209,
+   "ts": 1794179729,
    "error": ""
   },
   "configx2ray": {
    "fetched": 20,
    "healthy": 0,
    "ok": true,
-   "ts": 1794178210,
+   "ts": 1794179730,
    "error": ""
   }
  }
