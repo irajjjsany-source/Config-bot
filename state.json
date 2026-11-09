@@ -306,17 +306,7 @@
   "cd984a12f0c4f682": 1794179727.6155224,
   "aecd007ea77293a7": 1794182444.4102602
  },
- "queue": [
-  {
-   "id": "fc36771ca92199b8",
-   "cfg": "vless://1ca12389-0d86-4197-a79a-49d24539ce05@p11real1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xwbp4EcOtus1W5Au4XCJJbCl9jCb4DwGgYQYEwUDqTY&headerType=none&type=tcp&sni=play.googleapis.com&sid=354e34396eaa89ab#",
-   "ping": 5360,
-   "best": 4238,
-   "score": 35,
-   "stability": 100,
-   "ts": 1794171640.808724
-  }
- ],
+ "queue": [],
  "posted": {
   "49ee23752b5d69cf": {
    "cfg": "vmess://eyJhZGQiOiAiNTQuMzcuMTMxLjEyNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCAiaWQiOiAiNmRlZWY5YWQtMTM1Ny00NDNkLWY5NWMtY2IxODk1MmMyMGIzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==",
@@ -8137,7 +8127,7 @@
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794184236.0194914,
+ "last_auto_post": 1794186049.2467048,
  "last_auto_clean": 1794176129.2224712,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -8153,10 +8143,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 5379,
+   "fetched": 5411,
    "healthy": 453,
    "failed": 5,
-   "runs": 130
+   "runs": 131
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -8165,16 +8155,16 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 1734,
+   "fetched": 1757,
    "healthy": 11,
    "failed": 1,
-   "runs": 126
+   "runs": 127
   },
   "configx2ray": {
-   "fetched": 2240,
+   "fetched": 2260,
    "healthy": 0,
    "failed": 0,
-   "runs": 126
+   "runs": 127
   }
  },
  "source_stats": {
@@ -8182,21 +8172,21 @@
    "fetched": 32,
    "healthy": 0,
    "ok": true,
-   "ts": 1794184236,
+   "ts": 1794186050,
    "error": ""
   },
   "zibanabz": {
    "fetched": 23,
    "healthy": 0,
    "ok": true,
-   "ts": 1794184237,
+   "ts": 1794186051,
    "error": ""
   },
   "configx2ray": {
    "fetched": 20,
    "healthy": 0,
    "ok": true,
-   "ts": 1794184238,
+   "ts": 1794186052,
    "error": ""
   }
  }
