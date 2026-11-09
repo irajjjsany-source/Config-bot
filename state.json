@@ -340,54 +340,11 @@
   "298f3cefdf8dc380": 1794234637.4231625,
   "fd52768de602cdd8": 1794236446.5397077,
   "396944df1db0ed2b": 1794236446.5397077,
-  "522f166db93a48bb": 1794236446.5397077
+  "522f166db93a48bb": 1794236446.5397077,
+  "28667f8e63f9f57e": 1794238237.1927848,
+  "106759b1dd5dbac0": 1794238237.1927848
  },
  "queue": [
-  {
-   "id": "3866b01becc0ecba",
-   "cfg": "vless://90559189-7899-4f25-a6ba-1f9057f9e901@mw-ru1.star1905.org:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mw-ru1.star1905.org#",
-   "ping": 848,
-   "best": 724,
-   "score": 89,
-   "stability": 100,
-   "ts": 1794216639.4514217
-  },
-  {
-   "id": "1ee91da2960edf09",
-   "cfg": "vless://90559189-7899-4f25-a6ba-1f9057f9e901@mw-ru3.star1905.org:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mw-nl.star1905.org#",
-   "ping": 970,
-   "best": 821,
-   "score": 87,
-   "stability": 100,
-   "ts": 1794216639.4514217
-  },
-  {
-   "id": "d4a9a940ffd372e2",
-   "cfg": "vless://3ef49aef-8baf-4826-9a00-92670985f2b3@homestead-walloping.sports-streams.org:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&host=rss.worldoftanks.eu&fp=chrome&type=xhttp&sni=rss.worldoftanks.eu#",
-   "ping": 1038,
-   "best": 961,
-   "score": 87,
-   "stability": 100,
-   "ts": 1794218443.1841037
-  },
-  {
-   "id": "6d796f12e6f7db45",
-   "cfg": "vmess://eyJhZGQiOiAiaXItaXJuLm1heHV1cC5pci5tYXh1dXAuZnVuIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI4OGY5ZDI5Ny00NGUxLWE2ZDItMzg3NS05OTE0YmI0NWY5NmUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIzNDgwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
-   "ping": 1075,
-   "best": 960,
-   "score": 86,
-   "stability": 100,
-   "ts": 1794234637.4231625
-  },
-  {
-   "id": "1c71be39f1f13354",
-   "cfg": "vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@cdn-rum-keno-prsv.keno.su:443?security=reality&encryption=none&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-rum-keno-prsv.keno.su&sid=a1b2c3d4e5f60718#",
-   "ping": 1095,
-   "best": 700,
-   "score": 86,
-   "stability": 100,
-   "ts": 1794231036.9803276
-  },
   {
    "id": "0ad33786717369d8",
    "cfg": "vless://3ef49aef-8baf-4826-9a00-92670985f2b3@87.120.106.95:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&host=rss.worldoftanks.eu&fp=chrome&type=xhttp&sni=rss.worldoftanks.eu#",
@@ -6310,6 +6267,16 @@
    "stability": 100,
    "country": "Serbia",
    "repost_count": 0
+  },
+  "1c71be39f1f13354": {
+   "cfg": "vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@cdn-rum-keno-prsv.keno.su:443?security=reality&encryption=none&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-rum-keno-prsv.keno.su&sid=a1b2c3d4e5f60718#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2468,
+   "ts": 1794238318.0042837,
+   "ping": 787,
+   "score": 90,
+   "stability": 100,
+   "country": "Romania",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -8638,13 +8605,18 @@
    "cc": "RS",
    "name": "Serbia",
    "ts": 1794236459.5096593
+  },
+  "cdn-rum-keno-prsv.keno.su": {
+   "cc": "RO",
+   "name": "Romania",
+   "ts": 1794238316.9892764
   }
  },
  "stats": {
   "date": "2026-11-09",
-  "fetched": 78,
+  "fetched": 80,
   "healthy": 49,
-  "posted": 24,
+  "posted": 25,
   "removed": 0,
   "published_scores": [
    94,
@@ -8670,11 +8642,12 @@
    95,
    96,
    92,
+   90,
    90
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794236446.525187,
+ "last_auto_post": 1794238237.1847184,
  "last_auto_clean": 1794219329.8343186,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -8690,10 +8663,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 6587,
+   "fetched": 6627,
    "healthy": 502,
    "failed": 5,
-   "runs": 158
+   "runs": 159
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -8702,38 +8675,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 2381,
+   "fetched": 2404,
    "healthy": 11,
    "failed": 1,
-   "runs": 154
+   "runs": 155
   },
   "configx2ray": {
-   "fetched": 2890,
+   "fetched": 2920,
    "healthy": 0,
    "failed": 0,
-   "runs": 154
+   "runs": 155
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 43,
-   "healthy": 1,
+   "fetched": 40,
+   "healthy": 0,
    "ok": true,
-   "ts": 1794236447,
+   "ts": 1794238237,
    "error": ""
   },
   "zibanabz": {
    "fetched": 23,
    "healthy": 0,
    "ok": true,
-   "ts": 1794236448,
+   "ts": 1794238238,
    "error": ""
   },
   "configx2ray": {
-   "fetched": 25,
+   "fetched": 30,
    "healthy": 0,
    "ok": true,
-   "ts": 1794236449,
+   "ts": 1794238239,
    "error": ""
   }
  }
