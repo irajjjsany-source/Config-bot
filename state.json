@@ -328,15 +328,6 @@
  },
  "queue": [
   {
-   "id": "0bb2b07486f946f2",
-   "cfg": "vless://b4a55819-1158-4a57-b2d1-901974d9c512@66.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=timeline.www.cloudflare.com&sid=e915#",
-   "ping": 787,
-   "best": 655,
-   "score": 90,
-   "stability": 100,
-   "ts": 1794207643.5651426
-  },
-  {
    "id": "3866b01becc0ecba",
    "cfg": "vless://90559189-7899-4f25-a6ba-1f9057f9e901@mw-ru1.star1905.org:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mw-ru1.star1905.org#",
    "ping": 848,
@@ -425,15 +416,6 @@
    "score": 64,
    "stability": 67,
    "ts": 1794223836.431586
-  },
-  {
-   "id": "658ac3cfaf367eef",
-   "cfg": "vless://68a67906-5b37-4779-a6cc-58a1655f18b4@87.228.33.110:666?mode=gun&security=reality&encryption=none&pbk=E_j9qer8VG87fYf6T-mySq01RcBdmhtMI_2h0powPnM&fp=firefox&type=grpc&serviceName=grpc&sni=max.ru&sid=2a2935ca1daefcde#",
-   "ping": 3453,
-   "best": 1791,
-   "score": 55,
-   "stability": 100,
-   "ts": 1794205839.9552753
   },
   {
    "id": "8ff65789e9761303",
@@ -8521,6 +8503,11 @@
    "cc": "RU",
    "name": "Russia",
    "ts": 1794227452.4311035
+  },
+  "mw-ru1.star1905.org": {
+   "cc": "RU",
+   "name": "Russia",
+   "ts": 1794229252.4014044
   }
  },
  "stats": {
@@ -8553,7 +8540,7 @@
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794227438.727835,
+ "last_auto_post": 1794229246.2657964,
  "last_auto_clean": 1794219329.8343186,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -8569,10 +8556,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 6308,
+   "fetched": 6363,
    "healthy": 490,
    "failed": 5,
-   "runs": 153
+   "runs": 154
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -8581,16 +8568,16 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 2266,
+   "fetched": 2289,
    "healthy": 11,
    "failed": 1,
-   "runs": 149
+   "runs": 150
   },
   "configx2ray": {
-   "fetched": 2765,
+   "fetched": 2790,
    "healthy": 0,
    "failed": 0,
-   "runs": 149
+   "runs": 150
   }
  },
  "source_stats": {
@@ -8598,21 +8585,21 @@
    "fetched": 55,
    "healthy": 0,
    "ok": true,
-   "ts": 1794227439,
+   "ts": 1794229247,
    "error": ""
   },
   "zibanabz": {
    "fetched": 23,
    "healthy": 0,
    "ok": true,
-   "ts": 1794227440,
+   "ts": 1794229247,
    "error": ""
   },
   "configx2ray": {
    "fetched": 25,
    "healthy": 0,
    "ok": true,
-   "ts": 1794227441,
+   "ts": 1794229248,
    "error": ""
   }
  }
