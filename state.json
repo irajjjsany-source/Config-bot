@@ -304,7 +304,8 @@
   "40f3d525daf204f5": 1794177036.2317996,
   "8ddacf13096a40ed": 1794177036.2317996,
   "cd984a12f0c4f682": 1794179727.6155224,
-  "aecd007ea77293a7": 1794182444.4102602
+  "aecd007ea77293a7": 1794182444.4102602,
+  "511e9babc62e2f61": 1794187836.9182792
  },
  "queue": [],
  "posted": {
@@ -5875,6 +5876,16 @@
    "stability": 100,
    "country": "Singapore",
    "repost_count": 0
+  },
+  "511e9babc62e2f61": {
+   "cfg": "vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@193.203.10.188:443?security=reality&encryption=none&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=no.gacvpn.site&sid=08d12dce#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2443,
+   "ts": 1794187843.3559582,
+   "ping": 445,
+   "score": 94,
+   "stability": 100,
+   "country": "Norway",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -8113,21 +8124,27 @@
    "cc": "SG",
    "name": "Singapore",
    "ts": 1794184253.9112697
+  },
+  "193.203.10.188": {
+   "cc": "NO",
+   "name": "Norway",
+   "ts": 1794187842.6440046
   }
  },
  "stats": {
   "date": "2026-11-09",
-  "fetched": 1,
-  "healthy": 0,
-  "posted": 2,
+  "fetched": 2,
+  "healthy": 1,
+  "posted": 3,
   "removed": 0,
   "published_scores": [
    94,
-   79
+   79,
+   94
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794186049.2467048,
+ "last_auto_post": 1794187836.905489,
  "last_auto_clean": 1794176129.2224712,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -8143,10 +8160,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 5411,
-   "healthy": 453,
+   "fetched": 5443,
+   "healthy": 454,
    "failed": 5,
-   "runs": 131
+   "runs": 132
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -8155,38 +8172,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 1757,
+   "fetched": 1780,
    "healthy": 11,
    "failed": 1,
-   "runs": 127
+   "runs": 128
   },
   "configx2ray": {
-   "fetched": 2260,
+   "fetched": 2280,
    "healthy": 0,
    "failed": 0,
-   "runs": 127
+   "runs": 128
   }
  },
  "source_stats": {
   "chillguy_vpn": {
    "fetched": 32,
-   "healthy": 0,
+   "healthy": 1,
    "ok": true,
-   "ts": 1794186050,
+   "ts": 1794187837,
    "error": ""
   },
   "zibanabz": {
    "fetched": 23,
    "healthy": 0,
    "ok": true,
-   "ts": 1794186051,
+   "ts": 1794187838,
    "error": ""
   },
   "configx2ray": {
    "fetched": 20,
    "healthy": 0,
    "ok": true,
-   "ts": 1794186052,
+   "ts": 1794187839,
    "error": ""
   }
  }
