@@ -309,9 +309,40 @@
   "07a499bbf7f06a2d": 1794202247.3059883,
   "b4bf47b3e4f880ed": 1794205839.9552753,
   "402eae9ed029affb": 1794205839.9552753,
-  "658ac3cfaf367eef": 1794205839.9552753
+  "658ac3cfaf367eef": 1794205839.9552753,
+  "0bb2b07486f946f2": 1794207643.5651426,
+  "e343b93ef243e9ef": 1794207643.5651426,
+  "5b327a228b5798d1": 1794207643.5651426,
+  "6c72dc2afbea34c7": 1794207643.5651426
  },
  "queue": [
+  {
+   "id": "6c72dc2afbea34c7",
+   "cfg": "vless://90157e25-cee1-4217-921e-91f300bc1a24@89.105.218.143:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=golos.mail.ru&security=reality&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#",
+   "ping": 598,
+   "best": 351,
+   "score": 92,
+   "stability": 100,
+   "ts": 1794207643.5651426
+  },
+  {
+   "id": "e343b93ef243e9ef",
+   "cfg": "vless://b4a55819-1158-4a57-b2d1-901974d9c512@66.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hostgator.com&sid=e915#",
+   "ping": 743,
+   "best": 632,
+   "score": 90,
+   "stability": 100,
+   "ts": 1794207643.5651426
+  },
+  {
+   "id": "0bb2b07486f946f2",
+   "cfg": "vless://b4a55819-1158-4a57-b2d1-901974d9c512@66.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=timeline.www.cloudflare.com&sid=e915#",
+   "ping": 787,
+   "best": 655,
+   "score": 90,
+   "stability": 100,
+   "ts": 1794207643.5651426
+  },
   {
    "id": "4a182dd0f2e7c263",
    "cfg": "vless://ca39b355-b488-9297-918f-9d011d075ba2@185.209.42.72:2084?mode=auto&path=%2F&security=reality&encryption=none&pbk=yeEgcP0ehhicUQZdFGJBhLuU3wsEMSRyg8l2voakZBs&fp=chrome&spx=%2F&type=xhttp&sni=www.aparat.com&sid=2f567c6d#",
@@ -5972,6 +6003,16 @@
    "stability": 100,
    "country": "Bulgaria",
    "repost_count": 0
+  },
+  "5b327a228b5798d1": {
+   "cfg": "vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.215.254:443?security=reality&encryption=none&pbk=is-86tEDOjNbNAnVwc-YHHYSn1MF9SF68P6VjESfDHQ&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=remote.propaint.cl&sid=a2fcac#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2451,
+   "ts": 1794207652.0254908,
+   "ping": 364,
+   "score": 95,
+   "stability": 100,
+   "country": "Cambodia",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -8230,13 +8271,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1794200448.5267878
+  },
+  "93.152.215.254": {
+   "cc": "KH",
+   "name": "Cambodia",
+   "ts": 1794207651.335049
   }
  },
  "stats": {
   "date": "2026-11-09",
-  "fetched": 11,
-  "healthy": 9,
-  "posted": 8,
+  "fetched": 15,
+  "healthy": 13,
+  "posted": 9,
   "removed": 0,
   "published_scores": [
    94,
@@ -8246,11 +8292,12 @@
    92,
    97,
    94,
-   87
+   87,
+   95
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794205839.9471676,
+ "last_auto_post": 1794207643.551585,
  "last_auto_clean": 1794197729.257408,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -8266,10 +8313,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 5717,
-   "healthy": 462,
+   "fetched": 5750,
+   "healthy": 466,
    "failed": 5,
-   "runs": 141
+   "runs": 142
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -8278,38 +8325,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 1987,
+   "fetched": 2010,
    "healthy": 11,
    "failed": 1,
-   "runs": 137
+   "runs": 138
   },
   "configx2ray": {
-   "fetched": 2465,
+   "fetched": 2490,
    "healthy": 0,
    "failed": 0,
-   "runs": 137
+   "runs": 138
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 32,
-   "healthy": 2,
+   "fetched": 33,
+   "healthy": 4,
    "ok": true,
-   "ts": 1794205841,
+   "ts": 1794207644,
    "error": ""
   },
   "zibanabz": {
    "fetched": 23,
    "healthy": 0,
    "ok": true,
-   "ts": 1794205842,
+   "ts": 1794207645,
    "error": ""
   },
   "configx2ray": {
    "fetched": 25,
    "healthy": 0,
    "ok": true,
-   "ts": 1794205843,
+   "ts": 1794207645,
    "error": ""
   }
  }
