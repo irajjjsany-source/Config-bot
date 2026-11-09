@@ -1,41 +1,5 @@
 {
  "seen": {
-  "ef8482a972b8d7c9": 1793958920.0113199,
-  "326e4cdd4f57ebd9": 1793958920.0113199,
-  "3caed6bfb527e401": 1793958920.0113199,
-  "e12fe6fe8a087420": 1793958920.0113199,
-  "17322c4d89bef3a9": 1793958920.0113199,
-  "3818337cd79367bc": 1793958920.0113199,
-  "a064fe115e842af9": 1793958920.0113199,
-  "b6de4093dd89a68c": 1793958920.0113199,
-  "44c330ce4d0ba46a": 1793958920.0113199,
-  "adb4516a51fc1635": 1793958920.0113199,
-  "f405e5b37f39c19c": 1793958920.0113199,
-  "b0c37935f39adbcb": 1793958920.0113199,
-  "d841644f613c5ff4": 1793958920.0113199,
-  "beec3c47b5ecaf7f": 1793958920.0113199,
-  "73a979650111efc6": 1793958920.0113199,
-  "6ac184961e2f0549": 1793958920.0113199,
-  "5d55b62b9cd4552b": 1793958920.0113199,
-  "19d4e38f2568cd2b": 1793958920.0113199,
-  "0ee649c9970fcbe8": 1793958920.0113199,
-  "d01fd39237a8d661": 1793958920.0113199,
-  "880636dc9cb40498": 1793958920.0113199,
-  "7d42b0199d4b36fc": 1793958920.0113199,
-  "41f12551b641f8e2": 1793958920.0113199,
-  "ae129a07b4683f56": 1793958920.0113199,
-  "59e7daccba626256": 1793958920.0113199,
-  "c4ce74963d1cd663": 1793958920.0113199,
-  "6c24afbac3a5f32d": 1793958920.0113199,
-  "edb2dc63c53135f7": 1793958920.0113199,
-  "e4ea6724875b0177": 1793958920.0113199,
-  "d0659521ddf11549": 1793958920.0113199,
-  "94f688e66600dade": 1793958920.0113199,
-  "8b173daa30b17bfa": 1793958920.0113199,
-  "01d88d0f6269372c": 1793958920.0113199,
-  "772d60572bb3bfa0": 1793958920.0113199,
-  "e1c38010683b75cf": 1793958920.0113199,
-  "ba48485422f97164": 1793958920.0113199,
   "0061ea7aa5b51ac0": 1793985696.4386501,
   "68b6e98888bc8491": 1793985696.4386501,
   "33d217ea29e00193": 1793985696.4386501,
@@ -335,9 +299,40 @@
   "09d9ad5d7b86f41a": 1794216639.4514217,
   "3866b01becc0ecba": 1794216639.4514217,
   "b39098464522240e": 1794216639.4514217,
-  "b327c1919f2acf01": 1794216639.4514217
+  "b327c1919f2acf01": 1794216639.4514217,
+  "7817614e36569dd2": 1794218443.1841037,
+  "0f6496d3013a73c2": 1794218443.1841037,
+  "e10cf00470848c3f": 1794218443.1841037,
+  "174698dfe80887dc": 1794218443.1841037,
+  "6bb32616b08aac00": 1794218443.1841037,
+  "e9c03a5c6657e746": 1794218443.1841037,
+  "0dd9e8e8e3586174": 1794218443.1841037,
+  "d4a9a940ffd372e2": 1794218443.1841037,
+  "f6fb1b81b089ef21": 1794218443.1841037,
+  "94f688e66600dade": 1794218443.1841037,
+  "93134adf55593c6b": 1794218443.1841037,
+  "6096d181893bf42c": 1794218443.1841037,
+  "2ff39c29051efa2b": 1794218443.1841037
  },
  "queue": [
+  {
+   "id": "0f6496d3013a73c2",
+   "cfg": "vless://95f85937-7b95-45c4-8d69-95da6a978569@80.47.13.182:443?mode=gun&security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=stats.v2.StreamService&allowInsecure=0&sni=dl.megadrishto.com#",
+   "ping": 524,
+   "best": 515,
+   "score": 93,
+   "stability": 100,
+   "ts": 1794218443.1841037
+  },
+  {
+   "id": "e10cf00470848c3f",
+   "cfg": "vless://01e44dba-da95-4bf7-b5ca-6fce514d1585@2.27.210.198:57064?mode=auto&security=reality&encryption=none&pbk=JapPViaO5Vi7qH7ox4TPi0WOyCjYZCNDDQCyc7RLBQw&fp=firefox&type=xhttp&sni=yandex-cdn-mirror.ru&sid=238341#",
+   "ping": 553,
+   "best": 526,
+   "score": 93,
+   "stability": 100,
+   "ts": 1794218443.1841037
+  },
   {
    "id": "e343b93ef243e9ef",
    "cfg": "vless://b4a55819-1158-4a57-b2d1-901974d9c512@66.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hostgator.com&sid=e915#",
@@ -346,6 +341,15 @@
    "score": 90,
    "stability": 100,
    "ts": 1794207643.5651426
+  },
+  {
+   "id": "174698dfe80887dc",
+   "cfg": "vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#",
+   "ping": 762,
+   "best": 723,
+   "score": 90,
+   "stability": 100,
+   "ts": 1794218443.1841037
   },
   {
    "id": "c75c7f384720304f",
@@ -402,6 +406,15 @@
    "ts": 1794202247.3059883
   },
   {
+   "id": "d4a9a940ffd372e2",
+   "cfg": "vless://3ef49aef-8baf-4826-9a00-92670985f2b3@homestead-walloping.sports-streams.org:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&host=rss.worldoftanks.eu&fp=chrome&type=xhttp&sni=rss.worldoftanks.eu#",
+   "ping": 1038,
+   "best": 961,
+   "score": 87,
+   "stability": 100,
+   "ts": 1794218443.1841037
+  },
+  {
    "id": "2bf15c515cd77cad",
    "cfg": "vless://ab671d2b-1969-a168-c2fa-2cf714b44828@vip2.btwanten.com:9812?security=reality&type=tcp&headerType=none&encryption=none&path=&sni=www.aparat.com&fp=chrome&pbk=Uol3nTFT_jWhBORHAUtPQFs9vmHdYrHj1-XYOwIfGU0&sid=044d&spx=%2F#",
    "ping": 1158,
@@ -418,6 +431,15 @@
    "score": 81,
    "stability": 100,
    "ts": 1794216639.4514217
+  },
+  {
+   "id": "6bb32616b08aac00",
+   "cfg": "vless://0809eed6-5204-49b8-8312-b82a10024022@94.249.195.239:43000?security=reality&encryption=none&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=8cfe1563#",
+   "ping": 1589,
+   "best": 570,
+   "score": 79,
+   "stability": 100,
+   "ts": 1794218443.1841037
   },
   {
    "id": "09d9ad5d7b86f41a",
@@ -445,6 +467,15 @@
    "score": 51,
    "stability": 100,
    "ts": 1794216639.4514217
+  },
+  {
+   "id": "e9c03a5c6657e746",
+   "cfg": "vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443?mode=gun&security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=api.v1.FeedService&allowInsecure=0&sni=fetch.mediacorphub.org#",
+   "ping": 4182,
+   "best": 2849,
+   "score": 46,
+   "stability": 100,
+   "ts": 1794218443.1841037
   }
  ],
  "posted": {
@@ -6139,6 +6170,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "0dd9e8e8e3586174": {
+   "cfg": "vless://3ef49aef-8baf-4826-9a00-92670985f2b3@coughed-gongs.freevideochats.org:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&host=rss.worldoftanks.com&fp=chrome&type=xhttp&sni=rss.worldoftanks.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2457,
+   "ts": 1794218469.1479273,
+   "ping": 208,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -8422,13 +8463,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1794216669.0299845
+  },
+  "coughed-gongs.freevideochats.org": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1794218468.4115243
   }
  },
  "stats": {
   "date": "2026-11-09",
-  "fetched": 37,
-  "healthy": 25,
-  "posted": 14,
+  "fetched": 50,
+  "healthy": 32,
+  "posted": 15,
   "removed": 0,
   "published_scores": [
    94,
@@ -8444,11 +8490,12 @@
    95,
    96,
    75,
-   83
+   83,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794216639.4323318,
+ "last_auto_post": 1794218443.159611,
  "last_auto_clean": 1794197729.257408,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -8464,10 +8511,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 5956,
-   "healthy": 478,
+   "fetched": 6016,
+   "healthy": 485,
    "failed": 5,
-   "runs": 147
+   "runs": 148
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -8476,38 +8523,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 2125,
+   "fetched": 2151,
    "healthy": 11,
    "failed": 1,
-   "runs": 143
+   "runs": 144
   },
   "configx2ray": {
-   "fetched": 2615,
+   "fetched": 2640,
    "healthy": 0,
    "failed": 0,
-   "runs": 143
+   "runs": 144
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 52,
-   "healthy": 6,
+   "fetched": 60,
+   "healthy": 7,
    "ok": true,
-   "ts": 1794216640,
+   "ts": 1794218444,
    "error": ""
   },
   "zibanabz": {
-   "fetched": 23,
+   "fetched": 26,
    "healthy": 0,
    "ok": true,
-   "ts": 1794216641,
+   "ts": 1794218444,
    "error": ""
   },
   "configx2ray": {
    "fetched": 25,
    "healthy": 0,
    "ok": true,
-   "ts": 1794216643,
+   "ts": 1794218445,
    "error": ""
   }
  }
