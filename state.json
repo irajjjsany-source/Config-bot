@@ -335,17 +335,7 @@
   "89a4b12c06c5455a": 1794290444.2283518,
   "941f538a336261f1": 1794290444.2283518
  },
- "queue": [
-  {
-   "id": "941f538a336261f1",
-   "cfg": "vless://280f4d33-69fb-4f0d-a4c3-fe0bf841009f@43.161.193.181:443?security=reality&encryption=none&pbk=nf9eFC0yVVO-peA-wmZ1EEIwAaSstK2JN3tJV0WNJQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=8c994df3c4e175a4#",
-   "ping": 816,
-   "best": 571,
-   "score": 89,
-   "stability": 100,
-   "ts": 1794290444.2283518
-  }
- ],
+ "queue": [],
  "posted": {
   "49ee23752b5d69cf": {
    "cfg": "vmess://eyJhZGQiOiAiNTQuMzcuMTMxLjEyNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCAiaWQiOiAiNmRlZWY5YWQtMTM1Ny00NDNkLWY5NWMtY2IxODk1MmMyMGIzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==",
@@ -8781,7 +8771,7 @@
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794290444.2144237,
+ "last_auto_post": 1794292235.4679818,
  "last_auto_clean": 1794285926.5066588,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -8797,10 +8787,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 7819,
+   "fetched": 7852,
    "healthy": 540,
    "failed": 6,
-   "runs": 188
+   "runs": 189
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -8809,38 +8799,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 3105,
+   "fetched": 3128,
    "healthy": 11,
    "failed": 1,
-   "runs": 184
+   "runs": 185
   },
   "configx2ray": {
-   "fetched": 3710,
+   "fetched": 3740,
    "healthy": 0,
    "failed": 0,
-   "runs": 184
+   "runs": 185
   }
  },
  "source_stats": {
   "chillguy_vpn": {
    "fetched": 33,
-   "healthy": 1,
+   "healthy": 0,
    "ok": true,
-   "ts": 1794290444,
+   "ts": 1794292236,
    "error": ""
   },
   "zibanabz": {
    "fetched": 23,
    "healthy": 0,
    "ok": true,
-   "ts": 1794290445,
+   "ts": 1794292237,
    "error": ""
   },
   "configx2ray": {
-   "fetched": 25,
+   "fetched": 30,
    "healthy": 0,
    "ok": true,
-   "ts": 1794290446,
+   "ts": 1794292238,
    "error": ""
   }
  }
