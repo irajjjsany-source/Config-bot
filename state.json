@@ -9178,7 +9178,7 @@
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794673836.9123225,
+ "last_auto_post": 1794675643.9174888,
  "last_auto_clean": 1794654053.799468,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -9194,10 +9194,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 10420,
+   "fetched": 10477,
    "healthy": 696,
    "failed": 8,
-   "runs": 239
+   "runs": 240
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -9206,16 +9206,16 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 4344,
+   "fetched": 4371,
    "healthy": 11,
    "failed": 1,
-   "runs": 235
+   "runs": 236
   },
   "configx2ray": {
-   "fetched": 5135,
+   "fetched": 5160,
    "healthy": 0,
    "failed": 0,
-   "runs": 235
+   "runs": 236
   }
  },
  "source_stats": {
@@ -9223,21 +9223,21 @@
    "fetched": 57,
    "healthy": 0,
    "ok": true,
-   "ts": 1794673837,
+   "ts": 1794675644,
    "error": ""
   },
   "zibanabz": {
    "fetched": 27,
    "healthy": 0,
    "ok": true,
-   "ts": 1794673838,
+   "ts": 1794675645,
    "error": ""
   },
   "configx2ray": {
    "fetched": 25,
    "healthy": 0,
    "ok": true,
-   "ts": 1794673839,
+   "ts": 1794675646,
    "error": ""
   }
  }
