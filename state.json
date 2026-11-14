@@ -109,15 +109,6 @@
  },
  "queue": [
   {
-   "id": "c9232636fc90a492",
-   "cfg": "vless://1feaae3e-6ad9-4d8e-af30-67b348598695@animator-likeliest.sports-streams.org:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eslfast.com#",
-   "ping": 316,
-   "best": 254,
-   "score": 96,
-   "stability": 100,
-   "ts": 1794648634.1620896
-  },
-  {
    "id": "90fedec5cd1a4c0f",
    "cfg": "vless://a5446e31-6370-42cc-b6d4-44698f57acf5@87.120.252.67:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=game.worldoftanks.com#",
    "ping": 318,
@@ -6756,6 +6747,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "c9232636fc90a492": {
+   "cfg": "vless://1feaae3e-6ad9-4d8e-af30-67b348598695@animator-likeliest.sports-streams.org:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eslfast.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2533,
+   "ts": 1794659442.7635314,
+   "ping": 753,
+   "score": 90,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -9215,7 +9216,7 @@
   "date": "2026-11-14",
   "fetched": 106,
   "healthy": 56,
-  "posted": 17,
+  "posted": 18,
   "removed": 0,
   "published_scores": [
    100,
@@ -9234,11 +9235,12 @@
    95,
    96,
    97,
-   94
+   94,
+   90
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794658528.7896535,
+ "last_auto_post": 1794659436.7417073,
  "last_auto_clean": 1794654053.799468,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -9254,10 +9256,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 9907,
+   "fetched": 9964,
    "healthy": 696,
    "failed": 8,
-   "runs": 230
+   "runs": 231
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -9266,16 +9268,16 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 4101,
+   "fetched": 4128,
    "healthy": 11,
    "failed": 1,
-   "runs": 226
+   "runs": 227
   },
   "configx2ray": {
-   "fetched": 4910,
+   "fetched": 4935,
    "healthy": 0,
    "failed": 0,
-   "runs": 226
+   "runs": 227
   }
  },
  "source_stats": {
@@ -9283,21 +9285,21 @@
    "fetched": 57,
    "healthy": 0,
    "ok": true,
-   "ts": 1794658529,
+   "ts": 1794659437,
    "error": ""
   },
   "zibanabz": {
    "fetched": 27,
    "healthy": 0,
    "ok": true,
-   "ts": 1794658530,
+   "ts": 1794659438,
    "error": ""
   },
   "configx2ray": {
    "fetched": 25,
    "healthy": 0,
    "ok": true,
-   "ts": 1794658531,
+   "ts": 1794659438,
    "error": ""
   }
  }
