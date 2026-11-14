@@ -109,15 +109,6 @@
  },
  "queue": [
   {
-   "id": "10d94b8c02c6f99e",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
-   "ping": 281,
-   "best": 248,
-   "score": 96,
-   "stability": 100,
-   "ts": 1794641436.0523293
-  },
-  {
    "id": "7ad3de36a5657489",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
    "ping": 286,
@@ -197,15 +188,6 @@
    "score": 95,
    "stability": 100,
    "ts": 1794655836.0472114
-  },
-  {
-   "id": "8b61b0ecdb531d3e",
-   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none&host=%2F%3FTelegram---V2ray_confiig#",
-   "ping": 428,
-   "best": 427,
-   "score": 94,
-   "stability": 100,
-   "ts": 1794634237.3574095
   },
   {
    "id": "a8ff60423cfc455d",
@@ -332,15 +314,6 @@
    "score": 85,
    "stability": 100,
    "ts": 1794636050.274005
-  },
-  {
-   "id": "e8f186ad7de40099",
-   "cfg": "vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=user.betust.net&fp=edge&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&type=tcp&headerType=none#",
-   "ping": 1243,
-   "best": 736,
-   "score": 84,
-   "stability": 100,
-   "ts": 1794634237.3574095
   },
   {
    "id": "467090840b4d8c14",
@@ -6844,6 +6817,16 @@
    "stability": 100,
    "country": "Belgium",
    "repost_count": 0
+  },
+  "10d94b8c02c6f99e": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2531,
+   "ts": 1794656766.6323912,
+   "ping": 228,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -7121,7 +7104,7 @@
   "169.40.42.35": {
    "cc": "US",
    "name": "United States",
-   "ts": 1791642703.3515906
+   "ts": 1794656765.9816978
   },
   "206.1.101.178": {
    "cc": "TR",
@@ -9298,7 +9281,7 @@
   "date": "2026-11-14",
   "fetched": 106,
   "healthy": 56,
-  "posted": 15,
+  "posted": 16,
   "removed": 0,
   "published_scores": [
    100,
@@ -9315,11 +9298,12 @@
    97,
    97,
    95,
-   96
+   96,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794655836.03268,
+ "last_auto_post": 1794656761.4099755,
  "last_auto_clean": 1794654053.799468,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -9335,10 +9319,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 9793,
+   "fetched": 9850,
    "healthy": 696,
    "failed": 8,
-   "runs": 228
+   "runs": 229
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -9347,38 +9331,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 4047,
+   "fetched": 4074,
    "healthy": 11,
    "failed": 1,
-   "runs": 224
+   "runs": 225
   },
   "configx2ray": {
-   "fetched": 4860,
+   "fetched": 4885,
    "healthy": 0,
    "failed": 0,
-   "runs": 224
+   "runs": 225
   }
  },
  "source_stats": {
   "chillguy_vpn": {
    "fetched": 57,
-   "healthy": 4,
+   "healthy": 0,
    "ok": true,
-   "ts": 1794655836,
+   "ts": 1794656762,
    "error": ""
   },
   "zibanabz": {
    "fetched": 27,
    "healthy": 0,
    "ok": true,
-   "ts": 1794655837,
+   "ts": 1794656763,
    "error": ""
   },
   "configx2ray": {
    "fetched": 25,
    "healthy": 0,
    "ok": true,
-   "ts": 1794655837,
+   "ts": 1794656763,
    "error": ""
   }
  }
