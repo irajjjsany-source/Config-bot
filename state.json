@@ -88,7 +88,13 @@
   "c91744cfa055a1a8": 1794648634.1620896,
   "2d51cb0df3a888a0": 1794648634.1620896,
   "28cc269ca29c40af": 1794648634.1620896,
-  "381a45e53b6c4dd9": 1794648634.1620896
+  "381a45e53b6c4dd9": 1794648634.1620896,
+  "ccd3119ec36c6b4e": 1794650442.5414224,
+  "2a3323d878b3b2dd": 1794650442.5414224,
+  "09940ed7b71f2b0e": 1794650442.5414224,
+  "c5cd3dffdbae206f": 1794650442.5414224,
+  "91c97365759b0b78": 1794650442.5414224,
+  "909b72d755c0f9cb": 1794650442.5414224
  },
  "queue": [
   {
@@ -317,6 +323,15 @@
    "ts": 1794648634.1620896
   },
   {
+   "id": "2a3323d878b3b2dd",
+   "cfg": "vless://ad3f4a0a-a89f-498e-9869-a93c8fa185b1@germany1.xorsand.eu:10105?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&pbk=PFC3JN1er1JE2vAemwRhNjewz8I4NUWP4XHf2Dza4Es&sid=12e321badd07906e&flow=xtls-rprx-vision#",
+   "ping": 923,
+   "best": 450,
+   "score": 88,
+   "stability": 100,
+   "ts": 1794650442.5414224
+  },
+  {
    "id": "f5a3e2e1c05d2968",
    "cfg": "vless://9a2668ab-c1c3-4594-9d0d-d6ba6b4c9788@87.120.106.95:443?encryption=none&type=xhttp&path=%2F&host=game.worldoftanks.eu&mode=auto&security=reality&sni=game.worldoftanks.eu&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#",
    "ping": 1066,
@@ -387,6 +402,15 @@
    "score": 78,
    "stability": 67,
    "ts": 1794631527.085142
+  },
+  {
+   "id": "09940ed7b71f2b0e",
+   "cfg": "vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?encryption=none&type=tcp&security=reality&headerType=none&sni=de1.waspnest.space&fp=firefox&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&sid=5212dad2aa9723d7&flow=xtls-rprx-vision#",
+   "ping": 1033,
+   "best": 892,
+   "score": 75,
+   "stability": 67,
+   "ts": 1794650442.5414224
   }
  ],
  "posted": {
@@ -6810,6 +6834,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "ccd3119ec36c6b4e": {
+   "cfg": "vless://140d6fc9-2c6d-41bd-a487-182b52c0184f@69.17.3.150:443?security=reality&encryption=none&pbk=zUbdpLqoZN7kSFDrHgGnAcZqJzKilme_rIJwI3FPGCA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=caissuers.microsoft.com&sid=d898752d58acbfe0#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2527,
+   "ts": 1794650465.3086605,
+   "ping": 263,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -9248,13 +9282,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1794648650.3058887
+  },
+  "69.17.3.150": {
+   "cc": "US",
+   "name": "United States",
+   "ts": 1794650464.664814
   }
  },
  "stats": {
   "date": "2026-11-14",
-  "fetched": 89,
-  "healthy": 44,
-  "posted": 11,
+  "fetched": 95,
+  "healthy": 47,
+  "posted": 12,
   "removed": 0,
   "published_scores": [
    100,
@@ -9267,11 +9306,12 @@
    95,
    95,
    97,
+   97,
    97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794648634.152645,
+ "last_auto_post": 1794650442.5270736,
  "last_auto_clean": 1794631550.6219246,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -9287,10 +9327,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 9543,
-   "healthy": 684,
+   "fetched": 9607,
+   "healthy": 687,
    "failed": 8,
-   "runs": 224
+   "runs": 225
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -9299,38 +9339,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 3948,
+   "fetched": 3972,
    "healthy": 11,
    "failed": 1,
-   "runs": 220
+   "runs": 221
   },
   "configx2ray": {
-   "fetched": 4755,
+   "fetched": 4785,
    "healthy": 0,
    "failed": 0,
-   "runs": 220
+   "runs": 221
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 62,
-   "healthy": 10,
+   "fetched": 64,
+   "healthy": 3,
    "ok": true,
-   "ts": 1794648634,
+   "ts": 1794650443,
    "error": ""
   },
   "zibanabz": {
    "fetched": 24,
    "healthy": 0,
    "ok": true,
-   "ts": 1794648635,
+   "ts": 1794650444,
    "error": ""
   },
   "configx2ray": {
    "fetched": 30,
    "healthy": 0,
    "ok": true,
-   "ts": 1794648636,
+   "ts": 1794650445,
    "error": ""
   }
  }
