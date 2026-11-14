@@ -109,15 +109,6 @@
  },
  "queue": [
   {
-   "id": "06f646f26c74bd11",
-   "cfg": "vless://a5446e31-6370-42cc-b6d4-44698f57acf5@87.120.252.67:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=game.worldoftanks.com#",
-   "ping": 411,
-   "best": 406,
-   "score": 95,
-   "stability": 100,
-   "ts": 1794655836.0472114
-  },
-  {
    "id": "2a3323d878b3b2dd",
    "cfg": "vless://ad3f4a0a-a89f-498e-9869-a93c8fa185b1@germany1.xorsand.eu:10105?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&pbk=PFC3JN1er1JE2vAemwRhNjewz8I4NUWP4XHf2Dza4Es&sid=12e321badd07906e&flow=xtls-rprx-vision#",
    "ping": 923,
@@ -6709,6 +6700,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "06f646f26c74bd11": {
+   "cfg": "vless://a5446e31-6370-42cc-b6d4-44698f57acf5@87.120.252.67:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=game.worldoftanks.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2540,
+   "ts": 1794672046.776941,
+   "ping": 319,
+   "score": 96,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -9183,7 +9184,7 @@
   "date": "2026-11-14",
   "fetched": 106,
   "healthy": 56,
-  "posted": 24,
+  "posted": 25,
   "removed": 0,
   "published_scores": [
    100,
@@ -9209,11 +9210,12 @@
    94,
    94,
    96,
+   96,
    96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794670241.37869,
+ "last_auto_post": 1794672041.2826579,
  "last_auto_clean": 1794654053.799468,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -9229,10 +9231,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 10306,
+   "fetched": 10363,
    "healthy": 696,
    "failed": 8,
-   "runs": 237
+   "runs": 238
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -9241,16 +9243,16 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 4290,
+   "fetched": 4317,
    "healthy": 11,
    "failed": 1,
-   "runs": 233
+   "runs": 234
   },
   "configx2ray": {
-   "fetched": 5085,
+   "fetched": 5110,
    "healthy": 0,
    "failed": 0,
-   "runs": 233
+   "runs": 234
   }
  },
  "source_stats": {
@@ -9258,21 +9260,21 @@
    "fetched": 57,
    "healthy": 0,
    "ok": true,
-   "ts": 1794670241,
+   "ts": 1794672042,
    "error": ""
   },
   "zibanabz": {
    "fetched": 27,
    "healthy": 0,
    "ok": true,
-   "ts": 1794670242,
+   "ts": 1794672043,
    "error": ""
   },
   "configx2ray": {
    "fetched": 25,
    "healthy": 0,
    "ok": true,
-   "ts": 1794670243,
+   "ts": 1794672043,
    "error": ""
   }
  }
