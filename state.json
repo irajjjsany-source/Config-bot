@@ -100,7 +100,12 @@
   "1aa62cc59990f194": 1794652234.430807,
   "e7a7ef28536776ef": 1794652234.430807,
   "e63fae6d20613181": 1794654044.6170967,
-  "a0399400c03c23b7": 1794654044.6170967
+  "a0399400c03c23b7": 1794654044.6170967,
+  "e10be9898832fdf9": 1794655836.0472114,
+  "467090840b4d8c14": 1794655836.0472114,
+  "06f646f26c74bd11": 1794655836.0472114,
+  "7ad3de36a5657489": 1794655836.0472114,
+  "e154972701fcc7e3": 1794655836.0472114
  },
  "queue": [
   {
@@ -111,6 +116,15 @@
    "score": 96,
    "stability": 100,
    "ts": 1794641436.0523293
+  },
+  {
+   "id": "7ad3de36a5657489",
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
+   "ping": 286,
+   "best": 282,
+   "score": 96,
+   "stability": 100,
+   "ts": 1794655836.0472114
   },
   {
    "id": "c9232636fc90a492",
@@ -174,6 +188,15 @@
    "score": 95,
    "stability": 100,
    "ts": 1794654044.6170967
+  },
+  {
+   "id": "06f646f26c74bd11",
+   "cfg": "vless://a5446e31-6370-42cc-b6d4-44698f57acf5@87.120.252.67:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=game.worldoftanks.com#",
+   "ping": 411,
+   "best": 406,
+   "score": 95,
+   "stability": 100,
+   "ts": 1794655836.0472114
   },
   {
    "id": "8b61b0ecdb531d3e",
@@ -318,6 +341,15 @@
    "score": 84,
    "stability": 100,
    "ts": 1794634237.3574095
+  },
+  {
+   "id": "467090840b4d8c14",
+   "cfg": "vmess://eyJhZGQiOiAicm1hMi5ybWFhY2NzaG9wLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInJtYTQucm1hYWNjc2hvcC5pciIsICJpZCI6ICI4M2MyMTczNS0yMmEyLTRiOTAtODQ1Ny0zNjVhNmU3ZmVmMTUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcm1hIiwgInBjcyI6ICIiLCAicG9ydCI6ICIxMjE0NiIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "ping": 1574,
+   "best": 1003,
+   "score": 80,
+   "stability": 100,
+   "ts": 1794655836.0472114
   },
   {
    "id": "ec3c3efa60eeff36",
@@ -6802,6 +6834,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "e10be9898832fdf9": {
+   "cfg": "vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.163:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zealous-vortex.cdn.cachefleet.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2530,
+   "ts": 1794655852.893509,
+   "ping": 280,
+   "score": 96,
+   "stability": 100,
+   "country": "Belgium",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -9245,13 +9287,18 @@
    "cc": "US",
    "name": "United States",
    "ts": 1794650464.664814
+  },
+  "109.69.218.163": {
+   "cc": "BE",
+   "name": "Belgium",
+   "ts": 1794655852.2796085
   }
  },
  "stats": {
   "date": "2026-11-14",
-  "fetched": 101,
-  "healthy": 52,
-  "posted": 14,
+  "fetched": 106,
+  "healthy": 56,
+  "posted": 15,
   "removed": 0,
   "published_scores": [
    100,
@@ -9267,11 +9314,12 @@
    97,
    97,
    97,
-   95
+   95,
+   96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794654044.6022449,
+ "last_auto_post": 1794655836.03268,
  "last_auto_clean": 1794654053.799468,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -9287,10 +9335,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 9736,
-   "healthy": 692,
+   "fetched": 9793,
+   "healthy": 696,
    "failed": 8,
-   "runs": 227
+   "runs": 228
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -9299,38 +9347,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 4020,
+   "fetched": 4047,
    "healthy": 11,
    "failed": 1,
-   "runs": 223
+   "runs": 224
   },
   "configx2ray": {
-   "fetched": 4835,
+   "fetched": 4860,
    "healthy": 0,
    "failed": 0,
-   "runs": 223
+   "runs": 224
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 65,
-   "healthy": 2,
+   "fetched": 57,
+   "healthy": 4,
    "ok": true,
-   "ts": 1794654045,
+   "ts": 1794655836,
    "error": ""
   },
   "zibanabz": {
-   "fetched": 24,
+   "fetched": 27,
    "healthy": 0,
    "ok": true,
-   "ts": 1794654046,
+   "ts": 1794655837,
    "error": ""
   },
   "configx2ray": {
    "fetched": 25,
    "healthy": 0,
    "ok": true,
-   "ts": 1794654047,
+   "ts": 1794655837,
    "error": ""
   }
  }
