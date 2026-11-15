@@ -180,36 +180,10 @@
   "2acb3056dc244d34": 1794711642.7442527,
   "9728bb10a83e1524": 1794711642.7442527,
   "6347f3ed3509d96a": 1794711642.7442527,
-  "4614e03fe97d225a": 1794711642.7442527
+  "4614e03fe97d225a": 1794711642.7442527,
+  "4f3ae027e65c63ea": 1794713438.4947996
  },
  "queue": [
-  {
-   "id": "2acb3056dc244d34",
-   "cfg": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@89.248.65.152:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=images.porsche.com&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&fp=firefox#",
-   "ping": 269,
-   "best": 265,
-   "score": 97,
-   "stability": 100,
-   "ts": 1794711642.7442527
-  },
-  {
-   "id": "4b3786c3b2f20746",
-   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
-   "ping": 403,
-   "best": 397,
-   "score": 95,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "2949bb270f5294e4",
-   "cfg": "vless://976f82d9-0e6b-40ed-9c09-cafd06c4bc98@de166.mech-pro.online:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de166.mech-pro.online&sid=16e0f049#",
-   "ping": 436,
-   "best": 424,
-   "score": 94,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
   {
    "id": "befb883d126a0c94",
    "cfg": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.175.171.30:8444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.volkswagen.de&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&type=tcp&headerType=none#",
@@ -218,60 +192,6 @@
    "score": 94,
    "stability": 100,
    "ts": 1794695436.4006693
-  },
-  {
-   "id": "8c068b7e17acef37",
-   "cfg": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&headerType=none&type=tcp&sni=portal.mavexa.ir#",
-   "ping": 505,
-   "best": 479,
-   "score": 93,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "c75ad6d9d1f6334b",
-   "cfg": "vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@sizipe.hagrid-connected.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sizipe.hagrid-connected.com#",
-   "ping": 525,
-   "best": 508,
-   "score": 93,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "9fd177ddbb6fd044",
-   "cfg": "vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.168.211:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=tradingview.com&fp=firefox&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09&type=tcp&headerType=none#",
-   "ping": 571,
-   "best": 467,
-   "score": 93,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "08cacd94d607897e",
-   "cfg": "vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lodizu.hagrid-connected.com#",
-   "ping": 588,
-   "best": 533,
-   "score": 92,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "70d554a06a20e328",
-   "cfg": "vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&allowInsecure=0&sni=sorrel-gate.cdn.cachefleet.com#",
-   "ping": 591,
-   "best": 589,
-   "score": 92,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "5ae6dc7318b6f996",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
-   "ping": 641,
-   "best": 631,
-   "score": 92,
-   "stability": 100,
-   "ts": 1794691837.862651
   },
   {
    "id": "f88c703498495122",
@@ -283,15 +203,6 @@
    "ts": 1794695436.4006693
   },
   {
-   "id": "ce4981203d36a6fb",
-   "cfg": "vless://7d43670b-6b08-45b9-8a24-8f3971abc132@222.167.245.16:443?security=reality&encryption=none&pbk=j4Uc6ljg9by_VKYywo5h2N-eh3kpUbFL5Bsp8-AX4Qk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.biznes.lol#",
-   "ping": 796,
-   "best": 450,
-   "score": 90,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
    "id": "ece65e24b22df546",
    "cfg": "vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&sni=www.iij.ad.jp#",
    "ping": 1020,
@@ -299,78 +210,6 @@
    "score": 87,
    "stability": 100,
    "ts": 1794700851.4237022
-  },
-  {
-   "id": "5738c0a237f10e65",
-   "cfg": "vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@87.248.149.50:443?security=tls&encryption=none&headerType=none&fp=firefox&type=tcp&sni=base.hosamobenl.co.uk#",
-   "ping": 1133,
-   "best": 993,
-   "score": 85,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "1b9376dccf169050",
-   "cfg": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@ru7e2bab87cc39.eu-cdn539.com:443?sid=3992cc7fb9fcbe58&type=tcp&sni=ru7e2bab87cc39.eu-cdn539.com&flow=xtls-rprx-vision&encryption=none&fp=firefox&security=reality&headerType=none&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4#",
-   "ping": 1449,
-   "best": 612,
-   "score": 81,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "41eefb2f63216456",
-   "cfg": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&type=xhttp&security=tls&path=%2Fkavir&host=dey.lnmarketplace.net&mode=stream-one&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome#",
-   "ping": 1486,
-   "best": 781,
-   "score": 81,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "e5a5dcb0055ad50b",
-   "cfg": "vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@87.248.149.50:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#",
-   "ping": 1493,
-   "best": 581,
-   "score": 81,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "4622faecbaef11b8",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
-   "ping": 1663,
-   "best": 218,
-   "score": 78,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "aedf5d275813ebaa",
-   "cfg": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:11802?security=reality&flow=xtls-rprx-vision&pbk=FUBjYwXlKIVwF7IuJf5dt_HU2sUnrEt10s4TIlTe8Q4&sid=6c84fbac2d&fp=chrome&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=zfapi.zalolink.com&path=%2F#",
-   "ping": 1826,
-   "best": 1821,
-   "score": 76,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "3729f119f3806bf5",
-   "cfg": "vless://ed8dda30-5751-4655-acca-4a4066c46e41@ns2.irts.lol:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ns2.irts.lol#",
-   "ping": 3972,
-   "best": 2695,
-   "score": 48,
-   "stability": 100,
-   "ts": 1794691837.862651
-  },
-  {
-   "id": "f98e340007d20cc0",
-   "cfg": "vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.60:43000?security=reality&encryption=none&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=4d3d8e15#",
-   "ping": 3593,
-   "best": 1866,
-   "score": 42,
-   "stability": 67,
-   "ts": 1794691837.862651
   }
  ],
  "posted": {
@@ -7091,6 +6930,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "2acb3056dc244d34": {
+   "cfg": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@89.248.65.152:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=images.porsche.com&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&fp=firefox#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2555,
+   "ts": 1794713443.347063,
+   "ping": 303,
+   "score": 96,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -9569,13 +9418,18 @@
    "cc": "DE",
    "name": "Germany",
    "ts": 1794707134.986778
+  },
+  "89.248.65.152": {
+   "cc": "NL",
+   "name": "The Netherlands",
+   "ts": 1794713442.8275561
   }
  },
  "stats": {
   "date": "2026-11-15",
-  "fetched": 6,
+  "fetched": 7,
   "healthy": 4,
-  "posted": 8,
+  "posted": 9,
   "removed": 0,
   "published_scores": [
    97,
@@ -9585,11 +9439,12 @@
    95,
    98,
    99,
-   97
+   97,
+   96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794711642.7316613,
+ "last_auto_post": 1794713438.479361,
  "last_auto_clean": 1794698133.043789,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -9605,10 +9460,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 11981,
+   "fetched": 12031,
    "healthy": 731,
    "failed": 9,
-   "runs": 261
+   "runs": 262
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -9617,38 +9472,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 4881,
+   "fetched": 4905,
    "healthy": 11,
    "failed": 1,
-   "runs": 257
+   "runs": 258
   },
   "configx2ray": {
-   "fetched": 5580,
+   "fetched": 5600,
    "healthy": 0,
    "failed": 0,
-   "runs": 257
+   "runs": 258
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 51,
-   "healthy": 2,
+   "fetched": 50,
+   "healthy": 0,
    "ok": true,
-   "ts": 1794711643,
+   "ts": 1794713439,
    "error": ""
   },
   "zibanabz": {
    "fetched": 24,
    "healthy": 0,
    "ok": true,
-   "ts": 1794711644,
+   "ts": 1794713439,
    "error": ""
   },
   "configx2ray": {
    "fetched": 20,
    "healthy": 0,
    "ok": true,
-   "ts": 1794711644,
+   "ts": 1794713440,
    "error": ""
   }
  }
