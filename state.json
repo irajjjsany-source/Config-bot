@@ -310,7 +310,15 @@
   "e949e7666bf5b3cf": 1794762044.0108402,
   "c02a7b26e9382fd2": 1794762044.0108402,
   "df9cb5a74dc254bc": 1794762044.0108402,
-  "a26c0c025aa9d06e": 1794762044.0108402
+  "a26c0c025aa9d06e": 1794762044.0108402,
+  "14bb4f2e6fec7752": 1794763835.6263533,
+  "7d8ff8a3e6869243": 1794763835.6263533,
+  "9e03ab9a2e3e686d": 1794763835.6263533,
+  "c1678db540a7d760": 1794763835.6263533,
+  "c2f352bbf9b027f0": 1794763835.6263533,
+  "c970f21b2e58ce63": 1794763835.6263533,
+  "a2fe055affba1816": 1794763835.6263533,
+  "8a6b704e9f071ac8": 1794763835.6263533
  },
  "queue": [
   {
@@ -341,6 +349,15 @@
    "ts": 1794747644.568584
   },
   {
+   "id": "8a6b704e9f071ac8",
+   "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
+   "ping": 277,
+   "best": 266,
+   "score": 96,
+   "stability": 100,
+   "ts": 1794763835.6263533
+  },
+  {
    "id": "e07d8e802eb11347",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none&host=%2F%3F%40V2ray_confiig#",
    "ping": 340,
@@ -357,6 +374,15 @@
    "score": 96,
    "stability": 100,
    "ts": 1794742236.0580657
+  },
+  {
+   "id": "c2f352bbf9b027f0",
+   "cfg": "vless://73a80c88-ae3a-487c-a612-1b21c85bca61@13.50.127.123:443?encryption=none&fp=chrome&pbk=2rmvaGWwFT7Dhzeet_LoaLKP3gyntPHIzT6DFKLXXW8&pqv=f_jWhMVus5GqfdaJ175GiODVYfASckhAtA5kN70oWPBT55Lp0vakfrYwQlCRdgA9V0NseqxTXsb7S2ot6PNkBhgxkH0QNL763IfwzJDlNIn3caTbEGoZMAaywJ2jlMc_vXwsCSs2bjHJKprUj4wc8wcpPYZwKUPj3sZ5dcLzX8u0HqOHwZlKNNjSOhVNplPDx6PGxzoTlGdHDH79wsFO25_alD9p7QRKuIDPQmNnjztAvosKP488H7MocCtoRfCf_0ObfQuiDQpv_zXFYXjA66-chqAKzsVZckOiCb34R6N0r468iK_pcfSg9FHCn-GASDHepwRr3xCTf4mjjXNAmlnEi-4x5775TPVB4xASDubBeyNyOCqKsFN4dfoMX1wSDvyvi-lfsonxUqUn3hXH6pW68BVCA5TCQYrycglR5OF2M8XcvlVtoObFe8_4ZSyCGSXsbF0s9o0PSfx8F3ikPy2uj4eHxyTJOfvwwsB3MyOMPEP15D1uASwS03pd-SAbPo0Xkz_-C0-HJIsaAhYuifEFLP_shcjCr4UNTklDLQ01ofBAcReCCz4At4zqGIyUvVJk0A4WwqK7e6HQGG15BGK4jUryYNbcHU-fgZMPV4ycYQSCBksgsDDjymPdKtM3pelMro1iX8wSfW4IHfhaFsIULaQ2_H2rjY389j49U_K184TbpcAP-i0ngsPmxUcloC9YNsYZzJB1xlmD6dNdl71YptmKZCddLHsSVztUmZFALl-k_q1uvEx_vz1OsZip6ORGVAtOgDmXbsaoj9Xb_BiJAtqHy01KYwNjSXKvKrzRsINhAu3ns7Qjk2Ngw0w8XftVkhJmb6AauTNsXxM5rvILLNuBHPGB_Ah3sZZhG1EO64f8gZjCN_zExp9DW0tp2rtcpmaF8-1uGBRjIMUObOvT3ScH9WbBkusu5_r2fHd8H0sItN2JGNsOvEJgSuhiRJbYUFSurQ9F75YPLKJqASlqh_qCiI0zuzFjqz1dQPfd8ZlOgMEEs-Jh2vxSfGWWcOusGpxWfiJZYZm6F4bUt00VoOs9EIQRA-WRPqWY6nyhJ92lr67mTMtoCHUXFkcViEE9Hoj1k5-MtemjcvELAdPNS-uVZGJBT5YJNcRfdEUxqcLqsB8_dby8FBhbNyxFRC84c5S_s8aGkcqYQoeyYqeitg8DUE9WCro5iUNp64H1rHklHNCE0CM-IT-6eq9Q5icwM3LftT5VQT0Q_Wu5SK3gzpElB1dsB8W97-mbG7oGbjKELsQL3utRBWfKRyD_1stg0xMi9VCOrMxtrY8MisRiBO3EmTI1BV3mMqne8Lr4gnTRHXKVelw_WQeCD6ivA-zyXXQtBzGGTGWBADPuhrswGgitC9Sk2Jxd7LcrBhiexy-HbDwU-9bRwuvzFvDJ7irX4k3p7OyrVrlzXGskfCwavWN7inHNQItGkEP0Y4WK1Edyog0kkeRsGA0g2rgZNnpCxAzBOyhQhkLjf8_dH6jDcLxrXmW25exbFVAFzW_0YoIsTqh0-oPHSQ_UcMF6QBGc_CAjCJcdsbKTdcpu-YSNGXAtOBgxnPcATObIJvEGMADI0iJqw-OBndPoG944LHxwMuhpZcfhoZpVNXIh4a2pKDn4sOiWSDZIoMxt1ch0OUjwz3LgpXEBhSccpylq5QMTGPMxgsBJ4syAup3dRhWbBpO6laWTB8y4mu8y3xOAygebrZFdcqYpcRoD_4-uvj7ujTvBRWRMLGr61_7etlC3UWrmSYpxryevAckd8GHWIkMB-KkV9qhVrkXFv2GvJXkx0503NNnjgHotP9i3SNJWUQfpx0u36vwIccV1hiZwpcR3z-KXCV0J1wYkKlEzed0QWi0Y2Vmg013tL3dOJcBWhTB3qVeaIXOrv33taWx-FFtumUMrgIi6NN1OPH5RHLW2f_QiV7nZvtvIf2APiHF5rcRIdKL7aOIwa84XSQWyzw00oTlfbKLpQhyah9HTDvYQvnYEQM87ADStE2bxFOnaWQZYZjOvEGviSqBY9wOtkQwxUNLAY4eQuQ54tCtRq1Ed0gZJ7nbuvSyIQWhek3YezQBZLyRg_dghWy7aBRxPg4wPMToheKwpI7suZuBT1YSIvDJPjpB32qfcfdotfhrzdK8UihCiNJn6F4ORa7c-k_GCqknMju2WFN9Ln-tntDDlZz4MF5CXFgU4nLkT9RmZRaNfjA0gaNSBpqhEisBUn724feGlmoUstueaxIy6aTrcECzSOd10rTZKqzVjozNsDIvKgaNgFUU53rCc2uqJeoP-m3JMRf2X5Wqk1N7F9WVPk4UowImcXIZ62hXhSG9x6-azfMoao2pGAixoNQr3n5j3sl1azXv7cgUTHzN9lBtqm0pll4tjerUuYFyQdXvcHRWTPmBGxt4_HrXuMP-Jhc4aNbppbLTLnGePQGRg8bra-96kTkHCjWWwP68yGQjVi_jCITOcxh0E9epd2CrywDqmRCcOJMM7t4O1-qxWMSUGL3LOjYotR18CKwK2K-an31WVdtanT2OCddPEQWGSgs5J9hhFN9_iXfi9PTTdLlWFqWHePeQOr-Kku04Sws8vKs58kch2zfEVYTaPDD4&security=reality&sid=08857547f27efef8&sni=privacy.microsoft.com&spx=%2F0aa91902f777be3&support-x25519mlkem768=true&type=tcp#",
+   "ping": 345,
+   "best": 333,
+   "score": 96,
+   "stability": 100,
+   "ts": 1794763835.6263533
   },
   {
    "id": "24748d5bb9e2a207",
@@ -449,6 +475,15 @@
    "ts": 1794742236.0580657
   },
   {
+   "id": "14bb4f2e6fec7752",
+   "cfg": "vless://af089ecd-5007-4b84-9a56-5903b94246ce@Fol.zarqivo.ir:31892?security=reality&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.X7yH_rtU6iYW0wSgnikNtPO5mUpBj3kG-2CBVWxKAXs&pbk=i5rHE4mPA5tdqNj7SgOLBYYgM-tbwz0s8FEF0MwXgjE&headerType=none&fp=chrome&type=tcp&sni=www.thesivulichs.com&sid=4994a3ebb255ebc9#",
+   "ping": 670,
+   "best": 603,
+   "score": 91,
+   "stability": 100,
+   "ts": 1794763835.6263533
+  },
+  {
    "id": "3f219a8c63caba47",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3F&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
    "ping": 719,
@@ -465,6 +500,15 @@
    "score": 90,
    "stability": 100,
    "ts": 1794742236.0580657
+  },
+  {
+   "id": "7d8ff8a3e6869243",
+   "cfg": "vless://413d1da8-ab44-4fb4-a0d1-28c690a82889@66.bmi.ir.asopardaz.ir:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=hostgator.com&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915#",
+   "ping": 846,
+   "best": 686,
+   "score": 89,
+   "stability": 100,
+   "ts": 1794763835.6263533
   },
   {
    "id": "f673ddc417132556",
@@ -521,6 +565,15 @@
    "ts": 1794742236.0580657
   },
   {
+   "id": "c1678db540a7d760",
+   "cfg": "vless://413d1da8-ab44-4fb4-a0d1-28c690a82889@66.bmi.ir.asopardaz.ir:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=timeline.www.cloudflare.com&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915#",
+   "ping": 1346,
+   "best": 594,
+   "score": 83,
+   "stability": 100,
+   "ts": 1794763835.6263533
+  },
+  {
    "id": "9918a383a2653d99",
    "cfg": "vmess://eyJhZGQiOiAiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJwY3MiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
    "ping": 1379,
@@ -537,6 +590,15 @@
    "score": 80,
    "stability": 100,
    "ts": 1794745836.7765694
+  },
+  {
+   "id": "a2fe055affba1816",
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=yahoo.com%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
+   "ping": 1545,
+   "best": 183,
+   "score": 80,
+   "stability": 100,
+   "ts": 1794763835.6263533
   },
   {
    "id": "437a08b4f756b571",
@@ -7599,6 +7661,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "c970f21b2e58ce63": {
+   "cfg": "vless://5cbc4b74-5352-4e64-af65-bcbabf46a18a@172.233.201.244:61635?security=reality&encryption=none&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1f2519bb96e5589c#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2583,
+   "ts": 1794763848.073914,
+   "ping": 35,
+   "score": 100,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -10111,9 +10183,9 @@
  },
  "stats": {
   "date": "2026-11-15",
-  "fetched": 136,
-  "healthy": 86,
-  "posted": 36,
+  "fetched": 144,
+  "healthy": 93,
+  "posted": 37,
   "removed": 0,
   "published_scores": [
    97,
@@ -10151,11 +10223,12 @@
    97,
    99,
    99,
-   97
+   97,
+   100
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794762043.9948623,
+ "last_auto_post": 1794763835.6138954,
  "last_auto_clean": 1794743126.8630602,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -10171,10 +10244,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 13311,
-   "healthy": 813,
+   "fetched": 13354,
+   "healthy": 820,
    "failed": 10,
-   "runs": 289
+   "runs": 290
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -10183,38 +10256,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 5579,
+   "fetched": 5605,
    "healthy": 13,
    "failed": 1,
-   "runs": 285
+   "runs": 286
   },
   "configx2ray": {
-   "fetched": 5984,
+   "fetched": 5997,
    "healthy": 0,
    "failed": 0,
-   "runs": 285
+   "runs": 286
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 45,
-   "healthy": 2,
+   "fetched": 43,
+   "healthy": 7,
    "ok": true,
-   "ts": 1794762045,
+   "ts": 1794763836,
    "error": ""
   },
   "zibanabz": {
    "fetched": 26,
    "healthy": 0,
    "ok": true,
-   "ts": 1794762046,
+   "ts": 1794763837,
    "error": ""
   },
   "configx2ray": {
    "fetched": 13,
    "healthy": 0,
    "ok": true,
-   "ts": 1794762047,
+   "ts": 1794763837,
    "error": ""
   }
  }
