@@ -292,18 +292,17 @@
   "a419bf9c3958f39b": 1794753037.1435034,
   "f13b16fc29e66562": 1794753037.1435034,
   "f0d1476935621861": 1794754843.1182823,
-  "68f9bb83134f1a89": 1794754843.1182823
+  "68f9bb83134f1a89": 1794754843.1182823,
+  "2aa8e17c971c7057": 1794756636.4286654,
+  "0610f4776d46b984": 1794756636.4286654,
+  "3424f94d490a8970": 1794756636.4286654,
+  "a04f9a082ef70864": 1794756636.4286654,
+  "e8324657df09c989": 1794756636.4286654,
+  "ce0793a5e10ff6a0": 1794756636.4286654,
+  "c618708a0c63b3b6": 1794756636.4286654,
+  "4cabe731391eac45": 1794756636.4286654
  },
  "queue": [
-  {
-   "id": "686618b35badc785",
-   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=yahoo.com%2F%3F&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
-   "ping": 217,
-   "best": 140,
-   "score": 97,
-   "stability": 100,
-   "ts": 1794742236.0580657
-  },
   {
    "id": "311d8f604070a832",
    "cfg": "vmess://eyJhZGQiOiAiQS5oZWN0b3IuYTJwbmMuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidHIubWlraGNvbm5lY3Rpb24uaXIiLCAiaWQiOiAiZmUwNGRlNTEtMGE2Ny00OWE5LWFmMjItMTBjYTA0NzQzMTEwIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwY3MiOiAiIiwgInBvcnQiOiAiMzU5MTMiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInZjbiI6ICIifQ==",
@@ -357,6 +356,15 @@
    "score": 95,
    "stability": 100,
    "ts": 1794747644.568584
+  },
+  {
+   "id": "4cabe731391eac45",
+   "cfg": "vless://74b86103-0a6e-4a0e-8430-2aa84af805fc@104.168.109.213:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&type=tcp&pbk=rU4-ii54LkmEWBaliTQHvi3jc0fDTlSmutVtzedMNRM&sid=6ba7b8#",
+   "ping": 392,
+   "best": 55,
+   "score": 95,
+   "stability": 100,
+   "ts": 1794756636.4286654
   },
   {
    "id": "5f9a8fb5a123e6c4",
@@ -528,6 +536,15 @@
    "score": 88,
    "stability": 100,
    "ts": 1794751243.4628258
+  },
+  {
+   "id": "ce0793a5e10ff6a0",
+   "cfg": "vless://2c3692a8-a2ca-4f21-95bf-91758287e4ff@zibanabz.jonsonvip.ir:3939?security=reality&encryption=none&pbk=dnnN66V_xqEbGoG5P8E_Zqk3TaZt2lM4SI9N7Ana7FA&headerType=none&fp=chrome&spx=%2F16504cba99195d6&type=tcp&flow=xtls-rprx-vision&sni=ai.android&sid=d9a2600fdecd7be2#",
+   "ping": 941,
+   "best": 607,
+   "score": 88,
+   "stability": 100,
+   "ts": 1794756636.4286654
   },
   {
    "id": "8ce8f9775bfec7f1",
@@ -7640,6 +7657,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "686618b35badc785": {
+   "cfg": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=yahoo.com%2F%3F&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2579,
+   "ts": 1794756652.5467474,
+   "ping": 269,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -10152,9 +10179,9 @@
  },
  "stats": {
   "date": "2026-11-15",
-  "fetched": 118,
-  "healthy": 79,
-  "posted": 32,
+  "fetched": 126,
+  "healthy": 81,
+  "posted": 33,
   "removed": 0,
   "published_scores": [
    97,
@@ -10188,11 +10215,12 @@
    98,
    98,
    98,
-   98
+   98,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794754843.102466,
+ "last_auto_post": 1794756636.4080598,
  "last_auto_clean": 1794743126.8630602,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -10208,10 +10236,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 13130,
-   "healthy": 806,
+   "fetched": 13174,
+   "healthy": 808,
    "failed": 10,
-   "runs": 285
+   "runs": 286
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -10220,38 +10248,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 5475,
+   "fetched": 5501,
    "healthy": 13,
    "failed": 1,
-   "runs": 281
+   "runs": 282
   },
   "configx2ray": {
-   "fetched": 5932,
+   "fetched": 5945,
    "healthy": 0,
    "failed": 0,
-   "runs": 281
+   "runs": 282
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 60,
-   "healthy": 1,
+   "fetched": 44,
+   "healthy": 2,
    "ok": true,
-   "ts": 1794754844,
+   "ts": 1794756637,
    "error": ""
   },
   "zibanabz": {
    "fetched": 26,
    "healthy": 0,
    "ok": true,
-   "ts": 1794754845,
+   "ts": 1794756638,
    "error": ""
   },
   "configx2ray": {
-   "fetched": 12,
+   "fetched": 13,
    "healthy": 0,
    "ok": true,
-   "ts": 1794754846,
+   "ts": 1794756639,
    "error": ""
   }
  }
