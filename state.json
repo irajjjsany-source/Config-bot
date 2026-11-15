@@ -235,18 +235,10 @@
   "fc9ffb4b67eff37b": 1794736840.6067693,
   "0ebdaf35a4952355": 1794736840.6067693,
   "4c54bc7233057cb9": 1794736840.6067693,
-  "dccc1247fce77a83": 1794736840.6067693
+  "dccc1247fce77a83": 1794736840.6067693,
+  "5cf6a145bfafc530": 1794738634.8781216
  },
  "queue": [
-  {
-   "id": "968b2b2aaf285a41",
-   "cfg": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.231.45.196:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=images.porsche.com&type=tcp#",
-   "ping": 400,
-   "best": 384,
-   "score": 95,
-   "stability": 100,
-   "ts": 1794727834.8344579
-  },
   {
    "id": "c4a1c44b08ca7d0b",
    "cfg": "vless://46cc3c41-1528-47b3-b817-ad2091f41618@sam.my.id:1315?encryption=none&security=reality&sni=virgool.ir&fp=chrome&pbk=IrSImb5RZCxx91Vb7Ya1SOM_O_eCGUJHLXV7Mn-jDiw&sid=487cc3e1189d802f&spx=%2Fca382ab41b482c7&type=tcp&headerType=none#",
@@ -399,6 +391,15 @@
    "score": 87,
    "stability": 100,
    "ts": 1794736840.6067693
+  },
+  {
+   "id": "5cf6a145bfafc530",
+   "cfg": "vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiLz9UZWxlZ3JhbS0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVCIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImFlcy0xMjgtZ2NtIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
+   "ping": 154,
+   "best": 44,
+   "score": 86,
+   "stability": 67,
+   "ts": 1794738634.8781216
   },
   {
    "id": "12d7975d303480eb",
@@ -7326,6 +7327,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "968b2b2aaf285a41": {
+   "cfg": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.231.45.196:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=images.porsche.com&type=tcp#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2569,
+   "ts": 1794738650.7320375,
+   "ping": 671,
+   "score": 91,
+   "stability": 100,
+   "country": "Germany",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -9819,13 +9830,18 @@
    "cc": "NL",
    "name": "The Netherlands",
    "ts": 1794731449.769221
+  },
+  "5.231.45.196": {
+   "cc": "DE",
+   "name": "Germany",
+   "ts": 1794738650.0995953
   }
  },
  "stats": {
   "date": "2026-11-15",
-  "fetched": 61,
-  "healthy": 43,
-  "posted": 22,
+  "fetched": 62,
+  "healthy": 44,
+  "posted": 23,
   "removed": 0,
   "published_scores": [
    97,
@@ -9849,11 +9865,12 @@
    93,
    94,
    94,
-   95
+   95,
+   91
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794736840.597857,
+ "last_auto_post": 1794738634.8630757,
  "last_auto_clean": 1794720670.1624646,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -9869,10 +9886,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 12569,
-   "healthy": 770,
+   "fetched": 12617,
+   "healthy": 771,
    "failed": 9,
-   "runs": 275
+   "runs": 276
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -9881,38 +9898,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 5233,
+   "fetched": 5259,
    "healthy": 11,
    "failed": 1,
-   "runs": 271
+   "runs": 272
   },
   "configx2ray": {
-   "fetched": 5812,
+   "fetched": 5824,
    "healthy": 0,
    "failed": 0,
-   "runs": 271
+   "runs": 272
   }
  },
  "source_stats": {
   "chillguy_vpn": {
    "fetched": 48,
-   "healthy": 13,
+   "healthy": 1,
    "ok": true,
-   "ts": 1794736841,
+   "ts": 1794738635,
    "error": ""
   },
   "zibanabz": {
    "fetched": 26,
    "healthy": 0,
    "ok": true,
-   "ts": 1794736842,
+   "ts": 1794738636,
    "error": ""
   },
   "configx2ray": {
    "fetched": 12,
    "healthy": 0,
    "ok": true,
-   "ts": 1794736843,
+   "ts": 1794738636,
    "error": ""
   }
  }
