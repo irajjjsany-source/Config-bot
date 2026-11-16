@@ -463,18 +463,11 @@
   "ba36e8f77f776220": 1794810635.6612914,
   "274c157a378a9adf": 1794810635.6612914,
   "1776364391a35c44": 1794810635.6612914,
-  "780ab1a6b9ebb2a7": 1794810635.6612914
+  "780ab1a6b9ebb2a7": 1794810635.6612914,
+  "fa1eeeb16a57d0f0": 1794812442.385969,
+  "b30ff849074fb552": 1794812442.385969
  },
  "queue": [
-  {
-   "id": "25aa64ecb3d467a7",
-   "cfg": "vless://82ecfd16-42b8-4c35-9a68-065a6d17b471@xray2-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#",
-   "ping": 240,
-   "best": 235,
-   "score": 97,
-   "stability": 100,
-   "ts": 1794810635.6612914
-  },
   {
    "id": "c2de6b771efbc897",
    "cfg": "vless://811ae93a-19c4-44f6-8f1f-4d9206da9640@xray2-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#",
@@ -665,13 +658,13 @@
    "ts": 1794808841.5359094
   },
   {
-   "id": "fd73856be4713b0f",
-   "cfg": "vless://21c24d1c-d938-495a-b33f-957bc65d301f@nd.bazzay.ru:443?security=reality&encryption=none&pbk=ZwMEL1FEHRGDKBNqSLnpHwSiEUPvY7vTk_cUIczPnEQ&headerType=none&fp=firefox&spx=%2FfJRoqEgUdYb9rdY&type=tcp&flow=xtls-rprx-vision&sni=detectportal.firefox.com&sid=b21d9c9270653002#",
-   "ping": 816,
-   "best": 566,
-   "score": 89,
+   "id": "fa1eeeb16a57d0f0",
+   "cfg": "vless://b9abca13-8d45-43db-b0a2-4d26f85380c3@newerson.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=newerson.online&fp=firefox&pbk=TiKF_6UGMtWhgDiAGLsAtyYwyv-s3HxG6F0P9ltyf1U&sid=8888265ef63fba6d&type=tcp&headerType=none#",
+   "ping": 798,
+   "best": 775,
+   "score": 90,
    "stability": 100,
-   "ts": 1794789928.768916
+   "ts": 1794812442.385969
   },
   {
    "id": "ba36e8f77f776220",
@@ -8021,6 +8014,16 @@
    "stability": 100,
    "country": "United States",
    "repost_count": 0
+  },
+  "25aa64ecb3d467a7": {
+   "cfg": "vless://82ecfd16-42b8-4c35-9a68-065a6d17b471@xray2-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2613,
+   "ts": 1794812459.9042675,
+   "ping": 254,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -10563,9 +10566,9 @@
  },
  "stats": {
   "date": "2026-11-16",
-  "fetched": 48,
-  "healthy": 38,
-  "posted": 15,
+  "fetched": 50,
+  "healthy": 39,
+  "posted": 16,
   "removed": 0,
   "published_scores": [
    98,
@@ -10582,11 +10585,12 @@
    99,
    97,
    98,
+   97,
    97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1794810635.6468375,
+ "last_auto_post": 1794812442.3755243,
  "last_auto_clean": 1794808851.9344263,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -10602,10 +10606,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 14975,
-   "healthy": 917,
+   "fetched": 15028,
+   "healthy": 918,
    "failed": 13,
-   "runs": 318
+   "runs": 319
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -10614,38 +10618,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 6310,
+   "fetched": 6335,
    "healthy": 13,
    "failed": 1,
-   "runs": 314
+   "runs": 315
   },
   "configx2ray": {
-   "fetched": 6356,
+   "fetched": 6369,
    "healthy": 0,
    "failed": 0,
-   "runs": 314
+   "runs": 315
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 51,
-   "healthy": 12,
+   "fetched": 53,
+   "healthy": 1,
    "ok": true,
-   "ts": 1794810636,
+   "ts": 1794812443,
    "error": ""
   },
   "zibanabz": {
    "fetched": 25,
    "healthy": 0,
    "ok": true,
-   "ts": 1794810637,
+   "ts": 1794812444,
    "error": ""
   },
   "configx2ray": {
    "fetched": 13,
    "healthy": 0,
    "ok": true,
-   "ts": 1794810638,
+   "ts": 1794812445,
    "error": ""
   }
  }
