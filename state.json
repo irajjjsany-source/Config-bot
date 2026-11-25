@@ -271,15 +271,6 @@
  },
  "queue": [
   {
-   "id": "62d32ba8482df52c",
-   "cfg": "vless://bc058e69-0444-4c7b-98da-bd67f0b143da@130.12.242.106:443?security=reality&encryption=none&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&host=deepl.com%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#",
-   "ping": 473,
-   "best": 456,
-   "score": 94,
-   "stability": 100,
-   "ts": 1795552238.8829262
-  },
-  {
    "id": "aacbd2ee61b3dcaf",
    "cfg": "vmess://eyJhZGQiOiAibGV2aWtvLXNlNDY2MC5zaG9waW5nZ2dnLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTI3MCIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ4bWZobHB5LmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==",
    "ping": 533,
@@ -305,15 +296,6 @@
    "score": 91,
    "stability": 100,
    "ts": 1795552238.8829262
-  },
-  {
-   "id": "a07bb26136985b69",
-   "cfg": "vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@83.217.201.82:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=skvoz-dpi.com&sid=93ae75024604f796#",
-   "ping": 702,
-   "best": 687,
-   "score": 91,
-   "stability": 100,
-   "ts": 1795548636.9065197
   },
   {
    "id": "c71b44791ff9c045",
@@ -350,15 +332,6 @@
    "score": 64,
    "stability": 100,
    "ts": 1795557647.0293307
-  },
-  {
-   "id": "8b39e3d0baa2f774",
-   "cfg": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.232:443?security=reality&encryption=none&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&headerType=none&type=tcp&sni=5d0319t.nl7.h1clayd.click&sid=361d0dd59c70516f#",
-   "ping": 4228,
-   "best": 2884,
-   "score": 45,
-   "stability": 100,
-   "ts": 1795548636.9065197
   },
   {
    "id": "b1c0af0180302b7b",
@@ -8332,6 +8305,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "62d32ba8482df52c": {
+   "cfg": "vless://bc058e69-0444-4c7b-98da-bd67f0b143da@130.12.242.106:443?security=reality&encryption=none&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&host=deepl.com%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2682,
+   "ts": 1795572046.7552278,
+   "ping": 294,
+   "score": 96,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -10946,17 +10929,18 @@
   "date": "2026-11-25",
   "fetched": 2,
   "healthy": 2,
-  "posted": 4,
+  "posted": 5,
   "removed": 0,
   "published_scores": [
    96,
    95,
    97,
+   96,
    96
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1795570235.0419514,
+ "last_auto_post": 1795572042.049713,
  "last_auto_clean": 1795551329.2908313,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -10972,10 +10956,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 18625,
+   "fetched": 18674,
    "healthy": 1185,
    "failed": 15,
-   "runs": 377
+   "runs": 378
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -10984,16 +10968,16 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 7461,
+   "fetched": 7477,
    "healthy": 16,
    "failed": 1,
-   "runs": 373
+   "runs": 374
   },
   "configx2ray": {
-   "fetched": 8044,
+   "fetched": 8079,
    "healthy": 8,
    "failed": 0,
-   "runs": 373
+   "runs": 374
   }
  },
  "source_stats": {
@@ -11001,21 +10985,21 @@
    "fetched": 49,
    "healthy": 0,
    "ok": true,
-   "ts": 1795570235,
+   "ts": 1795572042,
    "error": ""
   },
   "zibanabz": {
    "fetched": 16,
    "healthy": 0,
    "ok": true,
-   "ts": 1795570236,
+   "ts": 1795572043,
    "error": ""
   },
   "configx2ray": {
    "fetched": 35,
    "healthy": 0,
    "ok": true,
-   "ts": 1795570236,
+   "ts": 1795572044,
    "error": ""
   }
  }
