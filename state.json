@@ -326,27 +326,11 @@
   "3fa231aa43016d20": 1795602638.4492307,
   "0ce555883d0c46df": 1795602638.4492307,
   "5f74de03793eb5f5": 1795602638.4492307,
-  "3837ac8271fb5cb8": 1795602638.4492307
+  "3837ac8271fb5cb8": 1795602638.4492307,
+  "374fdcaf2b599fde": 1795604444.64422,
+  "b18773d2763b72a3": 1795604444.64422
  },
  "queue": [
-  {
-   "id": "03d21ed2e68869f7",
-   "cfg": "vless://f8cb3c89-32af-4255-bebc-d90aad175069@46.28.69.173:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dec.899themes.pro&security=reality&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09#",
-   "ping": 422,
-   "best": 405,
-   "score": 95,
-   "stability": 100,
-   "ts": 1795599037.8670878
-  },
-  {
-   "id": "33815e602472db66",
-   "cfg": "vless://f69e272f-e0e5-4e9d-b180-5be63930cde9@45.94.36.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.memepn.com&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#",
-   "ping": 425,
-   "best": 377,
-   "score": 94,
-   "stability": 100,
-   "ts": 1795599037.8670878
-  },
   {
    "id": "a01162d65632220b",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&spx=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#",
@@ -391,6 +375,15 @@
    "score": 94,
    "stability": 100,
    "ts": 1795590043.3772745
+  },
+  {
+   "id": "374fdcaf2b599fde",
+   "cfg": "vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@durov.sky-vault.top:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=durov.sky-vault.top&fp=firefox&security=reality&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&sid=3cbc3d737fb9c4af#",
+   "ping": 493,
+   "best": 469,
+   "score": 94,
+   "stability": 100,
+   "ts": 1795604444.64422
   },
   {
    "id": "66269f80a208740c",
@@ -8732,6 +8725,16 @@
    "stability": 100,
    "country": "France",
    "repost_count": 0
+  },
+  "33815e602472db66": {
+   "cfg": "vless://f69e272f-e0e5-4e9d-b180-5be63930cde9@45.94.36.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.memepn.com&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2700,
+   "ts": 1795604463.5828912,
+   "ping": 383,
+   "score": 95,
+   "stability": 100,
+   "country": "The Netherlands",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -11384,9 +11387,9 @@
  },
  "stats": {
   "date": "2026-11-25",
-  "fetched": 61,
-  "healthy": 46,
-  "posted": 22,
+  "fetched": 63,
+  "healthy": 47,
+  "posted": 23,
   "removed": 0,
   "published_scores": [
    96,
@@ -11410,11 +11413,12 @@
    98,
    95,
    95,
-   90
+   90,
+   95
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1795602638.4389806,
+ "last_auto_post": 1795604444.6340127,
  "last_auto_clean": 1795595449.4809592,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -11430,10 +11434,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 19498,
-   "healthy": 1227,
+   "fetched": 19540,
+   "healthy": 1228,
    "failed": 15,
-   "runs": 395
+   "runs": 396
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -11442,38 +11446,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 7773,
+   "fetched": 7792,
    "healthy": 18,
    "failed": 1,
-   "runs": 391
+   "runs": 392
   },
   "configx2ray": {
-   "fetched": 8611,
+   "fetched": 8637,
    "healthy": 8,
    "failed": 0,
-   "runs": 391
+   "runs": 392
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 50,
-   "healthy": 5,
+   "fetched": 42,
+   "healthy": 1,
    "ok": true,
-   "ts": 1795602639,
+   "ts": 1795604445,
    "error": ""
   },
   "zibanabz": {
    "fetched": 19,
    "healthy": 0,
    "ok": true,
-   "ts": 1795602640,
+   "ts": 1795604446,
    "error": ""
   },
   "configx2ray": {
    "fetched": 26,
    "healthy": 0,
    "ok": true,
-   "ts": 1795602641,
+   "ts": 1795604447,
    "error": ""
   }
  }
