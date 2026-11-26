@@ -514,7 +514,10 @@
   "1679eece2a171082": 1795680044.9801214,
   "0ad13518d248813f": 1795680044.9801214,
   "dd53ecbc97640144": 1795680044.9801214,
-  "3cc281bd0e22e6dd": 1795680044.9801214
+  "3cc281bd0e22e6dd": 1795680044.9801214,
+  "eef4f71a894f74cd": 1795681838.9704163,
+  "438dd5339a25fedf": 1795681838.9704163,
+  "1563b3684c94e413": 1795681838.9704163
  },
  "queue": [
   {
@@ -581,6 +584,15 @@
    "ts": 1795674637.8687885
   },
   {
+   "id": "438dd5339a25fedf",
+   "cfg": "vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiOTQuMTMwLjIzNy41NyIsICJwb3J0IjogIjI3MTU0IiwgImlkIjogImQ5ZDAyZjNlLWM4NzctNGExZi05OTBlLWYyNDE4Nzc3Zjc0NSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiOTQuMTMwLjIzNy41NyIsICJwYXRoIjogIi9UZWxlZ3JhbT1AQW15cmF4VlBOIiwgInRscyI6ICIifQ==",
+   "ping": 536,
+   "best": 524,
+   "score": 93,
+   "stability": 100,
+   "ts": 1795681838.9704163
+  },
+  {
    "id": "be4b84f9c671bf86",
    "cfg": "vless://bb7c15fa-c36a-439b-aba1-daaacc9900de@static.122.183.105.178.clients.your-server.de:8443?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=static.241.103.99.91.clients.your-server.de&fp=chrome&alpn=h2%2Chttp%2F1.1#",
    "ping": 583,
@@ -606,6 +618,15 @@
    "score": 92,
    "stability": 100,
    "ts": 1795678238.1409504
+  },
+  {
+   "id": "1563b3684c94e413",
+   "cfg": "vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@durov.sky-vault.top:8443?security=reality&encryption=none&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&headerType=none&fp=chrome&spx=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&flow=xtls-rprx-vision&sni=durov.sky-vault.top&sid=3cbc3d737fb9c4af#",
+   "ping": 759,
+   "best": 532,
+   "score": 90,
+   "stability": 100,
+   "ts": 1795681838.9704163
   },
   {
    "id": "1679eece2a171082",
@@ -9261,6 +9282,16 @@
    "stability": 100,
    "country": "The Netherlands",
    "repost_count": 0
+  },
+  "eef4f71a894f74cd": {
+   "cfg": "vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiY29tbXVuaXR5LmZhc3RseS5zdGVhbXN0YXRpYy5jb20iLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiQGsyZ3VhcmQgINis2YjbjNmGINi02Ygg8J+RiPCfj7siLCAic2N5IjogImF1dG8iLCAic25pIjogImNvbW11bml0eS5mYXN0bHkuc3RlYW1zdGF0aWMuY29tIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
+   "msg": 2742,
+   "ts": 1795681850.7454047,
+   "ping": 247,
+   "score": 97,
+   "stability": 100,
+   "country": "United States",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -11958,9 +11989,9 @@
  },
  "stats": {
   "date": "2026-11-26",
-  "fetched": 35,
-  "healthy": 21,
-  "posted": 15,
+  "fetched": 38,
+  "healthy": 24,
+  "posted": 16,
   "removed": 0,
   "published_scores": [
    98,
@@ -11977,11 +12008,12 @@
    100,
    99,
    98,
-   96
+   96,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1795680044.9609818,
+ "last_auto_post": 1795681838.9509132,
  "last_auto_clean": 1795661130.7460985,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -11997,10 +12029,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 22139,
-   "healthy": 1339,
+   "fetched": 22185,
+   "healthy": 1342,
    "failed": 16,
-   "runs": 438
+   "runs": 439
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -12009,38 +12041,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 8590,
+   "fetched": 8609,
    "healthy": 18,
    "failed": 1,
-   "runs": 434
+   "runs": 435
   },
   "configx2ray": {
-   "fetched": 9507,
+   "fetched": 9545,
    "healthy": 13,
    "failed": 0,
-   "runs": 434
+   "runs": 435
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 47,
-   "healthy": 5,
+   "fetched": 46,
+   "healthy": 3,
    "ok": true,
-   "ts": 1795680045,
+   "ts": 1795681839,
    "error": ""
   },
   "zibanabz": {
    "fetched": 19,
    "healthy": 0,
    "ok": true,
-   "ts": 1795680046,
+   "ts": 1795681841,
    "error": ""
   },
   "configx2ray": {
    "fetched": 38,
    "healthy": 0,
    "ok": true,
-   "ts": 1795680047,
+   "ts": 1795681842,
    "error": ""
   }
  }
