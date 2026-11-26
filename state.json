@@ -485,15 +485,6 @@
  },
  "queue": [
   {
-   "id": "9d9052773d9616a6",
-   "cfg": "vmess://eyJhZGQiOiAiMTg4LjExNC45OS4xMzciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjZhODlhMjE1LTIyYmYtNGJkNy05NjQyLWI5NWIyZTA5NTgzYSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9obHMvY2N0djVwaGQubTN1OCIsICJwY3MiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogImd1YW53YW5nLmF3c25vLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=",
-   "ping": 433,
-   "best": 391,
-   "score": 94,
-   "stability": 100,
-   "ts": 1795644045.7811942
-  },
-  {
    "id": "2d0f0b55e0644166",
    "cfg": "vless://b5b563ad-e4ef-4873-9d35-66cc08202aec@185.179.154.10:2095?security=reality&encryption=none&pbk=HLzZwMW0Pla_QGurI4ejP6kwOUMhbLZmP353QEAxdAw&headerType=none&fp=chrome&spx=%2Fd40c9f2963fd27a&type=tcp&sni=www.samsung.com&sid=14f77592#",
    "ping": 439,
@@ -9122,6 +9113,16 @@
    "stability": 100,
    "country": "Russia",
    "repost_count": 0
+  },
+  "9d9052773d9616a6": {
+   "cfg": "vmess://eyJhZGQiOiAiMTg4LjExNC45OS4xMzciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjZhODlhMjE1LTIyYmYtNGJkNy05NjQyLWI5NWIyZTA5NTgzYSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9obHMvY2N0djVwaGQubTN1OCIsICJwY3MiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkBrMmd1YXJkICDYrNmI24zZhiDYtNmIIPCfkYjwn4+7IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJndWFud2FuZy5hd3Nuby5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+   "msg": 2735,
+   "ts": 1795665647.8475108,
+   "ping": 359,
+   "score": 95,
+   "stability": 100,
+   "country": "",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -11811,7 +11812,7 @@
   "date": "2026-11-26",
   "fetched": 2,
   "healthy": 2,
-  "posted": 8,
+  "posted": 9,
   "removed": 0,
   "published_scores": [
    98,
@@ -11821,11 +11822,12 @@
    95,
    94,
    97,
-   94
+   94,
+   95
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1795663838.1802435,
+ "last_auto_post": 1795665642.4483724,
  "last_auto_clean": 1795661130.7460985,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -11841,10 +11843,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 21615,
+   "fetched": 21674,
    "healthy": 1323,
    "failed": 16,
-   "runs": 429
+   "runs": 430
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -11853,38 +11855,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 8419,
+   "fetched": 8438,
    "healthy": 18,
    "failed": 1,
-   "runs": 425
+   "runs": 426
   },
   "configx2ray": {
-   "fetched": 9260,
+   "fetched": 9279,
    "healthy": 10,
    "failed": 0,
-   "runs": 425
+   "runs": 426
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 61,
+   "fetched": 59,
    "healthy": 0,
    "ok": true,
-   "ts": 1795663838,
+   "ts": 1795665643,
    "error": ""
   },
   "zibanabz": {
    "fetched": 19,
    "healthy": 0,
    "ok": true,
-   "ts": 1795663839,
+   "ts": 1795665644,
    "error": ""
   },
   "configx2ray": {
    "fetched": 19,
    "healthy": 0,
    "ok": true,
-   "ts": 1795663840,
+   "ts": 1795665644,
    "error": ""
   }
  }
