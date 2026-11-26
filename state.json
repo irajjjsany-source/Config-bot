@@ -587,18 +587,10 @@
   "59ee817699e062ae": 1795707040.342549,
   "7e7988afe217334c": 1795707040.342549,
   "be66f7c23441457a": 1795707040.342549,
-  "6e1c8bdadedfed94": 1795707040.342549
+  "6e1c8bdadedfed94": 1795707040.342549,
+  "b8dbf1b027f766c8": 1795708846.1824713
  },
  "queue": [
-  {
-   "id": "f9079e2fb42e25a6",
-   "cfg": "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@leviko-us4350.shopingggg.ir:443?path=%2Fproxyip&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=freeceshi6.frii.site&type=ws&allowInsecure=0&sni=freeceshi6.frii.site#",
-   "ping": 129,
-   "best": 53,
-   "score": 98,
-   "stability": 100,
-   "ts": 1795707040.342549
-  },
   {
    "id": "c1875720d61290d2",
    "cfg": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
@@ -634,6 +626,15 @@
    "score": 93,
    "stability": 100,
    "ts": 1795694446.65642
+  },
+  {
+   "id": "b8dbf1b027f766c8",
+   "cfg": "vless://259ec8bc-5a6b-4b33-8a71-c40e8d150c24@h-pl.ok-habits.xyz:443?encryption=none&type=tcp&security=reality&sni=1.4.8.8&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1#",
+   "ping": 521,
+   "best": 495,
+   "score": 93,
+   "stability": 100,
+   "ts": 1795708846.1824713
   },
   {
    "id": "90fe4aaa6e1cce4d",
@@ -9648,6 +9649,16 @@
    "stability": 100,
    "country": "Canada",
    "repost_count": 0
+  },
+  "f9079e2fb42e25a6": {
+   "cfg": "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@leviko-us4350.shopingggg.ir:443?path=%2Fproxyip&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=freeceshi6.frii.site&type=ws&allowInsecure=0&sni=freeceshi6.frii.site#%40k2guard%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%F0%9F%91%88%F0%9F%8F%BB",
+   "msg": 2758,
+   "ts": 1795708855.2667007,
+   "ping": 198,
+   "score": 97,
+   "stability": 100,
+   "country": "Canada",
+   "repost_count": 0
   }
  },
  "once_cleanup_15d_done": true,
@@ -12381,13 +12392,18 @@
    "cc": "CA",
    "name": "Canada",
    "ts": 1795707065.489966
+  },
+  "leviko-us4350.shopingggg.ir": {
+   "cc": "CA",
+   "name": "Canada",
+   "ts": 1795708854.4829512
   }
  },
  "stats": {
   "date": "2026-11-26",
-  "fetched": 108,
-  "healthy": 68,
-  "posted": 31,
+  "fetched": 109,
+  "healthy": 69,
+  "posted": 32,
   "removed": 0,
   "published_scores": [
    98,
@@ -12420,11 +12436,12 @@
    98,
    95,
    93,
-   99
+   99,
+   97
   ]
  },
  "auto_enabled": true,
- "last_auto_post": 1795707040.3265212,
+ "last_auto_post": 1795708846.1627817,
  "last_auto_clean": 1795706129.6143985,
  "admin_settings": {},
  "telegram_update_offset": 690561707,
@@ -12440,10 +12457,10 @@
  },
  "source_history": {
   "chillguy_vpn": {
-   "fetched": 22948,
-   "healthy": 1386,
+   "fetched": 23012,
+   "healthy": 1387,
    "failed": 18,
-   "runs": 454
+   "runs": 455
   },
   "radikal_verified": {
    "fetched": 5239,
@@ -12452,38 +12469,38 @@
    "runs": 4
   },
   "zibanabz": {
-   "fetched": 8891,
+   "fetched": 8907,
    "healthy": 18,
    "failed": 1,
-   "runs": 450
+   "runs": 451
   },
   "configx2ray": {
-   "fetched": 10088,
+   "fetched": 10117,
    "healthy": 13,
    "failed": 0,
-   "runs": 450
+   "runs": 451
   }
  },
  "source_stats": {
   "chillguy_vpn": {
-   "fetched": 73,
-   "healthy": 10,
+   "fetched": 64,
+   "healthy": 1,
    "ok": true,
-   "ts": 1795707041,
+   "ts": 1795708847,
    "error": ""
   },
   "zibanabz": {
-   "fetched": 19,
+   "fetched": 16,
    "healthy": 0,
    "ok": true,
-   "ts": 1795707042,
+   "ts": 1795708848,
    "error": ""
   },
   "configx2ray": {
    "fetched": 29,
    "healthy": 0,
    "ok": true,
-   "ts": 1795707043,
+   "ts": 1795708848,
    "error": ""
   }
  }
